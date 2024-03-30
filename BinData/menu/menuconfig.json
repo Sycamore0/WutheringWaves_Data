@@ -209,9 +209,10 @@
     "OptionsName": [
       "MenuConfig_6_OptionsName_1",
       "MenuConfig_6_OptionsName_2",
-      "MenuConfig_6_OptionsName_3"
+      "MenuConfig_6_OptionsName_3",
+      "MenuConfig_6_OptionsName_4"
     ],
-    "OptionsValue": [0, 1, 2],
+    "OptionsValue": [0, 1, 2, 3],
     "KeyMap": "",
     "ButtonText": "",
     "OpenView": "",

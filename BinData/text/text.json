@@ -4902,9 +4902,5 @@
   {
     "Id": "CannotFindTarget",
     "Text": "CannotFindTarget"
-  },
-  {
-    "Id": "OverSeaServerLv",
-    "Text": "Text_OverSeaServerLv_text"
   }
 ]

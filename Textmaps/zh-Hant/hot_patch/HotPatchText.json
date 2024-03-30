@@ -210,5 +210,9 @@
   {
     "Id": "DownloadStateSuccess",
     "Content": "下載成功"
+  },
+  {
+    "Id": "HotFixErrorTest",
+    "Content": "存在異常，如有疑問請聯繫官方客服"
   }
 ]

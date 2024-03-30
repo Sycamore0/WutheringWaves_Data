@@ -7431,7 +7431,7 @@
     "Id": 1500008,
     "DebugText": "重复探测追踪",
     "Text": "ErrorCode_1500008_Text",
-    "IsTip": true
+    "IsTip": false
   },
   {
     "Id": 1500009,
