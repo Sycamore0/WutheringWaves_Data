@@ -1,18 +1,19 @@
 [
-  {
-    "Id": 1,
-    "MaxCount": 3,
-    "Cost": {
-      "size": 1
-    },
-    "ResetTimeId": 3
+{
+  "Id": 1,
+  "MaxCount": 3,
+  "Cost": {
+    "size": 1
   },
-  {
-    "Id": 2,
-    "MaxCount": 1,
-    "Cost": {
-      "size": 1
-    },
-    "ResetTimeId": 3
-  }
+  "ResetTimeId": 2
+}
+,
+{
+  "Id": 2,
+  "MaxCount": 1,
+  "Cost": {
+    "size": 1
+  },
+  "ResetTimeId": 3
+}
 ]

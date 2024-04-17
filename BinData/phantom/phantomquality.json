@@ -1,50 +1,60 @@
 [
-  {
-    "Quality": 2,
-    "LevelLimit": 10,
-    "BreachCostExp": 1000,
-    "BreachCostQuality": [2, 3, 4, 5],
-    "SlotUnlockLevel": [],
-    "IdentifyCost": {
-      "size": 1
-    },
-    "IdentifyCoin": 200,
-    "QualitySprite": "/Game/Aki/UI/UIResources/UiRole/Atlas/RoleVision/SP_VisionlQualityB.SP_VisionlQualityB"
+{
+  "Quality": 2,
+  "LevelLimit": 10,
+  "SlotUnlockLevel": [],
+  "IdentifyCost": {
+    "size": 1
   },
-  {
-    "Quality": 3,
-    "LevelLimit": 15,
-    "BreachCostExp": 2000,
-    "BreachCostQuality": [3, 4, 5],
-    "SlotUnlockLevel": [5, 10, 15],
-    "IdentifyCost": {
-      "size": 1
-    },
-    "IdentifyCoin": 500,
-    "QualitySprite": "/Game/Aki/UI/UIResources/UiRole/Atlas/RoleVision/SP_VisionlQualityC.SP_VisionlQualityC"
+  "IdentifyCoin": 200,
+  "QualitySprite": "/Game/Aki/UI/UIResources/UiRole/Atlas/RoleVision/SP_VisionlQualityB.SP_VisionlQualityB"
+}
+,
+{
+  "Quality": 3,
+  "LevelLimit": 15,
+  "SlotUnlockLevel": [
+    5,
+    10,
+    15
+  ],
+  "IdentifyCost": {
+    "size": 1
   },
-  {
-    "Quality": 4,
-    "LevelLimit": 20,
-    "BreachCostExp": 3000,
-    "BreachCostQuality": [4, 5],
-    "SlotUnlockLevel": [5, 10, 15, 20],
-    "IdentifyCost": {
-      "size": 1
-    },
-    "IdentifyCoin": 1000,
-    "QualitySprite": "/Game/Aki/UI/UIResources/UiRole/Atlas/RoleVision/SP_VisionlQualityD.SP_VisionlQualityD"
+  "IdentifyCoin": 500,
+  "QualitySprite": "/Game/Aki/UI/UIResources/UiRole/Atlas/RoleVision/SP_VisionlQualityC.SP_VisionlQualityC"
+}
+,
+{
+  "Quality": 4,
+  "LevelLimit": 20,
+  "SlotUnlockLevel": [
+    5,
+    10,
+    15,
+    20
+  ],
+  "IdentifyCost": {
+    "size": 1
   },
-  {
-    "Quality": 5,
-    "LevelLimit": 25,
-    "BreachCostExp": 4000,
-    "BreachCostQuality": [5],
-    "SlotUnlockLevel": [5, 10, 15, 20, 25],
-    "IdentifyCost": {
-      "size": 1
-    },
-    "IdentifyCoin": 2000,
-    "QualitySprite": "/Game/Aki/UI/UIResources/UiRole/Atlas/RoleVision/SP_VisionlQualityE.SP_VisionlQualityE"
-  }
+  "IdentifyCoin": 1000,
+  "QualitySprite": "/Game/Aki/UI/UIResources/UiRole/Atlas/RoleVision/SP_VisionlQualityD.SP_VisionlQualityD"
+}
+,
+{
+  "Quality": 5,
+  "LevelLimit": 25,
+  "SlotUnlockLevel": [
+    5,
+    10,
+    15,
+    20,
+    25
+  ],
+  "IdentifyCost": {
+    "size": 1
+  },
+  "IdentifyCoin": 2000,
+  "QualitySprite": "/Game/Aki/UI/UIResources/UiRole/Atlas/RoleVision/SP_VisionlQualityE.SP_VisionlQualityE"
+}
 ]

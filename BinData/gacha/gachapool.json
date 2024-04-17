@@ -1,0 +1,100 @@
+[
+{
+  "Id": 1,
+  "GachaId": 1,
+  "Sort": 10,
+  "UrlMap": {
+    "size": 5
+  }
+}
+,
+{
+  "Id": 2,
+  "GachaId": 2,
+  "Sort": 50,
+  "UrlMap": {
+    "size": 5
+  }
+}
+,
+{
+  "Id": 32,
+  "GachaId": 3,
+  "Sort": 60,
+  "UrlMap": {
+    "size": 5
+  }
+}
+,
+{
+  "Id": 31,
+  "GachaId": 3,
+  "Sort": 61,
+  "UrlMap": {
+    "size": 5
+  }
+}
+,
+{
+  "Id": 33,
+  "GachaId": 3,
+  "Sort": 62,
+  "UrlMap": {
+    "size": 5
+  }
+}
+,
+{
+  "Id": 34,
+  "GachaId": 3,
+  "Sort": 63,
+  "UrlMap": {
+    "size": 5
+  }
+}
+,
+{
+  "Id": 35,
+  "GachaId": 3,
+  "Sort": 64,
+  "UrlMap": {
+    "size": 5
+  }
+}
+,
+{
+  "Id": 100001,
+  "GachaId": 100001,
+  "Sort": 20,
+  "UrlMap": {
+    "size": 5
+  }
+}
+,
+{
+  "Id": 100002,
+  "GachaId": 100002,
+  "Sort": 20,
+  "UrlMap": {
+    "size": 5
+  }
+}
+,
+{
+  "Id": 200001,
+  "GachaId": 200001,
+  "Sort": 30,
+  "UrlMap": {
+    "size": 5
+  }
+}
+,
+{
+  "Id": 200002,
+  "GachaId": 200002,
+  "Sort": 30,
+  "UrlMap": {
+    "size": 5
+  }
+}
+]

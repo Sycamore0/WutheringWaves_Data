@@ -1,12 +1,19 @@
 [
-  {
-    "Id": "normal_2d",
-    "AudioEventPath": "/Game/Aki/WwiseAudio/Events/play_external_vo_normal_2d.play_external_vo_normal_2d",
-    "ExternalSrcName": "external_plot_voice"
-  },
-  {
-    "Id": "normal_3d",
-    "AudioEventPath": "/Game/Aki/WwiseAudio/Events/play_external_vo_normal_3d.play_external_vo_normal_3d",
-    "ExternalSrcName": "external_plot_voice_bubble"
-  }
+{
+  "Id": "subtitle_normal",
+  "AudioEventPath": "/Game/Aki/WwiseAudio/Events/play_external_vo_subtitle_normal.play_external_vo_subtitle_normal",
+  "ExternalSrcName": "external_plot_voice"
+}
+,
+{
+  "Id": "bubble_hard_ducking",
+  "AudioEventPath": "/Game/Aki/WwiseAudio/Events/play_external_vo_bubble_hard_ducking.play_external_vo_bubble_hard_ducking",
+  "ExternalSrcName": "external_plot_voice_bubble_hard_ducking"
+}
+,
+{
+  "Id": "bubble_soft_ducking",
+  "AudioEventPath": "/Game/Aki/WwiseAudio/Events/play_external_vo_bubble_soft_ducking.play_external_vo_bubble_soft_ducking",
+  "ExternalSrcName": "external_plot_voice_bubble_soft_ducking"
+}
 ]

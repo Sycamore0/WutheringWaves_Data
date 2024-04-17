@@ -1,26 +1,46 @@
 [
-  {
-    "Id": 1,
-    "TypeDescription": "PlotType_1_TypeDescription"
-  },
-  {
-    "Id": 2,
-    "TypeDescription": "PlotType_2_TypeDescription"
-  },
-  {
-    "Id": 3,
-    "TypeDescription": "PlotType_3_TypeDescription"
-  },
-  {
-    "Id": 4,
-    "TypeDescription": "PlotType_4_TypeDescription"
-  },
-  {
-    "Id": 5,
-    "TypeDescription": "PlotType_5_TypeDescription"
-  },
-  {
-    "Id": 6,
-    "TypeDescription": "PlotType_6_TypeDescription"
-  }
+{
+  "Id": 100,
+  "TypeDescription": "PlotType_100_TypeDescription"
+}
+,
+{
+  "Id": 102,
+  "TypeDescription": "PlotType_102_TypeDescription"
+}
+,
+{
+  "Id": 103,
+  "TypeDescription": "PlotType_103_TypeDescription"
+}
+,
+{
+  "Id": 104,
+  "TypeDescription": "PlotType_104_TypeDescription"
+}
+,
+{
+  "Id": 105,
+  "TypeDescription": "PlotType_105_TypeDescription"
+}
+,
+{
+  "Id": 1001,
+  "TypeDescription": "PlotType_1001_TypeDescription"
+}
+,
+{
+  "Id": 1002,
+  "TypeDescription": "PlotType_1002_TypeDescription"
+}
+,
+{
+  "Id": 1003,
+  "TypeDescription": "PlotType_1003_TypeDescription"
+}
+,
+{
+  "Id": 106,
+  "TypeDescription": "PlotType_106_TypeDescription"
+}
 ]

@@ -1,14 +1,17 @@
 # WW_Data
 
-> Client region: CN</br>
+> Client region: Global</br>
 > Status: Beta</br>
-> Game Version: 0.9.0</br>
-> Resource Version: 0.9.18</br>
+> Game Version: 0.10.0</br>
+> Resource Version: 0.10.2</br>
 
 pls star I'm starving
 
 #### BinData not parsed
+- ai/aiteamlevel
+- ai/aiteamlocation
 - ai/aiwanderbodyconfig
+- aoi/aoi
 - areaquest/areaquestarea
 - areaquest/areaquestlevel
 - areaquest/areaquestscreen
@@ -20,13 +23,21 @@ pls star I'm starving
 - ControlBody/controltriggermap
 - ControlBody/triggermap
 - creature_gen/creaturegenconfig
+- creature_gen/creaturegendata
+- creature_gen_group/creaturegroup
+- creature_gen_group/creaturegroupmember
+- cycle_tower/cycletowerbuff
+- cycle_tower/cycletowerchallengeconfig
+- cycle_tower/cycletowerdifficulty
 - daily_activity/livenessnoobtask
 - debugview/debug
 - debugview/debugcmd
 - debugview/debugcommand
 - debugview/debugcommandtype
 - debugview/debugcommandtypeconfig
+- DetectionGear/checkgear
 - drop/dropunit
+- dynamic_creaturegen/dynamiccreaturegenconfig
 - favor/favorbehavior
 - favor/favortabaction
 - filter_sort/filterbaseconfig
@@ -35,6 +46,7 @@ pls star I'm starving
 - filter_sort/sortconfig
 - filter_sort/usewaygroup
 - friend/frienddynamictext
+- gameplaytimer/gameplaytimer
 - general_event/generalevent
 - general_event/generaleventgroup
 - general_event/monitorevent
@@ -50,6 +62,13 @@ pls star I'm starving
 - map/map
 - map_mark/relativesubtype
 - menu/imagedefaultconfig
+- nearbytrace/nearbytrace
+- npc_actions/npcaction
+- npc_attributes/npcattribute
+- once_tower_challenge/towerchallengebuff
+- once_tower_challenge/towerchallengeconfig
+- once_tower_challenge/towerchallengetypeinfo
+- once_tower_challenge/towergroupinfo
 - phantom/phantombreach
 - phantom/phantominfo
 - phantom/phantomlevelconsume
@@ -65,8 +84,14 @@ pls star I'm starving
 - RewardUi/compositerewardtype
 - Rogue/rougetoken
 - role/specialenergybar
+- scenegameplay/scenegameplay
 - sceneobjects/hitgear
 - sceneobjects/lanterncat
+- scenestep/scenestepconfig
+- ShootTarget/targetgear
+- ShootTarget/targetgeargroup
 - skillTree/roleskilltreedesc
 - skillTree/roleskilltreeinfo
+- Sneak/sneak
 - text/servertips
+- ThrowDamage/throwdamage

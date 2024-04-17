@@ -1,18 +1,18 @@
 [
-  {
-    "Id": 1,
-    "AxisName": "Zoom",
-    "AxisType": 1,
-    "PcKeyMap": {
-      "size": 2
-    },
-    "GamepadKeyMap": {
-      "size": 2
-    },
-    "SecondaryKeyScaleMap": {
-      "size": 4
-    },
-    "MobileIconPath": "",
-    "DisplayName": ""
-  }
+{
+  "Id": 1,
+  "AxisName": "Zoom",
+  "AxisType": 1,
+  "PcKeyMap": {
+    "size": 0
+  },
+  "GamepadKeyMap": {
+    "size": 4
+  },
+  "SecondaryKeyScaleMap": {
+    "size": 6
+  },
+  "MobileIconPath": "",
+  "DisplayName": ""
+}
 ]
