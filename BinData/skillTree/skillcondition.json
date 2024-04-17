@@ -1,55 +1,50 @@
 [
-{
-  "Id": 1,
-  "ConditionType": 2,
-  "ConditionParam": {
-    "size": 0
+  {
+    "Id": 1,
+    "ConditionType": 2,
+    "ConditionParam": {
+      "size": 0
+    },
+    "Description": "SkillCondition_1_Description"
   },
-  "Description": "SkillCondition_1_Description"
-}
-,
-{
-  "Id": 2,
-  "ConditionType": 1,
-  "ConditionParam": {
-    "size": 1
+  {
+    "Id": 2,
+    "ConditionType": 1,
+    "ConditionParam": {
+      "size": 1
+    },
+    "Description": "SkillCondition_2_Description"
   },
-  "Description": "SkillCondition_2_Description"
-}
-,
-{
-  "Id": 3,
-  "ConditionType": 1,
-  "ConditionParam": {
-    "size": 1
+  {
+    "Id": 3,
+    "ConditionType": 1,
+    "ConditionParam": {
+      "size": 1
+    },
+    "Description": "SkillCondition_3_Description"
   },
-  "Description": "SkillCondition_3_Description"
-}
-,
-{
-  "Id": 4,
-  "ConditionType": 1,
-  "ConditionParam": {
-    "size": 1
+  {
+    "Id": 4,
+    "ConditionType": 1,
+    "ConditionParam": {
+      "size": 1
+    },
+    "Description": "SkillCondition_4_Description"
   },
-  "Description": "SkillCondition_4_Description"
-}
-,
-{
-  "Id": 5,
-  "ConditionType": 1,
-  "ConditionParam": {
-    "size": 1
+  {
+    "Id": 5,
+    "ConditionType": 1,
+    "ConditionParam": {
+      "size": 1
+    },
+    "Description": "SkillCondition_5_Description"
   },
-  "Description": "SkillCondition_5_Description"
-}
-,
-{
-  "Id": 6,
-  "ConditionType": 1,
-  "ConditionParam": {
-    "size": 1
-  },
-  "Description": "SkillCondition_6_Description"
-}
+  {
+    "Id": 6,
+    "ConditionType": 1,
+    "ConditionParam": {
+      "size": 1
+    },
+    "Description": "SkillCondition_6_Description"
+  }
 ]

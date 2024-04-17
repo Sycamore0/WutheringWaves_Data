@@ -1,126 +1,122 @@
 [
-{
-  "Id": "0",
-  "FallingLateralFrictions": {
-    "size": 4
+  {
+    "Id": "0",
+    "FallingLateralFrictions": {
+      "size": 4
+    },
+    "SlideFriction": 2,
+    "SlideAccel": 1000,
+    "SlideAccelUp": 1,
+    "SlideAccelDown": 1,
+    "MaxSlideHorizontalSeed": 500,
+    "SlideModeSwitchRange": {
+      "Min": 25,
+      "Max": 75
+    },
+    "Ski": false,
+    "SkiMaxSpHor": 2000,
+    "SkiMaxSpVer": 2000,
+    "JumpRate": 1,
+    "TurnSpeed": 720,
+    "SkiHorizontalInputSpeedThreshold": {
+      "Min": 800,
+      "Max": 2000
+    }
   },
-  "SlideFriction": 2,
-  "SlideAccel": 1000,
-  "SlideAccelUp": 1,
-  "SlideAccelDown": 1,
-  "MaxSlideHorizontalSeed": 500,
-  "SlideModeSwitchRange": {
-    "Min": 25,
-    "Max": 75
+  {
+    "Id": "1",
+    "FallingLateralFrictions": {
+      "size": 4
+    },
+    "SlideFriction": 600,
+    "SlideAccel": 3000,
+    "SlideAccelUp": 1,
+    "SlideAccelDown": 1,
+    "MaxSlideHorizontalSeed": 1500,
+    "SlideModeSwitchRange": {
+      "Min": 25,
+      "Max": 75
+    },
+    "Ski": true,
+    "SkiMaxSpHor": 4500,
+    "SkiMaxSpVer": 1800,
+    "JumpRate": 1.2999999523162842,
+    "TurnSpeed": 240,
+    "SkiHorizontalInputSpeedThreshold": {
+      "Min": 400,
+      "Max": 1800
+    }
   },
-  "Ski": false,
-  "SkiMaxSpHor": 2000,
-  "SkiMaxSpVer": 2000,
-  "JumpRate": 1,
-  "TurnSpeed": 720,
-  "SkiHorizontalInputSpeedThreshold": {
-    "Min": 800,
-    "Max": 2000
+  {
+    "Id": "2",
+    "FallingLateralFrictions": {
+      "size": 4
+    },
+    "SlideFriction": 0.20000000298023224,
+    "SlideAccel": 1800,
+    "SlideAccelUp": 1,
+    "SlideAccelDown": 1,
+    "MaxSlideHorizontalSeed": 3000,
+    "SlideModeSwitchRange": {
+      "Min": 25,
+      "Max": 75
+    },
+    "Ski": false,
+    "SkiMaxSpHor": 2000,
+    "SkiMaxSpVer": 2000,
+    "JumpRate": 1,
+    "TurnSpeed": 720,
+    "SkiHorizontalInputSpeedThreshold": {
+      "Min": 800,
+      "Max": 2000
+    }
+  },
+  {
+    "Id": "3",
+    "FallingLateralFrictions": {
+      "size": 4
+    },
+    "SlideFriction": 1000,
+    "SlideAccel": 2000,
+    "SlideAccelUp": 1,
+    "SlideAccelDown": 1,
+    "MaxSlideHorizontalSeed": 2000,
+    "SlideModeSwitchRange": {
+      "Min": 25,
+      "Max": 75
+    },
+    "Ski": false,
+    "SkiMaxSpHor": 2000,
+    "SkiMaxSpVer": 2000,
+    "JumpRate": 1,
+    "TurnSpeed": 720,
+    "SkiHorizontalInputSpeedThreshold": {
+      "Min": 800,
+      "Max": 2000
+    }
+  },
+  {
+    "Id": "4",
+    "FallingLateralFrictions": {
+      "size": 4
+    },
+    "SlideFriction": 600,
+    "SlideAccel": 800,
+    "SlideAccelUp": 1,
+    "SlideAccelDown": 0.75,
+    "MaxSlideHorizontalSeed": 2000,
+    "SlideModeSwitchRange": {
+      "Min": 25,
+      "Max": 75
+    },
+    "Ski": true,
+    "SkiMaxSpHor": 2000,
+    "SkiMaxSpVer": 500,
+    "JumpRate": 1.2999999523162842,
+    "TurnSpeed": 30,
+    "SkiHorizontalInputSpeedThreshold": {
+      "Min": 400,
+      "Max": 1800
+    }
   }
-}
-,
-{
-  "Id": "1",
-  "FallingLateralFrictions": {
-    "size": 4
-  },
-  "SlideFriction": 600,
-  "SlideAccel": 3000,
-  "SlideAccelUp": 1,
-  "SlideAccelDown": 1,
-  "MaxSlideHorizontalSeed": 1500,
-  "SlideModeSwitchRange": {
-    "Min": 25,
-    "Max": 75
-  },
-  "Ski": true,
-  "SkiMaxSpHor": 4500,
-  "SkiMaxSpVer": 1800,
-  "JumpRate": 1.2999999523162842,
-  "TurnSpeed": 240,
-  "SkiHorizontalInputSpeedThreshold": {
-    "Min": 400,
-    "Max": 1800
-  }
-}
-,
-{
-  "Id": "2",
-  "FallingLateralFrictions": {
-    "size": 4
-  },
-  "SlideFriction": 0.20000000298023224,
-  "SlideAccel": 1800,
-  "SlideAccelUp": 1,
-  "SlideAccelDown": 1,
-  "MaxSlideHorizontalSeed": 3000,
-  "SlideModeSwitchRange": {
-    "Min": 25,
-    "Max": 75
-  },
-  "Ski": false,
-  "SkiMaxSpHor": 2000,
-  "SkiMaxSpVer": 2000,
-  "JumpRate": 1,
-  "TurnSpeed": 720,
-  "SkiHorizontalInputSpeedThreshold": {
-    "Min": 800,
-    "Max": 2000
-  }
-}
-,
-{
-  "Id": "3",
-  "FallingLateralFrictions": {
-    "size": 4
-  },
-  "SlideFriction": 1000,
-  "SlideAccel": 2000,
-  "SlideAccelUp": 1,
-  "SlideAccelDown": 1,
-  "MaxSlideHorizontalSeed": 2000,
-  "SlideModeSwitchRange": {
-    "Min": 25,
-    "Max": 75
-  },
-  "Ski": false,
-  "SkiMaxSpHor": 2000,
-  "SkiMaxSpVer": 2000,
-  "JumpRate": 1,
-  "TurnSpeed": 720,
-  "SkiHorizontalInputSpeedThreshold": {
-    "Min": 800,
-    "Max": 2000
-  }
-}
-,
-{
-  "Id": "4",
-  "FallingLateralFrictions": {
-    "size": 4
-  },
-  "SlideFriction": 600,
-  "SlideAccel": 800,
-  "SlideAccelUp": 1,
-  "SlideAccelDown": 0.75,
-  "MaxSlideHorizontalSeed": 2000,
-  "SlideModeSwitchRange": {
-    "Min": 25,
-    "Max": 75
-  },
-  "Ski": true,
-  "SkiMaxSpHor": 2000,
-  "SkiMaxSpVer": 500,
-  "JumpRate": 1.2999999523162842,
-  "TurnSpeed": 30,
-  "SkiHorizontalInputSpeedThreshold": {
-    "Min": 400,
-    "Max": 1800
-  }
-}
 ]

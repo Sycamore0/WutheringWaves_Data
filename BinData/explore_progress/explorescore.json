@@ -1,71 +1,62 @@
 [
-{
-  "Area": 2,
-  "ExploreScore": {
-    "size": 5
+  {
+    "Area": 2,
+    "ExploreScore": {
+      "size": 5
+    }
+  },
+  {
+    "Area": 3,
+    "ExploreScore": {
+      "size": 5
+    }
+  },
+  {
+    "Area": 4,
+    "ExploreScore": {
+      "size": 5
+    }
+  },
+  {
+    "Area": 5,
+    "ExploreScore": {
+      "size": 5
+    }
+  },
+  {
+    "Area": 6,
+    "ExploreScore": {
+      "size": 5
+    }
+  },
+  {
+    "Area": 7,
+    "ExploreScore": {
+      "size": 5
+    }
+  },
+  {
+    "Area": 8,
+    "ExploreScore": {
+      "size": 5
+    }
+  },
+  {
+    "Area": 9,
+    "ExploreScore": {
+      "size": 5
+    }
+  },
+  {
+    "Area": 10,
+    "ExploreScore": {
+      "size": 5
+    }
+  },
+  {
+    "Area": 12,
+    "ExploreScore": {
+      "size": 5
+    }
   }
-}
-,
-{
-  "Area": 3,
-  "ExploreScore": {
-    "size": 5
-  }
-}
-,
-{
-  "Area": 4,
-  "ExploreScore": {
-    "size": 5
-  }
-}
-,
-{
-  "Area": 5,
-  "ExploreScore": {
-    "size": 5
-  }
-}
-,
-{
-  "Area": 6,
-  "ExploreScore": {
-    "size": 5
-  }
-}
-,
-{
-  "Area": 7,
-  "ExploreScore": {
-    "size": 5
-  }
-}
-,
-{
-  "Area": 8,
-  "ExploreScore": {
-    "size": 5
-  }
-}
-,
-{
-  "Area": 9,
-  "ExploreScore": {
-    "size": 5
-  }
-}
-,
-{
-  "Area": 10,
-  "ExploreScore": {
-    "size": 5
-  }
-}
-,
-{
-  "Area": 12,
-  "ExploreScore": {
-    "size": 5
-  }
-}
 ]

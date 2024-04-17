@@ -1,242 +1,242 @@
 [
-    {
-        "Id": "NetworkConnect",
-        "Content": "接続中"
-    },
-    {
-        "Id": "PatchDown",
-        "Content": "ダウンロード中：{0} 速度：{1} リソースサイズ：{2}/{3}"
-    },
-    {
-        "Id": "PatchDownTips",
-        "Content": "ダウンロード中にゲームを最小化することができます。"
-    },
-    {
-        "Id": "Install",
-        "Content": "アップデートパッケージをインストール中です。"
-    },
-    {
-        "Id": "InstallTips",
-        "Content": "インストール中にゲームを終了しないでください。"
-    },
-    {
-        "Id": "CheckIntegrity",
-        "Content": "ゲームの整合性を確認中{0}%"
-    },
-    {
-        "Id": "NoNetwork",
-        "Content": "ネットワークに接続されていません。ネットワークを確認してから再試行してください。"
-    },
-    {
-        "Id": "GetUpdateInfoFail",
-        "Content": "アップデート情報の取得に失敗しました。"
-    },
-    {
-        "Id": "HotFixTipsTitle",
-        "Content": "ご注意"
-    },
-    {
-        "Id": "HotFixQuit",
-        "Content": "終了"
-    },
-    {
-        "Id": "HotFixRetry",
-        "Content": "再試行"
-    },
-    {
-        "Id": "HotFixNewPatch",
-        "Content": "{0}のアップデートパッケージがあります。現在、モバイルネットワークをご利用になっています。モバイルデータを使ってダウンロードしますか？"
-    },
-    {
-        "Id": "HotFixUseNetworkDownload",
-        "Content": "モバイルデータを使ってダウンロードしますか？"
-    },
-    {
-        "Id": "HotFixRestartToCompleteHotFix",
-        "Content": "更新が完了しました。ゲームを再起動してください。"
-    },
-    {
-        "Id": "HotFixRestartToRepairFiles",
-        "Content": "ファイルの修復が完了しました。ゲームを再起動してください。"
-    },
-    {
-        "Id": "HotFixWriteStorageTips",
-        "Content": "更新ファイルを保存するために「ストレージ」の許可が必要です。携帯の設定-権限管理から許可を有効にして、ゲームを再起動してください。"
-    },
-    {
-        "Id": "HotFixNotEnoughSpace",
-        "Content": "{0}のリソースをダウンロードする必要がありますが、現在のデバイスのスペースが不足しています。クリーンアップするために、クリーンアップに進んでください。クリーンアップが完了したら、「続行」をクリックしてください。"
-    },
-    {
-        "Id": "HotFixContinue",
-        "Content": "続ける"
-    },
-    {
-        "Id": "HotFixCancel",
-        "Content": "キャンセル"
-    },
-    {
-        "Id": "HotFixNetworkChange",
-        "Content": "通信環境の変更を検知しました。現在、モバイルネットワークをご利用になっています。モバイルデータを使ってダウンロードしますか？"
-    },
-    {
-        "Id": "SplashCautionTitle",
-        "Content": "警告：ゲームをプレイする前にお読みください。"
-    },
-    {
-        "Id": "SplashCautionContent",
-        "Content": "注意：プレイする前にお読みください\n\n\n\nごく一部の人（てんかん患者或いはてんかんなどの病歴がない方）は、特定の光の模様や光の点滅を見た時、めまい、顔色が悪く、目や顔のけいれん、泡を吹く、前後不覚や一時的な意識喪失、全身けいれんなどの発作を起こされます。ご自身またはご家族の方は何らかの発作を起こしたことがある場合は、ゲームをプレイする前に医師へご相談ください。プレイ中、上記の症状が出る場合は、すぐさまプレイを中止し診察を受けてください。"
-    },
-    {
-        "Id": "SplashLoading",
-        "Content": "ゲームを読み込み中..."
-    },
-    {
-        "Id": "SplashHealthyGamingAdvisory",
-        "Content": ""
-    },
-    {
-        "Id": "SplashCopyrightInformation",
-        "Content": ""
-    },
-    {
-        "Id": "GetRemoteConfigFailed",
-        "Content": "リモート設定の取得に失敗しました。ネットワーク接続を確認し、クライアントを再起動して再試行してください。"
-    },
-    {
-        "Id": "StartHotFix",
-        "Content": "ホットアップデートの確認を開始します。"
-    },
-    {
-        "Id": "GetRemoteVersion",
-        "Content": "リモートバージョン設定の取得"
-    },
-    {
-        "Id": "GetRemoteVersionFailed",
-        "Content": "リモートバージョン設定の取得に失敗しました。"
-    },
-    {
-        "Id": "CheckAppUpdate",
-        "Content": "アプリの更新を確認しています..."
-    },
-    {
-        "Id": "CheckResourceVersion",
-        "Content": "{0}のリソースバージョンを確認しています。"
-    },
-    {
-        "Id": "ResolveIndexFile",
-        "Content": "リソースパッチを解析しています..."
-    },
-    {
-        "Id": "MountPak",
-        "Content": "リソースパッチを適用しています。"
-    },
-    {
-        "Id": "CompleteHotFix",
-        "Content": "ホットアップデートが完了しました。"
-    },
-    {
-        "Id": "DownloadIndexFileFailed",
-        "Content": "パッチリスト情報の取得に失敗しました。原因：{0}"
-    },
-    {
-        "Id": "DownloadResourcePatchFailed",
-        "Content": "リソースパッチのダウンロードに失敗しました。原因：{0}"
-    },
-    {
-        "Id": "EvaluateDownloadResourcePatchFailed",
-        "Content": "リソースパッチのダウンロードに失敗しました。原因：{0}"
-    },
-    {
-        "Id": "GetResourceInfoFailed",
-        "Content": "リソースパッチのタイプの解析に失敗しました"
-    },
-    {
-        "Id": "ResolveIndexFileFailed",
-        "Content": "パッチリストの解析に失敗しました。再起動してなお問題が発生する場合、カスタマーサポートまでお問い合わせください。"
-    },
-    {
-        "Id": "ValidateResourceFailed",
-        "Content": "リソースファイルの検証に失敗しました。再起動してなお問題が発生する場合、カスタマーサポートまでお問い合わせください。"
-    },
-    {
-        "Id": "DownloadStateNone",
-        "Content": "不明なエラー"
-    },
-    {
-        "Id": "DownloadStateHttpError",
-        "Content": "ネットワークエラー"
-    },
-    {
-        "Id": "DownloadStateFileRenameError",
-        "Content": "ファイル名変更エラー"
-    },
-    {
-        "Id": "DownloadStateValidateError",
-        "Content": "ファイルの検証に失敗しました"
-    },
-    {
-        "Id": "DownloadStateOpenToWriteError",
-        "Content": "ファイルの書き込みに失敗しました"
-    },
-    {
-        "Id": "DownloadStateNotEnoughSpace",
-        "Content": "ディスク容量が不足しています"
-    },
-    {
-        "Id": "DownloadStateDownloadCanceled",
-        "Content": "ダウンロードがキャンセルされました"
-    },
-    {
-        "Id": "DownloadStateSuccess",
-        "Content": "ダウンロードが成功しました"
-    },
-    {
-        "Id": "CompilingShader",
-        "Content": "シェーダーコンパイル中 {0}"
-    },
-    {
-        "Id": "GetRemotePackageConfigFail",
-        "Content": "パッケージデータの取得に失敗しました。通信環境を確認してから再度お試しください。"
-    },
-    {
-        "Id": "NewVersionDetailDesc",
-        "Content": "新バージョン詳細"
-    },
-    {
-        "Id": "NewVersionDetailDownloadGetReward",
-        "Content": "新バージョンにアップデートする必要があります。\nアップデート後にログインすると「<color=#C49E5FF>星声*300+結晶溶剤*2</color>」が獲得できます。"
-    },
-    {
-        "Id": "ConfirmText",
-        "Content": "確認"
-    },
-    {
-        "Id": "FirstDownloadTip",
-        "Content": "「今回のアップデート容量は{0}です。アップデートを続行しますか？」"
-    },
-    {
-        "Id": "DownloadTitle",
-        "Content": "リソースダウンロード"
-    },
-    {
-        "Id": "MobileDriverOutOfVersion",
-        "Content": "携帯電話のドライババージョンが古い（GLドライババージョン＜378）ことが検出されました。ゲームが頻繁にクラッシュする可能性があります。正常なゲーム体験を保証するために、携帯電話のシステムまたはGLドライバを更新することをお勧めします。"
-    },
-    {
-        "Id": "DownloadContinue",
-        "Content": "空白の場所をクリックすると続行できます"
-    },
-    {
-        "Id": "PatchClear",
-        "Content": "ローカルのパッチをクリアして再ダウンロードします、クリアを確認しますか？"
-    },
-    {
-        "Id": "PatchClearTitle",
-        "Content": "パッチをクリア"
-    },
-    {
-        "Id": "PatchClearbutton",
-        "Content": "修正"
-    }
+  {
+    "Id": "NetworkConnect",
+    "Content": "接続中"
+  },
+  {
+    "Id": "PatchDown",
+    "Content": "ダウンロード中：{0} 速度：{1} リソースサイズ：{2}/{3}"
+  },
+  {
+    "Id": "PatchDownTips",
+    "Content": "ダウンロード中にゲームを最小化することができます。"
+  },
+  {
+    "Id": "Install",
+    "Content": "アップデートパッケージをインストール中です。"
+  },
+  {
+    "Id": "InstallTips",
+    "Content": "インストール中にゲームを終了しないでください。"
+  },
+  {
+    "Id": "CheckIntegrity",
+    "Content": "ゲームの整合性を確認中{0}%"
+  },
+  {
+    "Id": "NoNetwork",
+    "Content": "ネットワークに接続されていません。ネットワークを確認してから再試行してください。"
+  },
+  {
+    "Id": "GetUpdateInfoFail",
+    "Content": "アップデート情報の取得に失敗しました。"
+  },
+  {
+    "Id": "HotFixTipsTitle",
+    "Content": "ご注意"
+  },
+  {
+    "Id": "HotFixQuit",
+    "Content": "終了"
+  },
+  {
+    "Id": "HotFixRetry",
+    "Content": "再試行"
+  },
+  {
+    "Id": "HotFixNewPatch",
+    "Content": "{0}のアップデートパッケージがあります。現在、モバイルネットワークをご利用になっています。モバイルデータを使ってダウンロードしますか？"
+  },
+  {
+    "Id": "HotFixUseNetworkDownload",
+    "Content": "モバイルデータを使ってダウンロードしますか？"
+  },
+  {
+    "Id": "HotFixRestartToCompleteHotFix",
+    "Content": "更新が完了しました。ゲームを再起動してください。"
+  },
+  {
+    "Id": "HotFixRestartToRepairFiles",
+    "Content": "ファイルの修復が完了しました。ゲームを再起動してください。"
+  },
+  {
+    "Id": "HotFixWriteStorageTips",
+    "Content": "更新ファイルを保存するために「ストレージ」の許可が必要です。携帯の設定-権限管理から許可を有効にして、ゲームを再起動してください。"
+  },
+  {
+    "Id": "HotFixNotEnoughSpace",
+    "Content": "{0}のリソースをダウンロードする必要がありますが、現在のデバイスのスペースが不足しています。クリーンアップするために、クリーンアップに進んでください。クリーンアップが完了したら、「続行」をクリックしてください。"
+  },
+  {
+    "Id": "HotFixContinue",
+    "Content": "続ける"
+  },
+  {
+    "Id": "HotFixCancel",
+    "Content": "キャンセル"
+  },
+  {
+    "Id": "HotFixNetworkChange",
+    "Content": "通信環境の変更を検知しました。現在、モバイルネットワークをご利用になっています。モバイルデータを使ってダウンロードしますか？"
+  },
+  {
+    "Id": "SplashCautionTitle",
+    "Content": "警告：ゲームをプレイする前にお読みください。"
+  },
+  {
+    "Id": "SplashCautionContent",
+    "Content": "注意：プレイする前にお読みください\n\n\n\nごく一部の人（てんかん患者或いはてんかんなどの病歴がない方）は、特定の光の模様や光の点滅を見た時、めまい、顔色が悪く、目や顔のけいれん、泡を吹く、前後不覚や一時的な意識喪失、全身けいれんなどの発作を起こされます。ご自身またはご家族の方は何らかの発作を起こしたことがある場合は、ゲームをプレイする前に医師へご相談ください。プレイ中、上記の症状が出る場合は、すぐさまプレイを中止し診察を受けてください。"
+  },
+  {
+    "Id": "SplashLoading",
+    "Content": "ゲームを読み込み中..."
+  },
+  {
+    "Id": "SplashHealthyGamingAdvisory",
+    "Content": ""
+  },
+  {
+    "Id": "SplashCopyrightInformation",
+    "Content": ""
+  },
+  {
+    "Id": "GetRemoteConfigFailed",
+    "Content": "リモート設定の取得に失敗しました。ネットワーク接続を確認し、クライアントを再起動して再試行してください。"
+  },
+  {
+    "Id": "StartHotFix",
+    "Content": "ホットアップデートの確認を開始します。"
+  },
+  {
+    "Id": "GetRemoteVersion",
+    "Content": "リモートバージョン設定の取得"
+  },
+  {
+    "Id": "GetRemoteVersionFailed",
+    "Content": "リモートバージョン設定の取得に失敗しました。"
+  },
+  {
+    "Id": "CheckAppUpdate",
+    "Content": "アプリの更新を確認しています..."
+  },
+  {
+    "Id": "CheckResourceVersion",
+    "Content": "{0}のリソースバージョンを確認しています。"
+  },
+  {
+    "Id": "ResolveIndexFile",
+    "Content": "リソースパッチを解析しています..."
+  },
+  {
+    "Id": "MountPak",
+    "Content": "リソースパッチを適用しています。"
+  },
+  {
+    "Id": "CompleteHotFix",
+    "Content": "ホットアップデートが完了しました。"
+  },
+  {
+    "Id": "DownloadIndexFileFailed",
+    "Content": "パッチリスト情報の取得に失敗しました。原因：{0}"
+  },
+  {
+    "Id": "DownloadResourcePatchFailed",
+    "Content": "リソースパッチのダウンロードに失敗しました。原因：{0}"
+  },
+  {
+    "Id": "EvaluateDownloadResourcePatchFailed",
+    "Content": "リソースパッチのダウンロードに失敗しました。原因：{0}"
+  },
+  {
+    "Id": "GetResourceInfoFailed",
+    "Content": "リソースパッチのタイプの解析に失敗しました"
+  },
+  {
+    "Id": "ResolveIndexFileFailed",
+    "Content": "パッチリストの解析に失敗しました。再起動してなお問題が発生する場合、カスタマーサポートまでお問い合わせください。"
+  },
+  {
+    "Id": "ValidateResourceFailed",
+    "Content": "リソースファイルの検証に失敗しました。再起動してなお問題が発生する場合、カスタマーサポートまでお問い合わせください。"
+  },
+  {
+    "Id": "DownloadStateNone",
+    "Content": "不明なエラー"
+  },
+  {
+    "Id": "DownloadStateHttpError",
+    "Content": "ネットワークエラー"
+  },
+  {
+    "Id": "DownloadStateFileRenameError",
+    "Content": "ファイル名変更エラー"
+  },
+  {
+    "Id": "DownloadStateValidateError",
+    "Content": "ファイルの検証に失敗しました"
+  },
+  {
+    "Id": "DownloadStateOpenToWriteError",
+    "Content": "ファイルの書き込みに失敗しました"
+  },
+  {
+    "Id": "DownloadStateNotEnoughSpace",
+    "Content": "ディスク容量が不足しています"
+  },
+  {
+    "Id": "DownloadStateDownloadCanceled",
+    "Content": "ダウンロードがキャンセルされました"
+  },
+  {
+    "Id": "DownloadStateSuccess",
+    "Content": "ダウンロードが成功しました"
+  },
+  {
+    "Id": "CompilingShader",
+    "Content": "シェーダーコンパイル中 {0}"
+  },
+  {
+    "Id": "GetRemotePackageConfigFail",
+    "Content": "パッケージデータの取得に失敗しました。通信環境を確認してから再度お試しください。"
+  },
+  {
+    "Id": "NewVersionDetailDesc",
+    "Content": "新バージョン詳細"
+  },
+  {
+    "Id": "NewVersionDetailDownloadGetReward",
+    "Content": "新バージョンにアップデートする必要があります。\nアップデート後にログインすると「<color=#C49E5FF>星声*300+結晶溶剤*2</color>」が獲得できます。"
+  },
+  {
+    "Id": "ConfirmText",
+    "Content": "確認"
+  },
+  {
+    "Id": "FirstDownloadTip",
+    "Content": "「今回のアップデート容量は{0}です。アップデートを続行しますか？」"
+  },
+  {
+    "Id": "DownloadTitle",
+    "Content": "リソースダウンロード"
+  },
+  {
+    "Id": "MobileDriverOutOfVersion",
+    "Content": "携帯電話のドライババージョンが古い（GLドライババージョン＜378）ことが検出されました。ゲームが頻繁にクラッシュする可能性があります。正常なゲーム体験を保証するために、携帯電話のシステムまたはGLドライバを更新することをお勧めします。"
+  },
+  {
+    "Id": "DownloadContinue",
+    "Content": "空白の場所をクリックすると続行できます"
+  },
+  {
+    "Id": "PatchClear",
+    "Content": "ローカルのパッチをクリアして再ダウンロードします、クリアを確認しますか？"
+  },
+  {
+    "Id": "PatchClearTitle",
+    "Content": "パッチをクリア"
+  },
+  {
+    "Id": "PatchClearbutton",
+    "Content": "修正"
+  }
 ]

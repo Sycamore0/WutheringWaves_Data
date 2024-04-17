@@ -1,21 +1,20 @@
 [
-{
-  "Id": 1,
-  "Difficulty": 1,
-  "RewardItem": {
-    "size": 1
+  {
+    "Id": 1,
+    "Difficulty": 1,
+    "RewardItem": {
+      "size": 1
+    },
+    "TrialRoleId": 100716,
+    "MapMark": 301203
   },
-  "TrialRoleId": 100716,
-  "MapMark": 301203
-}
-,
-{
-  "Id": 2,
-  "Difficulty": 2,
-  "RewardItem": {
-    "size": 3
-  },
-  "TrialRoleId": 100716,
-  "MapMark": 301203
-}
+  {
+    "Id": 2,
+    "Difficulty": 2,
+    "RewardItem": {
+      "size": 3
+    },
+    "TrialRoleId": 100716,
+    "MapMark": 301203
+  }
 ]

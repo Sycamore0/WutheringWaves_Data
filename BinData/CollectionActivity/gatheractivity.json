@@ -1,106 +1,100 @@
 [
-{
-  "Id": 1,
-  "PlayTask": 880000004,
-  "TaskClue": "1.似乎是黄色的\n2.圆的",
-  "SubmitItem": {
-    "size": 1
+  {
+    "Id": 1,
+    "PlayTask": 880000004,
+    "TaskClue": "1.似乎是黄色的\n2.圆的",
+    "SubmitItem": {
+      "size": 1
+    },
+    "Reward": 5031001,
+    "LocationEntityConfigId": 109002516,
+    "MarkId": 3,
+    "RewardItem": {
+      "size": 3
+    }
   },
-  "Reward": 5031001,
-  "LocationEntityConfigId": 109002516,
-  "MarkId": 3,
-  "RewardItem": {
-    "size": 3
-  }
-}
-,
-{
-  "Id": 2,
-  "PlayTask": 880000005,
-  "TaskClue": "1.似乎是黄色的\n2.圆的",
-  "SubmitItem": {
-    "size": 1
+  {
+    "Id": 2,
+    "PlayTask": 880000005,
+    "TaskClue": "1.似乎是黄色的\n2.圆的",
+    "SubmitItem": {
+      "size": 1
+    },
+    "Reward": 5031002,
+    "LocationEntityConfigId": 109002516,
+    "MarkId": 3,
+    "RewardItem": {
+      "size": 3
+    }
   },
-  "Reward": 5031002,
-  "LocationEntityConfigId": 109002516,
-  "MarkId": 3,
-  "RewardItem": {
-    "size": 3
-  }
-}
-,
-{
-  "Id": 3,
-  "PlayTask": 880000006,
-  "TaskClue": "1.似乎是黄色的\n2.圆的",
-  "SubmitItem": {
-    "size": 1
+  {
+    "Id": 3,
+    "PlayTask": 880000006,
+    "TaskClue": "1.似乎是黄色的\n2.圆的",
+    "SubmitItem": {
+      "size": 1
+    },
+    "Reward": 5031003,
+    "LocationEntityConfigId": 109002516,
+    "MarkId": 3,
+    "RewardItem": {
+      "size": 3
+    }
   },
-  "Reward": 5031003,
-  "LocationEntityConfigId": 109002516,
-  "MarkId": 3,
-  "RewardItem": {
-    "size": 3
-  }
-}
-,
-{
-  "Id": 4,
-  "PlayTask": 880000007,
-  "TaskClue": "1.似乎是黄色的\n2.圆的",
-  "SubmitItem": {
-    "size": 1
+  {
+    "Id": 4,
+    "PlayTask": 880000007,
+    "TaskClue": "1.似乎是黄色的\n2.圆的",
+    "SubmitItem": {
+      "size": 1
+    },
+    "Reward": 5031004,
+    "LocationEntityConfigId": 109002516,
+    "MarkId": 3,
+    "RewardItem": {
+      "size": 3
+    }
   },
-  "Reward": 5031004,
-  "LocationEntityConfigId": 109002516,
-  "MarkId": 3,
-  "RewardItem": {
-    "size": 3
-  }
-}
-,
-{
-  "Id": 5,
-  "PlayTask": 880000008,
-  "TaskClue": "1.似乎是黄色的\n2.圆的",
-  "SubmitItem": {
-    "size": 1
+  {
+    "Id": 5,
+    "PlayTask": 880000008,
+    "TaskClue": "1.似乎是黄色的\n2.圆的",
+    "SubmitItem": {
+      "size": 1
+    },
+    "Reward": 5031005,
+    "LocationEntityConfigId": 109002516,
+    "MarkId": 3,
+    "RewardItem": {
+      "size": 3
+    }
   },
-  "Reward": 5031005,
-  "LocationEntityConfigId": 109002516,
-  "MarkId": 3,
-  "RewardItem": {
-    "size": 3
-  }
-}
-,
-{
-  "Id": 6,
-  "PlayTask": 880000009,
-  "TaskClue": "1.似乎是黄色的\n2.圆的",
-  "SubmitItem": {
-    "size": 1
+  {
+    "Id": 6,
+    "PlayTask": 880000009,
+    "TaskClue": "1.似乎是黄色的\n2.圆的",
+    "SubmitItem": {
+      "size": 1
+    },
+    "Reward": 5031006,
+    "LocationEntityConfigId": 109002516,
+    "MarkId": 3,
+    "RewardItem": {
+      "size": 3
+    }
   },
-  "Reward": 5031006,
-  "LocationEntityConfigId": 109002516,
-  "MarkId": 3,
-  "RewardItem": {
-    "size": 3
+  {
+    "Id": 7,
+    "PlayTask": 880000010,
+    "TaskClue": "1.似乎是黄色的\n2.圆的",
+    "SubmitItem": {
+      "size": 1
+    },
+    "Reward": 5031007,
+    "LocationEntityConfigId": 109002516,
+    "MarkId": 3,
+    "RewardItem": {
+      "size": 3
+    }
   }
-}
-,
-{
-  "Id": 7,
-  "PlayTask": 880000010,
-  "TaskClue": "1.似乎是黄色的\n2.圆的",
-  "SubmitItem": {
-    "size": 1
-  },
-  "Reward": 5031007,
-  "LocationEntityConfigId": 109002516,
-  "MarkId": 3,
-  "RewardItem": {
-    "size": 3
-  }
-}
 ]

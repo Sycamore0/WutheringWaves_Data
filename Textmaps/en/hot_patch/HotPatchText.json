@@ -1,242 +1,242 @@
 [
-    {
-        "Id": "NetworkConnect",
-        "Content": "Connecting"
-    },
-    {
-        "Id": "PatchDown",
-        "Content": "Downloading: {0} Speed: {1} Size: {2}/{3}"
-    },
-    {
-        "Id": "PatchDownTips",
-        "Content": "Game can be minimized during download"
-    },
-    {
-        "Id": "Install",
-        "Content": "Installing update"
-    },
-    {
-        "Id": "InstallTips",
-        "Content": "Please do not close the game during installation"
-    },
-    {
-        "Id": "CheckIntegrity",
-        "Content": "Verifying game integrity {0}%"
-    },
-    {
-        "Id": "NoNetwork",
-        "Content": "No internet connection. Please check and try again"
-    },
-    {
-        "Id": "GetUpdateInfoFail",
-        "Content": "Failed to retrieve update information"
-    },
-    {
-        "Id": "HotFixTipsTitle",
-        "Content": "Hint"
-    },
-    {
-        "Id": "HotFixQuit",
-        "Content": "Exit"
-    },
-    {
-        "Id": "HotFixRetry",
-        "Content": "Retry"
-    },
-    {
-        "Id": "HotFixNewPatch",
-        "Content": "Update package {0} found. You are using your mobile network now. Do you want to download with your mobile network?"
-    },
-    {
-        "Id": "HotFixUseNetworkDownload",
-        "Content": "Download with mobile network"
-    },
-    {
-        "Id": "HotFixRestartToCompleteHotFix",
-        "Content": "Update completed, please restart the game."
-    },
-    {
-        "Id": "HotFixRestartToRepairFiles",
-        "Content": "Repairing completed, please restart the game."
-    },
-    {
-        "Id": "HotFixWriteStorageTips",
-        "Content": "Access to storage required to save update files. Please enable it from the phone settings - permission management. Then restart the game."
-    },
-    {
-        "Id": "HotFixNotEnoughSpace",
-        "Content": "{0} resource needs to be downloaded. Your storage space is insufficient now. Please free up some space, then come back and click \"Continue\"."
-    },
-    {
-        "Id": "HotFixContinue",
-        "Content": "Continue"
-    },
-    {
-        "Id": "HotFixCancel",
-        "Content": "Cancel"
-    },
-    {
-        "Id": "HotFixNetworkChange",
-        "Content": "Your network environment has changed. You are using mobile network now. Do you want to download with mobile network?"
-    },
-    {
-        "Id": "SplashCautionTitle",
-        "Content": "Warning: Please read before playing."
-    },
-    {
-        "Id": "SplashCautionContent",
-        "Content": "If you experience symptoms such as dizziness, facial discoloration, eye or facial twitching, foaming at the mouth, confusion or loss of consciousness, or muscle stiffness when exposed to specific light patterns or flashing lights, you may have photosensitive epilepsy. This condition affects a very small percentage of people, including those with epilepsy and some undiagnosed individuals. If you, your family, or other household members have experienced similar symptoms, please consult a doctor before playing the game. If you experience any of the above symptoms during gameplay, please stop playing immediately, seek medical attention as soon as possible, and follow your doctor's advice before continuing to play."
-    },
-    {
-        "Id": "SplashLoading",
-        "Content": "Game loading..."
-    },
-    {
-        "Id": "SplashHealthyGamingAdvisory",
-        "Content": ""
-    },
-    {
-        "Id": "SplashCopyrightInformation",
-        "Content": "Approval number: Guoxin Chushen [2023] No. 1802 ISBN 978-7-498-12761-7 Publishing unit: Chengdu Yingzhong Jiuzhou Network Technology Co., Ltd Copyright owner: Guangzhou Kuro Technology Co., Ltd"
-    },
-    {
-        "Id": "GetRemoteConfigFailed",
-        "Content": "Failed to obtain remote configuration. Please check your network connection and restart the client to try again."
-    },
-    {
-        "Id": "StartHotFix",
-        "Content": "Checking for hot updates."
-    },
-    {
-        "Id": "GetRemoteVersion",
-        "Content": "Obtaining remote version configuration."
-    },
-    {
-        "Id": "GetRemoteVersionFailed",
-        "Content": "Failed to obtain remote version configuration."
-    },
-    {
-        "Id": "CheckAppUpdate",
-        "Content": "Checking for app updates..."
-    },
-    {
-        "Id": "CheckResourceVersion",
-        "Content": "Checking {0} resource version."
-    },
-    {
-        "Id": "ResolveIndexFile",
-        "Content": "Analyzing resource patches..."
-    },
-    {
-        "Id": "MountPak",
-        "Content": "Applying resource patches."
-    },
-    {
-        "Id": "CompleteHotFix",
-        "Content": "Hot update completed."
-    },
-    {
-        "Id": "DownloadIndexFileFailed",
-        "Content": "Failed to obtain patch list information. Reason: {0}."
-    },
-    {
-        "Id": "DownloadResourcePatchFailed",
-        "Content": "Failed to download resource patch. Reason: {0}."
-    },
-    {
-        "Id": "EvaluateDownloadResourcePatchFailed",
-        "Content": "Failed to download (evaluate) resource patch. Reason: {0}."
-    },
-    {
-        "Id": "GetResourceInfoFailed",
-        "Content": "Failed to analyze resource patch type."
-    },
-    {
-        "Id": "ResolveIndexFileFailed",
-        "Content": "Failed to analyze patch list. Please restart and try again or contact customer service."
-    },
-    {
-        "Id": "ValidateResourceFailed",
-        "Content": "Failed to verify resource files. Please restart and try again or contact customer service."
-    },
-    {
-        "Id": "DownloadStateNone",
-        "Content": "Unknown error"
-    },
-    {
-        "Id": "DownloadStateHttpError",
-        "Content": "Network error"
-    },
-    {
-        "Id": "DownloadStateFileRenameError",
-        "Content": "File renaming error"
-    },
-    {
-        "Id": "DownloadStateValidateError",
-        "Content": "File verification failed"
-    },
-    {
-        "Id": "DownloadStateOpenToWriteError",
-        "Content": "Failed to write file"
-    },
-    {
-        "Id": "DownloadStateNotEnoughSpace",
-        "Content": "Insufficient storage space"
-    },
-    {
-        "Id": "DownloadStateDownloadCanceled",
-        "Content": "Download canceled"
-    },
-    {
-        "Id": "DownloadStateSuccess",
-        "Content": "Download successful"
-    },
-    {
-        "Id": "CompilingShader",
-        "Content": "Compiling Shader {0}"
-    },
-    {
-        "Id": "GetRemotePackageConfigFail",
-        "Content": "Failed to retrieve remote data for the entire package. Please check your network connection and restart the client to try again."
-    },
-    {
-        "Id": "NewVersionDetailDesc",
-        "Content": "Update Details"
-    },
-    {
-        "Id": "NewVersionDetailDownloadGetReward",
-        "Content": "An update of the game is available.  Please proceed to download. Log in after the update is complete to obtain <color=C49E55FF>Astrites*300 and Crystal Solvent*2</color>."
-    },
-    {
-        "Id": "ConfirmText",
-        "Content": "Confirm"
-    },
-    {
-        "Id": "FirstDownloadTip",
-        "Content": "{0} resources will be downloaded in total for the update. Continue?"
-    },
-    {
-        "Id": "DownloadTitle",
-        "Content": "Download Resources"
-    },
-    {
-        "Id": "MobileDriverOutOfVersion",
-        "Content": ""
-    },
-    {
-        "Id": "DownloadContinue",
-        "Content": ""
-    },
-    {
-        "Id": "PatchClear",
-        "Content": ""
-    },
-    {
-        "Id": "PatchClearTitle",
-        "Content": ""
-    },
-    {
-        "Id": "PatchClearbutton",
-        "Content": ""
-    }
+  {
+    "Id": "NetworkConnect",
+    "Content": "Connecting"
+  },
+  {
+    "Id": "PatchDown",
+    "Content": "Downloading: {0} Speed: {1} Size: {2}/{3}"
+  },
+  {
+    "Id": "PatchDownTips",
+    "Content": "Game can be minimized during download"
+  },
+  {
+    "Id": "Install",
+    "Content": "Installing update"
+  },
+  {
+    "Id": "InstallTips",
+    "Content": "Please do not close the game during installation"
+  },
+  {
+    "Id": "CheckIntegrity",
+    "Content": "Verifying game integrity {0}%"
+  },
+  {
+    "Id": "NoNetwork",
+    "Content": "No internet connection. Please check and try again"
+  },
+  {
+    "Id": "GetUpdateInfoFail",
+    "Content": "Failed to retrieve update information"
+  },
+  {
+    "Id": "HotFixTipsTitle",
+    "Content": "Hint"
+  },
+  {
+    "Id": "HotFixQuit",
+    "Content": "Exit"
+  },
+  {
+    "Id": "HotFixRetry",
+    "Content": "Retry"
+  },
+  {
+    "Id": "HotFixNewPatch",
+    "Content": "Update package {0} found. You are using your mobile network now. Do you want to download with your mobile network?"
+  },
+  {
+    "Id": "HotFixUseNetworkDownload",
+    "Content": "Download with mobile network"
+  },
+  {
+    "Id": "HotFixRestartToCompleteHotFix",
+    "Content": "Update completed, please restart the game."
+  },
+  {
+    "Id": "HotFixRestartToRepairFiles",
+    "Content": "Repairing completed, please restart the game."
+  },
+  {
+    "Id": "HotFixWriteStorageTips",
+    "Content": "Access to storage required to save update files. Please enable it from the phone settings - permission management. Then restart the game."
+  },
+  {
+    "Id": "HotFixNotEnoughSpace",
+    "Content": "{0} resource needs to be downloaded. Your storage space is insufficient now. Please free up some space, then come back and click \"Continue\"."
+  },
+  {
+    "Id": "HotFixContinue",
+    "Content": "Continue"
+  },
+  {
+    "Id": "HotFixCancel",
+    "Content": "Cancel"
+  },
+  {
+    "Id": "HotFixNetworkChange",
+    "Content": "Your network environment has changed. You are using mobile network now. Do you want to download with mobile network?"
+  },
+  {
+    "Id": "SplashCautionTitle",
+    "Content": "Warning: Please read before playing."
+  },
+  {
+    "Id": "SplashCautionContent",
+    "Content": "If you experience symptoms such as dizziness, facial discoloration, eye or facial twitching, foaming at the mouth, confusion or loss of consciousness, or muscle stiffness when exposed to specific light patterns or flashing lights, you may have photosensitive epilepsy. This condition affects a very small percentage of people, including those with epilepsy and some undiagnosed individuals. If you, your family, or other household members have experienced similar symptoms, please consult a doctor before playing the game. If you experience any of the above symptoms during gameplay, please stop playing immediately, seek medical attention as soon as possible, and follow your doctor's advice before continuing to play."
+  },
+  {
+    "Id": "SplashLoading",
+    "Content": "Game loading..."
+  },
+  {
+    "Id": "SplashHealthyGamingAdvisory",
+    "Content": ""
+  },
+  {
+    "Id": "SplashCopyrightInformation",
+    "Content": "Approval number: Guoxin Chushen [2023] No. 1802 ISBN 978-7-498-12761-7 Publishing unit: Chengdu Yingzhong Jiuzhou Network Technology Co., Ltd Copyright owner: Guangzhou Kuro Technology Co., Ltd"
+  },
+  {
+    "Id": "GetRemoteConfigFailed",
+    "Content": "Failed to obtain remote configuration. Please check your network connection and restart the client to try again."
+  },
+  {
+    "Id": "StartHotFix",
+    "Content": "Checking for hot updates."
+  },
+  {
+    "Id": "GetRemoteVersion",
+    "Content": "Obtaining remote version configuration."
+  },
+  {
+    "Id": "GetRemoteVersionFailed",
+    "Content": "Failed to obtain remote version configuration."
+  },
+  {
+    "Id": "CheckAppUpdate",
+    "Content": "Checking for app updates..."
+  },
+  {
+    "Id": "CheckResourceVersion",
+    "Content": "Checking {0} resource version."
+  },
+  {
+    "Id": "ResolveIndexFile",
+    "Content": "Analyzing resource patches..."
+  },
+  {
+    "Id": "MountPak",
+    "Content": "Applying resource patches."
+  },
+  {
+    "Id": "CompleteHotFix",
+    "Content": "Hot update completed."
+  },
+  {
+    "Id": "DownloadIndexFileFailed",
+    "Content": "Failed to obtain patch list information. Reason: {0}."
+  },
+  {
+    "Id": "DownloadResourcePatchFailed",
+    "Content": "Failed to download resource patch. Reason: {0}."
+  },
+  {
+    "Id": "EvaluateDownloadResourcePatchFailed",
+    "Content": "Failed to download (evaluate) resource patch. Reason: {0}."
+  },
+  {
+    "Id": "GetResourceInfoFailed",
+    "Content": "Failed to analyze resource patch type."
+  },
+  {
+    "Id": "ResolveIndexFileFailed",
+    "Content": "Failed to analyze patch list. Please restart and try again or contact customer service."
+  },
+  {
+    "Id": "ValidateResourceFailed",
+    "Content": "Failed to verify resource files. Please restart and try again or contact customer service."
+  },
+  {
+    "Id": "DownloadStateNone",
+    "Content": "Unknown error"
+  },
+  {
+    "Id": "DownloadStateHttpError",
+    "Content": "Network error"
+  },
+  {
+    "Id": "DownloadStateFileRenameError",
+    "Content": "File renaming error"
+  },
+  {
+    "Id": "DownloadStateValidateError",
+    "Content": "File verification failed"
+  },
+  {
+    "Id": "DownloadStateOpenToWriteError",
+    "Content": "Failed to write file"
+  },
+  {
+    "Id": "DownloadStateNotEnoughSpace",
+    "Content": "Insufficient storage space"
+  },
+  {
+    "Id": "DownloadStateDownloadCanceled",
+    "Content": "Download canceled"
+  },
+  {
+    "Id": "DownloadStateSuccess",
+    "Content": "Download successful"
+  },
+  {
+    "Id": "CompilingShader",
+    "Content": "Compiling Shader {0}"
+  },
+  {
+    "Id": "GetRemotePackageConfigFail",
+    "Content": "Failed to retrieve remote data for the entire package. Please check your network connection and restart the client to try again."
+  },
+  {
+    "Id": "NewVersionDetailDesc",
+    "Content": "Update Details"
+  },
+  {
+    "Id": "NewVersionDetailDownloadGetReward",
+    "Content": "An update of the game is available.  Please proceed to download. Log in after the update is complete to obtain <color=C49E55FF>Astrites*300 and Crystal Solvent*2</color>."
+  },
+  {
+    "Id": "ConfirmText",
+    "Content": "Confirm"
+  },
+  {
+    "Id": "FirstDownloadTip",
+    "Content": "{0} resources will be downloaded in total for the update. Continue?"
+  },
+  {
+    "Id": "DownloadTitle",
+    "Content": "Download Resources"
+  },
+  {
+    "Id": "MobileDriverOutOfVersion",
+    "Content": ""
+  },
+  {
+    "Id": "DownloadContinue",
+    "Content": ""
+  },
+  {
+    "Id": "PatchClear",
+    "Content": ""
+  },
+  {
+    "Id": "PatchClearTitle",
+    "Content": ""
+  },
+  {
+    "Id": "PatchClearbutton",
+    "Content": ""
+  }
 ]

@@ -1,121 +1,114 @@
 [
-{
-  "Id": 1,
-  "ActionName": "幻象1",
-  "ActionType": 1,
-  "PcKeys": {
-    "size": 0
+  {
+    "Id": 1,
+    "ActionName": "幻象1",
+    "ActionType": 1,
+    "PcKeys": {
+      "size": 0
+    },
+    "GamepadKeys": {
+      "size": 2
+    },
+    "SecondaryKeyValidTime": -1,
+    "MobileIconPath": "",
+    "DisplayName": ""
   },
-  "GamepadKeys": {
-    "size": 2
+  {
+    "Id": 3,
+    "ActionName": "切换角色4",
+    "ActionType": 1,
+    "PcKeys": {
+      "size": 0
+    },
+    "GamepadKeys": {
+      "size": 2
+    },
+    "SecondaryKeyValidTime": -1,
+    "MobileIconPath": "",
+    "DisplayName": ""
   },
-  "SecondaryKeyValidTime": -1,
-  "MobileIconPath": "",
-  "DisplayName": ""
-}
-,
-{
-  "Id": 3,
-  "ActionName": "切换角色4",
-  "ActionType": 1,
-  "PcKeys": {
-    "size": 0
+  {
+    "Id": 2,
+    "ActionName": "幻象2",
+    "ActionType": 1,
+    "PcKeys": {
+      "size": 0
+    },
+    "GamepadKeys": {
+      "size": 2
+    },
+    "SecondaryKeyValidTime": -1,
+    "MobileIconPath": "",
+    "DisplayName": ""
   },
-  "GamepadKeys": {
-    "size": 2
+  {
+    "Id": 4,
+    "ActionName": "ZoomIn",
+    "ActionType": 1,
+    "PcKeys": {
+      "size": 0
+    },
+    "GamepadKeys": {
+      "size": 2
+    },
+    "SecondaryKeyValidTime": -1,
+    "MobileIconPath": "",
+    "DisplayName": ""
   },
-  "SecondaryKeyValidTime": -1,
-  "MobileIconPath": "",
-  "DisplayName": ""
-}
-,
-{
-  "Id": 2,
-  "ActionName": "幻象2",
-  "ActionType": 1,
-  "PcKeys": {
-    "size": 0
+  {
+    "Id": 5,
+    "ActionName": "ZoomOut",
+    "ActionType": 1,
+    "PcKeys": {
+      "size": 0
+    },
+    "GamepadKeys": {
+      "size": 2
+    },
+    "SecondaryKeyValidTime": -1,
+    "MobileIconPath": "",
+    "DisplayName": ""
   },
-  "GamepadKeys": {
-    "size": 2
+  {
+    "Id": 6,
+    "ActionName": "任务追踪",
+    "ActionType": 2,
+    "PcKeys": {
+      "size": 0
+    },
+    "GamepadKeys": {
+      "size": 2
+    },
+    "SecondaryKeyValidTime": -1,
+    "MobileIconPath": "",
+    "DisplayName": ""
   },
-  "SecondaryKeyValidTime": -1,
-  "MobileIconPath": "",
-  "DisplayName": ""
-}
-,
-{
-  "Id": 4,
-  "ActionName": "ZoomIn",
-  "ActionType": 1,
-  "PcKeys": {
-    "size": 0
+  {
+    "Id": 7,
+    "ActionName": "玩法放弃",
+    "ActionType": 3,
+    "PcKeys": {
+      "size": 0
+    },
+    "GamepadKeys": {
+      "size": 2
+    },
+    "SecondaryKeyValidTime": -1,
+    "MobileIconPath": "",
+    "DisplayName": ""
   },
-  "GamepadKeys": {
-    "size": 2
-  },
-  "SecondaryKeyValidTime": -1,
-  "MobileIconPath": "",
-  "DisplayName": ""
-}
-,
-{
-  "Id": 5,
-  "ActionName": "ZoomOut",
-  "ActionType": 1,
-  "PcKeys": {
-    "size": 0
-  },
-  "GamepadKeys": {
-    "size": 2
-  },
-  "SecondaryKeyValidTime": -1,
-  "MobileIconPath": "",
-  "DisplayName": ""
-}
-,
-{
-  "Id": 6,
-  "ActionName": "任务追踪",
-  "ActionType": 2,
-  "PcKeys": {
-    "size": 0
-  },
-  "GamepadKeys": {
-    "size": 2
-  },
-  "SecondaryKeyValidTime": -1,
-  "MobileIconPath": "",
-  "DisplayName": ""
-}
-,
-{
-  "Id": 7,
-  "ActionName": "玩法放弃",
-  "ActionType": 3,
-  "PcKeys": {
-    "size": 0
-  },
-  "GamepadKeys": {
-    "size": 2
-  },
-  "SecondaryKeyValidTime": -1,
-  "MobileIconPath": "",
-  "DisplayName": ""
-}
-,
-{
-  "Id": 8,
-  "ActionName": "环境特性",
-  "ActionType": 3,
-  "PcKeys": {
-    "size": 0
-  },
-  "GamepadKeys": {
-    "size": 2
-  },
-  "SecondaryKeyValidTime": -1,
-  "MobileIconPath": "",
-  "DisplayName": ""
-}
+  {
+    "Id": 8,
+    "ActionName": "环境特性",
+    "ActionType": 3,
+    "PcKeys": {
+      "size": 0
+    },
+    "GamepadKeys": {
+      "size": 2
+    },
+    "SecondaryKeyValidTime": -1,
+    "MobileIconPath": "",
+    "DisplayName": ""
+  }
 ]

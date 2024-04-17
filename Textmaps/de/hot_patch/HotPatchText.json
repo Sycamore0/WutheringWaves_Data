@@ -1,242 +1,242 @@
 [
-    {
-        "Id": "NetworkConnect",
-        "Content": "Verbinden ..."
-    },
-    {
-        "Id": "PatchDown",
-        "Content": "Herunterladen: {0} Geschwindigkeit: {1} Größe: {2}/{3}"
-    },
-    {
-        "Id": "PatchDownTips",
-        "Content": "Das Spiel kann während des Herunterladens minimiert werden"
-    },
-    {
-        "Id": "Install",
-        "Content": "Aktualisierungspaket installieren"
-    },
-    {
-        "Id": "InstallTips",
-        "Content": "Bitte schließe das Spiel während der Installation nicht."
-    },
-    {
-        "Id": "CheckIntegrity",
-        "Content": "Überprüfe die Spielintegrität {0} %"
-    },
-    {
-        "Id": "NoNetwork",
-        "Content": "Keine Internetverbindung. Bitte überprüfe und versuche es erneut."
-    },
-    {
-        "Id": "GetUpdateInfoFail",
-        "Content": "Fehler beim Abrufen der Update-Informationen"
-    },
-    {
-        "Id": "HotFixTipsTitle",
-        "Content": "Hinweis"
-    },
-    {
-        "Id": "HotFixQuit",
-        "Content": "Beenden"
-    },
-    {
-        "Id": "HotFixRetry",
-        "Content": "Erneut versuchen"
-    },
-    {
-        "Id": "HotFixNewPatch",
-        "Content": "Neues Aktualisierungspaket {0} gefunden. Du nutzt gerade dein Mobilfunknetz. Möchtest du mit deinem Mobilfunknetz herunterladen?"
-    },
-    {
-        "Id": "HotFixUseNetworkDownload",
-        "Content": "Mit Mobilfunknetz herunterladen"
-    },
-    {
-        "Id": "HotFixRestartToCompleteHotFix",
-        "Content": "Update abgeschlossen, bitte starte das Spiel neu."
-    },
-    {
-        "Id": "HotFixRestartToRepairFiles",
-        "Content": "Reparatur abgeschlossen, bitte starte das Spiel neu."
-    },
-    {
-        "Id": "HotFixWriteStorageTips",
-        "Content": "Zugriff auf den Speicher erforderlich, um Update-Dateien zu speichern. Bitte aktiviere es in den Einstellungen deines Handys - Berechtigungsverwaltung. Dann starte das Spiel neu."
-    },
-    {
-        "Id": "HotFixNotEnoughSpace",
-        "Content": "{0} Ressource muss heruntergeladen werden. Dein Speicherplatz ist momentan nicht ausreichend. Bitte schaffe etwas Platz und klicke dann auf „Weiter“."
-    },
-    {
-        "Id": "HotFixContinue",
-        "Content": "Fortsetzen"
-    },
-    {
-        "Id": "HotFixCancel",
-        "Content": "Abbrechen"
-    },
-    {
-        "Id": "HotFixNetworkChange",
-        "Content": "Deine Netzwerkumgebung hat sich geändert. Du nutzt jetzt das mobile Netzwerk. Möchtest du mit dem mobilen Netzwerk herunterladen?"
-    },
-    {
-        "Id": "SplashCautionTitle",
-        "Content": "Warnung: Bitte vor dem Spielen lesen."
-    },
-    {
-        "Id": "SplashCautionContent",
-        "Content": "Wenn du Symptome wie Schwindel, Gesichtsverfärbungen, Augen- oder Gesichtszucken, Schaum vor dem Mund, Verwirrung oder Bewusstlosigkeit oder Muskelsteifheit bei Exposition gegenüber bestimmten Lichtmustern oder blinkenden Lichtern erlebst, könntest du an lichtempfindlicher Epilepsie leiden. Diese Erkrankung betrifft einen sehr kleinen Prozentsatz der Menschen, einschließlich derjenigen mit Epilepsie und einigen undiagnostizierten Personen. Wenn du, deine Familie oder andere Haushaltsmitglieder ähnliche Symptome erlebt haben, konsultiere bitte einen Arzt, bevor du das Spiel spielst. Wenn du während des Spielens eines der oben genannten Symptome erlebst, hör bitte sofort mit dem Spielen auf, suche so schnell wie möglich medizinische Hilfe und befolge den Rat deines Arztes, bevor du weiter spielst."
-    },
-    {
-        "Id": "SplashLoading",
-        "Content": "Spiel wird geladen ..."
-    },
-    {
-        "Id": "SplashHealthyGamingAdvisory",
-        "Content": "Wir fordern dazu auf, illegale Spiele zu boykottieren und Raubkopien zu vermeiden. Achten Sie auf Ihren Selbstschutz und seien Sie vorsichtig, nicht betrogen zu werden.\n\nSpielen in Maßen fördert die geistige Gesundheit, während übermäßiges Spielen der körperlichen Gesundheit schadet. Planen Sie Ihre Zeit vernünftig und genießen Sie ein gesundes Leben."
-    },
-    {
-        "Id": "SplashCopyrightInformation",
-        "Content": "Genehmigungsnummer: Guo Xin Chu Shen [2023] 1802 ISBN 978-7-498-12761-7 \n\nHerausgeber: Chengdu Yingzhong Jiuzhou Network Technology Co., Ltd.\n\nUrheber: Guangzhou Kuro Technology Co., Ltd."
-    },
-    {
-        "Id": "GetRemoteConfigFailed",
-        "Content": "Fehler beim Abrufen der Remote-Konfiguration. Bitte überprüfe deine Netzwerkverbindung und starte den Client neu, um es erneut zu versuchen."
-    },
-    {
-        "Id": "StartHotFix",
-        "Content": "Suche nach aktuellen Updates."
-    },
-    {
-        "Id": "GetRemoteVersion",
-        "Content": "Abrufen der Konfiguration der Remote-Version."
-    },
-    {
-        "Id": "GetRemoteVersionFailed",
-        "Content": "Fehler beim Abrufen der Remote-Version-Konfiguration."
-    },
-    {
-        "Id": "CheckAppUpdate",
-        "Content": "Suche nach App-Updates ..."
-    },
-    {
-        "Id": "CheckResourceVersion",
-        "Content": "Prüfe die Ressourcen-Version von {0}."
-    },
-    {
-        "Id": "ResolveIndexFile",
-        "Content": "Analysiere Ressourcen-Patches ..."
-    },
-    {
-        "Id": "MountPak",
-        "Content": "Wende Ressourcen-Patches an."
-    },
-    {
-        "Id": "CompleteHotFix",
-        "Content": "Heißes Update abgeschlossen."
-    },
-    {
-        "Id": "DownloadIndexFileFailed",
-        "Content": "Abrufen der Patch-Liste fehlgeschlagen. Grund: {0}."
-    },
-    {
-        "Id": "DownloadResourcePatchFailed",
-        "Content": "Herunterladen des Ressourcen-Patches fehlgeschlagen. Grund: {0}."
-    },
-    {
-        "Id": "EvaluateDownloadResourcePatchFailed",
-        "Content": "Herunterladen (Bewertung) des Ressourcen-Patches fehlgeschlagen. Grund: {0}."
-    },
-    {
-        "Id": "GetResourceInfoFailed",
-        "Content": "Analyse des Ressourcen-Patch-Typs fehlgeschlagen."
-    },
-    {
-        "Id": "ResolveIndexFileFailed",
-        "Content": "Die Patch-Liste konnte nicht analysiert werden. Bitte starte neu und versuche es erneut oder wende dich an den Kundenservice."
-    },
-    {
-        "Id": "ValidateResourceFailed",
-        "Content": "Die Ressourcen-Dateien konnten nicht überprüft werden. Bitte starte neu und versuche es erneut oder wende dich an den Kundenservice."
-    },
-    {
-        "Id": "DownloadStateNone",
-        "Content": "Unbekannter Fehler"
-    },
-    {
-        "Id": "DownloadStateHttpError",
-        "Content": "Netzwerkfehler"
-    },
-    {
-        "Id": "DownloadStateFileRenameError",
-        "Content": "Fehler beim Umbenennen der Datei"
-    },
-    {
-        "Id": "DownloadStateValidateError",
-        "Content": "Dateiüberprüfung fehlgeschlagen"
-    },
-    {
-        "Id": "DownloadStateOpenToWriteError",
-        "Content": "Fehler beim Schreiben der Datei"
-    },
-    {
-        "Id": "DownloadStateNotEnoughSpace",
-        "Content": "Unzureichender Speicherplatz"
-    },
-    {
-        "Id": "DownloadStateDownloadCanceled",
-        "Content": "Herunterladen abgebrochen"
-    },
-    {
-        "Id": "DownloadStateSuccess",
-        "Content": "Erfolgreich herunterladen"
-    },
-    {
-        "Id": "CompilingShader",
-        "Content": "Shader {0} wird kompiliert"
-    },
-    {
-        "Id": "GetRemotePackageConfigFail",
-        "Content": "Das Abrufen der Remote-Daten für das gesamte Paket ist fehlgeschlagen. Bitte überprüfe deine Netzwerkverbindung und starte den Client neu, um es erneut zu versuchen."
-    },
-    {
-        "Id": "NewVersionDetailDesc",
-        "Content": "Details zur neuen Version"
-    },
-    {
-        "Id": "NewVersionDetailDownloadGetReward",
-        "Content": "Eine neue Version des Spiels ist verfügbar. Bitte lade sie herunter.\n\nMelde dich nach Abschluss des Updates an, um <color=highlightB>Astrites ×300 und kristallisiertes Lösungsmittel ×2</color> zu erhalten."
-    },
-    {
-        "Id": "ConfirmText",
-        "Content": "Bestätigen"
-    },
-    {
-        "Id": "FirstDownloadTip",
-        "Content": "Insgesamt werden {0} Ressourcen für das Update heruntergeladen. Weitermachen?"
-    },
-    {
-        "Id": "DownloadTitle",
-        "Content": "Ressourcen herunterladen"
-    },
-    {
-        "Id": "MobileDriverOutOfVersion",
-        "Content": ""
-    },
-    {
-        "Id": "DownloadContinue",
-        "Content": ""
-    },
-    {
-        "Id": "PatchClear",
-        "Content": ""
-    },
-    {
-        "Id": "PatchClearTitle",
-        "Content": ""
-    },
-    {
-        "Id": "PatchClearbutton",
-        "Content": ""
-    }
+  {
+    "Id": "NetworkConnect",
+    "Content": "Verbinden ..."
+  },
+  {
+    "Id": "PatchDown",
+    "Content": "Herunterladen: {0} Geschwindigkeit: {1} Größe: {2}/{3}"
+  },
+  {
+    "Id": "PatchDownTips",
+    "Content": "Das Spiel kann während des Herunterladens minimiert werden"
+  },
+  {
+    "Id": "Install",
+    "Content": "Aktualisierungspaket installieren"
+  },
+  {
+    "Id": "InstallTips",
+    "Content": "Bitte schließe das Spiel während der Installation nicht."
+  },
+  {
+    "Id": "CheckIntegrity",
+    "Content": "Überprüfe die Spielintegrität {0} %"
+  },
+  {
+    "Id": "NoNetwork",
+    "Content": "Keine Internetverbindung. Bitte überprüfe und versuche es erneut."
+  },
+  {
+    "Id": "GetUpdateInfoFail",
+    "Content": "Fehler beim Abrufen der Update-Informationen"
+  },
+  {
+    "Id": "HotFixTipsTitle",
+    "Content": "Hinweis"
+  },
+  {
+    "Id": "HotFixQuit",
+    "Content": "Beenden"
+  },
+  {
+    "Id": "HotFixRetry",
+    "Content": "Erneut versuchen"
+  },
+  {
+    "Id": "HotFixNewPatch",
+    "Content": "Neues Aktualisierungspaket {0} gefunden. Du nutzt gerade dein Mobilfunknetz. Möchtest du mit deinem Mobilfunknetz herunterladen?"
+  },
+  {
+    "Id": "HotFixUseNetworkDownload",
+    "Content": "Mit Mobilfunknetz herunterladen"
+  },
+  {
+    "Id": "HotFixRestartToCompleteHotFix",
+    "Content": "Update abgeschlossen, bitte starte das Spiel neu."
+  },
+  {
+    "Id": "HotFixRestartToRepairFiles",
+    "Content": "Reparatur abgeschlossen, bitte starte das Spiel neu."
+  },
+  {
+    "Id": "HotFixWriteStorageTips",
+    "Content": "Zugriff auf den Speicher erforderlich, um Update-Dateien zu speichern. Bitte aktiviere es in den Einstellungen deines Handys - Berechtigungsverwaltung. Dann starte das Spiel neu."
+  },
+  {
+    "Id": "HotFixNotEnoughSpace",
+    "Content": "{0} Ressource muss heruntergeladen werden. Dein Speicherplatz ist momentan nicht ausreichend. Bitte schaffe etwas Platz und klicke dann auf „Weiter“."
+  },
+  {
+    "Id": "HotFixContinue",
+    "Content": "Fortsetzen"
+  },
+  {
+    "Id": "HotFixCancel",
+    "Content": "Abbrechen"
+  },
+  {
+    "Id": "HotFixNetworkChange",
+    "Content": "Deine Netzwerkumgebung hat sich geändert. Du nutzt jetzt das mobile Netzwerk. Möchtest du mit dem mobilen Netzwerk herunterladen?"
+  },
+  {
+    "Id": "SplashCautionTitle",
+    "Content": "Warnung: Bitte vor dem Spielen lesen."
+  },
+  {
+    "Id": "SplashCautionContent",
+    "Content": "Wenn du Symptome wie Schwindel, Gesichtsverfärbungen, Augen- oder Gesichtszucken, Schaum vor dem Mund, Verwirrung oder Bewusstlosigkeit oder Muskelsteifheit bei Exposition gegenüber bestimmten Lichtmustern oder blinkenden Lichtern erlebst, könntest du an lichtempfindlicher Epilepsie leiden. Diese Erkrankung betrifft einen sehr kleinen Prozentsatz der Menschen, einschließlich derjenigen mit Epilepsie und einigen undiagnostizierten Personen. Wenn du, deine Familie oder andere Haushaltsmitglieder ähnliche Symptome erlebt haben, konsultiere bitte einen Arzt, bevor du das Spiel spielst. Wenn du während des Spielens eines der oben genannten Symptome erlebst, hör bitte sofort mit dem Spielen auf, suche so schnell wie möglich medizinische Hilfe und befolge den Rat deines Arztes, bevor du weiter spielst."
+  },
+  {
+    "Id": "SplashLoading",
+    "Content": "Spiel wird geladen ..."
+  },
+  {
+    "Id": "SplashHealthyGamingAdvisory",
+    "Content": "Wir fordern dazu auf, illegale Spiele zu boykottieren und Raubkopien zu vermeiden. Achten Sie auf Ihren Selbstschutz und seien Sie vorsichtig, nicht betrogen zu werden.\n\nSpielen in Maßen fördert die geistige Gesundheit, während übermäßiges Spielen der körperlichen Gesundheit schadet. Planen Sie Ihre Zeit vernünftig und genießen Sie ein gesundes Leben."
+  },
+  {
+    "Id": "SplashCopyrightInformation",
+    "Content": "Genehmigungsnummer: Guo Xin Chu Shen [2023] 1802 ISBN 978-7-498-12761-7 \n\nHerausgeber: Chengdu Yingzhong Jiuzhou Network Technology Co., Ltd.\n\nUrheber: Guangzhou Kuro Technology Co., Ltd."
+  },
+  {
+    "Id": "GetRemoteConfigFailed",
+    "Content": "Fehler beim Abrufen der Remote-Konfiguration. Bitte überprüfe deine Netzwerkverbindung und starte den Client neu, um es erneut zu versuchen."
+  },
+  {
+    "Id": "StartHotFix",
+    "Content": "Suche nach aktuellen Updates."
+  },
+  {
+    "Id": "GetRemoteVersion",
+    "Content": "Abrufen der Konfiguration der Remote-Version."
+  },
+  {
+    "Id": "GetRemoteVersionFailed",
+    "Content": "Fehler beim Abrufen der Remote-Version-Konfiguration."
+  },
+  {
+    "Id": "CheckAppUpdate",
+    "Content": "Suche nach App-Updates ..."
+  },
+  {
+    "Id": "CheckResourceVersion",
+    "Content": "Prüfe die Ressourcen-Version von {0}."
+  },
+  {
+    "Id": "ResolveIndexFile",
+    "Content": "Analysiere Ressourcen-Patches ..."
+  },
+  {
+    "Id": "MountPak",
+    "Content": "Wende Ressourcen-Patches an."
+  },
+  {
+    "Id": "CompleteHotFix",
+    "Content": "Heißes Update abgeschlossen."
+  },
+  {
+    "Id": "DownloadIndexFileFailed",
+    "Content": "Abrufen der Patch-Liste fehlgeschlagen. Grund: {0}."
+  },
+  {
+    "Id": "DownloadResourcePatchFailed",
+    "Content": "Herunterladen des Ressourcen-Patches fehlgeschlagen. Grund: {0}."
+  },
+  {
+    "Id": "EvaluateDownloadResourcePatchFailed",
+    "Content": "Herunterladen (Bewertung) des Ressourcen-Patches fehlgeschlagen. Grund: {0}."
+  },
+  {
+    "Id": "GetResourceInfoFailed",
+    "Content": "Analyse des Ressourcen-Patch-Typs fehlgeschlagen."
+  },
+  {
+    "Id": "ResolveIndexFileFailed",
+    "Content": "Die Patch-Liste konnte nicht analysiert werden. Bitte starte neu und versuche es erneut oder wende dich an den Kundenservice."
+  },
+  {
+    "Id": "ValidateResourceFailed",
+    "Content": "Die Ressourcen-Dateien konnten nicht überprüft werden. Bitte starte neu und versuche es erneut oder wende dich an den Kundenservice."
+  },
+  {
+    "Id": "DownloadStateNone",
+    "Content": "Unbekannter Fehler"
+  },
+  {
+    "Id": "DownloadStateHttpError",
+    "Content": "Netzwerkfehler"
+  },
+  {
+    "Id": "DownloadStateFileRenameError",
+    "Content": "Fehler beim Umbenennen der Datei"
+  },
+  {
+    "Id": "DownloadStateValidateError",
+    "Content": "Dateiüberprüfung fehlgeschlagen"
+  },
+  {
+    "Id": "DownloadStateOpenToWriteError",
+    "Content": "Fehler beim Schreiben der Datei"
+  },
+  {
+    "Id": "DownloadStateNotEnoughSpace",
+    "Content": "Unzureichender Speicherplatz"
+  },
+  {
+    "Id": "DownloadStateDownloadCanceled",
+    "Content": "Herunterladen abgebrochen"
+  },
+  {
+    "Id": "DownloadStateSuccess",
+    "Content": "Erfolgreich herunterladen"
+  },
+  {
+    "Id": "CompilingShader",
+    "Content": "Shader {0} wird kompiliert"
+  },
+  {
+    "Id": "GetRemotePackageConfigFail",
+    "Content": "Das Abrufen der Remote-Daten für das gesamte Paket ist fehlgeschlagen. Bitte überprüfe deine Netzwerkverbindung und starte den Client neu, um es erneut zu versuchen."
+  },
+  {
+    "Id": "NewVersionDetailDesc",
+    "Content": "Details zur neuen Version"
+  },
+  {
+    "Id": "NewVersionDetailDownloadGetReward",
+    "Content": "Eine neue Version des Spiels ist verfügbar. Bitte lade sie herunter.\n\nMelde dich nach Abschluss des Updates an, um <color=highlightB>Astrites ×300 und kristallisiertes Lösungsmittel ×2</color> zu erhalten."
+  },
+  {
+    "Id": "ConfirmText",
+    "Content": "Bestätigen"
+  },
+  {
+    "Id": "FirstDownloadTip",
+    "Content": "Insgesamt werden {0} Ressourcen für das Update heruntergeladen. Weitermachen?"
+  },
+  {
+    "Id": "DownloadTitle",
+    "Content": "Ressourcen herunterladen"
+  },
+  {
+    "Id": "MobileDriverOutOfVersion",
+    "Content": ""
+  },
+  {
+    "Id": "DownloadContinue",
+    "Content": ""
+  },
+  {
+    "Id": "PatchClear",
+    "Content": ""
+  },
+  {
+    "Id": "PatchClearTitle",
+    "Content": ""
+  },
+  {
+    "Id": "PatchClearbutton",
+    "Content": ""
+  }
 ]

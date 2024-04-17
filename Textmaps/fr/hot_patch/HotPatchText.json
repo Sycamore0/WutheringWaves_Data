@@ -1,242 +1,242 @@
 [
-    {
-        "Id": "NetworkConnect",
-        "Content": "Connexion en cours"
-    },
-    {
-        "Id": "PatchDown",
-        "Content": "Téléchargement : {0} Vitesse : {1} Taille : {2}/{3}"
-    },
-    {
-        "Id": "PatchDownTips",
-        "Content": "Le jeu peut être minimisé pendant le téléchargement."
-    },
-    {
-        "Id": "Install",
-        "Content": "Installation de la mise à jour"
-    },
-    {
-        "Id": "InstallTips",
-        "Content": "Veuillez ne pas fermer le jeu pendant l'installation"
-    },
-    {
-        "Id": "CheckIntegrity",
-        "Content": "Vérification de l'intégrité du jeu {0}%"
-    },
-    {
-        "Id": "NoNetwork",
-        "Content": "Pas de connexion internet, veuillez vérifier et réessayer"
-    },
-    {
-        "Id": "GetUpdateInfoFail",
-        "Content": "Impossible de récupérer les informations de mise à jour"
-    },
-    {
-        "Id": "HotFixTipsTitle",
-        "Content": "Astuce"
-    },
-    {
-        "Id": "HotFixQuit",
-        "Content": "Quitter"
-    },
-    {
-        "Id": "HotFixRetry",
-        "Content": "Réessayer"
-    },
-    {
-        "Id": "HotFixNewPatch",
-        "Content": "On a détecté un nouveau paquet de mise à jour {0}, l'environnement réseau actuel est le réseau mobile, veuillez confirmer si vous voulez utiliser les données mobiles."
-    },
-    {
-        "Id": "HotFixUseNetworkDownload",
-        "Content": "Téléchargez avec les données mobiles."
-    },
-    {
-        "Id": "HotFixRestartToCompleteHotFix",
-        "Content": "Mise à jour terminée, veuillez redémarrer le jeu."
-    },
-    {
-        "Id": "HotFixRestartToRepairFiles",
-        "Content": "Réparation du fichier terminée, veuillez redémarrer le jeu."
-    },
-    {
-        "Id": "HotFixWriteStorageTips",
-        "Content": "L'autorisation \"Stockage\" est nécessaire pour sauvegarder les fichiers de mise à jour. Veuillez l'activer dans Paramètres > Applications > Wuthering Waves > Autorisations > Stockage, puis redémarrez le jeu."
-    },
-    {
-        "Id": "HotFixNotEnoughSpace",
-        "Content": "La ressource {0} doit être téléchargée, l'espace actuel de l'appareil est insuffisant, veuillez procéder au nettoyage, après le nettoyage, cliquez sur \"Continuer\"."
-    },
-    {
-        "Id": "HotFixContinue",
-        "Content": "Continuer"
-    },
-    {
-        "Id": "HotFixCancel",
-        "Content": "Annuler"
-    },
-    {
-        "Id": "HotFixNetworkChange",
-        "Content": "Détection d'un changement de résdeau. Voulez-vous utiliser les données mobiles pour télécharger ?"
-    },
-    {
-        "Id": "SplashCautionTitle",
-        "Content": "Avertissement : À lire avant de jouer."
-    },
-    {
-        "Id": "SplashCautionContent",
-        "Content": "Un petit nombre de personnes est susceptible de faire des crises d’épilepsie ou de perdre conscience lorsqu’exposées à certains types de lumières clignotantes ou de stimulations lumineuses. Ces personnes, ou même des personnes qui n’ont pas d’antécédent médical ou n’ont jamais eu de crises d’épilepsie, peuvent présenter des symptômes ou faire des crises épileptiques en jouant à des jeux vidéo. \nSi vous, ou l’un de vos proches, souffrez d’épilepsie ou avez déjà eu des crises de quelque nature que ce soit, consultez votre médecin avant de jouer à un jeu vidéo. \nCESSEZ IMMÉDIATEMENT le jeu et consultez un médecin si vous ou votre proche présentez l’un des symptômes suivants : étourdissements, trouble de la vision, contraction des yeux ou des muscles, mouvements involontaires, perte de conscience, trouble de l’orientation ou convulsions."
-    },
-    {
-        "Id": "SplashLoading",
-        "Content": "Chargement en cours..."
-    },
-    {
-        "Id": "SplashHealthyGamingAdvisory",
-        "Content": "Rejetez les mauvais jeux et les jeux piratés. Veillez à vous protéger et à ne pas vous faire escroquer.\nLes jeux modérés sont bons pour le cerveau, les jeux excessifs nuisent au corps. Organisez votre temps de manière raisonnable et profitez d'une vie saine."
-    },
-    {
-        "Id": "SplashCopyrightInformation",
-        "Content": "审批文号：国新出审〔2023〕1802号 ISBN 978-7-498-12761-7  出版单位：成都盈众九州网络科技有限公司\n著作权人：广州库洛科技有限公司"
-    },
-    {
-        "Id": "GetRemoteConfigFailed",
-        "Content": "Échec de l'obtention de la configuration à distance. Veuillez vérifier la connexion réseau et redémarrer le client pour réessayer."
-    },
-    {
-        "Id": "StartHotFix",
-        "Content": "Début de la vérification de la mise à jour."
-    },
-    {
-        "Id": "GetRemoteVersion",
-        "Content": "Obtention de la configuration de la nouvelle version.."
-    },
-    {
-        "Id": "GetRemoteVersionFailed",
-        "Content": "Échec de l'obtention de la configuration de la nouvelle version"
-    },
-    {
-        "Id": "CheckAppUpdate",
-        "Content": "Vérification de la mise à jour de l'application..."
-    },
-    {
-        "Id": "CheckResourceVersion",
-        "Content": "Vérification de la version des ressources {0}..."
-    },
-    {
-        "Id": "ResolveIndexFile",
-        "Content": "Analyse du correctif en cours..."
-    },
-    {
-        "Id": "MountPak",
-        "Content": "Application du correctif en cours..."
-    },
-    {
-        "Id": "CompleteHotFix",
-        "Content": "Mise à jour terminée."
-    },
-    {
-        "Id": "DownloadIndexFileFailed",
-        "Content": "Échec de l'obtention des informations de la liste des correctifs. Raison : {0}"
-    },
-    {
-        "Id": "DownloadResourcePatchFailed",
-        "Content": "Échec du téléchargement des correctifs. Raison : {0}"
-    },
-    {
-        "Id": "EvaluateDownloadResourcePatchFailed",
-        "Content": "(Évaluation) Échec du téléchargement des correctifs. Raison : {0}"
-    },
-    {
-        "Id": "GetResourceInfoFailed",
-        "Content": "Échec de l'analyse du type de correctifs."
-    },
-    {
-        "Id": "ResolveIndexFileFailed",
-        "Content": "Échec de l'analyse de la liste des correctifs. Redémarrez pour réessayer ou contactez le service client s'il vous plaît."
-    },
-    {
-        "Id": "ValidateResourceFailed",
-        "Content": "Échec de la vérification des fichiers de ressources. Veuillez redémarrer et réessayer ou contacter le service client."
-    },
-    {
-        "Id": "DownloadStateNone",
-        "Content": "Erreur inconnue."
-    },
-    {
-        "Id": "DownloadStateHttpError",
-        "Content": "Erreur de réseau."
-    },
-    {
-        "Id": "DownloadStateFileRenameError",
-        "Content": "Erreur : Impossible de renommer le fichier"
-    },
-    {
-        "Id": "DownloadStateValidateError",
-        "Content": "Échec de la vérification du fichier."
-    },
-    {
-        "Id": "DownloadStateOpenToWriteError",
-        "Content": "Échec de l'écriture du fichier."
-    },
-    {
-        "Id": "DownloadStateNotEnoughSpace",
-        "Content": "Espace disque insuffisant."
-    },
-    {
-        "Id": "DownloadStateDownloadCanceled",
-        "Content": "Téléchargement annulé."
-    },
-    {
-        "Id": "DownloadStateSuccess",
-        "Content": "Téléchargement réussi."
-    },
-    {
-        "Id": "CompilingShader",
-        "Content": "Compilation des shaders {0} en cours."
-    },
-    {
-        "Id": "GetRemotePackageConfigFail",
-        "Content": "Échec de l'obtention des données de l'ensemble complet à distance. Veuillez vérifier la connexion réseau et redémarrer le client pour réessayer."
-    },
-    {
-        "Id": "NewVersionDetailDesc",
-        "Content": "Détails de la nouvelle version."
-    },
-    {
-        "Id": "NewVersionDetailDownloadGetReward",
-        "Content": "On a une nouvelle version. Téléchargez la dernière version du jeu s'il vous plaît. Connectez-vous après la mise à jour pour obtenir les récompenses : <color=highlight>300 Astrite + 2 Solutions des Lames-retard</color>."
-    },
-    {
-        "Id": "ConfirmText",
-        "Content": "Confirmer"
-    },
-    {
-        "Id": "FirstDownloadTip",
-        "Content": "Ressources à télécharger : {0}. Voulez-vous continuer ?"
-    },
-    {
-        "Id": "DownloadTitle",
-        "Content": "Téléchargement les ressources."
-    },
-    {
-        "Id": "MobileDriverOutOfVersion",
-        "Content": ""
-    },
-    {
-        "Id": "DownloadContinue",
-        "Content": ""
-    },
-    {
-        "Id": "PatchClear",
-        "Content": ""
-    },
-    {
-        "Id": "PatchClearTitle",
-        "Content": ""
-    },
-    {
-        "Id": "PatchClearbutton",
-        "Content": ""
-    }
+  {
+    "Id": "NetworkConnect",
+    "Content": "Connexion en cours"
+  },
+  {
+    "Id": "PatchDown",
+    "Content": "Téléchargement : {0} Vitesse : {1} Taille : {2}/{3}"
+  },
+  {
+    "Id": "PatchDownTips",
+    "Content": "Le jeu peut être minimisé pendant le téléchargement."
+  },
+  {
+    "Id": "Install",
+    "Content": "Installation de la mise à jour"
+  },
+  {
+    "Id": "InstallTips",
+    "Content": "Veuillez ne pas fermer le jeu pendant l'installation"
+  },
+  {
+    "Id": "CheckIntegrity",
+    "Content": "Vérification de l'intégrité du jeu {0}%"
+  },
+  {
+    "Id": "NoNetwork",
+    "Content": "Pas de connexion internet, veuillez vérifier et réessayer"
+  },
+  {
+    "Id": "GetUpdateInfoFail",
+    "Content": "Impossible de récupérer les informations de mise à jour"
+  },
+  {
+    "Id": "HotFixTipsTitle",
+    "Content": "Astuce"
+  },
+  {
+    "Id": "HotFixQuit",
+    "Content": "Quitter"
+  },
+  {
+    "Id": "HotFixRetry",
+    "Content": "Réessayer"
+  },
+  {
+    "Id": "HotFixNewPatch",
+    "Content": "On a détecté un nouveau paquet de mise à jour {0}, l'environnement réseau actuel est le réseau mobile, veuillez confirmer si vous voulez utiliser les données mobiles."
+  },
+  {
+    "Id": "HotFixUseNetworkDownload",
+    "Content": "Téléchargez avec les données mobiles."
+  },
+  {
+    "Id": "HotFixRestartToCompleteHotFix",
+    "Content": "Mise à jour terminée, veuillez redémarrer le jeu."
+  },
+  {
+    "Id": "HotFixRestartToRepairFiles",
+    "Content": "Réparation du fichier terminée, veuillez redémarrer le jeu."
+  },
+  {
+    "Id": "HotFixWriteStorageTips",
+    "Content": "L'autorisation \"Stockage\" est nécessaire pour sauvegarder les fichiers de mise à jour. Veuillez l'activer dans Paramètres > Applications > Wuthering Waves > Autorisations > Stockage, puis redémarrez le jeu."
+  },
+  {
+    "Id": "HotFixNotEnoughSpace",
+    "Content": "La ressource {0} doit être téléchargée, l'espace actuel de l'appareil est insuffisant, veuillez procéder au nettoyage, après le nettoyage, cliquez sur \"Continuer\"."
+  },
+  {
+    "Id": "HotFixContinue",
+    "Content": "Continuer"
+  },
+  {
+    "Id": "HotFixCancel",
+    "Content": "Annuler"
+  },
+  {
+    "Id": "HotFixNetworkChange",
+    "Content": "Détection d'un changement de résdeau. Voulez-vous utiliser les données mobiles pour télécharger ?"
+  },
+  {
+    "Id": "SplashCautionTitle",
+    "Content": "Avertissement : À lire avant de jouer."
+  },
+  {
+    "Id": "SplashCautionContent",
+    "Content": "Un petit nombre de personnes est susceptible de faire des crises d’épilepsie ou de perdre conscience lorsqu’exposées à certains types de lumières clignotantes ou de stimulations lumineuses. Ces personnes, ou même des personnes qui n’ont pas d’antécédent médical ou n’ont jamais eu de crises d’épilepsie, peuvent présenter des symptômes ou faire des crises épileptiques en jouant à des jeux vidéo. \nSi vous, ou l’un de vos proches, souffrez d’épilepsie ou avez déjà eu des crises de quelque nature que ce soit, consultez votre médecin avant de jouer à un jeu vidéo. \nCESSEZ IMMÉDIATEMENT le jeu et consultez un médecin si vous ou votre proche présentez l’un des symptômes suivants : étourdissements, trouble de la vision, contraction des yeux ou des muscles, mouvements involontaires, perte de conscience, trouble de l’orientation ou convulsions."
+  },
+  {
+    "Id": "SplashLoading",
+    "Content": "Chargement en cours..."
+  },
+  {
+    "Id": "SplashHealthyGamingAdvisory",
+    "Content": "Rejetez les mauvais jeux et les jeux piratés. Veillez à vous protéger et à ne pas vous faire escroquer.\nLes jeux modérés sont bons pour le cerveau, les jeux excessifs nuisent au corps. Organisez votre temps de manière raisonnable et profitez d'une vie saine."
+  },
+  {
+    "Id": "SplashCopyrightInformation",
+    "Content": "审批文号：国新出审〔2023〕1802号 ISBN 978-7-498-12761-7  出版单位：成都盈众九州网络科技有限公司\n著作权人：广州库洛科技有限公司"
+  },
+  {
+    "Id": "GetRemoteConfigFailed",
+    "Content": "Échec de l'obtention de la configuration à distance. Veuillez vérifier la connexion réseau et redémarrer le client pour réessayer."
+  },
+  {
+    "Id": "StartHotFix",
+    "Content": "Début de la vérification de la mise à jour."
+  },
+  {
+    "Id": "GetRemoteVersion",
+    "Content": "Obtention de la configuration de la nouvelle version.."
+  },
+  {
+    "Id": "GetRemoteVersionFailed",
+    "Content": "Échec de l'obtention de la configuration de la nouvelle version"
+  },
+  {
+    "Id": "CheckAppUpdate",
+    "Content": "Vérification de la mise à jour de l'application..."
+  },
+  {
+    "Id": "CheckResourceVersion",
+    "Content": "Vérification de la version des ressources {0}..."
+  },
+  {
+    "Id": "ResolveIndexFile",
+    "Content": "Analyse du correctif en cours..."
+  },
+  {
+    "Id": "MountPak",
+    "Content": "Application du correctif en cours..."
+  },
+  {
+    "Id": "CompleteHotFix",
+    "Content": "Mise à jour terminée."
+  },
+  {
+    "Id": "DownloadIndexFileFailed",
+    "Content": "Échec de l'obtention des informations de la liste des correctifs. Raison : {0}"
+  },
+  {
+    "Id": "DownloadResourcePatchFailed",
+    "Content": "Échec du téléchargement des correctifs. Raison : {0}"
+  },
+  {
+    "Id": "EvaluateDownloadResourcePatchFailed",
+    "Content": "(Évaluation) Échec du téléchargement des correctifs. Raison : {0}"
+  },
+  {
+    "Id": "GetResourceInfoFailed",
+    "Content": "Échec de l'analyse du type de correctifs."
+  },
+  {
+    "Id": "ResolveIndexFileFailed",
+    "Content": "Échec de l'analyse de la liste des correctifs. Redémarrez pour réessayer ou contactez le service client s'il vous plaît."
+  },
+  {
+    "Id": "ValidateResourceFailed",
+    "Content": "Échec de la vérification des fichiers de ressources. Veuillez redémarrer et réessayer ou contacter le service client."
+  },
+  {
+    "Id": "DownloadStateNone",
+    "Content": "Erreur inconnue."
+  },
+  {
+    "Id": "DownloadStateHttpError",
+    "Content": "Erreur de réseau."
+  },
+  {
+    "Id": "DownloadStateFileRenameError",
+    "Content": "Erreur : Impossible de renommer le fichier"
+  },
+  {
+    "Id": "DownloadStateValidateError",
+    "Content": "Échec de la vérification du fichier."
+  },
+  {
+    "Id": "DownloadStateOpenToWriteError",
+    "Content": "Échec de l'écriture du fichier."
+  },
+  {
+    "Id": "DownloadStateNotEnoughSpace",
+    "Content": "Espace disque insuffisant."
+  },
+  {
+    "Id": "DownloadStateDownloadCanceled",
+    "Content": "Téléchargement annulé."
+  },
+  {
+    "Id": "DownloadStateSuccess",
+    "Content": "Téléchargement réussi."
+  },
+  {
+    "Id": "CompilingShader",
+    "Content": "Compilation des shaders {0} en cours."
+  },
+  {
+    "Id": "GetRemotePackageConfigFail",
+    "Content": "Échec de l'obtention des données de l'ensemble complet à distance. Veuillez vérifier la connexion réseau et redémarrer le client pour réessayer."
+  },
+  {
+    "Id": "NewVersionDetailDesc",
+    "Content": "Détails de la nouvelle version."
+  },
+  {
+    "Id": "NewVersionDetailDownloadGetReward",
+    "Content": "On a une nouvelle version. Téléchargez la dernière version du jeu s'il vous plaît. Connectez-vous après la mise à jour pour obtenir les récompenses : <color=highlight>300 Astrite + 2 Solutions des Lames-retard</color>."
+  },
+  {
+    "Id": "ConfirmText",
+    "Content": "Confirmer"
+  },
+  {
+    "Id": "FirstDownloadTip",
+    "Content": "Ressources à télécharger : {0}. Voulez-vous continuer ?"
+  },
+  {
+    "Id": "DownloadTitle",
+    "Content": "Téléchargement les ressources."
+  },
+  {
+    "Id": "MobileDriverOutOfVersion",
+    "Content": ""
+  },
+  {
+    "Id": "DownloadContinue",
+    "Content": ""
+  },
+  {
+    "Id": "PatchClear",
+    "Content": ""
+  },
+  {
+    "Id": "PatchClearTitle",
+    "Content": ""
+  },
+  {
+    "Id": "PatchClearbutton",
+    "Content": ""
+  }
 ]

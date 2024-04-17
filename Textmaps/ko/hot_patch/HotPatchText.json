@@ -1,242 +1,242 @@
 [
-    {
-        "Id": "NetworkConnect",
-        "Content": "연결 중"
-    },
-    {
-        "Id": "PatchDown",
-        "Content": "다운로드 중: {0} 속도: {1} 리소스 크기: {2}/{3}"
-    },
-    {
-        "Id": "PatchDownTips",
-        "Content": "다운로드 중에 게임을 최소화할 수 있습니다"
-    },
-    {
-        "Id": "Install",
-        "Content": "업데이트 파일 설치 중"
-    },
-    {
-        "Id": "InstallTips",
-        "Content": "설치하는 동안 게임을 종료하지 마세요"
-    },
-    {
-        "Id": "CheckIntegrity",
-        "Content": "게임 리소스 무결성 확인 중 {0}%"
-    },
-    {
-        "Id": "NoNetwork",
-        "Content": "연결된 네트워크가 없습니다. 네트워크를 확인하고 다시 시도하세요"
-    },
-    {
-        "Id": "GetUpdateInfoFail",
-        "Content": "업데이트 정보를 가져오는 데 실패했습니다"
-    },
-    {
-        "Id": "HotFixTipsTitle",
-        "Content": "알림"
-    },
-    {
-        "Id": "HotFixQuit",
-        "Content": "나가기"
-    },
-    {
-        "Id": "HotFixRetry",
-        "Content": "재시도"
-    },
-    {
-        "Id": "HotFixNewPatch",
-        "Content": "새로운 업데이트 파일 {0}이(가) 있습니다. 현재 네트워크 환경은 모바일 데이터입니다. 모바일 데이터를 사용하여 다운로드하시겠습니까?"
-    },
-    {
-        "Id": "HotFixUseNetworkDownload",
-        "Content": "데이터로 다운로드하기"
-    },
-    {
-        "Id": "HotFixRestartToCompleteHotFix",
-        "Content": "업데이트 완료, 게임을 다시 시작해주세요"
-    },
-    {
-        "Id": "HotFixRestartToRepairFiles",
-        "Content": "파일 복구 완료, 게임을 다시 시작해주세요"
-    },
-    {
-        "Id": "HotFixWriteStorageTips",
-        "Content": "업데이트 파일을 저장하려면 「저장」권한을 오픈해야 합니다. 휴대폰 설정 - 권한 관리에서 저장 권한을 오픈하고 게임을 다시 시작하세요"
-    },
-    {
-        "Id": "HotFixNotEnoughSpace",
-        "Content": "{0} 데이터를 다운로드해야 합니다. 현재 장치 공간이 부족하니, 우선 정리하시기 바랍니다. 정리가 완료되면 「계속하기」를 클릭하세요"
-    },
-    {
-        "Id": "HotFixContinue",
-        "Content": "계속하기"
-    },
-    {
-        "Id": "HotFixCancel",
-        "Content": "취소"
-    },
-    {
-        "Id": "HotFixNetworkChange",
-        "Content": "네트워크 변동이 감지되었습니다. 현재 네트워크 환경은 모바일 데이터입니다. 모바일 데이터를 사용하여 다운로드하시겠습니까?"
-    },
-    {
-        "Id": "SplashCautionTitle",
-        "Content": "경고: 게임 플레이 전에 읽어주세요"
-    },
-    {
-        "Id": "SplashCautionContent",
-        "Content": "전자 게임은 번쩍이는 빛을 포함하고 있어, 광자극으로 인해 극소수의 사람들이 게임 플레이 도중 현기증, 발작, 시각 이상, 의식 상실, 뇌전증 발작 등 '감광성 뇌전증' 증상이 나타날 수 있습니다. 이 증상들은 이전에 발작 또는 의식을 잃어본 적이 있거나 발작 또는 뇌전증 병력이 없는 사람에게도 게임 플레이 도중 발생할 수 있습니다. 만약 귀하나 귀하의 가족이 뇌전증과 관련된 증상을 겪은 적이 있는 경우에는 게임 플레이 전에 의사와 상담하여야 합니다. 또한 게임 플레이 도중 위와 같은 증상이 나타나면, 즉시 게임을 중지하고 진료를 받으시기 바랍니다"
-    },
-    {
-        "Id": "SplashLoading",
-        "Content": "게임 로딩 중..."
-    },
-    {
-        "Id": "SplashHealthyGamingAdvisory",
-        "Content": ""
-    },
-    {
-        "Id": "SplashCopyrightInformation",
-        "Content": "승인 번호: 궈신출심[2023] 1802호 ISBN 978-7-498-12761-7 출판사: 청두잉중큐저우 사이버 과학 기술 유한 회사\n저작권자: 광저우 쿠로 과학 기술 유한 회사"
-    },
-    {
-        "Id": "GetRemoteConfigFailed",
-        "Content": "원격 설정 가져오기에 실패했습니다. 네트워크 연결 확인 후 다시 시도하세요"
-    },
-    {
-        "Id": "StartHotFix",
-        "Content": "핫픽스 업데이트 검사 시작"
-    },
-    {
-        "Id": "GetRemoteVersion",
-        "Content": "원격 버전 설정 가져오기"
-    },
-    {
-        "Id": "GetRemoteVersionFailed",
-        "Content": "원격 버전 설정을 가져오는 데 실패했습니다"
-    },
-    {
-        "Id": "CheckAppUpdate",
-        "Content": "응용 프로그램 업데이트 확인 중..."
-    },
-    {
-        "Id": "CheckResourceVersion",
-        "Content": "{0} 리소스 버전 확인"
-    },
-    {
-        "Id": "ResolveIndexFile",
-        "Content": "리소스 패치 분석 중..."
-    },
-    {
-        "Id": "MountPak",
-        "Content": "응용 프로그램 리소스 패치"
-    },
-    {
-        "Id": "CompleteHotFix",
-        "Content": "핫픽스 업데이트 완료"
-    },
-    {
-        "Id": "DownloadIndexFileFailed",
-        "Content": "{0}의 이유로 패치 목록 정보를 가져오는 데 실패하였습니다"
-    },
-    {
-        "Id": "DownloadResourcePatchFailed",
-        "Content": "{0}의 이유로 리소스 패치 다운로드에 실패하였습니다"
-    },
-    {
-        "Id": "EvaluateDownloadResourcePatchFailed",
-        "Content": "(분석) {0}의 이유로 리소스 패치 다운로드에 실패하였습니다"
-    },
-    {
-        "Id": "GetResourceInfoFailed",
-        "Content": "리소스 패치 유형 분석 실패"
-    },
-    {
-        "Id": "ResolveIndexFileFailed",
-        "Content": "패치 목록 확인 실패, 다시 시도하시거나 고객센터로 문의하시기 바랍니다"
-    },
-    {
-        "Id": "ValidateResourceFailed",
-        "Content": "데이터 파일 검사 실패, 다시 시도하시거나 고객센터로 문의하시기 바랍니다"
-    },
-    {
-        "Id": "DownloadStateNone",
-        "Content": "알지 못한 오류"
-    },
-    {
-        "Id": "DownloadStateHttpError",
-        "Content": "네트워크 오류"
-    },
-    {
-        "Id": "DownloadStateFileRenameError",
-        "Content": "파일 이름 바꾸기 실패"
-    },
-    {
-        "Id": "DownloadStateValidateError",
-        "Content": "파일 검증 실패"
-    },
-    {
-        "Id": "DownloadStateOpenToWriteError",
-        "Content": "파일 입력 실패"
-    },
-    {
-        "Id": "DownloadStateNotEnoughSpace",
-        "Content": "저장 공간 부족"
-    },
-    {
-        "Id": "DownloadStateDownloadCanceled",
-        "Content": "다운로드 취소"
-    },
-    {
-        "Id": "DownloadStateSuccess",
-        "Content": "다운로드 완료"
-    },
-    {
-        "Id": "CompilingShader",
-        "Content": "쉐이더 컴파일 중  {0}"
-    },
-    {
-        "Id": "GetRemotePackageConfigFail",
-        "Content": "전체 원격 데이터 가져오기에 실패했습니다. 네트워크 연결 확인 후 클라이언트를 다시 시작하세요"
-    },
-    {
-        "Id": "NewVersionDetailDesc",
-        "Content": "새로운 버전 정보"
-    },
-    {
-        "Id": "NewVersionDetailDownloadGetReward",
-        "Content": "게임은 새로운 버전이 있습니다. 새로운 버전을 다운로드하세요. \n\n 새로운 버전을 다운로드하고 로그인하면 <color=#C49E55FF>별의 소리*300, 결정 용제*2</color>를 얻을 수 있습니다"
-    },
-    {
-        "Id": "ConfirmText",
-        "Content": "확인"
-    },
-    {
-        "Id": "FirstDownloadTip",
-        "Content": "이번에는 총 {0}의 리소스를 다운로드해야 합니다. 계속 진행하시겠습니까?"
-    },
-    {
-        "Id": "DownloadTitle",
-        "Content": "리소스 다운로드"
-    },
-    {
-        "Id": "MobileDriverOutOfVersion",
-        "Content": "모바일 드라이버 버전이 너무 오래된 것으로 감지되었으며(GL 드라이버 버전<378), 게임 실행 중에 튕길 가능성이 있습니다. 정상적인 게임 체험을 위해, 모바일 시스템 혹은 GL 드라이버를 업데이트할 것을 권장합니다"
-    },
-    {
-        "Id": "DownloadContinue",
-        "Content": "클릭하여 계속하기"
-    },
-    {
-        "Id": "PatchClear",
-        "Content": "로컬 패치를 제거하고 다시 다운로드합니다. 확인하시겠습니까?"
-    },
-    {
-        "Id": "PatchClearTitle",
-        "Content": "패치 제거"
-    },
-    {
-        "Id": "PatchClearbutton",
-        "Content": "복구"
-    }
+  {
+    "Id": "NetworkConnect",
+    "Content": "연결 중"
+  },
+  {
+    "Id": "PatchDown",
+    "Content": "다운로드 중: {0} 속도: {1} 리소스 크기: {2}/{3}"
+  },
+  {
+    "Id": "PatchDownTips",
+    "Content": "다운로드 중에 게임을 최소화할 수 있습니다"
+  },
+  {
+    "Id": "Install",
+    "Content": "업데이트 파일 설치 중"
+  },
+  {
+    "Id": "InstallTips",
+    "Content": "설치하는 동안 게임을 종료하지 마세요"
+  },
+  {
+    "Id": "CheckIntegrity",
+    "Content": "게임 리소스 무결성 확인 중 {0}%"
+  },
+  {
+    "Id": "NoNetwork",
+    "Content": "연결된 네트워크가 없습니다. 네트워크를 확인하고 다시 시도하세요"
+  },
+  {
+    "Id": "GetUpdateInfoFail",
+    "Content": "업데이트 정보를 가져오는 데 실패했습니다"
+  },
+  {
+    "Id": "HotFixTipsTitle",
+    "Content": "알림"
+  },
+  {
+    "Id": "HotFixQuit",
+    "Content": "나가기"
+  },
+  {
+    "Id": "HotFixRetry",
+    "Content": "재시도"
+  },
+  {
+    "Id": "HotFixNewPatch",
+    "Content": "새로운 업데이트 파일 {0}이(가) 있습니다. 현재 네트워크 환경은 모바일 데이터입니다. 모바일 데이터를 사용하여 다운로드하시겠습니까?"
+  },
+  {
+    "Id": "HotFixUseNetworkDownload",
+    "Content": "데이터로 다운로드하기"
+  },
+  {
+    "Id": "HotFixRestartToCompleteHotFix",
+    "Content": "업데이트 완료, 게임을 다시 시작해주세요"
+  },
+  {
+    "Id": "HotFixRestartToRepairFiles",
+    "Content": "파일 복구 완료, 게임을 다시 시작해주세요"
+  },
+  {
+    "Id": "HotFixWriteStorageTips",
+    "Content": "업데이트 파일을 저장하려면 「저장」권한을 오픈해야 합니다. 휴대폰 설정 - 권한 관리에서 저장 권한을 오픈하고 게임을 다시 시작하세요"
+  },
+  {
+    "Id": "HotFixNotEnoughSpace",
+    "Content": "{0} 데이터를 다운로드해야 합니다. 현재 장치 공간이 부족하니, 우선 정리하시기 바랍니다. 정리가 완료되면 「계속하기」를 클릭하세요"
+  },
+  {
+    "Id": "HotFixContinue",
+    "Content": "계속하기"
+  },
+  {
+    "Id": "HotFixCancel",
+    "Content": "취소"
+  },
+  {
+    "Id": "HotFixNetworkChange",
+    "Content": "네트워크 변동이 감지되었습니다. 현재 네트워크 환경은 모바일 데이터입니다. 모바일 데이터를 사용하여 다운로드하시겠습니까?"
+  },
+  {
+    "Id": "SplashCautionTitle",
+    "Content": "경고: 게임 플레이 전에 읽어주세요"
+  },
+  {
+    "Id": "SplashCautionContent",
+    "Content": "전자 게임은 번쩍이는 빛을 포함하고 있어, 광자극으로 인해 극소수의 사람들이 게임 플레이 도중 현기증, 발작, 시각 이상, 의식 상실, 뇌전증 발작 등 '감광성 뇌전증' 증상이 나타날 수 있습니다. 이 증상들은 이전에 발작 또는 의식을 잃어본 적이 있거나 발작 또는 뇌전증 병력이 없는 사람에게도 게임 플레이 도중 발생할 수 있습니다. 만약 귀하나 귀하의 가족이 뇌전증과 관련된 증상을 겪은 적이 있는 경우에는 게임 플레이 전에 의사와 상담하여야 합니다. 또한 게임 플레이 도중 위와 같은 증상이 나타나면, 즉시 게임을 중지하고 진료를 받으시기 바랍니다"
+  },
+  {
+    "Id": "SplashLoading",
+    "Content": "게임 로딩 중..."
+  },
+  {
+    "Id": "SplashHealthyGamingAdvisory",
+    "Content": ""
+  },
+  {
+    "Id": "SplashCopyrightInformation",
+    "Content": "승인 번호: 궈신출심[2023] 1802호 ISBN 978-7-498-12761-7 출판사: 청두잉중큐저우 사이버 과학 기술 유한 회사\n저작권자: 광저우 쿠로 과학 기술 유한 회사"
+  },
+  {
+    "Id": "GetRemoteConfigFailed",
+    "Content": "원격 설정 가져오기에 실패했습니다. 네트워크 연결 확인 후 다시 시도하세요"
+  },
+  {
+    "Id": "StartHotFix",
+    "Content": "핫픽스 업데이트 검사 시작"
+  },
+  {
+    "Id": "GetRemoteVersion",
+    "Content": "원격 버전 설정 가져오기"
+  },
+  {
+    "Id": "GetRemoteVersionFailed",
+    "Content": "원격 버전 설정을 가져오는 데 실패했습니다"
+  },
+  {
+    "Id": "CheckAppUpdate",
+    "Content": "응용 프로그램 업데이트 확인 중..."
+  },
+  {
+    "Id": "CheckResourceVersion",
+    "Content": "{0} 리소스 버전 확인"
+  },
+  {
+    "Id": "ResolveIndexFile",
+    "Content": "리소스 패치 분석 중..."
+  },
+  {
+    "Id": "MountPak",
+    "Content": "응용 프로그램 리소스 패치"
+  },
+  {
+    "Id": "CompleteHotFix",
+    "Content": "핫픽스 업데이트 완료"
+  },
+  {
+    "Id": "DownloadIndexFileFailed",
+    "Content": "{0}의 이유로 패치 목록 정보를 가져오는 데 실패하였습니다"
+  },
+  {
+    "Id": "DownloadResourcePatchFailed",
+    "Content": "{0}의 이유로 리소스 패치 다운로드에 실패하였습니다"
+  },
+  {
+    "Id": "EvaluateDownloadResourcePatchFailed",
+    "Content": "(분석) {0}의 이유로 리소스 패치 다운로드에 실패하였습니다"
+  },
+  {
+    "Id": "GetResourceInfoFailed",
+    "Content": "리소스 패치 유형 분석 실패"
+  },
+  {
+    "Id": "ResolveIndexFileFailed",
+    "Content": "패치 목록 확인 실패, 다시 시도하시거나 고객센터로 문의하시기 바랍니다"
+  },
+  {
+    "Id": "ValidateResourceFailed",
+    "Content": "데이터 파일 검사 실패, 다시 시도하시거나 고객센터로 문의하시기 바랍니다"
+  },
+  {
+    "Id": "DownloadStateNone",
+    "Content": "알지 못한 오류"
+  },
+  {
+    "Id": "DownloadStateHttpError",
+    "Content": "네트워크 오류"
+  },
+  {
+    "Id": "DownloadStateFileRenameError",
+    "Content": "파일 이름 바꾸기 실패"
+  },
+  {
+    "Id": "DownloadStateValidateError",
+    "Content": "파일 검증 실패"
+  },
+  {
+    "Id": "DownloadStateOpenToWriteError",
+    "Content": "파일 입력 실패"
+  },
+  {
+    "Id": "DownloadStateNotEnoughSpace",
+    "Content": "저장 공간 부족"
+  },
+  {
+    "Id": "DownloadStateDownloadCanceled",
+    "Content": "다운로드 취소"
+  },
+  {
+    "Id": "DownloadStateSuccess",
+    "Content": "다운로드 완료"
+  },
+  {
+    "Id": "CompilingShader",
+    "Content": "쉐이더 컴파일 중  {0}"
+  },
+  {
+    "Id": "GetRemotePackageConfigFail",
+    "Content": "전체 원격 데이터 가져오기에 실패했습니다. 네트워크 연결 확인 후 클라이언트를 다시 시작하세요"
+  },
+  {
+    "Id": "NewVersionDetailDesc",
+    "Content": "새로운 버전 정보"
+  },
+  {
+    "Id": "NewVersionDetailDownloadGetReward",
+    "Content": "게임은 새로운 버전이 있습니다. 새로운 버전을 다운로드하세요. \n\n 새로운 버전을 다운로드하고 로그인하면 <color=#C49E55FF>별의 소리*300, 결정 용제*2</color>를 얻을 수 있습니다"
+  },
+  {
+    "Id": "ConfirmText",
+    "Content": "확인"
+  },
+  {
+    "Id": "FirstDownloadTip",
+    "Content": "이번에는 총 {0}의 리소스를 다운로드해야 합니다. 계속 진행하시겠습니까?"
+  },
+  {
+    "Id": "DownloadTitle",
+    "Content": "리소스 다운로드"
+  },
+  {
+    "Id": "MobileDriverOutOfVersion",
+    "Content": "모바일 드라이버 버전이 너무 오래된 것으로 감지되었으며(GL 드라이버 버전<378), 게임 실행 중에 튕길 가능성이 있습니다. 정상적인 게임 체험을 위해, 모바일 시스템 혹은 GL 드라이버를 업데이트할 것을 권장합니다"
+  },
+  {
+    "Id": "DownloadContinue",
+    "Content": "클릭하여 계속하기"
+  },
+  {
+    "Id": "PatchClear",
+    "Content": "로컬 패치를 제거하고 다시 다운로드합니다. 확인하시겠습니까?"
+  },
+  {
+    "Id": "PatchClearTitle",
+    "Content": "패치 제거"
+  },
+  {
+    "Id": "PatchClearbutton",
+    "Content": "복구"
+  }
 ]

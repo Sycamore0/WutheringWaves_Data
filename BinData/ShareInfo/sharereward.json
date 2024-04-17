@@ -1,46 +1,42 @@
 [
-{
-  "Id": 1,
-  "ShareType": 1,
-  "ShareReward": {
-    "size": 1
+  {
+    "Id": 1,
+    "ShareType": 1,
+    "ShareReward": {
+      "size": 1
+    },
+    "UpdateType": 0
   },
-  "UpdateType": 0
-}
-,
-{
-  "Id": 2,
-  "ShareType": 2,
-  "ShareReward": {
-    "size": 1
+  {
+    "Id": 2,
+    "ShareType": 2,
+    "ShareReward": {
+      "size": 1
+    },
+    "UpdateType": 0
   },
-  "UpdateType": 0
-}
-,
-{
-  "Id": 3,
-  "ShareType": 3,
-  "ShareReward": {
-    "size": 1
+  {
+    "Id": 3,
+    "ShareType": 3,
+    "ShareReward": {
+      "size": 1
+    },
+    "UpdateType": 0
   },
-  "UpdateType": 0
-}
-,
-{
-  "Id": 4,
-  "ShareType": 3,
-  "ShareReward": {
-    "size": 1
+  {
+    "Id": 4,
+    "ShareType": 3,
+    "ShareReward": {
+      "size": 1
+    },
+    "UpdateType": 0
   },
-  "UpdateType": 0
-}
-,
-{
-  "Id": 5,
-  "ShareType": 4,
-  "ShareReward": {
-    "size": 1
-  },
-  "UpdateType": 0
-}
+  {
+    "Id": 5,
+    "ShareType": 4,
+    "ShareReward": {
+      "size": 1
+    },
+    "UpdateType": 0
+  }
 ]

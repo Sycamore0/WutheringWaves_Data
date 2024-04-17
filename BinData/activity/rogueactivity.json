@@ -1,9 +1,7 @@
 [
-{
-  "Id": 100600001,
-  "FunctionType": 2,
-  "FunctionParams": [
-    "RoguelikeActivityView"
-  ]
-}
+  {
+    "Id": 100600001,
+    "FunctionType": 2,
+    "FunctionParams": ["RoguelikeActivityView"]
+  }
 ]

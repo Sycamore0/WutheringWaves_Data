@@ -1,482 +1,482 @@
 [
-    {
-        "Id": 1,
-        "Content": "OccupationConfig_anke_Name"
-    },
-    {
-        "Id": 2,
-        "Content": "安可"
-    },
-    {
-        "Id": 3,
-        "Content": "OccupationConfig_yangyang_Name"
-    },
-    {
-        "Id": 4,
-        "Content": "秧秧"
-    },
-    {
-        "Id": 5,
-        "Content": "OccupationConfig_chenpi_Name"
-    },
-    {
-        "Id": 6,
-        "Content": "陈皮"
-    },
-    {
-        "Id": 7,
-        "Content": "OccupationConfig_ganxue_Name"
-    },
-    {
-        "Id": 8,
-        "Content": "甘雪"
-    },
-    {
-        "Id": 9,
-        "Content": "OccupationConfig_mahe_Name"
-    },
-    {
-        "Id": 10,
-        "Content": "马和"
-    },
-    {
-        "Id": 11,
-        "Content": "OccupationConfig_yuzan_Name"
-    },
-    {
-        "Id": 12,
-        "Content": "玉簪"
-    },
-    {
-        "Id": 13,
-        "Content": "OccupationConfig_zhuyi_Name"
-    },
-    {
-        "Id": 14,
-        "Content": "朱毅"
-    },
-    {
-        "Id": 15,
-        "Content": "OccupationConfig_yixin_Name"
-    },
-    {
-        "Id": 16,
-        "Content": "一心"
-    },
-    {
-        "Id": 17,
-        "Content": "OccupationConfig_xuxu_Name"
-    },
-    {
-        "Id": 18,
-        "Content": "栩栩"
-    },
-    {
-        "Id": 19,
-        "Content": "OccupationConfig_qingru_Name"
-    },
-    {
-        "Id": 20,
-        "Content": "擎如"
-    },
-    {
-        "Id": 21,
-        "Content": "OccupationConfig_pinwen_Name"
-    },
-    {
-        "Id": 22,
-        "Content": "品雯"
-    },
-    {
-        "Id": 23,
-        "Content": "OccupationConfig_langsheng_Name"
-    },
-    {
-        "Id": 24,
-        "Content": "琅生"
-    },
-    {
-        "Id": 25,
-        "Content": "OccupationConfig_ashui_Name"
-    },
-    {
-        "Id": 26,
-        "Content": "阿水"
-    },
-    {
-        "Id": 27,
-        "Content": "OccupationConfig_lizhu_Name"
-    },
-    {
-        "Id": 28,
-        "Content": "骊珠"
-    },
-    {
-        "Id": 29,
-        "Content": "OccupationConfig_feifei_Name"
-    },
-    {
-        "Id": 30,
-        "Content": "菲菲"
-    },
-    {
-        "Id": 31,
-        "Content": "OccupationConfig_jiyan_Name"
-    },
-    {
-        "Id": 32,
-        "Content": "忌炎"
-    },
-    {
-        "Id": 33,
-        "Content": "OccupationConfig_chixia_Name"
-    },
-    {
-        "Id": 34,
-        "Content": "炽霞"
-    },
-    {
-        "Id": 35,
-        "Content": "OccupationConfig_bailian_Name"
-    },
-    {
-        "Id": 36,
-        "Content": "白莲"
-    },
-    {
-        "Id": 37,
-        "Content": "OccupationConfig_taoqi_Name"
-    },
-    {
-        "Id": 38,
-        "Content": "桃祈"
-    },
-    {
-        "Id": 39,
-        "Content": "OccupationConfig_lingyang_Name"
-    },
-    {
-        "Id": 40,
-        "Content": "凌阳"
-    },
-    {
-        "Id": 41,
-        "Content": "OccupationConfig_danjin_Name"
-    },
-    {
-        "Id": 42,
-        "Content": "丹瑾"
-    },
-    {
-        "Id": 43,
-        "Content": "OccupationConfig_yinlin_Name"
-    },
-    {
-        "Id": 44,
-        "Content": "吟霖"
-    },
-    {
-        "Id": 45,
-        "Content": "OccupationConfig_kakaluo_Name"
-    },
-    {
-        "Id": 46,
-        "Content": "卡卡罗"
-    },
-    {
-        "Id": 47,
-        "Content": "OccupationConfig_sanhua_Name"
-    },
-    {
-        "Id": 48,
-        "Content": "散华"
-    },
-    {
-        "Id": 49,
-        "Content": "OccupationConfig_jinxi_Name"
-    },
-    {
-        "Id": 50,
-        "Content": "今汐"
-    },
-    {
-        "Id": 51,
-        "Content": "OccupationConfig_qiushui_Name"
-    },
-    {
-        "Id": 52,
-        "Content": "秋水"
-    },
-    {
-        "Id": 53,
-        "Content": "OccupationConfig_motefei_Name"
-    },
-    {
-        "Id": 54,
-        "Content": "莫特斐"
-    },
-    {
-        "Id": 55,
-        "Content": "OccupationConfig_yuanwu_Name"
-    },
-    {
-        "Id": 56,
-        "Content": "渊武"
-    },
-    {
-        "Id": 57,
-        "Content": "OccupationConfig_jueyuan_Name"
-    },
-    {
-        "Id": 58,
-        "Content": "绝园"
-    },
-    {
-        "Id": 59,
-        "Content": "OccupationConfig_shuncai_Name"
-    },
-    {
-        "Id": 60,
-        "Content": "顺才"
-    },
-    {
-        "Id": 61,
-        "Content": "OccupationConfig_guhong_Name"
-    },
-    {
-        "Id": 62,
-        "Content": "孤鸿"
-    },
-    {
-        "Id": 63,
-        "Content": "OccupationConfig_juepopo_Name"
-    },
-    {
-        "Id": 64,
-        "Content": "珏婆婆"
-    },
-    {
-        "Id": 65,
-        "Content": "OccupationConfig_sixi_Name"
-    },
-    {
-        "Id": 66,
-        "Content": "四喜"
-    },
-    {
-        "Id": 67,
-        "Content": "OccupationConfig_xiaojiu_Name"
-    },
-    {
-        "Id": 68,
-        "Content": "小九"
-    },
-    {
-        "Id": 69,
-        "Content": "OccupationConfig_guanghui_Name"
-    },
-    {
-        "Id": 70,
-        "Content": "广荟"
-    },
-    {
-        "Id": 71,
-        "Content": "OccupationConfig_yunbo_Name"
-    },
-    {
-        "Id": 72,
-        "Content": "云伯"
-    },
-    {
-        "Id": 73,
-        "Content": "OccupationConfig_yanyan_Name"
-    },
-    {
-        "Id": 74,
-        "Content": "严彦"
-    },
-    {
-        "Id": 75,
-        "Content": "OccupationConfig_shilang_Name"
-    },
-    {
-        "Id": 76,
-        "Content": "石琅"
-    },
-    {
-        "Id": 77,
-        "Content": "OccupationConfig_wyq_test_Name"
-    },
-    {
-        "Id": 78,
-        "Content": "无音区测试"
-    },
-    {
-        "Id": 79,
-        "Content": "OccupationConfig_wyq_npc_test_Nam"
-    },
-    {
-        "Id": 80,
-        "Content": "无音区（含NPC）测试"
-    },
-    {
-        "Id": 81,
-        "Content": "OccupationConfig_npc_test_Name"
-    },
-    {
-        "Id": 82,
-        "Content": "NPC测试"
-    },
-    {
-        "Id": 83,
-        "Content": "OccupationConfig_npc_test2_Name"
-    },
-    {
-        "Id": 84,
-        "Content": "NPC测试2"
-    },
-    {
-        "Id": 85,
-        "Content": "OccupationConfig_主线无冠者无音区占用_Nam"
-    },
-    {
-        "Id": 86,
-        "Content": "主线无冠者无音区占用"
-    },
-    {
-        "Id": 87,
-        "Content": "OccupationConfig_screenOccupation_Nam"
-    },
-    {
-        "Id": 88,
-        "Content": "屏幕占用"
-    },
-    {
-        "Id": 89,
-        "Content": "OccupationConfig_timeOccupation_Nam"
-    },
-    {
-        "Id": 90,
-        "Content": "时间占用"
-    },
-    {
-        "Id": 91,
-        "Content": "OccupationConfig_乌龟无音区占用_Nam"
-    },
-    {
-        "Id": 92,
-        "Content": "乌龟无音区占用"
-    },
-    {
-        "Id": 93,
-        "Content": "OccupationConfig_燎照之骑无音区占用_Nam"
-    },
-    {
-        "Id": 94,
-        "Content": "燎照之骑无音区占用"
-    },
-    {
-        "Id": 95,
-        "Content": "OccupationConfig_沃艾珥领主占用_Nam"
-    },
-    {
-        "Id": 96,
-        "Content": "沃艾珥领主占用"
-    },
-    {
-        "Id": 97,
-        "Content": "OccupationConfig_辉莹军势占用_Nam"
-    },
-    {
-        "Id": 98,
-        "Content": "辉莹军势占用"
-    },
-    {
-        "Id": 99,
-        "Content": "OccupationConfig_yihu_Name"
-    },
-    {
-        "Id": 100,
-        "Content": "一壶"
-    },
-    {
-        "Id": 101,
-        "Content": "OccupationConfig_panhua_Name"
-    },
-    {
-        "Id": 102,
-        "Content": "攀花"
-    },
-    {
-        "Id": 103,
-        "Content": "OccupationConfig_xieyang_Name"
-    },
-    {
-        "Id": 104,
-        "Content": "斜阳"
-    },
-    {
-        "Id": 105,
-        "Content": "OccupationConfig_mingming_Name"
-    },
-    {
-        "Id": 106,
-        "Content": "铭铭"
-    },
-    {
-        "Id": 107,
-        "Content": "OccupationConfig_doudou_Name"
-    },
-    {
-        "Id": 108,
-        "Content": "豆豆"
-    },
-    {
-        "Id": 109,
-        "Content": "OccupationConfig_鳞人无音区占用_Nam"
-    },
-    {
-        "Id": 110,
-        "Content": "鳞人无音区占用"
-    },
-    {
-        "Id": 111,
-        "Content": "OccupationConfig_fuyan_Name"
-    },
-    {
-        "Id": 112,
-        "Content": "扶岩"
-    },
-    {
-        "Id": 113,
-        "Content": "OccupationConfig_wyq_test2_Name"
-    },
-    {
-        "Id": 114,
-        "Content": "无音区测试2"
-    },
-    {
-        "Id": 115,
-        "Content": "OccupationConfig_linsu_Name"
-    },
-    {
-        "Id": 116,
-        "Content": "林素"
-    },
-    {
-        "Id": 117,
-        "Content": "OccupationConfig_祈池村无音区_Nam"
-    },
-    {
-        "Id": 118,
-        "Content": "祈池村无音区"
-    },
-    {
-        "Id": 119,
-        "Content": "OccupationConfig_地下鳞人刷新_Nam"
-    },
-    {
-        "Id": 120,
-        "Content": "地下鳞人刷新"
-    }
+  {
+    "Id": 1,
+    "Content": "OccupationConfig_anke_Name"
+  },
+  {
+    "Id": 2,
+    "Content": "安可"
+  },
+  {
+    "Id": 3,
+    "Content": "OccupationConfig_yangyang_Name"
+  },
+  {
+    "Id": 4,
+    "Content": "秧秧"
+  },
+  {
+    "Id": 5,
+    "Content": "OccupationConfig_chenpi_Name"
+  },
+  {
+    "Id": 6,
+    "Content": "陈皮"
+  },
+  {
+    "Id": 7,
+    "Content": "OccupationConfig_ganxue_Name"
+  },
+  {
+    "Id": 8,
+    "Content": "甘雪"
+  },
+  {
+    "Id": 9,
+    "Content": "OccupationConfig_mahe_Name"
+  },
+  {
+    "Id": 10,
+    "Content": "马和"
+  },
+  {
+    "Id": 11,
+    "Content": "OccupationConfig_yuzan_Name"
+  },
+  {
+    "Id": 12,
+    "Content": "玉簪"
+  },
+  {
+    "Id": 13,
+    "Content": "OccupationConfig_zhuyi_Name"
+  },
+  {
+    "Id": 14,
+    "Content": "朱毅"
+  },
+  {
+    "Id": 15,
+    "Content": "OccupationConfig_yixin_Name"
+  },
+  {
+    "Id": 16,
+    "Content": "一心"
+  },
+  {
+    "Id": 17,
+    "Content": "OccupationConfig_xuxu_Name"
+  },
+  {
+    "Id": 18,
+    "Content": "栩栩"
+  },
+  {
+    "Id": 19,
+    "Content": "OccupationConfig_qingru_Name"
+  },
+  {
+    "Id": 20,
+    "Content": "擎如"
+  },
+  {
+    "Id": 21,
+    "Content": "OccupationConfig_pinwen_Name"
+  },
+  {
+    "Id": 22,
+    "Content": "品雯"
+  },
+  {
+    "Id": 23,
+    "Content": "OccupationConfig_langsheng_Name"
+  },
+  {
+    "Id": 24,
+    "Content": "琅生"
+  },
+  {
+    "Id": 25,
+    "Content": "OccupationConfig_ashui_Name"
+  },
+  {
+    "Id": 26,
+    "Content": "阿水"
+  },
+  {
+    "Id": 27,
+    "Content": "OccupationConfig_lizhu_Name"
+  },
+  {
+    "Id": 28,
+    "Content": "骊珠"
+  },
+  {
+    "Id": 29,
+    "Content": "OccupationConfig_feifei_Name"
+  },
+  {
+    "Id": 30,
+    "Content": "菲菲"
+  },
+  {
+    "Id": 31,
+    "Content": "OccupationConfig_jiyan_Name"
+  },
+  {
+    "Id": 32,
+    "Content": "忌炎"
+  },
+  {
+    "Id": 33,
+    "Content": "OccupationConfig_chixia_Name"
+  },
+  {
+    "Id": 34,
+    "Content": "炽霞"
+  },
+  {
+    "Id": 35,
+    "Content": "OccupationConfig_bailian_Name"
+  },
+  {
+    "Id": 36,
+    "Content": "白莲"
+  },
+  {
+    "Id": 37,
+    "Content": "OccupationConfig_taoqi_Name"
+  },
+  {
+    "Id": 38,
+    "Content": "桃祈"
+  },
+  {
+    "Id": 39,
+    "Content": "OccupationConfig_lingyang_Name"
+  },
+  {
+    "Id": 40,
+    "Content": "凌阳"
+  },
+  {
+    "Id": 41,
+    "Content": "OccupationConfig_danjin_Name"
+  },
+  {
+    "Id": 42,
+    "Content": "丹瑾"
+  },
+  {
+    "Id": 43,
+    "Content": "OccupationConfig_yinlin_Name"
+  },
+  {
+    "Id": 44,
+    "Content": "吟霖"
+  },
+  {
+    "Id": 45,
+    "Content": "OccupationConfig_kakaluo_Name"
+  },
+  {
+    "Id": 46,
+    "Content": "卡卡罗"
+  },
+  {
+    "Id": 47,
+    "Content": "OccupationConfig_sanhua_Name"
+  },
+  {
+    "Id": 48,
+    "Content": "散华"
+  },
+  {
+    "Id": 49,
+    "Content": "OccupationConfig_jinxi_Name"
+  },
+  {
+    "Id": 50,
+    "Content": "今汐"
+  },
+  {
+    "Id": 51,
+    "Content": "OccupationConfig_qiushui_Name"
+  },
+  {
+    "Id": 52,
+    "Content": "秋水"
+  },
+  {
+    "Id": 53,
+    "Content": "OccupationConfig_motefei_Name"
+  },
+  {
+    "Id": 54,
+    "Content": "莫特斐"
+  },
+  {
+    "Id": 55,
+    "Content": "OccupationConfig_yuanwu_Name"
+  },
+  {
+    "Id": 56,
+    "Content": "渊武"
+  },
+  {
+    "Id": 57,
+    "Content": "OccupationConfig_jueyuan_Name"
+  },
+  {
+    "Id": 58,
+    "Content": "绝园"
+  },
+  {
+    "Id": 59,
+    "Content": "OccupationConfig_shuncai_Name"
+  },
+  {
+    "Id": 60,
+    "Content": "顺才"
+  },
+  {
+    "Id": 61,
+    "Content": "OccupationConfig_guhong_Name"
+  },
+  {
+    "Id": 62,
+    "Content": "孤鸿"
+  },
+  {
+    "Id": 63,
+    "Content": "OccupationConfig_juepopo_Name"
+  },
+  {
+    "Id": 64,
+    "Content": "珏婆婆"
+  },
+  {
+    "Id": 65,
+    "Content": "OccupationConfig_sixi_Name"
+  },
+  {
+    "Id": 66,
+    "Content": "四喜"
+  },
+  {
+    "Id": 67,
+    "Content": "OccupationConfig_xiaojiu_Name"
+  },
+  {
+    "Id": 68,
+    "Content": "小九"
+  },
+  {
+    "Id": 69,
+    "Content": "OccupationConfig_guanghui_Name"
+  },
+  {
+    "Id": 70,
+    "Content": "广荟"
+  },
+  {
+    "Id": 71,
+    "Content": "OccupationConfig_yunbo_Name"
+  },
+  {
+    "Id": 72,
+    "Content": "云伯"
+  },
+  {
+    "Id": 73,
+    "Content": "OccupationConfig_yanyan_Name"
+  },
+  {
+    "Id": 74,
+    "Content": "严彦"
+  },
+  {
+    "Id": 75,
+    "Content": "OccupationConfig_shilang_Name"
+  },
+  {
+    "Id": 76,
+    "Content": "石琅"
+  },
+  {
+    "Id": 77,
+    "Content": "OccupationConfig_wyq_test_Name"
+  },
+  {
+    "Id": 78,
+    "Content": "无音区测试"
+  },
+  {
+    "Id": 79,
+    "Content": "OccupationConfig_wyq_npc_test_Nam"
+  },
+  {
+    "Id": 80,
+    "Content": "无音区（含NPC）测试"
+  },
+  {
+    "Id": 81,
+    "Content": "OccupationConfig_npc_test_Name"
+  },
+  {
+    "Id": 82,
+    "Content": "NPC测试"
+  },
+  {
+    "Id": 83,
+    "Content": "OccupationConfig_npc_test2_Name"
+  },
+  {
+    "Id": 84,
+    "Content": "NPC测试2"
+  },
+  {
+    "Id": 85,
+    "Content": "OccupationConfig_主线无冠者无音区占用_Nam"
+  },
+  {
+    "Id": 86,
+    "Content": "主线无冠者无音区占用"
+  },
+  {
+    "Id": 87,
+    "Content": "OccupationConfig_screenOccupation_Nam"
+  },
+  {
+    "Id": 88,
+    "Content": "屏幕占用"
+  },
+  {
+    "Id": 89,
+    "Content": "OccupationConfig_timeOccupation_Nam"
+  },
+  {
+    "Id": 90,
+    "Content": "时间占用"
+  },
+  {
+    "Id": 91,
+    "Content": "OccupationConfig_乌龟无音区占用_Nam"
+  },
+  {
+    "Id": 92,
+    "Content": "乌龟无音区占用"
+  },
+  {
+    "Id": 93,
+    "Content": "OccupationConfig_燎照之骑无音区占用_Nam"
+  },
+  {
+    "Id": 94,
+    "Content": "燎照之骑无音区占用"
+  },
+  {
+    "Id": 95,
+    "Content": "OccupationConfig_沃艾珥领主占用_Nam"
+  },
+  {
+    "Id": 96,
+    "Content": "沃艾珥领主占用"
+  },
+  {
+    "Id": 97,
+    "Content": "OccupationConfig_辉莹军势占用_Nam"
+  },
+  {
+    "Id": 98,
+    "Content": "辉莹军势占用"
+  },
+  {
+    "Id": 99,
+    "Content": "OccupationConfig_yihu_Name"
+  },
+  {
+    "Id": 100,
+    "Content": "一壶"
+  },
+  {
+    "Id": 101,
+    "Content": "OccupationConfig_panhua_Name"
+  },
+  {
+    "Id": 102,
+    "Content": "攀花"
+  },
+  {
+    "Id": 103,
+    "Content": "OccupationConfig_xieyang_Name"
+  },
+  {
+    "Id": 104,
+    "Content": "斜阳"
+  },
+  {
+    "Id": 105,
+    "Content": "OccupationConfig_mingming_Name"
+  },
+  {
+    "Id": 106,
+    "Content": "铭铭"
+  },
+  {
+    "Id": 107,
+    "Content": "OccupationConfig_doudou_Name"
+  },
+  {
+    "Id": 108,
+    "Content": "豆豆"
+  },
+  {
+    "Id": 109,
+    "Content": "OccupationConfig_鳞人无音区占用_Nam"
+  },
+  {
+    "Id": 110,
+    "Content": "鳞人无音区占用"
+  },
+  {
+    "Id": 111,
+    "Content": "OccupationConfig_fuyan_Name"
+  },
+  {
+    "Id": 112,
+    "Content": "扶岩"
+  },
+  {
+    "Id": 113,
+    "Content": "OccupationConfig_wyq_test2_Name"
+  },
+  {
+    "Id": 114,
+    "Content": "无音区测试2"
+  },
+  {
+    "Id": 115,
+    "Content": "OccupationConfig_linsu_Name"
+  },
+  {
+    "Id": 116,
+    "Content": "林素"
+  },
+  {
+    "Id": 117,
+    "Content": "OccupationConfig_祈池村无音区_Nam"
+  },
+  {
+    "Id": 118,
+    "Content": "祈池村无音区"
+  },
+  {
+    "Id": 119,
+    "Content": "OccupationConfig_地下鳞人刷新_Nam"
+  },
+  {
+    "Id": 120,
+    "Content": "地下鳞人刷新"
+  }
 ]

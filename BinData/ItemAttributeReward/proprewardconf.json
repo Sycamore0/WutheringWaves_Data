@@ -1,15 +1,15 @@
 [
-{
-  "Id": 1,
-  "Props": [
-    {
-      "Id": 69,
-      "Value": 1000,
-      "IsRatio": false
+  {
+    "Id": 1,
+    "Props": [
+      {
+        "Id": 69,
+        "Value": 1000,
+        "IsRatio": false
+      }
+    ],
+    "Tips": {
+      "size": 0
     }
-  ],
-  "Tips": {
-    "size": 0
   }
-}
 ]
