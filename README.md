@@ -3,7 +3,7 @@
 > Client region: Global</br>
 > Status: Beta</br>
 > Game Version: 0.10.0</br>
-> Resource Version: 0.10.2</br>
+> Resource Version: 0.10.4</br>
 
 pls star I'm starving
 
