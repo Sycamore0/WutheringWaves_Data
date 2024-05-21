@@ -368,5 +368,25 @@
     "WindowBp": "",
     "ReviveTitle": "Revive_3100001_ReviveTitle",
     "ReviveContent": "Revive_3100001_ReviveContent"
+  },
+  {
+    "Id": 3200015,
+    "ReviveTimes": -1,
+    "UseItemId": 0,
+    "ReviveDelay": [],
+    "DeathBp": "",
+    "WindowBp": "",
+    "ReviveTitle": "Revive_3100001_ReviveTitle",
+    "ReviveContent": "Revive_3100001_ReviveContent"
+  },
+  {
+    "Id": 3200016,
+    "ReviveTimes": -1,
+    "UseItemId": 0,
+    "ReviveDelay": [],
+    "DeathBp": "",
+    "WindowBp": "",
+    "ReviveTitle": "Revive_3100001_ReviveTitle",
+    "ReviveContent": "Revive_3100001_ReviveContent"
   }
 ]

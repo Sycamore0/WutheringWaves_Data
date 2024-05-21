@@ -3,7 +3,7 @@
     "Id": 1,
     "PackageType": 0,
     "Language": ["all"],
-    "Channel": [],
+    "Channel": [18, 56, 161],
     "ShareId": 1,
     "Icon": "/Game/Aki/UI/UIResources/UiPhotograph/Atlas/SP_ShareIconKuro.SP_ShareIconKuro"
   },
@@ -11,7 +11,7 @@
     "Id": 2,
     "PackageType": 0,
     "Language": ["all"],
-    "Channel": [],
+    "Channel": [18, 56, 46, 161],
     "ShareId": 4,
     "Icon": "/Game/Aki/UI/UIResources/UiPhotograph/Atlas/SP_ShareIconWeChat.SP_ShareIconWeChat"
   },
@@ -19,7 +19,7 @@
     "Id": 3,
     "PackageType": 0,
     "Language": ["all"],
-    "Channel": [],
+    "Channel": [18, 56, 46, 161],
     "ShareId": 5,
     "Icon": "/Game/Aki/UI/UIResources/UiPhotograph/Atlas/SP_ShareIconMoments.SP_ShareIconMoments"
   },
@@ -27,7 +27,7 @@
     "Id": 4,
     "PackageType": 0,
     "Language": ["all"],
-    "Channel": [],
+    "Channel": [18, 56, 46, 161],
     "ShareId": 2,
     "Icon": "/Game/Aki/UI/UIResources/UiPhotograph/Atlas/SP_ShareIconQQ.SP_ShareIconQQ"
   },
@@ -35,7 +35,7 @@
     "Id": 5,
     "PackageType": 0,
     "Language": ["all"],
-    "Channel": [],
+    "Channel": [18, 56, 46, 161],
     "ShareId": 3,
     "Icon": "/Game/Aki/UI/UIResources/UiPhotograph/Atlas/SP_ShareIconQQRoom.SP_ShareIconQQRoom"
   },
@@ -43,7 +43,7 @@
     "Id": 6,
     "PackageType": 0,
     "Language": ["all"],
-    "Channel": [],
+    "Channel": [18, 56, 46],
     "ShareId": 6,
     "Icon": "/Game/Aki/UI/UIResources/UiPhotograph/Atlas/SP_ShareIconBiliBili.SP_ShareIconBiliBili"
   },
@@ -51,7 +51,7 @@
     "Id": 7,
     "PackageType": 0,
     "Language": ["all"],
-    "Channel": [],
+    "Channel": [18, 56, 46],
     "ShareId": 7,
     "Icon": "/Game/Aki/UI/UIResources/UiPhotograph/Atlas/SP_ShareIconBlog.SP_ShareIconBlog"
   },
@@ -67,7 +67,7 @@
     "Id": 101,
     "PackageType": 1,
     "Language": ["all"],
-    "Channel": [],
+    "Channel": [0],
     "ShareId": 1,
     "Icon": "/Game/Aki/UI/UIResources/UiPhotograph/Atlas/SP_ShareIconTwitter.SP_ShareIconTwitter"
   },
@@ -75,7 +75,7 @@
     "Id": 102,
     "PackageType": 1,
     "Language": ["all"],
-    "Channel": [],
+    "Channel": [0],
     "ShareId": 2,
     "Icon": "/Game/Aki/UI/UIResources/UiPhotograph/Atlas/SP_ShareIconFacebook.SP_ShareIconFacebook"
   },
@@ -83,7 +83,7 @@
     "Id": 103,
     "PackageType": 1,
     "Language": ["all"],
-    "Channel": [],
+    "Channel": [0],
     "ShareId": 3,
     "Icon": "/Game/Aki/UI/UIResources/UiPhotograph/Atlas/SP_ShareIconIns.SP_ShareIconIns"
   },
@@ -91,7 +91,7 @@
     "Id": 104,
     "PackageType": 1,
     "Language": ["all"],
-    "Channel": [],
+    "Channel": [0],
     "ShareId": 4,
     "Icon": "/Game/Aki/UI/UIResources/UiPhotograph/Atlas/SP_ShareIconTiktok.SP_ShareIconTiktok"
   },
@@ -99,7 +99,7 @@
     "Id": 105,
     "PackageType": 1,
     "Language": [],
-    "Channel": [],
+    "Channel": [0],
     "ShareId": 0,
     "Icon": "/Game/Aki/UI/UIResources/UiPhotograph/Atlas/SP_ShareIconNaverLounge.SP_ShareIconNaverLounge"
   },

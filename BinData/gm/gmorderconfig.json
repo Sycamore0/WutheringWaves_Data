@@ -466,5 +466,14 @@
     "CodeOverride": "clear_all_quest",
     "Sort": 3010,
     "Visible": true
+  },
+  {
+    "Id": 1009,
+    "Name": "一键毕业-关卡测试",
+    "NameOverride": "一键毕业-关卡测试",
+    "Code": "RunOrderList#135",
+    "CodeOverride": "RunOrderList#135",
+    "Sort": 1009,
+    "Visible": true
   }
 ]

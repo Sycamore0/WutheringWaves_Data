@@ -488,7 +488,14 @@
     "MaxSkillLevel": 10,
     "SkillInfoList": [],
     "BuffList": [],
-    "DamageList": ["1503608014", "1503608015", "1503608003"],
+    "DamageList": [
+      "1503608014",
+      "1503608015",
+      "1503608003",
+      "1503011111",
+      "1503012111",
+      "1503013111"
+    ],
     "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJueyuan/SP_IconJueyuanY.SP_IconJueyuanY",
     "EffectSkillPath": "/Game/Aki/Effect/Texture/Icon/IconSkill/T_IconYangyangQTE_UI.T_IconYangyangQTE_UI",
     "SortIndex": 7,
@@ -693,7 +700,6 @@
       "1102003001",
       "1102004001",
       "1102004002",
-      "1102005001",
       "1102005002",
       "1102007001",
       "1102009001",
@@ -1108,7 +1114,7 @@
     "SkillDescribe": "Skill_1000704_SkillDescribe",
     "SkillResume": "Skill_1000704_SkillDescribe",
     "SkillTagList": [],
-    "SkillDetailNum": ["70%", "12%"]
+    "SkillDetailNum": ["70%", "10%"]
   },
   {
     "Id": 1000705,
@@ -1127,7 +1133,7 @@
     "SkillDescribe": "Skill_1000705_SkillDescribe",
     "SkillResume": "Skill_1000705_SkillDescribe",
     "SkillTagList": [],
-    "SkillDetailNum": ["15%", "10"]
+    "SkillDetailNum": ["10%", "10"]
   },
   {
     "Id": 1000706,

@@ -478,5 +478,13 @@
   {
     "Id": 120,
     "Content": "地下鳞人刷新"
+  },
+  {
+    "Id": 121,
+    "Content": "OccupationConfig_漂泊者_Name"
+  },
+  {
+    "Id": 122,
+    "Content": "漂泊者"
   }
 ]

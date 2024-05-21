@@ -129,7 +129,7 @@
   },
   {
     "KeyName": "item_list_max_size",
-    "BinData": "AwAAAA=="
+    "BinData": "AgAAAA=="
   },
   {
     "KeyName": "drop_height_protect",
@@ -2749,7 +2749,7 @@
   },
   {
     "KeyName": "BlockPay",
-    "BinData": "AQ=="
+    "BinData": "AA=="
   },
   {
     "KeyName": "PrimaryBattlePassGiftPack",

@@ -1,195 +1,195 @@
 [
   {
     "Id": "NetworkConnect",
-    "Content": ""
+    "Content": "Conectando"
   },
   {
     "Id": "PatchDown",
-    "Content": ""
+    "Content": "Descargando: {0} Velocidad: {1} Tamaño: {2}/{3}"
   },
   {
     "Id": "PatchDownTips",
-    "Content": ""
+    "Content": "Puedes minimizar el cliente del juego durante la descarga"
   },
   {
     "Id": "Install",
-    "Content": ""
+    "Content": "Instalando Recursos de Actualización"
   },
   {
     "Id": "InstallTips",
-    "Content": ""
+    "Content": "Por favor, no cierres el juego durante la instalación"
   },
   {
     "Id": "CheckIntegrity",
-    "Content": ""
+    "Content": "Verificando la integridad de los archivos: {0}%"
   },
   {
     "Id": "NoNetwork",
-    "Content": ""
+    "Content": "No hay conexión a internet. Por favor, verifica y vuelve a intentarlo"
   },
   {
     "Id": "GetUpdateInfoFail",
-    "Content": ""
+    "Content": "No se pudieron obtener los detalles de la actualización"
   },
   {
     "Id": "HotFixTipsTitle",
-    "Content": ""
+    "Content": "Aviso"
   },
   {
     "Id": "HotFixQuit",
-    "Content": ""
+    "Content": "Salir"
   },
   {
     "Id": "HotFixRetry",
-    "Content": ""
+    "Content": "Reintentar"
   },
   {
     "Id": "HotFixNewPatch",
-    "Content": ""
+    "Content": "Una nueva actualización {0} está disponible. Estás utilizando datos móviles para la descarga. ¿Deseas continuar?"
   },
   {
     "Id": "HotFixUseNetworkDownload",
-    "Content": ""
+    "Content": "Usar Datos Móviles"
   },
   {
     "Id": "HotFixRestartToCompleteHotFix",
-    "Content": ""
+    "Content": "La actualización se ha completado. Por favor, reinicia el juego."
   },
   {
     "Id": "HotFixRestartToRepairFiles",
-    "Content": ""
+    "Content": "La reparación se ha completado. Por favor, reinicia el juego."
   },
   {
     "Id": "HotFixWriteStorageTips",
-    "Content": ""
+    "Content": "Por favor, permite el acceso al almacenamiento en Ajustes > Aplicación y reinicia el juego para guardar los recursos de la actualización."
   },
   {
     "Id": "HotFixNotEnoughSpace",
-    "Content": ""
+    "Content": "No hay suficiente espacio de almacenamiento para los recursos de actualización {0}. Por favor, elimina archivos para liberar espacio y pulsa en \"Continuar\" para proceder con la descarga."
   },
   {
     "Id": "HotFixContinue",
-    "Content": ""
+    "Content": "Continuar"
   },
   {
     "Id": "HotFixCancel",
-    "Content": ""
+    "Content": "Cancelar"
   },
   {
     "Id": "HotFixNetworkChange",
-    "Content": ""
+    "Content": "Has cambiado tu conexión de red a la red móvil. ¿Deseas continuar con la descarga utilizando datos móviles?"
   },
   {
     "Id": "SplashCautionTitle",
-    "Content": ""
+    "Content": "Advertencia de convulsiones fotosensibles"
   },
   {
     "Id": "SplashCautionContent",
-    "Content": ""
+    "Content": "Cuando se exponen a ciertos estímulos visuales o luces intermitentes, un porcentaje muy pequeño de personas (incluyendo a aquellos con epilepsia y algunos individuos no diagnosticados) pueden experimentar convulsiones, con síntomas como mareos, decoloración facial, parpadeo de ojos o de la cara, espuma en la boca, confusión o pérdida de la conciencia, o espasmos musculares incontrolables. Si tú, tu familia, u otros miembros de tu hogar experimentan síntomas similares, por favor consulta a un médico antes de jugar el juego. Si experimentas cualquiera de los síntomas mencionados mientras juegas, detén el juego inmediatamente, busca atención médica lo antes posible y sigue el consejo de tu médico."
   },
   {
     "Id": "SplashLoading",
-    "Content": ""
+    "Content": "Cargando el juego..."
   },
   {
     "Id": "SplashHealthyGamingAdvisory",
-    "Content": ""
+    "Content": "Resiste a los malos juegos, rechaza los juegos piratas. Presta atención a la autoprotección, ten cuidado de ser engañado.\r\nEl juego moderado beneficia al cerebro, la adicción al juego daña el cuerpo. Organiza tu tiempo de manera razonable, disfruta de una vida saludable."
   },
   {
     "Id": "SplashCopyrightInformation",
-    "Content": ""
+    "Content": "Propietario de los derechos de autor: Guangzhou Kuro Technology Co., Ltd."
   },
   {
     "Id": "GetRemoteConfigFailed",
-    "Content": ""
+    "Content": "No se pudo aplicar la Configuración Remota. Por favor, comprueba tu conexión a la red y reinicia el cliente del juego."
   },
   {
     "Id": "StartHotFix",
-    "Content": ""
+    "Content": "Inicializando Hotfix..."
   },
   {
     "Id": "GetRemoteVersion",
-    "Content": ""
+    "Content": "Aplicando Configuración Remota..."
   },
   {
     "Id": "GetRemoteVersionFailed",
-    "Content": ""
+    "Content": "No se pudo aplicar la Configuración Remota"
   },
   {
     "Id": "CheckAppUpdate",
-    "Content": ""
+    "Content": "Comprobando actualizaciones de la aplicación..."
   },
   {
     "Id": "CheckResourceVersion",
-    "Content": ""
+    "Content": "Comprobando la versión del recurso {0}..."
   },
   {
     "Id": "ResolveIndexFile",
-    "Content": ""
+    "Content": "Analizando los recursos del parche..."
   },
   {
     "Id": "MountPak",
-    "Content": ""
+    "Content": "Aplicando parches de recursos..."
   },
   {
     "Id": "CompleteHotFix",
-    "Content": ""
+    "Content": "Hotfix Completo"
   },
   {
     "Id": "DownloadIndexFileFailed",
-    "Content": ""
+    "Content": "No se pudo obtener la lista de parches: {0}"
   },
   {
     "Id": "DownloadResourcePatchFailed",
-    "Content": ""
+    "Content": "No se pudo descargar los recursos del parche: {0}"
   },
   {
     "Id": "EvaluateDownloadResourcePatchFailed",
-    "Content": ""
+    "Content": "No se pudo descargar los recursos del parche: {0}"
   },
   {
     "Id": "GetResourceInfoFailed",
-    "Content": ""
+    "Content": "No se pudo cargar el tipo de parche"
   },
   {
     "Id": "ResolveIndexFileFailed",
-    "Content": ""
+    "Content": "No se pudo analizar la lista de parches. Por favor, reinicia el cliente del juego y vuelve a intentarlo o contacta con el servicio de atención al cliente."
   },
   {
     "Id": "ValidateResourceFailed",
-    "Content": ""
+    "Content": "No se pudo verificar la integridad del archivo. Por favor, reinicia el cliente del juego y vuelve a intentarlo o contacta con el servicio de atención al cliente."
   },
   {
     "Id": "DownloadStateNone",
-    "Content": ""
+    "Content": "Error desconocido"
   },
   {
     "Id": "DownloadStateHttpError",
-    "Content": ""
+    "Content": "Error de red"
   },
   {
     "Id": "DownloadStateFileRenameError",
-    "Content": ""
+    "Content": "Error al renombrar el archivo"
   },
   {
     "Id": "DownloadStateValidateError",
-    "Content": ""
+    "Content": "Falló la verificación de integridad"
   },
   {
     "Id": "DownloadStateOpenToWriteError",
-    "Content": ""
+    "Content": "Error al almacenar archivos"
   },
   {
     "Id": "DownloadStateNotEnoughSpace",
-    "Content": ""
+    "Content": "Espacio de almacenamiento insuficiente"
   },
   {
     "Id": "DownloadStateDownloadCanceled",
-    "Content": ""
+    "Content": "Descarga cancelada"
   },
   {
     "Id": "DownloadStateSuccess",
-    "Content": ""
+    "Content": "Descarga exitosa"
   },
   {
     "Id": "CompilingShader",
@@ -197,19 +197,19 @@
   },
   {
     "Id": "GetRemotePackageConfigFail",
-    "Content": ""
+    "Content": "Error al aplicar la configuración remota. Por favor, verifica tu conexión de red y reinicia el cliente del juego."
   },
   {
     "Id": "NewVersionDetailDesc",
-    "Content": ""
+    "Content": "Detalles de la actualización"
   },
   {
     "Id": "NewVersionDetailDownloadGetReward",
-    "Content": ""
+    "Content": "Hay una actualización del juego disponible. Por favor, procede a descargar. Inicia sesión después de que la actualización esté completa para obtener <color=#c49e55ff>Astrites*300 y Solvente de Cristal*2</color>."
   },
   {
     "Id": "ConfirmText",
-    "Content": ""
+    "Content": "Confirmar"
   },
   {
     "Id": "FirstDownloadTip",
@@ -217,26 +217,26 @@
   },
   {
     "Id": "DownloadTitle",
-    "Content": ""
+    "Content": "Descargar recursos"
   },
   {
     "Id": "MobileDriverOutOfVersion",
-    "Content": ""
+    "Content": "La versión del controlador de tu teléfono está desactualizada (versión del controlador GL < 378). Esto puede causar fallos del juego durante tu juego. Para asegurar una experiencia de juego fluida, se recomienda que actualices la versión del sistema o el controlador GL."
   },
   {
     "Id": "DownloadContinue",
-    "Content": ""
+    "Content": "Toca en el área en blanco para continuar"
   },
   {
     "Id": "PatchClear",
-    "Content": ""
+    "Content": "Los recursos del parche local se borrarán y se volverán a descargar. ¿Deseas proceder?"
   },
   {
     "Id": "PatchClearTitle",
-    "Content": ""
+    "Content": "Borrar parche"
   },
   {
     "Id": "PatchClearbutton",
-    "Content": ""
+    "Content": "Reparar"
   }
 ]

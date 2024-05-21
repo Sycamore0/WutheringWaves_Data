@@ -5046,5 +5046,9 @@
   {
     "Id": "CannotShare",
     "Text": "CannotShare"
+  },
+  {
+    "Id": "NoMonster",
+    "Text": "NoMonster"
   }
 ]

@@ -974,8 +974,8 @@
   {
     "Id": 200123,
     "DebugText": "当前状态无法使用传送",
-    "Text": "ErrorCode_200123_Text",
-    "IsTip": false
+    "Text": "GenericPrompt_TrialRoleTransmitLimit_TipsText",
+    "IsTip": true
   },
   {
     "Id": 200124,
@@ -9033,7 +9033,7 @@
     "Id": 1400029,
     "DebugText": "战令功能未开放",
     "Text": "ErrorCode_1400029_Text",
-    "IsTip": false
+    "IsTip": true
   },
   {
     "Id": 1100107,
@@ -9075,7 +9075,7 @@
     "Id": 1400030,
     "DebugText": "付费商城未开放",
     "Text": "ErrorCode_1400030_Text",
-    "IsTip": false
+    "IsTip": true
   },
   {
     "Id": 200240,
@@ -11637,6 +11637,36 @@
     "Id": 1800042,
     "DebugText": "客户端分支校验失败",
     "Text": "ErrorCode_1800042_Text",
+    "IsTip": true
+  },
+  {
+    "Id": 200324,
+    "DebugText": "今日尝试次数过于频繁，请于服务器时间次日04:00后再尝试",
+    "Text": "",
+    "IsTip": true
+  },
+  {
+    "Id": 71,
+    "DebugText": "登录失败，请尝试重启客户端并重新登录。",
+    "Text": "",
+    "IsTip": false
+  },
+  {
+    "Id": 600093,
+    "DebugText": "挂起中不能交互",
+    "Text": "ErrorCode_600095_Text",
+    "IsTip": false
+  },
+  {
+    "Id": 1900056,
+    "DebugText": "敏感词反序列化失败",
+    "Text": "ErrorCode_1900064_Text",
+    "IsTip": false
+  },
+  {
+    "Id": 1100224,
+    "DebugText": "肉鸽主角色属性被切换,请切换回原属性",
+    "Text": "Rogue_Attribute_Switch_Error",
     "IsTip": true
   }
 ]

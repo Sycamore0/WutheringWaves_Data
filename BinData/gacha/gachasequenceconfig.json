@@ -60,11 +60,11 @@
     "SequencePath": "/Game/Aki/Character/SequenceCamera/DrawCard/KaKaLuo/SC_KaKaLuo_DrawCard.SC_KaKaLuo_DrawCard"
   },
   {
-    "Id": 1104,
-    "SequencePath": "/Game/Aki/Character/SequenceCamera/DrawCard/Lingyang/SC_Lingyang_DrawCard.SC_Lingyang_DrawCard"
-  },
-  {
     "Id": 1405,
     "SequencePath": "/Game/Aki/Character/SequenceCamera/DrawCard/JianXin/SC_JianXin_DrawCard.SC_JianXin_DrawCard"
+  },
+  {
+    "Id": 1104,
+    "SequencePath": "/Game/Aki/Character/SequenceCamera/DrawCard/Lingyang/SC_Lingyang_DrawCard.SC_Lingyang_DrawCard"
   }
 ]

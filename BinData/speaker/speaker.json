@@ -39,7 +39,7 @@
     "TitleStringKey": -1,
     "CameraBindTag": "",
     "HeadIconAsset": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_13_UI.T_IconRoleHead256_13_UI",
-    "RolePileIconAsset": "",
+    "RolePileIconAsset": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_baer_UI.T_IconRole_Pile_baer_UI",
     "Title": -1,
     "TimberId": 0
   },
@@ -215,7 +215,7 @@
     "TitleStringKey": -1,
     "CameraBindTag": "",
     "HeadIconAsset": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_8_UI.T_IconRoleHead256_8_UI",
-    "RolePileIconAsset": "",
+    "RolePileIconAsset": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_anke_UI.T_IconRole_Pile_anke_UI",
     "Title": -1,
     "TimberId": 3
   },
@@ -523,7 +523,7 @@
     "TitleStringKey": -1,
     "CameraBindTag": "",
     "HeadIconAsset": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_11_UI.T_IconRoleHead256_11_UI",
-    "RolePileIconAsset": "",
+    "RolePileIconAsset": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jiyan_UI.T_IconRole_Pile_jiyan_UI",
     "Title": -1,
     "TimberId": 0
   },
@@ -534,7 +534,7 @@
     "TitleStringKey": -1,
     "CameraBindTag": "",
     "HeadIconAsset": "",
-    "RolePileIconAsset": "",
+    "RolePileIconAsset": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_shanhua_UI.T_IconRole_Pile_shanhua_UI",
     "Title": -1,
     "TimberId": 0
   },
@@ -556,7 +556,7 @@
     "TitleStringKey": -1,
     "CameraBindTag": "",
     "HeadIconAsset": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_9_UI.T_IconRoleHead256_9_UI",
-    "RolePileIconAsset": "",
+    "RolePileIconAsset": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_taohua_UI.T_IconRole_Pile_taohua_UI",
     "Title": -1,
     "TimberId": 0
   },
@@ -578,7 +578,7 @@
     "TitleStringKey": -1,
     "CameraBindTag": "",
     "HeadIconAsset": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_10_UI.T_IconRoleHead256_10_UI",
-    "RolePileIconAsset": "",
+    "RolePileIconAsset": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_micai_UI.T_IconRole_Pile_micai_UI",
     "Title": -1,
     "TimberId": 0
   },
@@ -600,7 +600,7 @@
     "TitleStringKey": -1,
     "CameraBindTag": "",
     "HeadIconAsset": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_2_UI.T_IconRoleHead256_2_UI",
-    "RolePileIconAsset": "",
+    "RolePileIconAsset": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_maxiaofang_UI.T_IconRole_Pile_maxiaofang_UI",
     "Title": -1,
     "TimberId": 0
   },
@@ -655,7 +655,7 @@
     "TitleStringKey": -1,
     "CameraBindTag": "",
     "HeadIconAsset": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_1_UI.T_IconRoleHead256_1_UI",
-    "RolePileIconAsset": "",
+    "RolePileIconAsset": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "Title": -1,
     "TimberId": 0
   },
@@ -765,7 +765,7 @@
     "TitleStringKey": -1,
     "CameraBindTag": "",
     "HeadIconAsset": "",
-    "RolePileIconAsset": "",
+    "RolePileIconAsset": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_qiushui_UI.T_IconRole_Pile_qiushui_UI",
     "Title": -1,
     "TimberId": 0
   },
@@ -1073,7 +1073,7 @@
     "TitleStringKey": -1,
     "CameraBindTag": "Empty",
     "HeadIconAsset": "",
-    "RolePileIconAsset": "",
+    "RolePileIconAsset": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_lingyang_UI.T_IconRole_Pile_lingyang_UI",
     "Title": -1,
     "TimberId": 0
   },
@@ -2668,7 +2668,7 @@
     "TitleStringKey": -1,
     "CameraBindTag": "",
     "HeadIconAsset": "",
-    "RolePileIconAsset": "",
+    "RolePileIconAsset": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yinlin_UI.T_IconRole_Pile_yinlin_UI",
     "Title": -1,
     "TimberId": 0
   },
@@ -3471,7 +3471,7 @@
     "TitleStringKey": -1,
     "CameraBindTag": "",
     "HeadIconAsset": "",
-    "RolePileIconAsset": "",
+    "RolePileIconAsset": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_kakaluo_UI.T_IconRole_Pile_kakaluo_UI",
     "Title": -1,
     "TimberId": 0
   },
@@ -4461,7 +4461,7 @@
     "TitleStringKey": -1,
     "CameraBindTag": "Empty",
     "HeadIconAsset": "",
-    "RolePileIconAsset": "",
+    "RolePileIconAsset": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujue_UI.T_IconRole_Pile_zhujue_UI",
     "Title": -1,
     "TimberId": 0
   },
@@ -4571,7 +4571,7 @@
     "TitleStringKey": -1,
     "CameraBindTag": "Empty",
     "HeadIconAsset": "",
-    "RolePileIconAsset": "",
+    "RolePileIconAsset": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_chun_UI.T_IconRole_Pile_chun_UI",
     "Title": -1,
     "TimberId": 0
   },
@@ -5352,7 +5352,7 @@
     "TitleStringKey": -1,
     "CameraBindTag": "Empty",
     "HeadIconAsset": "",
-    "RolePileIconAsset": "",
+    "RolePileIconAsset": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yuanwu_UI.T_IconRole_Pile_yuanwu_UI",
     "Title": -1,
     "TimberId": 0
   },
@@ -7552,7 +7552,7 @@
     "TitleStringKey": -1,
     "CameraBindTag": "Empty",
     "HeadIconAsset": "",
-    "RolePileIconAsset": "",
+    "RolePileIconAsset": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jiexin_UI.T_IconRole_Pile_jiexin_UI",
     "Title": -1,
     "TimberId": 0
   },
@@ -7970,7 +7970,7 @@
     "TitleStringKey": -1,
     "CameraBindTag": "Empty",
     "HeadIconAsset": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_6_UI.T_IconRoleHead256_6_UI",
-    "RolePileIconAsset": "",
+    "RolePileIconAsset": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_bailian_UI.T_IconRole_Pile_bailian_UI",
     "Title": -1,
     "TimberId": 0
   },
@@ -8872,7 +8872,7 @@
     "TitleStringKey": -1,
     "CameraBindTag": "Empty",
     "HeadIconAsset": "",
-    "RolePileIconAsset": "",
+    "RolePileIconAsset": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jueyuan_UI.T_IconRole_Pile_jueyuan_UI",
     "Title": -1,
     "TimberId": 0
   },

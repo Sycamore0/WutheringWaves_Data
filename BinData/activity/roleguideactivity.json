@@ -8,5 +8,15 @@
     "ShowQuestTips": "",
     "ShowQuestGetWay": "",
     "RoleUi": "ActivityRoleGuide_1404"
+  },
+  {
+    "Id": 101000002,
+    "RoleId": 1302,
+    "RoleQuestId": 114000018,
+    "RoleTrialId": 100714,
+    "ShowQuestId": 0,
+    "ShowQuestTips": "",
+    "ShowQuestGetWay": "",
+    "RoleUi": "ActivityRoleGuide_1302"
   }
 ]

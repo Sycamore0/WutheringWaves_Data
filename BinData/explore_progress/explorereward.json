@@ -21,11 +21,11 @@
     "Drop": 47101,
     "ScoreName": "Explore_HuangLong_Title2",
     "ScoreTexturePath": "/Game/Aki/UI/UIResources/Common/Image/IconForceLogo/T_Logo_03_UI.T_Logo_03_UI",
-    "Show": false,
-    "Pic": "",
+    "Show": true,
+    "Pic": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT31.SP_IconT31",
     "RewardName": "",
-    "Reward": "",
-    "Help": 0
+    "Reward": "ItemInfo_10804_Name",
+    "Help": 29
   },
   {
     "Id": 3,
@@ -63,11 +63,11 @@
     "Drop": 47104,
     "ScoreName": "Explore_HuangLong_Title5",
     "ScoreTexturePath": "/Game/Aki/UI/UIResources/Common/Image/IconForceLogo/T_Logo_03_UI.T_Logo_03_UI",
-    "Show": true,
-    "Pic": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconT31.SP_IconT31",
+    "Show": false,
+    "Pic": "",
     "RewardName": "",
-    "Reward": "ItemInfo_10804_Name",
-    "Help": 29
+    "Reward": "",
+    "Help": 0
   },
   {
     "Id": 6,

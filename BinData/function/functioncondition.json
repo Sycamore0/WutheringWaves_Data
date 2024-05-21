@@ -459,7 +459,7 @@
     "FunctionId": 10043,
     "Name": "训练仪",
     "IsOn": true,
-    "OpenConditionId": 0,
+    "OpenConditionId": 131100025,
     "ShowUIType": 0,
     "Delay": 101,
     "Title": "",

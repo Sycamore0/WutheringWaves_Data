@@ -462,5 +462,12 @@
     "NameStringKey": 75,
     "Name": 76,
     "OccupationData": ""
+  },
+  {
+    "Id": "漂泊者",
+    "OccupationType": "Npc",
+    "NameStringKey": 121,
+    "Name": 122,
+    "OccupationData": ""
   }
 ]

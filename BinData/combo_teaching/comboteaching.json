@@ -467,7 +467,7 @@
     "CommandID": [12040501, 12040502, 12040503, 12040504, 12040505],
     "guideID": [],
     "InputEnums": ["大招", "普攻", "瞄准"],
-    "AddBuffID": ["1204090005", "1204090006"]
+    "AddBuffID": ["1204090005", "1204090006", "1204099999"]
   },
   {
     "Id": 14040101,
@@ -870,7 +870,7 @@
     "CommandID": [12030401, 12030402],
     "guideID": [],
     "InputEnums": ["技能"],
-    "AddBuffID": []
+    "AddBuffID": ["621310219"]
   },
   {
     "Id": 12030501,
@@ -994,7 +994,7 @@
     "CommandID": [11020401],
     "guideID": [2429128],
     "InputEnums": ["技能"],
-    "AddBuffID": []
+    "AddBuffID": ["621310219"]
   },
   {
     "Id": 11020501,
@@ -2249,7 +2249,7 @@
     "IconTagText": ["ComboTeaching_99990001_IconTagText_0", ""],
     "DescriptionTitle": "ComboTeaching_11040301_DescriptionTitle",
     "DescriptionContent": "ComboTeaching_11040301_DescriptionContent",
-    "CommandID": [11040301, 11040507],
+    "CommandID": [11040301, 11040508],
     "guideID": [],
     "InputEnums": ["普攻"],
     "AddBuffID": ["621310221"]

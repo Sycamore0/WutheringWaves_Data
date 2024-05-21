@@ -391,5 +391,11 @@
     "OccupationType": "Time",
     "OccupationData": "",
     "OccupationNameStringKey": ""
+  },
+  {
+    "Id": "漂泊者",
+    "OccupationType": "Npc",
+    "OccupationData": "",
+    "OccupationNameStringKey": "OccupationConfig_漂泊者_Name"
   }
 ]

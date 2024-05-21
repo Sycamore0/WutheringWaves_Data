@@ -10561,5 +10561,68 @@
     },
     "NeedTag": "",
     "NeedTarget": true
+  },
+  {
+    "Id": 800170381,
+    "DistanceRange": {
+      "Min": -90000,
+      "Max": 90000
+    },
+    "AngleRange": {
+      "Min": -180,
+      "Max": 180
+    },
+    "TargetAngleRange": {
+      "Min": -180,
+      "Max": 180
+    },
+    "HeightRange": {
+      "Min": -600,
+      "Max": 600
+    },
+    "NeedTag": "",
+    "NeedTarget": true
+  },
+  {
+    "Id": 800170401,
+    "DistanceRange": {
+      "Min": -90000,
+      "Max": 90000
+    },
+    "AngleRange": {
+      "Min": -90,
+      "Max": 90
+    },
+    "TargetAngleRange": {
+      "Min": -180,
+      "Max": 180
+    },
+    "HeightRange": {
+      "Min": -600,
+      "Max": 600
+    },
+    "NeedTag": "",
+    "NeedTarget": true
+  },
+  {
+    "Id": 80017042,
+    "DistanceRange": {
+      "Min": -90000,
+      "Max": 90000
+    },
+    "AngleRange": {
+      "Min": -90,
+      "Max": 90
+    },
+    "TargetAngleRange": {
+      "Min": -180,
+      "Max": 180
+    },
+    "HeightRange": {
+      "Min": -600,
+      "Max": 600
+    },
+    "NeedTag": "",
+    "NeedTarget": true
   }
 ]

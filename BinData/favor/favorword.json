@@ -6681,23 +6681,6 @@
     "AniMontage": ""
   },
   {
-    "Id": 120339,
-    "RoleId": 1203,
-    "Type": 2,
-    "Sort": 51,
-    "Title": "FavorWord_120339_Title",
-    "Content": "FavorWord_120339_Content",
-    "Voice": "/Game/Aki/WwiseAudio/Events/play_favor_word_anke_hp30.play_favor_word_anke_hp30",
-    "CVCn": "",
-    "CVJp": "",
-    "CVEn": "",
-    "CVKo": "",
-    "CondGroupId": 0,
-    "MotionImg": "",
-    "AniBlueprint": "",
-    "AniMontage": ""
-  },
-  {
     "Id": 120340,
     "RoleId": 1203,
     "Type": 2,
@@ -16433,7 +16416,7 @@
     "CVJp": "",
     "CVEn": "",
     "CVKo": "",
-    "CondGroupId": 0,
+    "CondGroupId": 2101303005,
     "MotionImg": "",
     "AniBlueprint": "",
     "AniMontage": ""

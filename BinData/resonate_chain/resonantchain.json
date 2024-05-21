@@ -812,7 +812,7 @@
     "ActivateConsume": {
       "size": 1
     },
-    "AttributesDescriptionParams": ["1", "5%", "10", "6"],
+    "AttributesDescriptionParams": ["1", "5%", "10", "5"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_AnkeM6_UI.T_IconDevice_AnkeM6_UI"
   },
   {
@@ -1136,7 +1136,7 @@
       "size": 1
     },
     "AttributesDescriptionParams": ["4"],
-    "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_QiushuiM1_UI.T_IconDevice_QiushuiM1_UI"
+    "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_QiushuiM1_UI.T_IconDevice_QiushuiM2_UI"
   },
   {
     "Id": 68,
@@ -1153,7 +1153,7 @@
       "size": 1
     },
     "AttributesDescriptionParams": ["100%", "15%"],
-    "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_QiushuiM2_UI.T_IconDevice_QiushuiM2_UI"
+    "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_QiushuiM2_UI.T_IconDevice_QiushuiM1_UI"
   },
   {
     "Id": 69,

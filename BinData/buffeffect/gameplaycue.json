@@ -27013,8 +27013,8 @@
   },
   {
     "Id": "80017004",
-    "Path": "/Game/Aki/Effect/DataAsset/ScreenDA/SD_Fight/NI_MB1SuiguangMd00501/DA_Fx_Screen_Shunyi_Radial.DA_Fx_Screen_Shunyi_Radial",
-    "CueType": 4,
+    "Path": "/Game/Aki/Effect/DataAsset/ScreenDA/SD_Fight/NI_MB1SuiguangMd00501/DA_Fx_Screen_SmokeLine.DA_Fx_Screen_SmokeLine",
+    "CueType": 9,
     "Comp": 0,
     "CompName": "Mesh",
     "Socket": "None",
@@ -27064,10 +27064,10 @@
   {
     "Id": "80010899",
     "Path": "/Game/Aki/Effect/MaterialController/DA_Vision/DA_Fx_Vision_Shiny.DA_Fx_Vision_Shiny",
-    "CueType": 0,
-    "Comp": 1,
+    "CueType": 1,
+    "Comp": 0,
     "CompName": "Mesh",
-    "Socket": "HitCase",
+    "Socket": "None",
     "Location": {
       "X": 0,
       "Y": 0,
@@ -27264,10 +27264,360 @@
   {
     "Id": "80010980",
     "Path": "/Game/Aki/Effect/MaterialController/DA_Vision/DA_Fx_Vision_Shiny.DA_Fx_Vision_Shiny",
-    "CueType": 0,
+    "CueType": 1,
     "Comp": 1,
     "CompName": "Mesh",
     "Socket": "HitCase",
+    "Location": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Rotation": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Scale": {
+      "X": 1,
+      "Y": 1,
+      "Z": 1
+    },
+    "LocRule": 0,
+    "RotaRule": 0,
+    "SclRule": 0,
+    "EndRule": 0,
+    "Magni": 0,
+    "AttrId": 0,
+    "Tag": "",
+    "Max": 10000,
+    "Min": 0,
+    "bListenAttr": false,
+    "bSoftFollow": false,
+    "bLockRevolution": false,
+    "LockRotation": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "InterpSpeed": 5,
+    "FarthestDistance": 100,
+    "FaultTolerance": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "TargetScaleUp": [1, 1],
+    "Resources": [],
+    "Parameters": []
+  },
+  {
+    "Id": "80017005",
+    "Path": "/Game/Aki/Effect/EffectGroup/MB1SuiguangMd00501/DA_Fx_Group_MBa21_FlyCam.DA_Fx_Group_MBa21_FlyCam",
+    "CueType": 0,
+    "Comp": 1,
+    "CompName": "Mesh",
+    "Socket": "None",
+    "Location": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Rotation": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Scale": {
+      "X": 1,
+      "Y": 1,
+      "Z": 1
+    },
+    "LocRule": 0,
+    "RotaRule": 0,
+    "SclRule": 0,
+    "EndRule": 0,
+    "Magni": 0,
+    "AttrId": 0,
+    "Tag": "",
+    "Max": 10000,
+    "Min": 0,
+    "bListenAttr": false,
+    "bSoftFollow": false,
+    "bLockRevolution": false,
+    "LockRotation": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "InterpSpeed": 5,
+    "FarthestDistance": 100,
+    "FaultTolerance": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "TargetScaleUp": [1, 1],
+    "Resources": [],
+    "Parameters": []
+  },
+  {
+    "Id": "80017006",
+    "Path": "/Game/Aki/Effect/DataAsset/ScreenDA/SD_Fight/NI_MB1SuiguangMd00501/DA_Fx_Screen_SuidaoLine.DA_Fx_Screen_SuidaoLine",
+    "CueType": 9,
+    "Comp": 0,
+    "CompName": "Mesh",
+    "Socket": "None",
+    "Location": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Rotation": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Scale": {
+      "X": 1,
+      "Y": 1,
+      "Z": 1
+    },
+    "LocRule": 0,
+    "RotaRule": 0,
+    "SclRule": 0,
+    "EndRule": 0,
+    "Magni": 0,
+    "AttrId": 0,
+    "Tag": "",
+    "Max": 10000,
+    "Min": 0,
+    "bListenAttr": false,
+    "bSoftFollow": false,
+    "bLockRevolution": false,
+    "LockRotation": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "InterpSpeed": 5,
+    "FarthestDistance": 100,
+    "FaultTolerance": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "TargetScaleUp": [1, 1],
+    "Resources": [],
+    "Parameters": []
+  },
+  {
+    "Id": "80017007",
+    "Path": "/Game/Aki/Effect/EffectGroup/MB1SuiguangMd00501/DA_Fx_Group_MBa21_FlyCamRing.DA_Fx_Group_MBa21_FlyCamRing",
+    "CueType": 0,
+    "Comp": 1,
+    "CompName": "Mesh",
+    "Socket": "None",
+    "Location": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Rotation": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Scale": {
+      "X": 1,
+      "Y": 1,
+      "Z": 1
+    },
+    "LocRule": 0,
+    "RotaRule": 0,
+    "SclRule": 0,
+    "EndRule": 0,
+    "Magni": 0,
+    "AttrId": 0,
+    "Tag": "",
+    "Max": 10000,
+    "Min": 0,
+    "bListenAttr": false,
+    "bSoftFollow": false,
+    "bLockRevolution": false,
+    "LockRotation": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "InterpSpeed": 5,
+    "FarthestDistance": 100,
+    "FaultTolerance": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "TargetScaleUp": [1, 1],
+    "Resources": [],
+    "Parameters": []
+  },
+  {
+    "Id": "80017008",
+    "Path": "/Game/Aki/Effect/EffectGroup/MB1SuiguangMd00501/DA_Fx_Group_MBb21_Xifu.DA_Fx_Group_MBb21_Xifu",
+    "CueType": 9,
+    "Comp": 0,
+    "CompName": "Mesh",
+    "Socket": "None",
+    "Location": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Rotation": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Scale": {
+      "X": 1,
+      "Y": 1,
+      "Z": 1
+    },
+    "LocRule": 0,
+    "RotaRule": 0,
+    "SclRule": 0,
+    "EndRule": 0,
+    "Magni": 0,
+    "AttrId": 0,
+    "Tag": "",
+    "Max": 10000,
+    "Min": 0,
+    "bListenAttr": false,
+    "bSoftFollow": false,
+    "bLockRevolution": false,
+    "LockRotation": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "InterpSpeed": 5,
+    "FarthestDistance": 100,
+    "FaultTolerance": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "TargetScaleUp": [1, 1],
+    "Resources": [],
+    "Parameters": []
+  },
+  {
+    "Id": "80017009",
+    "Path": "/Game/Aki/Effect/EffectGroup/MB1SuiguangMd00501/DA_Fx_Group_MBs21_Canying.DA_Fx_Group_MBs21_Canying",
+    "CueType": 0,
+    "Comp": 1,
+    "CompName": "Mesh",
+    "Socket": "None",
+    "Location": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Rotation": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Scale": {
+      "X": 1,
+      "Y": 1,
+      "Z": 1
+    },
+    "LocRule": 0,
+    "RotaRule": 0,
+    "SclRule": 0,
+    "EndRule": 0,
+    "Magni": 0,
+    "AttrId": 0,
+    "Tag": "",
+    "Max": 10000,
+    "Min": 0,
+    "bListenAttr": false,
+    "bSoftFollow": false,
+    "bLockRevolution": false,
+    "LockRotation": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "InterpSpeed": 5,
+    "FarthestDistance": 100,
+    "FaultTolerance": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "TargetScaleUp": [1, 1],
+    "Resources": [],
+    "Parameters": []
+  },
+  {
+    "Id": "80017010",
+    "Path": "/Game/Aki/Effect/EffectGroup/MB1SuiguangMd00501/DA_Fx_Group_MBb21_Chuan.DA_Fx_Group_MBb21_Chuan",
+    "CueType": 9,
+    "Comp": 0,
+    "CompName": "Mesh",
+    "Socket": "None",
+    "Location": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Rotation": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Scale": {
+      "X": 1,
+      "Y": 1,
+      "Z": 1
+    },
+    "LocRule": 0,
+    "RotaRule": 0,
+    "SclRule": 0,
+    "EndRule": 0,
+    "Magni": 0,
+    "AttrId": 0,
+    "Tag": "",
+    "Max": 10000,
+    "Min": 0,
+    "bListenAttr": false,
+    "bSoftFollow": false,
+    "bLockRevolution": false,
+    "LockRotation": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "InterpSpeed": 5,
+    "FarthestDistance": 100,
+    "FaultTolerance": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "TargetScaleUp": [1, 1],
+    "Resources": [],
+    "Parameters": []
+  },
+  {
+    "Id": "80017011",
+    "Path": "/Game/Aki/Effect/EffectGroup/MB1SuiguangMd00501/DA_Fx_Group_MBs21_Light.DA_Fx_Group_MBs21_Light",
+    "CueType": 0,
+    "Comp": 1,
+    "CompName": "Mesh",
+    "Socket": "None",
     "Location": {
       "X": 0,
       "Y": 0,

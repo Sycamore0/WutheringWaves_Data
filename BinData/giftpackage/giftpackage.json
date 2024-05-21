@@ -838,29 +838,5 @@
     },
     "AvailableNum": 1,
     "ShowType": 0
-  },
-  {
-    "Id": 518,
-    "Type": 0,
-    "Content": {
-      "size": 15
-    },
-    "Weight": {
-      "size": 0
-    },
-    "AvailableNum": 0,
-    "ShowType": 0
-  },
-  {
-    "Id": 519,
-    "Type": 0,
-    "Content": {
-      "size": 52
-    },
-    "Weight": {
-      "size": 0
-    },
-    "AvailableNum": 0,
-    "ShowType": 0
   }
 ]

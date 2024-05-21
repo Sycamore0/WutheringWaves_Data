@@ -146,7 +146,7 @@
     "ActionType": 6,
     "SkillId": 1402401,
     "SkillIdTagMap": {
-      "size": 4
+      "size": 5
     },
     "SkillIconTags": [],
     "EnableTags": ["角色.Common.技能通用标识.控物拼图旋转.可用"],

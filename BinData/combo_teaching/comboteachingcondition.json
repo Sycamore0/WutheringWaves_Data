@@ -429,7 +429,7 @@
   {
     "Id": 12040501,
     "CompleteCondition": 0,
-    "CompleteParam": "[1204070,0]",
+    "CompleteParam": "[1204070,1]",
     "FailedCondition": [0],
     "FailedParam": ["1204070"]
   },
@@ -2110,7 +2110,7 @@
     "Id": 11040507,
     "CompleteCondition": 0,
     "CompleteParam": "[1104016,0]",
-    "FailedCondition": [],
+    "FailedCondition": [6],
     "FailedParam": []
   },
   {
@@ -2483,5 +2483,12 @@
     "CompleteParam": "[1503011,0]",
     "FailedCondition": [6],
     "FailedParam": ["1503011"]
+  },
+  {
+    "Id": 11040508,
+    "CompleteCondition": 0,
+    "CompleteParam": "[1104016,0]",
+    "FailedCondition": [],
+    "FailedParam": []
   }
 ]

@@ -11349,7 +11349,7 @@
   {
     "Id": "SM_Common",
     "StateMachineJson": {
-      "Version": 1202290205,
+      "Version": 894748810,
       "StateMachines": [10159, 10129, 10137, 10023, 10000, 10007],
       "Nodes": [
         {
@@ -11398,23 +11398,6 @@
                   }
                 }
               ]
-            },
-            {
-              "From": 10161,
-              "To": 10166,
-              "TransitionPredictionType": 0,
-              "Weight": 0,
-              "Conditions": [
-                {
-                  "Index": 0,
-                  "Name": "CondCheckStateByName",
-                  "Type": 24,
-                  "Reverse": false,
-                  "CondCheckStateByName": {
-                    "TargetStateName": "C肉鸽2阶段切出"
-                  }
-                }
-              ]
             }
           ]
         },
@@ -11431,74 +11414,6 @@
           "Name": "C肉鸽2阶段",
           "TakeControlType": 0,
           "TransitionRule": 0,
-          "Children": [10162, 10163, 10164, 10165],
-          "Transitions": [
-            {
-              "From": 10162,
-              "To": 10163,
-              "TransitionPredictionType": 0,
-              "Weight": 0,
-              "Conditions": [
-                {
-                  "Index": 0,
-                  "Name": "CondTaskFinish",
-                  "Type": 101,
-                  "Reverse": false,
-                  "IsClient": true,
-                  "CondTaskFinish": {}
-                }
-              ]
-            },
-            {
-              "From": 10163,
-              "To": 10164,
-              "TransitionPredictionType": 0,
-              "Weight": 0,
-              "Conditions": [
-                {
-                  "Index": 0,
-                  "Name": "CondInstStateChange",
-                  "Type": 25,
-                  "Reverse": false,
-                  "CondInstStateChange": {
-                    "TagId": 1184950903
-                  }
-                }
-              ]
-            },
-            {
-              "From": 10164,
-              "To": 10165,
-              "TransitionPredictionType": 0,
-              "Weight": 0,
-              "Conditions": [
-                {
-                  "Index": 0,
-                  "Name": "CondTaskFinish",
-                  "Type": 101,
-                  "Reverse": false,
-                  "IsClient": true,
-                  "CondTaskFinish": {}
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "Uuid": 10162,
-          "Name": "C肉鸽2阶段开始",
-          "TakeControlType": 0,
-          "TransitionRule": 0,
-          "Task": {
-            "Name": "TaskMontage",
-            "Type": 102,
-            "CanBeInterrupt": false,
-            "TaskMontage": {
-              "MontageName": "AM_Exit",
-              "HideOnLoading": false,
-              "BlendInTime": -1
-            }
-          },
           "OnEnterActions": [
             {
               "Name": "ActionInstChangeStateTag",
@@ -11517,69 +11432,6 @@
               }
             }
           ],
-          "Children": [],
-          "Transitions": []
-        },
-        {
-          "Uuid": 10163,
-          "Name": "C肉鸽2阶段循环",
-          "TakeControlType": 0,
-          "TransitionRule": 0,
-          "BindStates": [
-            {
-              "Name": "BindBuff",
-              "Type": 1,
-              "BindBuff": {
-                "BuffId": 70000014
-              }
-            },
-            {
-              "Name": "BindBoneVisible",
-              "Type": 108,
-              "BindBoneVisible": {
-                "BoneName": "Root",
-                "Visible": false
-              }
-            },
-            {
-              "Name": "BindTag",
-              "Type": 3,
-              "BindTag": {
-                "TagId": -1243968098
-              }
-            },
-            {
-              "Name": "BindDisableCollision",
-              "Type": 115,
-              "BindDisableCollision": {}
-            }
-          ],
-          "Children": [],
-          "Transitions": []
-        },
-        {
-          "Uuid": 10164,
-          "Name": "C肉鸽2阶段结束",
-          "TakeControlType": 0,
-          "TransitionRule": 0,
-          "Task": {
-            "Name": "TaskMontage",
-            "Type": 102,
-            "CanBeInterrupt": false,
-            "TaskMontage": {
-              "MontageName": "AM_Admission",
-              "HideOnLoading": false,
-              "BlendInTime": -1
-            }
-          },
-          "Children": [],
-          "Transitions": []
-        },
-        {
-          "Uuid": 10165,
-          "Name": "C肉鸽2阶段切出",
-          "TakeControlType": 0,
-          "TransitionRule": 0,
           "Children": [],
           "Transitions": []
         },
@@ -14435,6 +14287,11 @@
               "Name": "ActionEnterFight",
               "Type": 8,
               "ActionEnterFight": {}
+            },
+            {
+              "Name": "ActionStopMontage",
+              "Type": 102,
+              "ActionStopMontage": {}
             }
           ],
           "BindStates": [
@@ -19749,8 +19606,8 @@
   {
     "Id": "SM_ML1QiShiMd00001",
     "StateMachineJson": {
-      "Version": 2069885617,
-      "StateMachines": [0],
+      "Version": 1476499789,
+      "StateMachines": [10159, 0],
       "Nodes": [
         {
           "Uuid": 0,
@@ -20040,76 +19897,7 @@
             }
           ],
           "Children": [4, 14],
-          "Transitions": [
-            {
-              "From": 4,
-              "To": 14,
-              "TransitionPredictionType": 0,
-              "Weight": 0,
-              "Conditions": [
-                {
-                  "Index": 0,
-                  "Name": "CondAnd",
-                  "Type": 1,
-                  "Reverse": false,
-                  "CondAnd": {
-                    "Conditions": [1, 2, 3]
-                  }
-                },
-                {
-                  "Index": 1,
-                  "Name": "CondAttributeRate",
-                  "Type": 18,
-                  "Reverse": false,
-                  "CondAttributeRate": {
-                    "AttributeId": 3,
-                    "Denominator": 2,
-                    "Min": 1,
-                    "Max": 5000
-                  }
-                },
-                {
-                  "Index": 2,
-                  "Name": "CondTag",
-                  "Type": 14,
-                  "Reverse": false,
-                  "IsClient": true,
-                  "CondTag": {
-                    "TagId": -1457280281,
-                    "TagName": "怪物.common.关卡.难度AI分类.Rouge.3级"
-                  }
-                },
-                {
-                  "Index": 3,
-                  "Name": "CondTag",
-                  "Type": 14,
-                  "Reverse": true,
-                  "IsClient": true,
-                  "CondTag": {
-                    "TagId": -1347276491,
-                    "TagName": "怪物.ML1QiShiMd00001.武器回收"
-                  }
-                }
-              ]
-            },
-            {
-              "From": 14,
-              "To": 4,
-              "TransitionPredictionType": 0,
-              "Weight": 0,
-              "Conditions": [
-                {
-                  "Index": 0,
-                  "Name": "CondCheckState",
-                  "Type": 19,
-                  "Reverse": false,
-                  "CondCheckState": {
-                    "TargetState": 18
-                  }
-                }
-              ]
-            }
-          ]
+          "Transitions": []
         },
         {
           "Uuid": 4,
@@ -21138,7 +20926,7 @@
   {
     "Id": "SM_MB1MingzhongzhiguiMd00201",
     "StateMachineJson": {
-      "Version": 1097808370,
+      "Version": 742254261,
       "StateMachines": [0, 10, 20, 30, 33, 41, 51, 61],
       "Nodes": [
         {
@@ -25239,15 +25027,6 @@
                 },
                 {
                   "Index": 2,
-                  "Name": "CondAnd",
-                  "Type": 1,
-                  "Reverse": false,
-                  "CondAnd": {
-                    "Conditions": [3, 4]
-                  }
-                },
-                {
-                  "Index": 3,
                   "Name": "CondTag",
                   "Type": 14,
                   "Reverse": false,
@@ -25255,18 +25034,6 @@
                   "CondTag": {
                     "TagId": -1579095264,
                     "TagName": "怪物.MB1MingzhongzhiguiMd00201.被弹反炮弹命中"
-                  }
-                },
-                {
-                  "Index": 4,
-                  "Name": "CondAttributeRate",
-                  "Type": 18,
-                  "Reverse": false,
-                  "CondAttributeRate": {
-                    "AttributeId": 3,
-                    "Denominator": 2,
-                    "Min": 0,
-                    "Max": 3000
                   }
                 }
               ]
@@ -26050,7 +25817,7 @@
   {
     "Id": "SM_ML1AiShengGuYuanMd00501",
     "StateMachineJson": {
-      "Version": 1886265934,
+      "Version": 1780992949,
       "StateMachines": [0],
       "Nodes": [
         {
@@ -26350,7 +26117,16 @@
           "Uuid": 4,
           "Name": "二阶段",
           "TakeControlType": 0,
-          "TransitionRule": 0
+          "TransitionRule": 0,
+          "OnExitActions": [
+            {
+              "Name": "ActionRemoveBuff",
+              "Type": 2,
+              "ActionRemoveBuff": {
+                "BuffId": 70000045
+              }
+            }
+          ]
         },
         {
           "Uuid": 5,
@@ -26419,7 +26195,14 @@
               "Name": "ActionAddBuff",
               "Type": 1,
               "ActionAddBuff": {
-                "BuffId": 80012041
+                "BuffId": 70000045
+              }
+            },
+            {
+              "Name": "ActionAddBuff",
+              "Type": 1,
+              "ActionAddBuff": {
+                "BuffId": 70000046
               }
             }
           ],
@@ -26459,7 +26242,14 @@
               "Name": "ActionAddBuff",
               "Type": 1,
               "ActionAddBuff": {
-                "BuffId": 80012041
+                "BuffId": 70000046
+              }
+            },
+            {
+              "Name": "ActionAddBuff",
+              "Type": 1,
+              "ActionAddBuff": {
+                "BuffId": 70000045
               }
             }
           ]
@@ -33122,15 +32912,33 @@
   {
     "Id": "SM_MB1ZhenwuguanzheMd00612",
     "StateMachineJson": {
-      "Version": 635509446,
+      "Version": 98088562,
       "StateMachines": [10007],
-      "Nodes": []
+      "Nodes": [
+        {
+          "Uuid": 0,
+          "OverrideCommonUuid": 10010,
+          "Name": "覆盖_C出生",
+          "TakeControlType": 0,
+          "TransitionRule": 0,
+          "Task": {
+            "Name": "TaskSkill",
+            "Type": 1,
+            "CanBeInterrupt": false,
+            "TaskSkill": {
+              "SkillId": 80014998
+            }
+          },
+          "Children": [],
+          "Transitions": []
+        }
+      ]
     }
   },
   {
     "Id": "SM_MB1Wuguanzhe00601_InZhenShenBOSSFight",
     "StateMachineJson": {
-      "Version": 2020426688,
+      "Version": 1193493729,
       "StateMachines": [0],
       "Nodes": [
         {
@@ -33202,7 +33010,7 @@
               }
             }
           ],
-          "Children": [1, 2, 3, 14],
+          "Children": [1, 2, 3, 15],
           "Transitions": [
             {
               "From": 2,
@@ -33220,7 +33028,7 @@
             },
             {
               "From": 3,
-              "To": 14,
+              "To": 15,
               "TransitionPredictionType": 0,
               "Weight": 0,
               "Conditions": [
@@ -33233,7 +33041,7 @@
               ]
             },
             {
-              "From": 14,
+              "From": 15,
               "To": 2,
               "TransitionPredictionType": 0,
               "Weight": 0,
@@ -33325,7 +33133,7 @@
               }
             }
           ],
-          "Children": [4, 5, 6],
+          "Children": [4, 5, 6, 14],
           "Transitions": [
             {
               "From": 5,
@@ -33396,6 +33204,152 @@
                   "CondTaskFinish": {}
                 }
               ]
+            },
+            {
+              "From": 4,
+              "To": 14,
+              "TransitionPredictionType": 0,
+              "Weight": 0,
+              "Conditions": [
+                {
+                  "Index": 0,
+                  "Name": "CondOr",
+                  "Type": 2,
+                  "Reverse": false,
+                  "CondOr": {
+                    "Conditions": [1, 2, 3]
+                  }
+                },
+                {
+                  "Index": 1,
+                  "Name": "CondListenBeHit",
+                  "Type": 103,
+                  "Reverse": false,
+                  "IsClient": true,
+                  "CondListenBeHit": {
+                    "NoHitAnimation": false,
+                    "SoftKnock": false,
+                    "HeavyKnock": false,
+                    "KnockUp": false,
+                    "KnockDown": false,
+                    "Parry": false,
+                    "VisionCounterAttackId": 80004041
+                  }
+                },
+                {
+                  "Index": 2,
+                  "Name": "CondListenBeHit",
+                  "Type": 103,
+                  "Reverse": false,
+                  "IsClient": true,
+                  "CondListenBeHit": {
+                    "NoHitAnimation": false,
+                    "SoftKnock": false,
+                    "HeavyKnock": false,
+                    "KnockUp": false,
+                    "KnockDown": false,
+                    "Parry": false,
+                    "VisionCounterAttackId": 80004052
+                  }
+                },
+                {
+                  "Index": 3,
+                  "Name": "CondListenBeHit",
+                  "Type": 103,
+                  "Reverse": false,
+                  "IsClient": true,
+                  "CondListenBeHit": {
+                    "NoHitAnimation": false,
+                    "SoftKnock": false,
+                    "HeavyKnock": false,
+                    "KnockUp": false,
+                    "KnockDown": false,
+                    "Parry": false,
+                    "VisionCounterAttackId": 80004053
+                  }
+                }
+              ]
+            },
+            {
+              "From": 14,
+              "To": 5,
+              "TransitionPredictionType": 0,
+              "Weight": 0,
+              "Conditions": [
+                {
+                  "Index": 0,
+                  "Name": "CondTaskFinish",
+                  "Type": 101,
+                  "Reverse": false,
+                  "IsClient": true,
+                  "CondTaskFinish": {}
+                }
+              ]
+            },
+            {
+              "From": 5,
+              "To": 14,
+              "TransitionPredictionType": 0,
+              "Weight": 0,
+              "Conditions": [
+                {
+                  "Index": 0,
+                  "Name": "CondOr",
+                  "Type": 2,
+                  "Reverse": false,
+                  "CondOr": {
+                    "Conditions": [1, 2, 3]
+                  }
+                },
+                {
+                  "Index": 1,
+                  "Name": "CondListenBeHit",
+                  "Type": 103,
+                  "Reverse": false,
+                  "IsClient": true,
+                  "CondListenBeHit": {
+                    "NoHitAnimation": false,
+                    "SoftKnock": false,
+                    "HeavyKnock": false,
+                    "KnockUp": false,
+                    "KnockDown": false,
+                    "Parry": false,
+                    "VisionCounterAttackId": 80004041
+                  }
+                },
+                {
+                  "Index": 2,
+                  "Name": "CondListenBeHit",
+                  "Type": 103,
+                  "Reverse": false,
+                  "IsClient": true,
+                  "CondListenBeHit": {
+                    "NoHitAnimation": false,
+                    "SoftKnock": false,
+                    "HeavyKnock": false,
+                    "KnockUp": false,
+                    "KnockDown": false,
+                    "Parry": false,
+                    "VisionCounterAttackId": 80004052
+                  }
+                },
+                {
+                  "Index": 3,
+                  "Name": "CondListenBeHit",
+                  "Type": 103,
+                  "Reverse": false,
+                  "IsClient": true,
+                  "CondListenBeHit": {
+                    "NoHitAnimation": false,
+                    "SoftKnock": false,
+                    "HeavyKnock": false,
+                    "KnockUp": false,
+                    "KnockDown": false,
+                    "Parry": false,
+                    "VisionCounterAttackId": 80004053
+                  }
+                }
+              ]
             }
           ]
         },
@@ -33407,7 +33361,7 @@
           "Task": {
             "Name": "TaskSkill",
             "Type": 1,
-            "CanBeInterrupt": false,
+            "CanBeInterrupt": true,
             "TaskSkill": {
               "SkillId": 80004052
             }
@@ -33664,6 +33618,20 @@
         },
         {
           "Uuid": 14,
+          "Name": "第三阶段被对策技命中",
+          "TakeControlType": 0,
+          "TransitionRule": 0,
+          "Task": {
+            "Name": "TaskSkill",
+            "Type": 1,
+            "CanBeInterrupt": false,
+            "TaskSkill": {
+              "SkillId": 80004073
+            }
+          }
+        },
+        {
+          "Uuid": 15,
           "Name": "脱战",
           "TakeControlType": 0,
           "TransitionRule": 0,

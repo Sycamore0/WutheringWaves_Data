@@ -40188,10 +40188,6 @@
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":14000043}]"
   },
   {
-    "Guid": "8_140000569",
-    "Owner": "[{\"Type\":\"Quest\",\"QuestId\":140000004}]"
-  },
-  {
     "Guid": "8_140000586",
     "Owner": "[{\"Type\":\"Quest\",\"QuestId\":140000004}]"
   },
@@ -46260,10 +46256,6 @@
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700000}]"
   },
   {
-    "Guid": "8002_313700009",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700000}]"
-  },
-  {
     "Guid": "8002_313700010",
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700000}]"
   },
@@ -47560,10 +47552,6 @@
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700004}]"
   },
   {
-    "Guid": "8002_313700145",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
     "Guid": "8_109700542",
     "Owner": "[{\"Type\":\"Entity\",\"EntityId\":109700543}]"
   },
@@ -47654,10 +47642,6 @@
   {
     "Guid": "8002_313700208",
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313000019}]"
-  },
-  {
-    "Guid": "8002_313700213",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313000027}]"
   },
   {
     "Guid": "8_109006371",
@@ -49712,10 +49696,6 @@
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":291800009}]"
   },
   {
-    "Guid": "8_11800001",
-    "Owner": "[{\"Type\":\"Quest\",\"QuestId\":310000041}]"
-  },
-  {
     "Guid": "8_11800002",
     "Owner": "[{\"Type\":\"Quest\",\"QuestId\":310000041}]"
   },
@@ -50662,10 +50642,6 @@
   {
     "Guid": "8_880800001",
     "Owner": "[{\"Type\":\"Quest\",\"QuestId\":880000006}]"
-  },
-  {
-    "Guid": "8_880800002",
-    "Owner": "[{\"Type\":\"Quest\",\"QuestId\":880000008}]"
   },
   {
     "Guid": "8002_313000147",
@@ -52320,15 +52296,7 @@
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
   },
   {
-    "Guid": "8002_313800337",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
     "Guid": "8002_313800338",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800339",
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
   },
   {
@@ -52340,19 +52308,7 @@
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
   },
   {
-    "Guid": "8002_313800343",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
     "Guid": "8002_313800345",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800346",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800347",
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
   },
   {
@@ -52380,19 +52336,7 @@
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
   },
   {
-    "Guid": "8002_313800354",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800355",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
     "Guid": "8002_313800356",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800357",
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
   },
   {
@@ -52404,14 +52348,6 @@
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
   },
   {
-    "Guid": "8002_313800360",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800361",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
     "Guid": "8002_313800362",
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
   },
@@ -52420,23 +52356,7 @@
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
   },
   {
-    "Guid": "8002_313800364",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800365",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800366",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
     "Guid": "8002_313800367",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800368",
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
   },
   {
@@ -52444,15 +52364,7 @@
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
   },
   {
-    "Guid": "8002_313800370",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
     "Guid": "8002_313800371",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800372",
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
   },
   {
@@ -52460,19 +52372,7 @@
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
   },
   {
-    "Guid": "8002_313800374",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
     "Guid": "8002_313800375",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800376",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800377",
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
   },
   {
@@ -52484,10 +52384,6 @@
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
   },
   {
-    "Guid": "8002_313800380",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
     "Guid": "8002_313800381",
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
   },
@@ -52496,23 +52392,11 @@
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
   },
   {
-    "Guid": "8002_313800383",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
     "Guid": "8002_313800384",
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
   },
   {
-    "Guid": "8002_313800385",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
     "Guid": "8002_313800386",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800387",
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
   },
   {
@@ -52524,23 +52408,7 @@
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
   },
   {
-    "Guid": "8002_313800390",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800391",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800392",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
     "Guid": "8002_313800393",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800394",
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
   },
   {
@@ -52548,59 +52416,7 @@
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
   },
   {
-    "Guid": "8002_313800396",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800397",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800398",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800399",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800400",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800401",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800402",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800403",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
     "Guid": "8002_313800404",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800405",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800406",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800407",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800408",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800409",
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
   },
   {
@@ -52616,15 +52432,7 @@
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
   },
   {
-    "Guid": "8002_313800413",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
     "Guid": "8002_313800414",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800415",
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
   },
   {
@@ -52648,10 +52456,6 @@
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
   },
   {
-    "Guid": "8002_313800421",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
     "Guid": "8002_313800422",
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
   },
@@ -52660,19 +52464,7 @@
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
   },
   {
-    "Guid": "8002_313800424",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800425",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
     "Guid": "8002_313800426",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800427",
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
   },
   {
@@ -52680,31 +52472,7 @@
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
   },
   {
-    "Guid": "8002_313800429",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800430",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800431",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800432",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800433",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
     "Guid": "8002_313800434",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
-  },
-  {
-    "Guid": "8002_313800435",
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313700005}]"
   },
   {
@@ -53242,10 +53010,6 @@
   {
     "Guid": "8_136801278",
     "Owner": "[{\"Type\":\"Entity\",\"EntityId\":136801275}]"
-  },
-  {
-    "Guid": "8_136801295",
-    "Owner": "[{\"Type\":\"Entity\",\"EntityId\":136801299}]"
   },
   {
     "Guid": "8_136801296",
@@ -54208,10 +53972,6 @@
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313800008}]"
   },
   {
-    "Guid": "8002_313800571",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313800008}]"
-  },
-  {
     "Guid": "8002_313800572",
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313800008}]"
   },
@@ -54233,10 +53993,6 @@
   },
   {
     "Guid": "8002_313800577",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313800008}]"
-  },
-  {
-    "Guid": "8002_313800578",
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313800008}]"
   },
   {
@@ -54846,10 +54602,6 @@
   {
     "Guid": "100_29800023",
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":29800000}]"
-  },
-  {
-    "Guid": "8_102800053",
-    "Owner": "[{\"Type\":\"Quest\",\"QuestId\":102000000}]"
   },
   {
     "Guid": "2031_102800000",
@@ -56597,10 +56349,6 @@
   },
   {
     "Guid": "8_106000291",
-    "Owner": "[{\"Type\":\"Entity\",\"EntityId\":142800337}]"
-  },
-  {
-    "Guid": "8_106000292",
     "Owner": "[{\"Type\":\"Entity\",\"EntityId\":142800337}]"
   },
   {
@@ -62776,6 +62524,14 @@
     "Owner": "[{\"Type\":\"Quest\",\"QuestId\":102000000}]"
   },
   {
+    "Guid": "8002_313800787",
+    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313800003}]"
+  },
+  {
+    "Guid": "8002_313800788",
+    "Owner": "[{\"Type\":\"Entity\",\"EntityId\":313800787}]"
+  },
+  {
     "Guid": "8_140800545",
     "Owner": "[{\"Type\":\"Entity\",\"EntityId\":140800754}]"
   },
@@ -62892,11 +62648,27 @@
     "Owner": "[{\"Type\":\"Entity\",\"EntityId\":140800755}]"
   },
   {
-    "Guid": "8002_313800787",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313800003}]"
+    "Guid": "8_140800758",
+    "Owner": "[{\"Type\":\"Quest\",\"QuestId\":140000004}]"
   },
   {
-    "Guid": "8002_313800788",
-    "Owner": "[{\"Type\":\"Entity\",\"EntityId\":313800787}]"
+    "Guid": "8002_313700214",
+    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":313000027}]"
+  },
+  {
+    "Guid": "8_102800097",
+    "Owner": "[{\"Type\":\"Quest\",\"QuestId\":102000000}]"
+  },
+  {
+    "Guid": "8_102800098",
+    "Owner": "[{\"Type\":\"Quest\",\"QuestId\":102000000}]"
+  },
+  {
+    "Guid": "8_102800099",
+    "Owner": "[{\"Type\":\"Quest\",\"QuestId\":102000000}]"
+  },
+  {
+    "Guid": "8_11800040",
+    "Owner": "[{\"Type\":\"Quest\",\"QuestId\":310000041}]"
   }
 ]

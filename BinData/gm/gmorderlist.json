@@ -1639,5 +1639,23 @@
       "add_new_role_config 13020",
       "add_new_role_config 13021"
     ]
+  },
+  {
+    "Id": 135,
+    "Name": "一键毕业-关卡测试",
+    "OrderList": [
+      "ShowTipsView#1",
+      "add_all_role",
+      "set_all_role_to_graduate",
+      "weaponboost",
+      "phantomgraduate",
+      "funcopengm 0",
+      "add_item 1 50000",
+      "activateteleport 0",
+      "passworldlevelup",
+      "finish_quest 139000025",
+      "finish_quest 139000026",
+      "finish_quest 139000027"
+    ]
   }
 ]

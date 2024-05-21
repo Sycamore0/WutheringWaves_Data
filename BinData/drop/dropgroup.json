@@ -21198,5 +21198,69 @@
     "MaxNum": 1,
     "Interval": 0,
     "DropShowPlan": 1
+  },
+  {
+    "UnitId": 12879,
+    "GroupId": 69001,
+    "MinNum": 1,
+    "MaxNum": 1,
+    "Interval": 0,
+    "DropShowPlan": 1
+  },
+  {
+    "UnitId": 12880,
+    "GroupId": 69001,
+    "MinNum": 1,
+    "MaxNum": 1,
+    "Interval": 0,
+    "DropShowPlan": 1
+  },
+  {
+    "UnitId": 12881,
+    "GroupId": 69001,
+    "MinNum": 1,
+    "MaxNum": 1,
+    "Interval": 0,
+    "DropShowPlan": 1
+  },
+  {
+    "UnitId": 12882,
+    "GroupId": 69001,
+    "MinNum": 1,
+    "MaxNum": 1,
+    "Interval": 0,
+    "DropShowPlan": 1
+  },
+  {
+    "UnitId": 12883,
+    "GroupId": 69002,
+    "MinNum": 1,
+    "MaxNum": 1,
+    "Interval": 0,
+    "DropShowPlan": 1
+  },
+  {
+    "UnitId": 12884,
+    "GroupId": 69002,
+    "MinNum": 1,
+    "MaxNum": 1,
+    "Interval": 0,
+    "DropShowPlan": 1
+  },
+  {
+    "UnitId": 12885,
+    "GroupId": 69002,
+    "MinNum": 1,
+    "MaxNum": 1,
+    "Interval": 0,
+    "DropShowPlan": 1
+  },
+  {
+    "UnitId": 12886,
+    "GroupId": 69002,
+    "MinNum": 1,
+    "MaxNum": 1,
+    "Interval": 0,
+    "DropShowPlan": 1
   }
 ]

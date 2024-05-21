@@ -1818,7 +1818,7 @@
     "Step": [382, 383, 10087],
     "OpenLimitCondition": 0,
     "AutoOpenCondition": 0,
-    "LimitRepeat": [-1],
+    "LimitRepeat": [],
     "DungeonId": [1, 2, 8],
     "ResetInDungeon": false
   },
@@ -1899,7 +1899,7 @@
     "Step": [40031, 40032, 40033],
     "OpenLimitCondition": 0,
     "AutoOpenCondition": 0,
-    "LimitRepeat": [-1],
+    "LimitRepeat": [],
     "DungeonId": [1, 2, 8],
     "ResetInDungeon": false
   },
@@ -2718,7 +2718,7 @@
     "Step": [34036],
     "OpenLimitCondition": 0,
     "AutoOpenCondition": 0,
-    "LimitRepeat": [-1],
+    "LimitRepeat": [],
     "DungeonId": [1, 2, 8],
     "ResetInDungeon": false
   },

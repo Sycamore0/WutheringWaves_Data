@@ -1836,22 +1836,22 @@
       "Max": 56000
     },
     "DisengageTimeRange": {
-      "Min": 40000,
-      "Max": 45000
+      "Min": 95000,
+      "Max": 100000
     },
     "DisengageHeightRange": {
-      "Min": -10000,
+      "Min": -50000,
       "Max": 50000
     },
     "DisengageHeightRangeMax": {
-      "Min": -20000,
-      "Max": 80000
+      "Min": -50000,
+      "Max": 50000
     },
     "DisengageBornDistance": {
       "Min": 55000,
       "Max": 56000
     },
-    "MaxMoveFromBorn": 58000,
+    "MaxMoveFromBorn": 60000,
     "ExcludeTag": "行为状态.逻辑状态.隐身",
     "SwornHatredTag": ""
   },

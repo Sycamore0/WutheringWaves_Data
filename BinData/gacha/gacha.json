@@ -33,5 +33,10 @@
     "Id": 200002,
     "RuleGroupId": 2,
     "Sort": 30
+  },
+  {
+    "Id": 4,
+    "RuleGroupId": 6,
+    "Sort": 10
   }
 ]

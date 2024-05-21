@@ -1718,17 +1718,7 @@
     },
     "Icon": "",
     "TidContent": "",
-    "Condition": {
-      "Type": 0,
-      "Conditions": [
-        {
-          "Type": "CompareQuestState",
-          "QuestId": 140000004,
-          "Compare": "Eq",
-          "State": 2
-        }
-      ]
-    },
+    "Condition": "",
     "UniquenessTest": "",
     "DoIntactType": "Direct",
     "Range": 0,
@@ -2747,7 +2737,7 @@
     "TidContent": "Quest_140000000_InteractContent_0_4",
     "Condition": "",
     "UniquenessTest": "",
-    "DoIntactType": "Direct",
+    "DoIntactType": "Option",
     "Range": 0,
     "Duration": ""
   },
@@ -10810,78 +10800,6 @@
         "FlowListName": "剧情_天城生态_NPC",
         "FlowId": 5,
         "StateId": 13
-      }
-    },
-    "Icon": "",
-    "TidContent": "",
-    "Condition": "",
-    "UniquenessTest": "",
-    "DoIntactType": "Direct",
-    "Range": 0,
-    "Duration": ""
-  },
-  {
-    "Guid": "a7bc8403999643808b41698dda0248e3",
-    "Type": {
-      "Type": "Flow",
-      "Flow": {
-        "FlowListName": "剧情_天城生态_NPC",
-        "FlowId": 5,
-        "StateId": 5
-      }
-    },
-    "Icon": "",
-    "TidContent": "",
-    "Condition": "",
-    "UniquenessTest": "",
-    "DoIntactType": "Direct",
-    "Range": 0,
-    "Duration": ""
-  },
-  {
-    "Guid": "cc5325400f2740e49e37bbdfcf2e41f2",
-    "Type": {
-      "Type": "Flow",
-      "Flow": {
-        "FlowListName": "剧情_天城生态_NPC",
-        "FlowId": 5,
-        "StateId": 3
-      }
-    },
-    "Icon": "",
-    "TidContent": "",
-    "Condition": "",
-    "UniquenessTest": "",
-    "DoIntactType": "Direct",
-    "Range": 0,
-    "Duration": ""
-  },
-  {
-    "Guid": "dd0c2b2cf0f84db88274557d39589bc2",
-    "Type": {
-      "Type": "Flow",
-      "Flow": {
-        "FlowListName": "剧情_天城生态_NPC",
-        "FlowId": 5,
-        "StateId": 15
-      }
-    },
-    "Icon": "",
-    "TidContent": "",
-    "Condition": "",
-    "UniquenessTest": "",
-    "DoIntactType": "Direct",
-    "Range": 0,
-    "Duration": ""
-  },
-  {
-    "Guid": "470d730dc7454ab2be5f810c4d6b0d92",
-    "Type": {
-      "Type": "Flow",
-      "Flow": {
-        "FlowListName": "剧情_天城生态_NPC",
-        "FlowId": 5,
-        "StateId": 14
       }
     },
     "Icon": "",
@@ -21745,13 +21663,22 @@
     "Guid": "cef442a7b6e74058964414d1c7d62c8f",
     "Type": {
       "Type": "Actions",
-      "Actions": []
+      "Actions": [
+        {
+          "Name": "OpenSystemBoard",
+          "Params": {
+            "SystemType": "RogueShop",
+            "BoardId": 0
+          },
+          "ActionId": 4000099
+        }
+      ]
     },
     "Icon": "",
     "TidContent": "",
     "Condition": "",
     "UniquenessTest": "",
-    "DoIntactType": "Auto",
+    "DoIntactType": "Direct",
     "Range": 0,
     "Duration": ""
   },
@@ -22265,13 +22192,22 @@
     "Guid": "35acac6a5e6e4af092d40a26333b79d2",
     "Type": {
       "Type": "Actions",
-      "Actions": []
+      "Actions": [
+        {
+          "Name": "OpenSystemBoard",
+          "Params": {
+            "SystemType": "RogueShop",
+            "BoardId": 0
+          },
+          "ActionId": 4000012
+        }
+      ]
     },
     "Icon": "",
     "TidContent": "",
     "Condition": "",
     "UniquenessTest": "",
-    "DoIntactType": "Auto",
+    "DoIntactType": "Direct",
     "Range": 0,
     "Duration": ""
   },
@@ -24652,6 +24588,96 @@
     },
     "Icon": "",
     "TidContent": "",
+    "Condition": "",
+    "UniquenessTest": "",
+    "DoIntactType": "Direct",
+    "Range": 0,
+    "Duration": ""
+  },
+  {
+    "Guid": "10ff0b27c4604f159b62709d084275a1",
+    "Type": {
+      "Type": "Flow",
+      "Flow": {
+        "FlowListName": "剧情_天城生态_NPC",
+        "FlowId": 5,
+        "StateId": 14
+      }
+    },
+    "Icon": "",
+    "TidContent": "",
+    "Condition": "",
+    "UniquenessTest": "",
+    "DoIntactType": "Direct",
+    "Range": 0,
+    "Duration": ""
+  },
+  {
+    "Guid": "ac8b258290aa4b5eacaf8c009d75b701",
+    "Type": {
+      "Type": "Flow",
+      "Flow": {
+        "FlowListName": "剧情_天城生态_NPC",
+        "FlowId": 5,
+        "StateId": 3
+      }
+    },
+    "Icon": "",
+    "TidContent": "",
+    "Condition": "",
+    "UniquenessTest": "",
+    "DoIntactType": "Direct",
+    "Range": 0,
+    "Duration": ""
+  },
+  {
+    "Guid": "b775d48d436a4b969a4dce8be1866466",
+    "Type": {
+      "Type": "Flow",
+      "Flow": {
+        "FlowListName": "剧情_天城生态_NPC",
+        "FlowId": 5,
+        "StateId": 5
+      }
+    },
+    "Icon": "",
+    "TidContent": "",
+    "Condition": "",
+    "UniquenessTest": "",
+    "DoIntactType": "Direct",
+    "Range": 0,
+    "Duration": ""
+  },
+  {
+    "Guid": "fe08204148f741ac95ac4b25c95017a5",
+    "Type": {
+      "Type": "Flow",
+      "Flow": {
+        "FlowListName": "剧情_天城生态_NPC",
+        "FlowId": 5,
+        "StateId": 15
+      }
+    },
+    "Icon": "",
+    "TidContent": "",
+    "Condition": "",
+    "UniquenessTest": "",
+    "DoIntactType": "Direct",
+    "Range": 0,
+    "Duration": ""
+  },
+  {
+    "Guid": "7501059b4cf14122998e0d84b7a0fc54",
+    "Type": {
+      "Type": "Flow",
+      "Flow": {
+        "FlowListName": "剧情_Default",
+        "FlowId": 1,
+        "StateId": 1
+      }
+    },
+    "Icon": "",
+    "TidContent": "Quest_13000009_InteractContent_34_1",
     "Condition": "",
     "UniquenessTest": "",
     "DoIntactType": "Direct",

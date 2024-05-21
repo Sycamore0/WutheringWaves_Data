@@ -41,8 +41,8 @@
   },
   {
     "Id": 1505,
-    "MaleFormation": [15010001, 14020001, 11030001],
-    "FemaleFormation": [15020001, 14020001, 11030001],
+    "MaleFormation": [1008006, 1008005, 1008008],
+    "FemaleFormation": [1008007, 1008005, 1008008],
     "OnlyTrial": true,
     "AutoChange": true,
     "ShowInEntrance": true

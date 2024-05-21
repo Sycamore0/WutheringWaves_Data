@@ -88969,7 +88969,7 @@
     "SpecType": 0,
     "EffectRegularType": 3,
     "LifeTime": 3,
-    "Children": []
+    "Children": [1966720392]
   },
   {
     "Id": -1148370902,
@@ -109681,6 +109681,46 @@
     "SpecType": 0,
     "EffectRegularType": 3,
     "LifeTime": 1.7999999523162842,
+    "Children": []
+  },
+  {
+    "Id": -311801673,
+    "Path": "/game/aki/effect/effectaudio/amb/da_au_amb_coin_small.da_au_amb_coin_small",
+    "SpecType": 2,
+    "EffectRegularType": -1,
+    "LifeTime": -1,
+    "Children": []
+  },
+  {
+    "Id": -699060199,
+    "Path": "/game/aki/effect/dataasset/niagara/mb1wuguanzhe00601/da_fx_l2_mba05_buffyumao.da_fx_l2_mba05_buffyumao",
+    "SpecType": 1,
+    "EffectRegularType": 3,
+    "LifeTime": -1,
+    "Children": []
+  },
+  {
+    "Id": -1542286727,
+    "Path": "/game/aki/effect/dataasset/niagara/mb1wuguanzhe00601/da_fx_l2_mba05_trail04.da_fx_l2_mba05_trail04",
+    "SpecType": 1,
+    "EffectRegularType": 3,
+    "LifeTime": -1,
+    "Children": []
+  },
+  {
+    "Id": 11465659,
+    "Path": "/game/aki/effect/effectgroup/mb1wuguanzhe00601/da_fx_group_l2_mba05_buffyumao.da_fx_group_l2_mba05_buffyumao",
+    "SpecType": 0,
+    "EffectRegularType": 3,
+    "LifeTime": -1,
+    "Children": []
+  },
+  {
+    "Id": -1324250581,
+    "Path": "/game/aki/effect/effectgroup/mb1wuguanzhe00601/da_fx_group_l2_mba05_trail04.da_fx_group_l2_mba05_trail04",
+    "SpecType": 0,
+    "EffectRegularType": 3,
+    "LifeTime": -1,
     "Children": []
   }
 ]

@@ -238,5 +238,13 @@
     "ShowTitle": true,
     "Time": 3,
     "MaxCount": 0
+  },
+  {
+    "Id": 72,
+    "BuffTitle": "SilentArea_72_Title",
+    "BuffDescription": "SilentArea_72_Description",
+    "ShowTitle": true,
+    "Time": 3,
+    "MaxCount": 0
   }
 ]

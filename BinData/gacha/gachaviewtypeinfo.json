@@ -38,5 +38,13 @@
     "TypeText": "Text_GachaTypeText5_Text",
     "OptionalTitle": "Text_GachaOptionalTitle1_Text",
     "OptionalDesc": "Text_GachaOptionalDesc2_Text"
+  },
+  {
+    "Type": 6,
+    "TagText": "Text_GachaTagText6_Text",
+    "TagColor": "12ab54",
+    "TypeText": "Text_GachaTypeText6_Text",
+    "OptionalTitle": "Text_GachaOptionalTitle1_Text",
+    "OptionalDesc": "Text_GachaOptionalDesc1_Text"
   }
 ]
