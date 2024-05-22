@@ -93,11 +93,11 @@
   },
   {
     "Id": "SplashHealthyGamingAdvisory",
-    "Content": ""
+    "Content": "건전한 게임을 위한 안내: 사기 방지를 위해 개인 정보에 유의하시기 바랍니다. 장시간 게임 플레이는 건강을 해치므로 적절한 게임 플레이를 통해 건강한 게임 생활을 즐기시기 바랍니다."
   },
   {
     "Id": "SplashCopyrightInformation",
-    "Content": "승인 번호: 궈신출심[2023] 1802호 ISBN 978-7-498-12761-7 출판사: 청두잉중큐저우 사이버 과학 기술 유한 회사\n저작권자: 광저우 쿠로 과학 기술 유한 회사"
+    "Content": "\"심사번호: 国新出审〔2023〕1802号 ISBN 978-7-498-12761-7  퍼블리싱: 成都盈众九州网络科技有限公司\n저작권자: 广州库洛科技有限公司\""
   },
   {
     "Id": "GetRemoteConfigFailed",
@@ -205,7 +205,7 @@
   },
   {
     "Id": "NewVersionDetailDownloadGetReward",
-    "Content": "게임은 새로운 버전이 있습니다. 새로운 버전을 다운로드하세요. \n새로운 버전을 다운로드하고 로그인하면 <color=highlightB>별의 소리*300, 결정 용제*2</color>를 얻을 수 있습니다"
+    "Content": "게임은 새로운 버전이 있습니다. 새로운 버전을 다운로드하세요. \n새로운 버전을 다운로드하고 로그인하면 <color=#c49e55ff>별의 소리*300, 결정 용제*2</color>를 얻을 수 있습니다"
   },
   {
     "Id": "ConfirmText",

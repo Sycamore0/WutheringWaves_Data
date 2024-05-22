@@ -169,7 +169,8 @@
           "ActionGuid": "a69f6668d5274c03be98d468f27ac0ac",
           "ActionId": 3000001
         }
-      ]
+      ],
+      "RewardId": 44001
     }
   },
   {
@@ -1557,7 +1558,18 @@
       "Id": 7,
       "Desc": "",
       "SaveConfig": {
-        "DisableRollbackWhileReconnect": true
+        "DisableRollbackWhileReconnect": true,
+        "EnterActions": [
+          {
+            "Name": "SetEntityVisible",
+            "Params": {
+              "Visible": false,
+              "EntityIds": [310000541]
+            },
+            "ActionGuid": "19faf14806ef42d1a78a0dd40fee3a5f",
+            "ActionId": 3000016
+          }
+        ]
       }
     }
   },
@@ -1660,18 +1672,7 @@
         }
       },
       "EnterActions": [],
-      "FinishActions": [
-        {
-          "Name": "PlayFlow",
-          "Params": {
-            "FlowListName": "剧情_世界事件_倾听动物之声_放鸽子",
-            "FlowId": 1,
-            "StateId": 2
-          },
-          "ActionId": 3000023,
-          "ActionGuid": "cc4edeafea5f4b47a164032a1c3b9b87"
-        }
-      ]
+      "FinishActions": []
     }
   },
   {
@@ -1707,7 +1708,18 @@
           "EntityIds": [126000181]
         }
       },
-      "EnterActions": [],
+      "EnterActions": [
+        {
+          "Name": "PlayFlow",
+          "Params": {
+            "FlowListName": "剧情_世界事件_倾听动物之声_放鸽子",
+            "FlowId": 1,
+            "StateId": 2
+          },
+          "ActionGuid": "ecbf3ec8c4de4b2abfebecfb785366fb",
+          "ActionId": 3000017
+        }
+      ],
       "FinishActions": [],
       "RewardId": 41114
     }
@@ -10036,7 +10048,8 @@
       "Type": "ParallelSelect",
       "Id": 5,
       "Desc": "监测离开商店任务回退",
-      "Count": 1
+      "Count": 1,
+      "SaveConfig": {}
     }
   },
   {
@@ -13654,7 +13667,8 @@
           "Type": "Locations",
           "Locations": []
         }
-      }
+      },
+      "RewardId": 20801
     }
   },
   {
@@ -13893,7 +13907,8 @@
           "ActionGuid": "ffd5a5201e1e4d07bd434b8469027a7c",
           "ActionId": 3000151
         }
-      ]
+      ],
+      "RewardId": 20802
     }
   },
   {
@@ -34264,7 +34279,7 @@
         {
           "Name": "AwakeEntity",
           "Params": {
-            "EntityIds": [125000576, 125000802, 125000803, 125000804]
+            "EntityIds": [125000802, 125000803, 125000804]
           },
           "ActionGuid": "d4a4de0991f74fff849c80bd2c10713d",
           "ActionId": 3000005
@@ -34412,7 +34427,16 @@
           "LeaveRange": 150
         }
       },
-      "EnterActions": [],
+      "EnterActions": [
+        {
+          "Name": "AwakeEntity",
+          "Params": {
+            "EntityIds": [125000576]
+          },
+          "ActionGuid": "4606a9eb9bd64854862560a469aa08d1",
+          "ActionId": 3000007
+        }
+      ],
       "FinishActions": []
     }
   },
@@ -45886,7 +45910,7 @@
           "TidDescText": "Quest_136000001_HandInItemsDesc_0_4"
         },
         "AddOption": {
-          "EntityId": 136002958,
+          "EntityId": 136002684,
           "Option": {
             "TidContent": "Quest_136000001_InteractContent_0_30",
             "Guid": "8841e228a9264cf79182def29eccfe35",
@@ -45913,19 +45937,10 @@
       "TrackTarget": {
         "TrackType": {
           "Type": "Entities",
-          "EntityIds": [136002958]
+          "EntityIds": [136002684]
         }
       },
-      "EnterActions": [
-        {
-          "Name": "AwakeEntity",
-          "Params": {
-            "EntityIds": [136002958]
-          },
-          "ActionGuid": "fc7c0a26df794199ad91ec8b07a9babc",
-          "ActionId": 3000033
-        }
-      ],
+      "EnterActions": [],
       "FinishActions": [
         {
           "Name": "PlayFlow",
@@ -46837,7 +46852,7 @@
       "Id": 195,
       "Desc": "战斗",
       "SaveConfig": {
-        "DisableRollbackWhileReconnect": false,
+        "DisableRollbackWhileReconnect": true,
         "PosRollbackCfg": {
           "RangeEntityId": 102800026,
           "PositionEntityId": 102800089
@@ -47362,7 +47377,7 @@
       "Id": 196,
       "Desc": "大楼底部战斗",
       "SaveConfig": {
-        "DisableRollbackWhileReconnect": false,
+        "DisableRollbackWhileReconnect": true,
         "EnterActions": [
           {
             "Name": "ChangeEntityState",
@@ -75396,7 +75411,27 @@
       "Type": "Sequence",
       "Id": 62,
       "Desc": "最终决战",
-      "SaveConfig": {},
+      "SaveConfig": {
+        "EnterActions": [
+          {
+            "Name": "EnableLevelPlay",
+            "Params": {
+              "Configs": [
+                {
+                  "LevelPlayId": 135000030,
+                  "Enable": false
+                },
+                {
+                  "LevelPlayId": 135000031,
+                  "Enable": false
+                }
+              ]
+            },
+            "ActionGuid": "540a07c8a0dd4a2aa31eb2c75bb2f7b8",
+            "ActionId": 3000149
+          }
+        ]
+      },
       "DisableOnline": true
     }
   },
@@ -77013,7 +77048,23 @@
       "Type": "Sequence",
       "Id": 63,
       "Desc": "",
-      "SaveConfig": {},
+      "SaveConfig": {
+        "EnterActions": [
+          {
+            "Name": "EnableLevelPlay",
+            "Params": {
+              "Configs": [
+                {
+                  "LevelPlayId": 135000026,
+                  "Enable": false
+                }
+              ]
+            },
+            "ActionGuid": "0d77c77b5c794899bce04aa15ea170fe",
+            "ActionId": 3000148
+          }
+        ]
+      },
       "DisableOnline": true
     }
   },
@@ -90708,8 +90759,7 @@
           "ActionId": 3000058
         }
       ],
-      "FinishActions": [],
-      "RewardId": 70702
+      "FinishActions": []
     }
   },
   {
@@ -96198,15 +96248,7 @@
       "FailedCondition": {
         "IsTransferFailure": true,
         "IsTeamDeathFailure": true,
-        "CanGiveUp": true,
-        "RangeLimiting": {
-          "Point": {
-            "X": 72500,
-            "Y": -49000,
-            "Z": 20
-          },
-          "Range": 3000
-        }
+        "CanGiveUp": true
       },
       "FinishActions": []
     }
@@ -121387,7 +121429,8 @@
           "Type": "Entities",
           "EntityIds": [109002516]
         }
-      }
+      },
+      "RewardId": 44001
     }
   },
   {
@@ -124782,7 +124825,7 @@
       "Id": 268,
       "Desc": "",
       "SaveConfig": {
-        "DisableRollbackWhileReconnect": false,
+        "DisableRollbackWhileReconnect": true,
         "EnterActions": [
           {
             "Name": "AwakeEntity",
@@ -124958,7 +125001,7 @@
       "Id": 275,
       "Desc": "",
       "SaveConfig": {
-        "DisableRollbackWhileReconnect": false,
+        "DisableRollbackWhileReconnect": true,
         "EnterActions": [],
         "PosRollbackCfg": {
           "RangeEntityId": 102800026,
@@ -144655,7 +144698,8 @@
       "Type": "ParallelSelect",
       "Id": 7,
       "Desc": "",
-      "Count": 1
+      "Count": 1,
+      "SaveConfig": {}
     }
   },
   {
@@ -144663,8 +144707,7 @@
     "Data": {
       "Type": "Sequence",
       "Id": 9,
-      "Desc": "",
-      "SaveConfig": {}
+      "Desc": ""
     }
   },
   {
@@ -145114,7 +145157,7 @@
       "Id": 326,
       "Desc": "大楼底部战斗",
       "SaveConfig": {
-        "DisableRollbackWhileReconnect": false,
+        "DisableRollbackWhileReconnect": true,
         "EnterActions": [
           {
             "Name": "ChangeEntityState",
@@ -145342,7 +145385,7 @@
       "Id": 339,
       "Desc": "",
       "SaveConfig": {
-        "DisableRollbackWhileReconnect": false,
+        "DisableRollbackWhileReconnect": true,
         "PosRollbackCfg": {
           "RangeEntityId": 102800026,
           "PositionEntityId": 102800090

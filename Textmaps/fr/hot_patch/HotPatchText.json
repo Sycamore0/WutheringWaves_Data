@@ -85,7 +85,7 @@
   },
   {
     "Id": "SplashCautionContent",
-    "Content": "Un petit nombre de personnes est susceptible de faire des crises d’épilepsie ou de perdre conscience lorsqu’exposées à certains types de lumières clignotantes ou de stimulations lumineuses. Ces personnes, ou même des personnes qui n’ont pas d’antécédent médical ou n’ont jamais eu de crises d’épilepsie, peuvent présenter des symptômes ou faire des crises épileptiques en jouant à des jeux vidéo. \nSi vous, ou l’un de vos proches, souffrez d’épilepsie ou avez déjà eu des crises de quelque nature que ce soit, consultez votre médecin avant de jouer à un jeu vidéo. \nCESSEZ IMMÉDIATEMENT le jeu et consultez un médecin si vous ou votre proche présentez l’un des symptômes suivants : étourdissements, trouble de la vision, contraction des yeux ou des muscles, mouvements involontaires, perte de conscience, trouble de l’orientation ou convulsions."
+    "Content": "Un petit nombre de personnes est susceptible de faire des crises d’épilepsie ou de perdre conscience lorsqu’exposées à certains types de lumières clignotantes ou de stimulations lumineuses. Ces personnes, ou même des personnes qui n’ont pas d’antécédent médical ou n’ont jamais eu de crises d’épilepsie, peuvent présenter des symptômes ou faire des crises épileptiques en jouant des jeux vidéo. \nSi vous ou l’un de vos proches, souffrez d’épilepsie ou avez déjà eu des crises de quelque nature que ce soit, consultez le médecin avant de jouer à un jeu vidéo. \nCESSEZ IMMÉDIATEMENT le jeu et consultez un médecin si vous ou votre proche présentez l’un des symptômes suivants : étourdissements, trouble de la vision, contraction des yeux ou des muscles, mouvements involontaires, perte de conscience, trouble de l’orientation ou convulsions."
   },
   {
     "Id": "SplashLoading",
@@ -93,11 +93,11 @@
   },
   {
     "Id": "SplashHealthyGamingAdvisory",
-    "Content": "Rejetez les mauvais jeux et les jeux piratés. Veillez à vous protéger et à ne pas vous faire escroquer.\nLes jeux modérés sont bons pour le cerveau, les jeux excessifs nuisent au corps. Organisez votre temps de manière raisonnable et profitez d'une vie saine."
+    "Content": "\"Rejetez les jeux piratés. Protégez-vous contre les arnaques.\nProfitez des sessions et organisez votre temps de manière raisonnable.\nNous vous souhaitons bonheur et santé.\""
   },
   {
     "Id": "SplashCopyrightInformation",
-    "Content": "审批文号：国新出审〔2023〕1802号 ISBN 978-7-498-12761-7  出版单位：成都盈众九州网络科技有限公司\r\n著作权人：广州库洛科技有限公司"
+    "Content": "\"No. de Certificat: 国新出审〔2023〕1802号 ISBN 978-7-498-12761-7.\nPublié par 成都盈众九州网络科技有限公司\nCopyright : 广州库洛科技有限公司\""
   },
   {
     "Id": "GetRemoteConfigFailed",
@@ -221,22 +221,22 @@
   },
   {
     "Id": "MobileDriverOutOfVersion",
-    "Content": ""
+    "Content": "La version du pilote de votre téléphone est obsolète (version du pilote GL < 378). Cela peut provoquer des plantages de jeu pendant votre partie. Pour garantir une expérience de jeu fluide, il est recommandé de mettre à jour la version du système ou du pilote GL."
   },
   {
     "Id": "DownloadContinue",
-    "Content": ""
+    "Content": "Touchez la zone vide pour continuer."
   },
   {
     "Id": "PatchClear",
-    "Content": ""
+    "Content": "Les ressources du patch local seront effacées et téléchargées à nouveau. Souhaitez-vous continuer ?"
   },
   {
     "Id": "PatchClearTitle",
-    "Content": ""
+    "Content": "Effacer le Patch"
   },
   {
     "Id": "PatchClearbutton",
-    "Content": ""
+    "Content": "Réparer"
   }
 ]

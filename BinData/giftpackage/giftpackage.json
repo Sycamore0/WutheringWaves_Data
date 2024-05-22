@@ -351,10 +351,10 @@
     "Id": 1010,
     "Type": 4,
     "Content": {
-      "size": 26
+      "size": 27
     },
     "Weight": {
-      "size": 26
+      "size": 27
     },
     "AvailableNum": 1,
     "ShowType": 1
@@ -363,10 +363,10 @@
     "Id": 1011,
     "Type": 4,
     "Content": {
-      "size": 13
+      "size": 14
     },
     "Weight": {
-      "size": 13
+      "size": 14
     },
     "AvailableNum": 1,
     "ShowType": 1
@@ -375,10 +375,10 @@
     "Id": 1012,
     "Type": 4,
     "Content": {
-      "size": 9
+      "size": 11
     },
     "Weight": {
-      "size": 9
+      "size": 11
     },
     "AvailableNum": 1,
     "ShowType": 1
@@ -471,10 +471,10 @@
     "Id": 1013,
     "Type": 4,
     "Content": {
-      "size": 51
+      "size": 52
     },
     "Weight": {
-      "size": 51
+      "size": 52
     },
     "AvailableNum": 1,
     "ShowType": 1
