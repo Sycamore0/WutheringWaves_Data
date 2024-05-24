@@ -6,9 +6,7 @@
     "Type": 0,
     "Options": ["PhotoSetup_1_Options_0", "PhotoSetup_1_Options_1"],
     "DefaultOptionIndex": 1,
-    "SubOptions": {
-      "size": 0
-    },
+    "SubOptions": [],
     "ValueRange": [0, 100, 50],
     "IsReverseSet": false,
     "ChangeValue": 0.1
@@ -20,9 +18,7 @@
     "Type": 0,
     "Options": ["PhotoSetup_3_Options_0", "PhotoSetup_3_Options_1"],
     "DefaultOptionIndex": 1,
-    "SubOptions": {
-      "size": 0
-    },
+    "SubOptions": [],
     "ValueRange": [0, 100, 50],
     "IsReverseSet": false,
     "ChangeValue": 0.1
@@ -34,9 +30,14 @@
     "Type": 0,
     "Options": ["PhotoSetup_4_Options_0", "PhotoSetup_4_Options_1"],
     "DefaultOptionIndex": 0,
-    "SubOptions": {
-      "size": 1
-    },
+    "SubOptions": [
+      {
+        "Key": 0,
+        "Value": {
+          "ArrayInt": [4, 5]
+        }
+      }
+    ],
     "ValueRange": [0, 100, 50],
     "IsReverseSet": false,
     "ChangeValue": 0.1
@@ -48,9 +49,7 @@
     "Type": 1,
     "Options": ["关闭", "开启"],
     "DefaultOptionIndex": 1,
-    "SubOptions": {
-      "size": 0
-    },
+    "SubOptions": [],
     "ValueRange": [0, 500, 400],
     "IsReverseSet": false,
     "ChangeValue": 5
@@ -62,9 +61,7 @@
     "Type": 1,
     "Options": ["关闭", "开启"],
     "DefaultOptionIndex": 1,
-    "SubOptions": {
-      "size": 0
-    },
+    "SubOptions": [],
     "ValueRange": [0.10000000149011612, 5, 0.10000000149011612],
     "IsReverseSet": true,
     "ChangeValue": 0.1

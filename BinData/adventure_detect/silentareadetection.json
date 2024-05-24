@@ -17,9 +17,40 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_999_UI.T_IconMonsterHead_999_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_999_UI.T_IconMonsterHead_999_UI",
     "ShowReward": 10118,
-    "ShowRewardMap": {
-      "size": 8
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 10111
+      },
+      {
+        "Key": 2,
+        "Value": 10112
+      },
+      {
+        "Key": 3,
+        "Value": 10113
+      },
+      {
+        "Key": 4,
+        "Value": 10114
+      },
+      {
+        "Key": 5,
+        "Value": 10115
+      },
+      {
+        "Key": 6,
+        "Value": 10116
+      },
+      {
+        "Key": 7,
+        "Value": 10117
+      },
+      {
+        "Key": 8,
+        "Value": 10118
+      }
+    ],
     "BeginTimeStamp": 0,
     "MarkId": 5021,
     "LockCon": 0,
@@ -45,9 +76,40 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_225_UI.T_IconMonsterHead_225_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_225_UI.T_IconMonsterHead_225_UI",
     "ShowReward": 10198,
-    "ShowRewardMap": {
-      "size": 8
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 10191
+      },
+      {
+        "Key": 2,
+        "Value": 10192
+      },
+      {
+        "Key": 3,
+        "Value": 10193
+      },
+      {
+        "Key": 4,
+        "Value": 10194
+      },
+      {
+        "Key": 5,
+        "Value": 10195
+      },
+      {
+        "Key": 6,
+        "Value": 10196
+      },
+      {
+        "Key": 7,
+        "Value": 10197
+      },
+      {
+        "Key": 8,
+        "Value": 10198
+      }
+    ],
     "BeginTimeStamp": 0,
     "MarkId": 5030,
     "LockCon": 0,
@@ -73,9 +135,40 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_226_UI.T_IconMonsterHead_226_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_226_UI.T_IconMonsterHead_226_UI",
     "ShowReward": 10128,
-    "ShowRewardMap": {
-      "size": 8
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 10121
+      },
+      {
+        "Key": 2,
+        "Value": 10122
+      },
+      {
+        "Key": 3,
+        "Value": 10123
+      },
+      {
+        "Key": 4,
+        "Value": 10124
+      },
+      {
+        "Key": 5,
+        "Value": 10125
+      },
+      {
+        "Key": 6,
+        "Value": 10126
+      },
+      {
+        "Key": 7,
+        "Value": 10127
+      },
+      {
+        "Key": 8,
+        "Value": 10128
+      }
+    ],
     "BeginTimeStamp": 0,
     "MarkId": 5023,
     "LockCon": 0,
@@ -101,9 +194,40 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_325_UI.T_IconMonsterHead_325_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_325_UI.T_IconMonsterHead_325_UI",
     "ShowReward": 10148,
-    "ShowRewardMap": {
-      "size": 8
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 10141
+      },
+      {
+        "Key": 2,
+        "Value": 10142
+      },
+      {
+        "Key": 3,
+        "Value": 10143
+      },
+      {
+        "Key": 4,
+        "Value": 10144
+      },
+      {
+        "Key": 5,
+        "Value": 10145
+      },
+      {
+        "Key": 6,
+        "Value": 10146
+      },
+      {
+        "Key": 7,
+        "Value": 10147
+      },
+      {
+        "Key": 8,
+        "Value": 10148
+      }
+    ],
     "BeginTimeStamp": 0,
     "MarkId": 5025,
     "LockCon": 0,
@@ -129,9 +253,40 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_996_UI.T_IconMonsterHead_996_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_996_UI.T_IconMonsterHead_996_UI",
     "ShowReward": 10158,
-    "ShowRewardMap": {
-      "size": 8
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 10151
+      },
+      {
+        "Key": 2,
+        "Value": 10152
+      },
+      {
+        "Key": 3,
+        "Value": 10153
+      },
+      {
+        "Key": 4,
+        "Value": 10154
+      },
+      {
+        "Key": 5,
+        "Value": 10155
+      },
+      {
+        "Key": 6,
+        "Value": 10156
+      },
+      {
+        "Key": 7,
+        "Value": 10157
+      },
+      {
+        "Key": 8,
+        "Value": 10158
+      }
+    ],
     "BeginTimeStamp": 0,
     "MarkId": 5026,
     "LockCon": 0,
@@ -157,9 +312,40 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_997_UI.T_IconMonsterHead_997_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_997_UI.T_IconMonsterHead_997_UI",
     "ShowReward": 10138,
-    "ShowRewardMap": {
-      "size": 8
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 10131
+      },
+      {
+        "Key": 2,
+        "Value": 10132
+      },
+      {
+        "Key": 3,
+        "Value": 10133
+      },
+      {
+        "Key": 4,
+        "Value": 10134
+      },
+      {
+        "Key": 5,
+        "Value": 10135
+      },
+      {
+        "Key": 6,
+        "Value": 10136
+      },
+      {
+        "Key": 7,
+        "Value": 10137
+      },
+      {
+        "Key": 8,
+        "Value": 10138
+      }
+    ],
     "BeginTimeStamp": 0,
     "MarkId": 5027,
     "LockCon": 0,
@@ -185,9 +371,40 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_995_UI.T_IconMonsterHead_995_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_995_UI.T_IconMonsterHead_995_UI",
     "ShowReward": 10168,
-    "ShowRewardMap": {
-      "size": 8
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 10161
+      },
+      {
+        "Key": 2,
+        "Value": 10162
+      },
+      {
+        "Key": 3,
+        "Value": 10163
+      },
+      {
+        "Key": 4,
+        "Value": 10164
+      },
+      {
+        "Key": 5,
+        "Value": 10165
+      },
+      {
+        "Key": 6,
+        "Value": 10166
+      },
+      {
+        "Key": 7,
+        "Value": 10167
+      },
+      {
+        "Key": 8,
+        "Value": 10168
+      }
+    ],
     "BeginTimeStamp": 0,
     "MarkId": 5028,
     "LockCon": 0,
@@ -213,9 +430,40 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_994_UI.T_IconMonsterHead_994_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_994_UI.T_IconMonsterHead_994_UI",
     "ShowReward": 10178,
-    "ShowRewardMap": {
-      "size": 8
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 10171
+      },
+      {
+        "Key": 2,
+        "Value": 10172
+      },
+      {
+        "Key": 3,
+        "Value": 10173
+      },
+      {
+        "Key": 4,
+        "Value": 10174
+      },
+      {
+        "Key": 5,
+        "Value": 10175
+      },
+      {
+        "Key": 6,
+        "Value": 10176
+      },
+      {
+        "Key": 7,
+        "Value": 10177
+      },
+      {
+        "Key": 8,
+        "Value": 10178
+      }
+    ],
     "BeginTimeStamp": 0,
     "MarkId": 5031,
     "LockCon": 0,
@@ -241,9 +489,40 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_993_UI.T_IconMonsterHead_993_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_993_UI.T_IconMonsterHead_993_UI",
     "ShowReward": 10188,
-    "ShowRewardMap": {
-      "size": 8
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 10181
+      },
+      {
+        "Key": 2,
+        "Value": 10182
+      },
+      {
+        "Key": 3,
+        "Value": 10183
+      },
+      {
+        "Key": 4,
+        "Value": 10184
+      },
+      {
+        "Key": 5,
+        "Value": 10185
+      },
+      {
+        "Key": 6,
+        "Value": 10186
+      },
+      {
+        "Key": 7,
+        "Value": 10187
+      },
+      {
+        "Key": 8,
+        "Value": 10188
+      }
+    ],
     "BeginTimeStamp": 0,
     "MarkId": 5029,
     "LockCon": 0,
@@ -269,9 +548,40 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_992_UI.T_IconMonsterHead_992_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_992_UI.T_IconMonsterHead_992_UI",
     "ShowReward": 10218,
-    "ShowRewardMap": {
-      "size": 8
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 10211
+      },
+      {
+        "Key": 2,
+        "Value": 10212
+      },
+      {
+        "Key": 3,
+        "Value": 10213
+      },
+      {
+        "Key": 4,
+        "Value": 10214
+      },
+      {
+        "Key": 5,
+        "Value": 10215
+      },
+      {
+        "Key": 6,
+        "Value": 10216
+      },
+      {
+        "Key": 7,
+        "Value": 10217
+      },
+      {
+        "Key": 8,
+        "Value": 10218
+      }
+    ],
     "BeginTimeStamp": 0,
     "MarkId": 5022,
     "LockCon": 12005117,
@@ -297,9 +607,40 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI",
     "ShowReward": 14008,
-    "ShowRewardMap": {
-      "size": 8
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 14001
+      },
+      {
+        "Key": 2,
+        "Value": 14002
+      },
+      {
+        "Key": 3,
+        "Value": 14003
+      },
+      {
+        "Key": 4,
+        "Value": 14004
+      },
+      {
+        "Key": 5,
+        "Value": 14005
+      },
+      {
+        "Key": 6,
+        "Value": 14006
+      },
+      {
+        "Key": 7,
+        "Value": 14007
+      },
+      {
+        "Key": 8,
+        "Value": 14008
+      }
+    ],
     "BeginTimeStamp": 0,
     "MarkId": 5001,
     "LockCon": 0,
@@ -325,9 +666,40 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI",
     "ShowReward": 14508,
-    "ShowRewardMap": {
-      "size": 8
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 14501
+      },
+      {
+        "Key": 2,
+        "Value": 14502
+      },
+      {
+        "Key": 3,
+        "Value": 14503
+      },
+      {
+        "Key": 4,
+        "Value": 14504
+      },
+      {
+        "Key": 5,
+        "Value": 14505
+      },
+      {
+        "Key": 6,
+        "Value": 14506
+      },
+      {
+        "Key": 7,
+        "Value": 14507
+      },
+      {
+        "Key": 8,
+        "Value": 14508
+      }
+    ],
     "BeginTimeStamp": 0,
     "MarkId": 5002,
     "LockCon": 0,
@@ -353,9 +725,40 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI",
     "ShowReward": 14408,
-    "ShowRewardMap": {
-      "size": 8
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 14401
+      },
+      {
+        "Key": 2,
+        "Value": 14402
+      },
+      {
+        "Key": 3,
+        "Value": 14403
+      },
+      {
+        "Key": 4,
+        "Value": 14404
+      },
+      {
+        "Key": 5,
+        "Value": 14405
+      },
+      {
+        "Key": 6,
+        "Value": 14406
+      },
+      {
+        "Key": 7,
+        "Value": 14407
+      },
+      {
+        "Key": 8,
+        "Value": 14408
+      }
+    ],
     "BeginTimeStamp": 0,
     "MarkId": 5003,
     "LockCon": 0,
@@ -381,9 +784,40 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI",
     "ShowReward": 14108,
-    "ShowRewardMap": {
-      "size": 8
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 14101
+      },
+      {
+        "Key": 2,
+        "Value": 14102
+      },
+      {
+        "Key": 3,
+        "Value": 14103
+      },
+      {
+        "Key": 4,
+        "Value": 14104
+      },
+      {
+        "Key": 5,
+        "Value": 14105
+      },
+      {
+        "Key": 6,
+        "Value": 14106
+      },
+      {
+        "Key": 7,
+        "Value": 14107
+      },
+      {
+        "Key": 8,
+        "Value": 14108
+      }
+    ],
     "BeginTimeStamp": 0,
     "MarkId": 5004,
     "LockCon": 0,
@@ -409,9 +843,40 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI",
     "ShowReward": 14208,
-    "ShowRewardMap": {
-      "size": 8
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 14201
+      },
+      {
+        "Key": 2,
+        "Value": 14202
+      },
+      {
+        "Key": 3,
+        "Value": 14203
+      },
+      {
+        "Key": 4,
+        "Value": 14204
+      },
+      {
+        "Key": 5,
+        "Value": 14205
+      },
+      {
+        "Key": 6,
+        "Value": 14206
+      },
+      {
+        "Key": 7,
+        "Value": 14207
+      },
+      {
+        "Key": 8,
+        "Value": 14208
+      }
+    ],
     "BeginTimeStamp": 0,
     "MarkId": 5005,
     "LockCon": 0,
@@ -437,9 +902,40 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI",
     "ShowReward": 14608,
-    "ShowRewardMap": {
-      "size": 8
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 14601
+      },
+      {
+        "Key": 2,
+        "Value": 14602
+      },
+      {
+        "Key": 3,
+        "Value": 14603
+      },
+      {
+        "Key": 4,
+        "Value": 14604
+      },
+      {
+        "Key": 5,
+        "Value": 14605
+      },
+      {
+        "Key": 6,
+        "Value": 14606
+      },
+      {
+        "Key": 7,
+        "Value": 14607
+      },
+      {
+        "Key": 8,
+        "Value": 14608
+      }
+    ],
     "BeginTimeStamp": 0,
     "MarkId": 5006,
     "LockCon": 0,
@@ -465,9 +961,40 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_13_UI.T_IconFunctionOpen_13_UI",
     "ShowReward": 14308,
-    "ShowRewardMap": {
-      "size": 8
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 14301
+      },
+      {
+        "Key": 2,
+        "Value": 14302
+      },
+      {
+        "Key": 3,
+        "Value": 14303
+      },
+      {
+        "Key": 4,
+        "Value": 14304
+      },
+      {
+        "Key": 5,
+        "Value": 14305
+      },
+      {
+        "Key": 6,
+        "Value": 14306
+      },
+      {
+        "Key": 7,
+        "Value": 14307
+      },
+      {
+        "Key": 8,
+        "Value": 14308
+      }
+    ],
     "BeginTimeStamp": 0,
     "MarkId": 5007,
     "LockCon": 0,
@@ -493,9 +1020,32 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI",
     "ShowReward": 48306,
-    "ShowRewardMap": {
-      "size": 6
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 48301
+      },
+      {
+        "Key": 2,
+        "Value": 48302
+      },
+      {
+        "Key": 3,
+        "Value": 48303
+      },
+      {
+        "Key": 4,
+        "Value": 48304
+      },
+      {
+        "Key": 5,
+        "Value": 48305
+      },
+      {
+        "Key": 6,
+        "Value": 48306
+      }
+    ],
     "BeginTimeStamp": 0,
     "MarkId": 4020,
     "LockCon": 0,
@@ -521,9 +1071,32 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_006_UI",
     "ShowReward": 48406,
-    "ShowRewardMap": {
-      "size": 6
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 48401
+      },
+      {
+        "Key": 2,
+        "Value": 48402
+      },
+      {
+        "Key": 3,
+        "Value": 48403
+      },
+      {
+        "Key": 4,
+        "Value": 48404
+      },
+      {
+        "Key": 5,
+        "Value": 48405
+      },
+      {
+        "Key": 6,
+        "Value": 48406
+      }
+    ],
     "BeginTimeStamp": 0,
     "MarkId": 4021,
     "LockCon": 0,
@@ -549,9 +1122,32 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_007_UI",
     "ShowReward": 48106,
-    "ShowRewardMap": {
-      "size": 6
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 48101
+      },
+      {
+        "Key": 2,
+        "Value": 48102
+      },
+      {
+        "Key": 3,
+        "Value": 48103
+      },
+      {
+        "Key": 4,
+        "Value": 48104
+      },
+      {
+        "Key": 5,
+        "Value": 48105
+      },
+      {
+        "Key": 6,
+        "Value": 48106
+      }
+    ],
     "BeginTimeStamp": 0,
     "MarkId": 4022,
     "LockCon": 0,
@@ -577,9 +1173,32 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_005_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/ImgCopy/T_ImgCopy_005_UI.T_ImgCopy_008_UI",
     "ShowReward": 48206,
-    "ShowRewardMap": {
-      "size": 6
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 48201
+      },
+      {
+        "Key": 2,
+        "Value": 48202
+      },
+      {
+        "Key": 3,
+        "Value": 48203
+      },
+      {
+        "Key": 4,
+        "Value": 48204
+      },
+      {
+        "Key": 5,
+        "Value": 48205
+      },
+      {
+        "Key": 6,
+        "Value": 48206
+      }
+    ],
     "BeginTimeStamp": 0,
     "MarkId": 4023,
     "LockCon": 0,

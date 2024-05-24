@@ -13,12 +13,8 @@
     "ShowUnlock": false,
     "SkillGroupId": 1,
     "IsUseInPhantomTeam": false,
-    "Cost": {
-      "size": 0
-    },
-    "Authorization": {
-      "size": 0
-    }
+    "Cost": [],
+    "Authorization": []
   },
   {
     "PhantomSkillId": 1001,
@@ -34,12 +30,8 @@
     "ShowUnlock": false,
     "SkillGroupId": 1,
     "IsUseInPhantomTeam": false,
-    "Cost": {
-      "size": 0
-    },
-    "Authorization": {
-      "size": 0
-    }
+    "Cost": [],
+    "Authorization": []
   },
   {
     "PhantomSkillId": 1003,
@@ -55,12 +47,8 @@
     "ShowUnlock": false,
     "SkillGroupId": 1,
     "IsUseInPhantomTeam": false,
-    "Cost": {
-      "size": 0
-    },
-    "Authorization": {
-      "size": 0
-    }
+    "Cost": [],
+    "Authorization": []
   },
   {
     "PhantomSkillId": 1005,
@@ -76,12 +64,8 @@
     "ShowUnlock": false,
     "SkillGroupId": 1,
     "IsUseInPhantomTeam": false,
-    "Cost": {
-      "size": 0
-    },
-    "Authorization": {
-      "size": 0
-    }
+    "Cost": [],
+    "Authorization": []
   },
   {
     "PhantomSkillId": 1006,
@@ -97,12 +81,8 @@
     "ShowUnlock": false,
     "SkillGroupId": 1,
     "IsUseInPhantomTeam": false,
-    "Cost": {
-      "size": 0
-    },
-    "Authorization": {
-      "size": 0
-    }
+    "Cost": [],
+    "Authorization": []
   },
   {
     "PhantomSkillId": 1007,
@@ -118,12 +98,8 @@
     "ShowUnlock": false,
     "SkillGroupId": 1,
     "IsUseInPhantomTeam": false,
-    "Cost": {
-      "size": 0
-    },
-    "Authorization": {
-      "size": 0
-    }
+    "Cost": [],
+    "Authorization": []
   },
   {
     "PhantomSkillId": 1009,
@@ -139,12 +115,8 @@
     "ShowUnlock": false,
     "SkillGroupId": 1,
     "IsUseInPhantomTeam": true,
-    "Cost": {
-      "size": 0
-    },
-    "Authorization": {
-      "size": 0
-    }
+    "Cost": [],
+    "Authorization": []
   },
   {
     "PhantomSkillId": 3001,
@@ -160,12 +132,8 @@
     "ShowUnlock": false,
     "SkillGroupId": 1,
     "IsUseInPhantomTeam": false,
-    "Cost": {
-      "size": 0
-    },
-    "Authorization": {
-      "size": 0
-    }
+    "Cost": [],
+    "Authorization": []
   },
   {
     "PhantomSkillId": 3002,
@@ -181,12 +149,8 @@
     "ShowUnlock": false,
     "SkillGroupId": 1,
     "IsUseInPhantomTeam": false,
-    "Cost": {
-      "size": 0
-    },
-    "Authorization": {
-      "size": 0
-    }
+    "Cost": [],
+    "Authorization": []
   },
   {
     "PhantomSkillId": 1010,
@@ -202,12 +166,13 @@
     "ShowUnlock": false,
     "SkillGroupId": 1,
     "IsUseInPhantomTeam": false,
-    "Cost": {
-      "size": 1
-    },
-    "Authorization": {
-      "size": 0
-    }
+    "Cost": [
+      {
+        "Key": 10808,
+        "Value": 1
+      }
+    ],
+    "Authorization": []
   },
   {
     "PhantomSkillId": 1011,
@@ -223,12 +188,18 @@
     "ShowUnlock": false,
     "SkillGroupId": 1,
     "IsUseInPhantomTeam": false,
-    "Cost": {
-      "size": 1
-    },
-    "Authorization": {
-      "size": 1
-    }
+    "Cost": [
+      {
+        "Key": 10807,
+        "Value": 1
+      }
+    ],
+    "Authorization": [
+      {
+        "Key": 1,
+        "Value": 10805
+      }
+    ]
   },
   {
     "PhantomSkillId": 1012,
@@ -244,11 +215,12 @@
     "ShowUnlock": false,
     "SkillGroupId": 1,
     "IsUseInPhantomTeam": false,
-    "Cost": {
-      "size": 0
-    },
-    "Authorization": {
-      "size": 1
-    }
+    "Cost": [],
+    "Authorization": [
+      {
+        "Key": 1,
+        "Value": 10806
+      }
+    ]
   }
 ]

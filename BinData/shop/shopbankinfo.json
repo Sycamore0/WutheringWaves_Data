@@ -6,12 +6,26 @@
     "Weight": 1000,
     "ItemNum": 10,
     "LimitNum": 8,
-    "OriginalPrice": {
-      "size": 2
-    },
-    "Price": {
-      "size": 2
-    },
+    "OriginalPrice": [
+      {
+        "Key": 1,
+        "Value": 100
+      },
+      {
+        "Key": 41100011,
+        "Value": 200
+      }
+    ],
+    "Price": [
+      {
+        "Key": 1,
+        "Value": 100
+      },
+      {
+        "Key": 41100011,
+        "Value": 200
+      }
+    ],
     "Show": true,
     "Label": ""
   },
@@ -22,12 +36,26 @@
     "Weight": 2000,
     "ItemNum": 10,
     "LimitNum": 8,
-    "OriginalPrice": {
-      "size": 2
-    },
-    "Price": {
-      "size": 2
-    },
+    "OriginalPrice": [
+      {
+        "Key": 1,
+        "Value": 100
+      },
+      {
+        "Key": 41100011,
+        "Value": 201
+      }
+    ],
+    "Price": [
+      {
+        "Key": 1,
+        "Value": 100
+      },
+      {
+        "Key": 41100011,
+        "Value": 201
+      }
+    ],
     "Show": true,
     "Label": ""
   },
@@ -38,12 +66,26 @@
     "Weight": 3000,
     "ItemNum": 10,
     "LimitNum": 8,
-    "OriginalPrice": {
-      "size": 2
-    },
-    "Price": {
-      "size": 2
-    },
+    "OriginalPrice": [
+      {
+        "Key": 1,
+        "Value": 100
+      },
+      {
+        "Key": 41100011,
+        "Value": 202
+      }
+    ],
+    "Price": [
+      {
+        "Key": 1,
+        "Value": 100
+      },
+      {
+        "Key": 41100011,
+        "Value": 202
+      }
+    ],
     "Show": true,
     "Label": ""
   },
@@ -54,12 +96,26 @@
     "Weight": 3000,
     "ItemNum": 10,
     "LimitNum": 8,
-    "OriginalPrice": {
-      "size": 2
-    },
-    "Price": {
-      "size": 2
-    },
+    "OriginalPrice": [
+      {
+        "Key": 1,
+        "Value": 100
+      },
+      {
+        "Key": 41100011,
+        "Value": 203
+      }
+    ],
+    "Price": [
+      {
+        "Key": 1,
+        "Value": 100
+      },
+      {
+        "Key": 41100011,
+        "Value": 203
+      }
+    ],
     "Show": true,
     "Label": ""
   },
@@ -70,12 +126,26 @@
     "Weight": 4000,
     "ItemNum": 10,
     "LimitNum": 8,
-    "OriginalPrice": {
-      "size": 2
-    },
-    "Price": {
-      "size": 2
-    },
+    "OriginalPrice": [
+      {
+        "Key": 1,
+        "Value": 100
+      },
+      {
+        "Key": 41100011,
+        "Value": 204
+      }
+    ],
+    "Price": [
+      {
+        "Key": 1,
+        "Value": 100
+      },
+      {
+        "Key": 41100011,
+        "Value": 204
+      }
+    ],
     "Show": true,
     "Label": ""
   },
@@ -86,12 +156,26 @@
     "Weight": 4000,
     "ItemNum": 10,
     "LimitNum": 8,
-    "OriginalPrice": {
-      "size": 2
-    },
-    "Price": {
-      "size": 2
-    },
+    "OriginalPrice": [
+      {
+        "Key": 1,
+        "Value": 100
+      },
+      {
+        "Key": 41100011,
+        "Value": 205
+      }
+    ],
+    "Price": [
+      {
+        "Key": 1,
+        "Value": 100
+      },
+      {
+        "Key": 41100011,
+        "Value": 205
+      }
+    ],
     "Show": true,
     "Label": ""
   },
@@ -102,12 +186,26 @@
     "Weight": 4000,
     "ItemNum": 10,
     "LimitNum": 8,
-    "OriginalPrice": {
-      "size": 2
-    },
-    "Price": {
-      "size": 2
-    },
+    "OriginalPrice": [
+      {
+        "Key": 1,
+        "Value": 100
+      },
+      {
+        "Key": 41100011,
+        "Value": 206
+      }
+    ],
+    "Price": [
+      {
+        "Key": 1,
+        "Value": 100
+      },
+      {
+        "Key": 41100011,
+        "Value": 206
+      }
+    ],
     "Show": true,
     "Label": ""
   },
@@ -118,12 +216,26 @@
     "Weight": 4000,
     "ItemNum": 10,
     "LimitNum": 8,
-    "OriginalPrice": {
-      "size": 2
-    },
-    "Price": {
-      "size": 2
-    },
+    "OriginalPrice": [
+      {
+        "Key": 1,
+        "Value": 100
+      },
+      {
+        "Key": 41100011,
+        "Value": 207
+      }
+    ],
+    "Price": [
+      {
+        "Key": 1,
+        "Value": 100
+      },
+      {
+        "Key": 41100011,
+        "Value": 207
+      }
+    ],
     "Show": true,
     "Label": ""
   },
@@ -134,12 +246,26 @@
     "Weight": 4000,
     "ItemNum": 10,
     "LimitNum": 8,
-    "OriginalPrice": {
-      "size": 2
-    },
-    "Price": {
-      "size": 2
-    },
+    "OriginalPrice": [
+      {
+        "Key": 1,
+        "Value": 100
+      },
+      {
+        "Key": 41100011,
+        "Value": 208
+      }
+    ],
+    "Price": [
+      {
+        "Key": 1,
+        "Value": 100
+      },
+      {
+        "Key": 41100011,
+        "Value": 208
+      }
+    ],
     "Show": true,
     "Label": ""
   },
@@ -150,12 +276,26 @@
     "Weight": 4000,
     "ItemNum": 10,
     "LimitNum": 8,
-    "OriginalPrice": {
-      "size": 2
-    },
-    "Price": {
-      "size": 2
-    },
+    "OriginalPrice": [
+      {
+        "Key": 1,
+        "Value": 100
+      },
+      {
+        "Key": 41100011,
+        "Value": 209
+      }
+    ],
+    "Price": [
+      {
+        "Key": 1,
+        "Value": 100
+      },
+      {
+        "Key": 41100011,
+        "Value": 209
+      }
+    ],
     "Show": true,
     "Label": ""
   },
@@ -166,12 +306,26 @@
     "Weight": 4000,
     "ItemNum": 10,
     "LimitNum": 8,
-    "OriginalPrice": {
-      "size": 2
-    },
-    "Price": {
-      "size": 2
-    },
+    "OriginalPrice": [
+      {
+        "Key": 1,
+        "Value": 100
+      },
+      {
+        "Key": 41100011,
+        "Value": 210
+      }
+    ],
+    "Price": [
+      {
+        "Key": 1,
+        "Value": 100
+      },
+      {
+        "Key": 41100011,
+        "Value": 210
+      }
+    ],
     "Show": true,
     "Label": ""
   },
@@ -182,12 +336,26 @@
     "Weight": 4000,
     "ItemNum": 10,
     "LimitNum": 8,
-    "OriginalPrice": {
-      "size": 2
-    },
-    "Price": {
-      "size": 2
-    },
+    "OriginalPrice": [
+      {
+        "Key": 1,
+        "Value": 100
+      },
+      {
+        "Key": 41100011,
+        "Value": 211
+      }
+    ],
+    "Price": [
+      {
+        "Key": 1,
+        "Value": 100
+      },
+      {
+        "Key": 41100011,
+        "Value": 211
+      }
+    ],
     "Show": true,
     "Label": ""
   },
@@ -198,12 +366,26 @@
     "Weight": 4000,
     "ItemNum": 10,
     "LimitNum": 8,
-    "OriginalPrice": {
-      "size": 2
-    },
-    "Price": {
-      "size": 2
-    },
+    "OriginalPrice": [
+      {
+        "Key": 1,
+        "Value": 100
+      },
+      {
+        "Key": 41100011,
+        "Value": 212
+      }
+    ],
+    "Price": [
+      {
+        "Key": 1,
+        "Value": 100
+      },
+      {
+        "Key": 41100011,
+        "Value": 212
+      }
+    ],
     "Show": true,
     "Label": ""
   },
@@ -214,12 +396,26 @@
     "Weight": 4000,
     "ItemNum": 10,
     "LimitNum": 8,
-    "OriginalPrice": {
-      "size": 2
-    },
-    "Price": {
-      "size": 2
-    },
+    "OriginalPrice": [
+      {
+        "Key": 1,
+        "Value": 100
+      },
+      {
+        "Key": 41100011,
+        "Value": 213
+      }
+    ],
+    "Price": [
+      {
+        "Key": 1,
+        "Value": 100
+      },
+      {
+        "Key": 41100011,
+        "Value": 213
+      }
+    ],
     "Show": true,
     "Label": ""
   },
@@ -230,12 +426,13 @@
     "Weight": 2000,
     "ItemNum": 5,
     "LimitNum": 3,
-    "OriginalPrice": {
-      "size": 0
-    },
-    "Price": {
-      "size": 1
-    },
+    "OriginalPrice": [],
+    "Price": [
+      {
+        "Key": 3,
+        "Value": 60
+      }
+    ],
     "Show": false,
     "Label": ""
   },
@@ -246,12 +443,13 @@
     "Weight": 2000,
     "ItemNum": 5,
     "LimitNum": 3,
-    "OriginalPrice": {
-      "size": 0
-    },
-    "Price": {
-      "size": 1
-    },
+    "OriginalPrice": [],
+    "Price": [
+      {
+        "Key": 3,
+        "Value": 60
+      }
+    ],
     "Show": false,
     "Label": ""
   },
@@ -262,12 +460,13 @@
     "Weight": 2000,
     "ItemNum": 5,
     "LimitNum": 3,
-    "OriginalPrice": {
-      "size": 0
-    },
-    "Price": {
-      "size": 1
-    },
+    "OriginalPrice": [],
+    "Price": [
+      {
+        "Key": 3,
+        "Value": 60
+      }
+    ],
     "Show": false,
     "Label": ""
   },
@@ -278,12 +477,13 @@
     "Weight": 2000,
     "ItemNum": 5,
     "LimitNum": 3,
-    "OriginalPrice": {
-      "size": 0
-    },
-    "Price": {
-      "size": 1
-    },
+    "OriginalPrice": [],
+    "Price": [
+      {
+        "Key": 3,
+        "Value": 60
+      }
+    ],
     "Show": false,
     "Label": ""
   },
@@ -294,12 +494,13 @@
     "Weight": 2000,
     "ItemNum": 5,
     "LimitNum": 3,
-    "OriginalPrice": {
-      "size": 0
-    },
-    "Price": {
-      "size": 1
-    },
+    "OriginalPrice": [],
+    "Price": [
+      {
+        "Key": 3,
+        "Value": 60
+      }
+    ],
     "Show": false,
     "Label": ""
   }

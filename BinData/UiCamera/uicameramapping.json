@@ -7,13 +7,14 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 1
-    },
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "FunctionView",
+        "Value": "1001"
+      }
+    ],
     "UiCameraDelayTime": 0
   },
   {
@@ -24,13 +25,43 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 3,
-    "BodyCameraSettingsNameMap": {
-      "size": 6
-    },
+    "BodyCameraSettingsNameMap": [
+      {
+        "Key": "FemaleM",
+        "Value": "1013_M"
+      },
+      {
+        "Key": "MaleM",
+        "Value": "1013_M"
+      },
+      {
+        "Key": "FemaleS",
+        "Value": "1013_S"
+      },
+      {
+        "Key": "MaleS",
+        "Value": "1013_MS"
+      },
+      {
+        "Key": "FemaleXL",
+        "Value": "1013_M"
+      },
+      {
+        "Key": "MaleXL",
+        "Value": "1013_XL"
+      }
+    ],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 2
-    },
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "RoleRootView",
+        "Value": "1001"
+      },
+      {
+        "Key": "RoleLevelUpView",
+        "Value": "1001"
+      }
+    ],
     "UiCameraDelayTime": 0
   },
   {
@@ -41,13 +72,14 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 1
-    },
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "RoleRootView",
+        "Value": "1001"
+      }
+    ],
     "UiCameraDelayTime": 0
   },
   {
@@ -58,13 +90,43 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 3,
-    "BodyCameraSettingsNameMap": {
-      "size": 6
-    },
+    "BodyCameraSettingsNameMap": [
+      {
+        "Key": "FemaleM",
+        "Value": "1018_M"
+      },
+      {
+        "Key": "MaleM",
+        "Value": "1018_M"
+      },
+      {
+        "Key": "FemaleS",
+        "Value": "1018_S"
+      },
+      {
+        "Key": "MaleS",
+        "Value": "1018_MS"
+      },
+      {
+        "Key": "FemaleXL",
+        "Value": "1018_M"
+      },
+      {
+        "Key": "MaleXL",
+        "Value": "1018_XL"
+      }
+    ],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 2
-    },
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "RoleRootView",
+        "Value": "1001"
+      },
+      {
+        "Key": "RoleBreachView",
+        "Value": "1001"
+      }
+    ],
     "UiCameraDelayTime": 0
   },
   {
@@ -75,13 +137,18 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 2
-    },
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "RoleRootView",
+        "Value": "1001"
+      },
+      {
+        "Key": "RoleLevelUpView",
+        "Value": "1001"
+      }
+    ],
     "UiCameraDelayTime": 0
   },
   {
@@ -92,13 +159,34 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 2,
-    "BodyCameraSettingsNameMap": {
-      "size": 6
-    },
+    "BodyCameraSettingsNameMap": [
+      {
+        "Key": "FemaleM",
+        "Value": "1069"
+      },
+      {
+        "Key": "MaleM",
+        "Value": "1069"
+      },
+      {
+        "Key": "FemaleS",
+        "Value": "1069"
+      },
+      {
+        "Key": "MaleS",
+        "Value": "1069"
+      },
+      {
+        "Key": "FemaleXL",
+        "Value": "1069"
+      },
+      {
+        "Key": "MaleXL",
+        "Value": "1069"
+      }
+    ],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 0
-    },
+    "UiCameraBlendNameMap": [],
     "UiCameraDelayTime": 0
   },
   {
@@ -109,13 +197,14 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 1
-    },
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "FunctionView",
+        "Value": "1001"
+      }
+    ],
     "UiCameraDelayTime": 350
   },
   {
@@ -126,13 +215,50 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 10
-    },
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "WorldMapView",
+        "Value": "10003"
+      },
+      {
+        "Key": "InventoryView",
+        "Value": "10005"
+      },
+      {
+        "Key": "QuestView",
+        "Value": "10005"
+      },
+      {
+        "Key": "EditFormationView",
+        "Value": "10005"
+      },
+      {
+        "Key": "InventoryPcView",
+        "Value": "10005"
+      },
+      {
+        "Key": "PhantomGuideView",
+        "Value": "10005"
+      },
+      {
+        "Key": "RoleRootView",
+        "Value": "10004"
+      },
+      {
+        "Key": "TimeOfDayView",
+        "Value": "10005"
+      },
+      {
+        "Key": "GachaMainView",
+        "Value": "10005"
+      },
+      {
+        "Key": "PayShopRootView",
+        "Value": "10005"
+      }
+    ],
     "UiCameraDelayTime": 0
   },
   {
@@ -143,13 +269,14 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 1
-    },
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "FunctionView",
+        "Value": "1001"
+      }
+    ],
     "UiCameraDelayTime": 350
   },
   {
@@ -160,13 +287,39 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 3,
-    "BodyCameraSettingsNameMap": {
-      "size": 6
-    },
+    "BodyCameraSettingsNameMap": [
+      {
+        "Key": "FemaleM",
+        "Value": "1018_M"
+      },
+      {
+        "Key": "MaleM",
+        "Value": "1018_M"
+      },
+      {
+        "Key": "FemaleS",
+        "Value": "1018_S"
+      },
+      {
+        "Key": "MaleS",
+        "Value": "1018_MS"
+      },
+      {
+        "Key": "FemaleXL",
+        "Value": "1018_M"
+      },
+      {
+        "Key": "MaleXL",
+        "Value": "1018_XL"
+      }
+    ],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 1
-    },
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "RoleRootView",
+        "Value": "1001"
+      }
+    ],
     "UiCameraDelayTime": 0
   },
   {
@@ -177,13 +330,26 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 4
-    },
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "RoleRootView",
+        "Value": "1001"
+      },
+      {
+        "Key": "WeaponReplaceView",
+        "Value": "1001"
+      },
+      {
+        "Key": "WeaponBreachSuccessView",
+        "Value": "1001"
+      },
+      {
+        "Key": "WeaponResonanceSuccessView",
+        "Value": "1001"
+      }
+    ],
     "UiCameraDelayTime": 0
   },
   {
@@ -194,13 +360,43 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 3,
-    "BodyCameraSettingsNameMap": {
-      "size": 6
-    },
+    "BodyCameraSettingsNameMap": [
+      {
+        "Key": "FemaleM",
+        "Value": "1011_M"
+      },
+      {
+        "Key": "MaleM",
+        "Value": "1011_M"
+      },
+      {
+        "Key": "FemaleS",
+        "Value": "1011_S"
+      },
+      {
+        "Key": "MaleS",
+        "Value": "1011_MS"
+      },
+      {
+        "Key": "FemaleXL",
+        "Value": "1011_M"
+      },
+      {
+        "Key": "MaleXL",
+        "Value": "1011_XL"
+      }
+    ],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 2
-    },
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "RoleRootView",
+        "Value": "1001"
+      },
+      {
+        "Key": "WeaponRootView",
+        "Value": "10013"
+      }
+    ],
     "UiCameraDelayTime": 0
   },
   {
@@ -211,13 +407,14 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 1
-    },
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "WeaponRootView",
+        "Value": "1001"
+      }
+    ],
     "UiCameraDelayTime": 0
   },
   {
@@ -228,13 +425,14 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 1
-    },
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "WeaponRootView",
+        "Value": "1001"
+      }
+    ],
     "UiCameraDelayTime": 0
   },
   {
@@ -245,13 +443,34 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 2,
-    "BodyCameraSettingsNameMap": {
-      "size": 6
-    },
+    "BodyCameraSettingsNameMap": [
+      {
+        "Key": "FemaleM",
+        "Value": "1071"
+      },
+      {
+        "Key": "MaleM",
+        "Value": "1071"
+      },
+      {
+        "Key": "FemaleS",
+        "Value": "1071"
+      },
+      {
+        "Key": "MaleS",
+        "Value": "1071"
+      },
+      {
+        "Key": "FemaleXL",
+        "Value": "1071"
+      },
+      {
+        "Key": "MaleXL",
+        "Value": "1071"
+      }
+    ],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 0
-    },
+    "UiCameraBlendNameMap": [],
     "UiCameraDelayTime": 0
   },
   {
@@ -262,13 +481,18 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 2
-    },
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "RoleRootView",
+        "Value": "1001"
+      },
+      {
+        "Key": "TapeReplaceView",
+        "Value": "1001"
+      }
+    ],
     "UiCameraDelayTime": 0
   },
   {
@@ -279,13 +503,18 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 2
-    },
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "RoleRootView",
+        "Value": "1001"
+      },
+      {
+        "Key": "TapeRootView",
+        "Value": "1001"
+      }
+    ],
     "UiCameraDelayTime": 0
   },
   {
@@ -296,13 +525,14 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 1
-    },
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "FunctionView",
+        "Value": "1001"
+      }
+    ],
     "UiCameraDelayTime": 0
   },
   {
@@ -313,13 +543,14 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 1
-    },
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "FunctionView",
+        "Value": "1001"
+      }
+    ],
     "UiCameraDelayTime": 0
   },
   {
@@ -330,13 +561,9 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 0
-    },
+    "UiCameraBlendNameMap": [],
     "UiCameraDelayTime": 0
   },
   {
@@ -347,13 +574,9 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 0
-    },
+    "UiCameraBlendNameMap": [],
     "UiCameraDelayTime": 0
   },
   {
@@ -364,13 +587,9 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 0
-    },
+    "UiCameraBlendNameMap": [],
     "UiCameraDelayTime": 0
   },
   {
@@ -381,13 +600,9 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 0
-    },
+    "UiCameraBlendNameMap": [],
     "UiCameraDelayTime": 0
   },
   {
@@ -398,13 +613,9 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 0
-    },
+    "UiCameraBlendNameMap": [],
     "UiCameraDelayTime": 0
   },
   {
@@ -415,13 +626,14 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 1
-    },
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "FunctionView",
+        "Value": "1001"
+      }
+    ],
     "UiCameraDelayTime": 350
   },
   {
@@ -432,13 +644,9 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 0
-    },
+    "UiCameraBlendNameMap": [],
     "UiCameraDelayTime": 0
   },
   {
@@ -449,13 +657,9 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 0
-    },
+    "UiCameraBlendNameMap": [],
     "UiCameraDelayTime": 0
   },
   {
@@ -466,13 +670,18 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 2
-    },
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "FunctionView",
+        "Value": "1001"
+      },
+      {
+        "Key": "GachaMainView",
+        "Value": "1001"
+      }
+    ],
     "UiCameraDelayTime": 0
   },
   {
@@ -483,13 +692,14 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 1
-    },
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "FunctionView",
+        "Value": "1001"
+      }
+    ],
     "UiCameraDelayTime": 0
   },
   {
@@ -500,13 +710,18 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 2
-    },
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "FunctionView",
+        "Value": "1001"
+      },
+      {
+        "Key": "PayShopRootView",
+        "Value": "10005"
+      }
+    ],
     "UiCameraDelayTime": 350
   },
   {
@@ -517,13 +732,9 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 0
-    },
+    "UiCameraBlendNameMap": [],
     "UiCameraDelayTime": 0
   },
   {
@@ -534,13 +745,9 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 0
-    },
+    "UiCameraBlendNameMap": [],
     "UiCameraDelayTime": 0
   },
   {
@@ -551,13 +758,14 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 1
-    },
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "FunctionView",
+        "Value": "1001"
+      }
+    ],
     "UiCameraDelayTime": 0
   },
   {
@@ -568,13 +776,9 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 0
-    },
+    "UiCameraBlendNameMap": [],
     "UiCameraDelayTime": 0
   },
   {
@@ -585,13 +789,9 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 0
-    },
+    "UiCameraBlendNameMap": [],
     "UiCameraDelayTime": 0
   },
   {
@@ -602,13 +802,14 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 1
-    },
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "RoleRootView",
+        "Value": "1001"
+      }
+    ],
     "UiCameraDelayTime": 0
   },
   {
@@ -619,13 +820,9 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 0
-    },
+    "UiCameraBlendNameMap": [],
     "UiCameraDelayTime": 0
   },
   {
@@ -636,13 +833,9 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 0
-    },
+    "UiCameraBlendNameMap": [],
     "UiCameraDelayTime": 0
   },
   {
@@ -653,13 +846,14 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 1
-    },
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "RoleRootView",
+        "Value": "1001"
+      }
+    ],
     "UiCameraDelayTime": 0
   },
   {
@@ -670,13 +864,14 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 1
-    },
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "RoleRootView",
+        "Value": "1001"
+      }
+    ],
     "UiCameraDelayTime": 0
   },
   {
@@ -687,13 +882,9 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 0
-    },
+    "UiCameraBlendNameMap": [],
     "UiCameraDelayTime": 0
   },
   {
@@ -704,13 +895,30 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 5
-    },
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "RoleAttributeTabView",
+        "Value": "1001"
+      },
+      {
+        "Key": "RoleWeaponTabView",
+        "Value": "1001"
+      },
+      {
+        "Key": "RolePhantomTabView",
+        "Value": "10012"
+      },
+      {
+        "Key": "RoleFavorTabView",
+        "Value": "1001"
+      },
+      {
+        "Key": "VisionEquipmentView",
+        "Value": "10012"
+      }
+    ],
     "UiCameraDelayTime": 0
   },
   {
@@ -721,13 +929,9 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 0
-    },
+    "UiCameraBlendNameMap": [],
     "UiCameraDelayTime": 350
   },
   {
@@ -738,13 +942,9 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 0
-    },
+    "UiCameraBlendNameMap": [],
     "UiCameraDelayTime": 0
   },
   {
@@ -755,13 +955,9 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 0
-    },
+    "UiCameraBlendNameMap": [],
     "UiCameraDelayTime": 0
   },
   {
@@ -772,13 +968,43 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 3,
-    "BodyCameraSettingsNameMap": {
-      "size": 6
-    },
+    "BodyCameraSettingsNameMap": [
+      {
+        "Key": "FemaleM",
+        "Value": "1006_Female154"
+      },
+      {
+        "Key": "MaleM",
+        "Value": "1006_Female154"
+      },
+      {
+        "Key": "FemaleS",
+        "Value": "1006_Female121"
+      },
+      {
+        "Key": "MaleS",
+        "Value": "1006_Male130"
+      },
+      {
+        "Key": "FemaleXL",
+        "Value": "1006_Female154"
+      },
+      {
+        "Key": "MaleXL",
+        "Value": "1006_Male180"
+      }
+    ],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 2
-    },
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "RoleRootView",
+        "Value": "1001"
+      },
+      {
+        "Key": "InstanceDungeonEntranceView",
+        "Value": "1001"
+      }
+    ],
     "UiCameraDelayTime": 0
   },
   {
@@ -789,13 +1015,9 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 0
-    },
+    "UiCameraBlendNameMap": [],
     "UiCameraDelayTime": 0
   },
   {
@@ -806,13 +1028,9 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 0
-    },
+    "UiCameraBlendNameMap": [],
     "UiCameraDelayTime": 0
   },
   {
@@ -823,13 +1041,9 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 0
-    },
+    "UiCameraBlendNameMap": [],
     "UiCameraDelayTime": 0
   },
   {
@@ -840,13 +1054,9 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 0
-    },
+    "UiCameraBlendNameMap": [],
     "UiCameraDelayTime": 0
   },
   {
@@ -857,13 +1067,14 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 1
-    },
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "RoleRootView",
+        "Value": "1001"
+      }
+    ],
     "UiCameraDelayTime": 0
   },
   {
@@ -874,13 +1085,14 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 1
-    },
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "VisionEquipmentView",
+        "Value": "10014"
+      }
+    ],
     "UiCameraDelayTime": 0
   },
   {
@@ -891,13 +1103,9 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 0
-    },
+    "UiCameraBlendNameMap": [],
     "UiCameraDelayTime": 0
   },
   {
@@ -908,13 +1116,9 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 0
-    },
+    "UiCameraBlendNameMap": [],
     "UiCameraDelayTime": 0
   },
   {
@@ -925,13 +1129,26 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 4
-    },
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "RoleRootView",
+        "Value": "10012"
+      },
+      {
+        "Key": "RolePhantomTabView",
+        "Value": "10012"
+      },
+      {
+        "Key": "VisionIntensifyView",
+        "Value": "10014"
+      },
+      {
+        "Key": "VisionSkinView",
+        "Value": "10014"
+      }
+    ],
     "UiCameraDelayTime": 0
   },
   {
@@ -942,13 +1159,9 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 0
-    },
+    "UiCameraBlendNameMap": [],
     "UiCameraDelayTime": 0
   },
   {
@@ -959,13 +1172,9 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 0
-    },
+    "UiCameraBlendNameMap": [],
     "UiCameraDelayTime": 0
   },
   {
@@ -976,13 +1185,9 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 0
-    },
+    "UiCameraBlendNameMap": [],
     "UiCameraDelayTime": 0
   },
   {
@@ -993,13 +1198,34 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 2,
-    "BodyCameraSettingsNameMap": {
-      "size": 6
-    },
+    "BodyCameraSettingsNameMap": [
+      {
+        "Key": "FemaleM",
+        "Value": "1069"
+      },
+      {
+        "Key": "MaleM",
+        "Value": "1069"
+      },
+      {
+        "Key": "FemaleS",
+        "Value": "1069"
+      },
+      {
+        "Key": "MaleS",
+        "Value": "1069"
+      },
+      {
+        "Key": "FemaleXL",
+        "Value": "1069"
+      },
+      {
+        "Key": "MaleXL",
+        "Value": "1069"
+      }
+    ],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 0
-    },
+    "UiCameraBlendNameMap": [],
     "UiCameraDelayTime": 0
   },
   {
@@ -1010,13 +1236,14 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 1
-    },
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "VisionEquipmentView",
+        "Value": "10014"
+      }
+    ],
     "UiCameraDelayTime": 0
   },
   {
@@ -1027,13 +1254,47 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 3,
-    "BodyCameraSettingsNameMap": {
-      "size": 6
-    },
+    "BodyCameraSettingsNameMap": [
+      {
+        "Key": "FemaleM",
+        "Value": "1012_Female154"
+      },
+      {
+        "Key": "MaleM",
+        "Value": "1012_Female154"
+      },
+      {
+        "Key": "FemaleS",
+        "Value": "1012_Female121"
+      },
+      {
+        "Key": "MaleS",
+        "Value": "1012_Male130"
+      },
+      {
+        "Key": "FemaleXL",
+        "Value": "1012_Female154"
+      },
+      {
+        "Key": "MaleXL",
+        "Value": "1012_Male180"
+      }
+    ],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 3
-    },
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "RoleRootView",
+        "Value": "10007"
+      },
+      {
+        "Key": "VisionIntensifyView",
+        "Value": "10014"
+      },
+      {
+        "Key": "VisionSkinView",
+        "Value": "10014"
+      }
+    ],
     "UiCameraDelayTime": 0
   },
   {
@@ -1044,13 +1305,14 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 1
-    },
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "FunctionView",
+        "Value": "10002"
+      }
+    ],
     "UiCameraDelayTime": 300
   },
   {
@@ -1061,13 +1323,9 @@
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
     "BodyTargetType": 0,
-    "BodyCameraSettingsNameMap": {
-      "size": 0
-    },
+    "BodyCameraSettingsNameMap": [],
     "DefaultCameraBlendName": "",
-    "UiCameraBlendNameMap": {
-      "size": 0
-    },
+    "UiCameraBlendNameMap": [],
     "UiCameraDelayTime": 0
   }
 ]

@@ -11,9 +11,40 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 12
+      },
+      {
+        "Key": 2,
+        "Value": 24
+      },
+      {
+        "Key": 3,
+        "Value": 42
+      },
+      {
+        "Key": 4,
+        "Value": 54
+      },
+      {
+        "Key": 5,
+        "Value": 64
+      },
+      {
+        "Key": 6,
+        "Value": 74
+      },
+      {
+        "Key": 7,
+        "Value": 84
+      },
+      {
+        "Key": 8,
+        "Value": 94
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -32,9 +63,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -53,9 +82,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -74,9 +101,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -95,9 +120,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -116,9 +139,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -137,9 +158,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -158,9 +177,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -179,9 +196,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -200,9 +215,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -221,9 +234,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -242,9 +253,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -263,9 +272,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -284,9 +291,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -305,9 +310,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -326,9 +329,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -347,9 +348,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -368,9 +367,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -389,9 +386,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -410,9 +405,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -431,9 +424,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -452,9 +443,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 1
+      },
+      {
+        "Key": 2,
+        "Value": 1
+      },
+      {
+        "Key": 3,
+        "Value": 1
+      },
+      {
+        "Key": 4,
+        "Value": 1
+      },
+      {
+        "Key": 5,
+        "Value": 1
+      },
+      {
+        "Key": 6,
+        "Value": 1
+      },
+      {
+        "Key": 7,
+        "Value": 1
+      },
+      {
+        "Key": 8,
+        "Value": 1
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -473,9 +495,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 11
+      },
+      {
+        "Key": 2,
+        "Value": 18
+      },
+      {
+        "Key": 3,
+        "Value": 41
+      },
+      {
+        "Key": 4,
+        "Value": 53
+      },
+      {
+        "Key": 5,
+        "Value": 63
+      },
+      {
+        "Key": 6,
+        "Value": 73
+      },
+      {
+        "Key": 7,
+        "Value": 83
+      },
+      {
+        "Key": 8,
+        "Value": 93
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -494,9 +547,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 10
+      },
+      {
+        "Key": 2,
+        "Value": 17
+      },
+      {
+        "Key": 3,
+        "Value": 41
+      },
+      {
+        "Key": 4,
+        "Value": 53
+      },
+      {
+        "Key": 5,
+        "Value": 63
+      },
+      {
+        "Key": 6,
+        "Value": 73
+      },
+      {
+        "Key": 7,
+        "Value": 83
+      },
+      {
+        "Key": 8,
+        "Value": 93
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -515,9 +599,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 10
+      },
+      {
+        "Key": 2,
+        "Value": 22
+      },
+      {
+        "Key": 3,
+        "Value": 42
+      },
+      {
+        "Key": 4,
+        "Value": 54
+      },
+      {
+        "Key": 5,
+        "Value": 64
+      },
+      {
+        "Key": 6,
+        "Value": 74
+      },
+      {
+        "Key": 7,
+        "Value": 84
+      },
+      {
+        "Key": 8,
+        "Value": 94
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -536,9 +651,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 5
+      },
+      {
+        "Key": 2,
+        "Value": 25
+      },
+      {
+        "Key": 3,
+        "Value": 43
+      },
+      {
+        "Key": 4,
+        "Value": 55
+      },
+      {
+        "Key": 5,
+        "Value": 65
+      },
+      {
+        "Key": 6,
+        "Value": 75
+      },
+      {
+        "Key": 7,
+        "Value": 85
+      },
+      {
+        "Key": 8,
+        "Value": 95
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -557,9 +703,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 9
+      },
+      {
+        "Key": 2,
+        "Value": 24
+      },
+      {
+        "Key": 3,
+        "Value": 44
+      },
+      {
+        "Key": 4,
+        "Value": 56
+      },
+      {
+        "Key": 5,
+        "Value": 66
+      },
+      {
+        "Key": 6,
+        "Value": 76
+      },
+      {
+        "Key": 7,
+        "Value": 86
+      },
+      {
+        "Key": 8,
+        "Value": 96
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -578,9 +755,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 6
+      },
+      {
+        "Key": 2,
+        "Value": 25
+      },
+      {
+        "Key": 3,
+        "Value": 43
+      },
+      {
+        "Key": 4,
+        "Value": 55
+      },
+      {
+        "Key": 5,
+        "Value": 65
+      },
+      {
+        "Key": 6,
+        "Value": 75
+      },
+      {
+        "Key": 7,
+        "Value": 85
+      },
+      {
+        "Key": 8,
+        "Value": 95
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -599,9 +807,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 7
+      },
+      {
+        "Key": 2,
+        "Value": 22
+      },
+      {
+        "Key": 3,
+        "Value": 42
+      },
+      {
+        "Key": 4,
+        "Value": 54
+      },
+      {
+        "Key": 5,
+        "Value": 64
+      },
+      {
+        "Key": 6,
+        "Value": 74
+      },
+      {
+        "Key": 7,
+        "Value": 84
+      },
+      {
+        "Key": 8,
+        "Value": 94
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -620,9 +859,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 8
+      },
+      {
+        "Key": 2,
+        "Value": 23
+      },
+      {
+        "Key": 3,
+        "Value": 43
+      },
+      {
+        "Key": 4,
+        "Value": 55
+      },
+      {
+        "Key": 5,
+        "Value": 65
+      },
+      {
+        "Key": 6,
+        "Value": 75
+      },
+      {
+        "Key": 7,
+        "Value": 85
+      },
+      {
+        "Key": 8,
+        "Value": 95
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -641,9 +911,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 5
+      },
+      {
+        "Key": 2,
+        "Value": 22
+      },
+      {
+        "Key": 3,
+        "Value": 42
+      },
+      {
+        "Key": 4,
+        "Value": 54
+      },
+      {
+        "Key": 5,
+        "Value": 64
+      },
+      {
+        "Key": 6,
+        "Value": 74
+      },
+      {
+        "Key": 7,
+        "Value": 84
+      },
+      {
+        "Key": 8,
+        "Value": 94
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -662,9 +963,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 5
+      },
+      {
+        "Key": 2,
+        "Value": 22
+      },
+      {
+        "Key": 3,
+        "Value": 42
+      },
+      {
+        "Key": 4,
+        "Value": 54
+      },
+      {
+        "Key": 5,
+        "Value": 64
+      },
+      {
+        "Key": 6,
+        "Value": 74
+      },
+      {
+        "Key": 7,
+        "Value": 84
+      },
+      {
+        "Key": 8,
+        "Value": 94
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -683,9 +1015,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -704,9 +1034,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 10
+      },
+      {
+        "Key": 2,
+        "Value": 20
+      },
+      {
+        "Key": 3,
+        "Value": 41
+      },
+      {
+        "Key": 4,
+        "Value": 53
+      },
+      {
+        "Key": 5,
+        "Value": 63
+      },
+      {
+        "Key": 6,
+        "Value": 73
+      },
+      {
+        "Key": 7,
+        "Value": 83
+      },
+      {
+        "Key": 8,
+        "Value": 93
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -725,9 +1086,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 11
+      },
+      {
+        "Key": 2,
+        "Value": 20
+      },
+      {
+        "Key": 3,
+        "Value": 41
+      },
+      {
+        "Key": 4,
+        "Value": 53
+      },
+      {
+        "Key": 5,
+        "Value": 63
+      },
+      {
+        "Key": 6,
+        "Value": 73
+      },
+      {
+        "Key": 7,
+        "Value": 83
+      },
+      {
+        "Key": 8,
+        "Value": 93
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -746,9 +1138,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 10
+      },
+      {
+        "Key": 2,
+        "Value": 21
+      },
+      {
+        "Key": 3,
+        "Value": 41
+      },
+      {
+        "Key": 4,
+        "Value": 53
+      },
+      {
+        "Key": 5,
+        "Value": 63
+      },
+      {
+        "Key": 6,
+        "Value": 73
+      },
+      {
+        "Key": 7,
+        "Value": 83
+      },
+      {
+        "Key": 8,
+        "Value": 93
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -767,9 +1190,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 13
+      },
+      {
+        "Key": 2,
+        "Value": 23
+      },
+      {
+        "Key": 3,
+        "Value": 41
+      },
+      {
+        "Key": 4,
+        "Value": 53
+      },
+      {
+        "Key": 5,
+        "Value": 63
+      },
+      {
+        "Key": 6,
+        "Value": 73
+      },
+      {
+        "Key": 7,
+        "Value": 83
+      },
+      {
+        "Key": 8,
+        "Value": 93
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -788,9 +1242,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -809,9 +1261,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -830,9 +1280,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -851,9 +1299,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 6
+      },
+      {
+        "Key": 2,
+        "Value": 28
+      },
+      {
+        "Key": 3,
+        "Value": 45
+      },
+      {
+        "Key": 4,
+        "Value": 57
+      },
+      {
+        "Key": 5,
+        "Value": 67
+      },
+      {
+        "Key": 6,
+        "Value": 77
+      },
+      {
+        "Key": 7,
+        "Value": 87
+      },
+      {
+        "Key": 8,
+        "Value": 97
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -872,9 +1351,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 4
+      },
+      {
+        "Key": 2,
+        "Value": 26
+      },
+      {
+        "Key": 3,
+        "Value": 43
+      },
+      {
+        "Key": 4,
+        "Value": 55
+      },
+      {
+        "Key": 5,
+        "Value": 65
+      },
+      {
+        "Key": 6,
+        "Value": 75
+      },
+      {
+        "Key": 7,
+        "Value": 85
+      },
+      {
+        "Key": 8,
+        "Value": 95
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -893,9 +1403,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 5
+      },
+      {
+        "Key": 2,
+        "Value": 27
+      },
+      {
+        "Key": 3,
+        "Value": 44
+      },
+      {
+        "Key": 4,
+        "Value": 56
+      },
+      {
+        "Key": 5,
+        "Value": 66
+      },
+      {
+        "Key": 6,
+        "Value": 76
+      },
+      {
+        "Key": 7,
+        "Value": 86
+      },
+      {
+        "Key": 8,
+        "Value": 96
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -914,9 +1455,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 12
+      },
+      {
+        "Key": 2,
+        "Value": 25
+      },
+      {
+        "Key": 3,
+        "Value": 44
+      },
+      {
+        "Key": 4,
+        "Value": 56
+      },
+      {
+        "Key": 5,
+        "Value": 66
+      },
+      {
+        "Key": 6,
+        "Value": 76
+      },
+      {
+        "Key": 7,
+        "Value": 86
+      },
+      {
+        "Key": 8,
+        "Value": 96
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -935,9 +1507,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 16
+      },
+      {
+        "Key": 2,
+        "Value": 28
+      },
+      {
+        "Key": 3,
+        "Value": 45
+      },
+      {
+        "Key": 4,
+        "Value": 57
+      },
+      {
+        "Key": 5,
+        "Value": 67
+      },
+      {
+        "Key": 6,
+        "Value": 77
+      },
+      {
+        "Key": 7,
+        "Value": 87
+      },
+      {
+        "Key": 8,
+        "Value": 97
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -956,9 +1559,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 14
+      },
+      {
+        "Key": 2,
+        "Value": 27
+      },
+      {
+        "Key": 3,
+        "Value": 44
+      },
+      {
+        "Key": 4,
+        "Value": 56
+      },
+      {
+        "Key": 5,
+        "Value": 66
+      },
+      {
+        "Key": 6,
+        "Value": 76
+      },
+      {
+        "Key": 7,
+        "Value": 86
+      },
+      {
+        "Key": 8,
+        "Value": 96
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -977,9 +1611,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 14
+      },
+      {
+        "Key": 2,
+        "Value": 26
+      },
+      {
+        "Key": 3,
+        "Value": 44
+      },
+      {
+        "Key": 4,
+        "Value": 56
+      },
+      {
+        "Key": 5,
+        "Value": 66
+      },
+      {
+        "Key": 6,
+        "Value": 76
+      },
+      {
+        "Key": 7,
+        "Value": 86
+      },
+      {
+        "Key": 8,
+        "Value": 96
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -998,9 +1663,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1019,9 +1682,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 14
+      },
+      {
+        "Key": 2,
+        "Value": 22
+      },
+      {
+        "Key": 3,
+        "Value": 41
+      },
+      {
+        "Key": 4,
+        "Value": 53
+      },
+      {
+        "Key": 5,
+        "Value": 63
+      },
+      {
+        "Key": 6,
+        "Value": 73
+      },
+      {
+        "Key": 7,
+        "Value": 83
+      },
+      {
+        "Key": 8,
+        "Value": 93
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1040,9 +1734,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 16
+      },
+      {
+        "Key": 2,
+        "Value": 25
+      },
+      {
+        "Key": 3,
+        "Value": 39
+      },
+      {
+        "Key": 4,
+        "Value": 51
+      },
+      {
+        "Key": 5,
+        "Value": 61
+      },
+      {
+        "Key": 6,
+        "Value": 71
+      },
+      {
+        "Key": 7,
+        "Value": 81
+      },
+      {
+        "Key": 8,
+        "Value": 91
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1061,9 +1786,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 15
+      },
+      {
+        "Key": 2,
+        "Value": 23
+      },
+      {
+        "Key": 3,
+        "Value": 40
+      },
+      {
+        "Key": 4,
+        "Value": 52
+      },
+      {
+        "Key": 5,
+        "Value": 62
+      },
+      {
+        "Key": 6,
+        "Value": 72
+      },
+      {
+        "Key": 7,
+        "Value": 82
+      },
+      {
+        "Key": 8,
+        "Value": 92
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1082,9 +1838,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1103,9 +1857,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 17
+      },
+      {
+        "Key": 2,
+        "Value": 31
+      },
+      {
+        "Key": 3,
+        "Value": 41
+      },
+      {
+        "Key": 4,
+        "Value": 53
+      },
+      {
+        "Key": 5,
+        "Value": 63
+      },
+      {
+        "Key": 6,
+        "Value": 73
+      },
+      {
+        "Key": 7,
+        "Value": 83
+      },
+      {
+        "Key": 8,
+        "Value": 93
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1124,9 +1909,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 16
+      },
+      {
+        "Key": 2,
+        "Value": 30
+      },
+      {
+        "Key": 3,
+        "Value": 41
+      },
+      {
+        "Key": 4,
+        "Value": 53
+      },
+      {
+        "Key": 5,
+        "Value": 63
+      },
+      {
+        "Key": 6,
+        "Value": 73
+      },
+      {
+        "Key": 7,
+        "Value": 83
+      },
+      {
+        "Key": 8,
+        "Value": 93
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1145,9 +1961,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 15
+      },
+      {
+        "Key": 2,
+        "Value": 28
+      },
+      {
+        "Key": 3,
+        "Value": 41
+      },
+      {
+        "Key": 4,
+        "Value": 53
+      },
+      {
+        "Key": 5,
+        "Value": 63
+      },
+      {
+        "Key": 6,
+        "Value": 73
+      },
+      {
+        "Key": 7,
+        "Value": 83
+      },
+      {
+        "Key": 8,
+        "Value": 93
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1166,9 +2013,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 17
+      },
+      {
+        "Key": 2,
+        "Value": 31
+      },
+      {
+        "Key": 3,
+        "Value": 41
+      },
+      {
+        "Key": 4,
+        "Value": 53
+      },
+      {
+        "Key": 5,
+        "Value": 63
+      },
+      {
+        "Key": 6,
+        "Value": 73
+      },
+      {
+        "Key": 7,
+        "Value": 83
+      },
+      {
+        "Key": 8,
+        "Value": 93
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1187,9 +2065,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 17
+      },
+      {
+        "Key": 2,
+        "Value": 32
+      },
+      {
+        "Key": 3,
+        "Value": 41
+      },
+      {
+        "Key": 4,
+        "Value": 53
+      },
+      {
+        "Key": 5,
+        "Value": 63
+      },
+      {
+        "Key": 6,
+        "Value": 73
+      },
+      {
+        "Key": 7,
+        "Value": 83
+      },
+      {
+        "Key": 8,
+        "Value": 93
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1208,9 +2117,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1229,9 +2136,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 12
+      },
+      {
+        "Key": 2,
+        "Value": 20
+      },
+      {
+        "Key": 3,
+        "Value": 41
+      },
+      {
+        "Key": 4,
+        "Value": 53
+      },
+      {
+        "Key": 5,
+        "Value": 63
+      },
+      {
+        "Key": 6,
+        "Value": 73
+      },
+      {
+        "Key": 7,
+        "Value": 83
+      },
+      {
+        "Key": 8,
+        "Value": 93
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1250,9 +2188,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 11
+      },
+      {
+        "Key": 2,
+        "Value": 18
+      },
+      {
+        "Key": 3,
+        "Value": 41
+      },
+      {
+        "Key": 4,
+        "Value": 53
+      },
+      {
+        "Key": 5,
+        "Value": 63
+      },
+      {
+        "Key": 6,
+        "Value": 73
+      },
+      {
+        "Key": 7,
+        "Value": 83
+      },
+      {
+        "Key": 8,
+        "Value": 93
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1271,9 +2240,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 11
+      },
+      {
+        "Key": 2,
+        "Value": 18
+      },
+      {
+        "Key": 3,
+        "Value": 41
+      },
+      {
+        "Key": 4,
+        "Value": 53
+      },
+      {
+        "Key": 5,
+        "Value": 63
+      },
+      {
+        "Key": 6,
+        "Value": 73
+      },
+      {
+        "Key": 7,
+        "Value": 83
+      },
+      {
+        "Key": 8,
+        "Value": 93
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1292,9 +2292,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 12
+      },
+      {
+        "Key": 2,
+        "Value": 20
+      },
+      {
+        "Key": 3,
+        "Value": 41
+      },
+      {
+        "Key": 4,
+        "Value": 53
+      },
+      {
+        "Key": 5,
+        "Value": 63
+      },
+      {
+        "Key": 6,
+        "Value": 73
+      },
+      {
+        "Key": 7,
+        "Value": 83
+      },
+      {
+        "Key": 8,
+        "Value": 93
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1313,9 +2344,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 16
+      },
+      {
+        "Key": 2,
+        "Value": 33
+      },
+      {
+        "Key": 3,
+        "Value": 37
+      },
+      {
+        "Key": 4,
+        "Value": 49
+      },
+      {
+        "Key": 5,
+        "Value": 59
+      },
+      {
+        "Key": 6,
+        "Value": 69
+      },
+      {
+        "Key": 7,
+        "Value": 79
+      },
+      {
+        "Key": 8,
+        "Value": 89
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1334,9 +2396,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 16
+      },
+      {
+        "Key": 2,
+        "Value": 34
+      },
+      {
+        "Key": 3,
+        "Value": 39
+      },
+      {
+        "Key": 4,
+        "Value": 51
+      },
+      {
+        "Key": 5,
+        "Value": 61
+      },
+      {
+        "Key": 6,
+        "Value": 71
+      },
+      {
+        "Key": 7,
+        "Value": 81
+      },
+      {
+        "Key": 8,
+        "Value": 91
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1355,9 +2448,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 18
+      },
+      {
+        "Key": 2,
+        "Value": 35
+      },
+      {
+        "Key": 3,
+        "Value": 41
+      },
+      {
+        "Key": 4,
+        "Value": 53
+      },
+      {
+        "Key": 5,
+        "Value": 63
+      },
+      {
+        "Key": 6,
+        "Value": 73
+      },
+      {
+        "Key": 7,
+        "Value": 83
+      },
+      {
+        "Key": 8,
+        "Value": 93
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1376,9 +2500,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 17
+      },
+      {
+        "Key": 2,
+        "Value": 34
+      },
+      {
+        "Key": 3,
+        "Value": 39
+      },
+      {
+        "Key": 4,
+        "Value": 51
+      },
+      {
+        "Key": 5,
+        "Value": 61
+      },
+      {
+        "Key": 6,
+        "Value": 71
+      },
+      {
+        "Key": 7,
+        "Value": 81
+      },
+      {
+        "Key": 8,
+        "Value": 91
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1397,9 +2552,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 16
+      },
+      {
+        "Key": 2,
+        "Value": 34
+      },
+      {
+        "Key": 3,
+        "Value": 39
+      },
+      {
+        "Key": 4,
+        "Value": 51
+      },
+      {
+        "Key": 5,
+        "Value": 61
+      },
+      {
+        "Key": 6,
+        "Value": 71
+      },
+      {
+        "Key": 7,
+        "Value": 81
+      },
+      {
+        "Key": 8,
+        "Value": 91
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1418,9 +2604,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 17
+      },
+      {
+        "Key": 2,
+        "Value": 35
+      },
+      {
+        "Key": 3,
+        "Value": 41
+      },
+      {
+        "Key": 4,
+        "Value": 53
+      },
+      {
+        "Key": 5,
+        "Value": 63
+      },
+      {
+        "Key": 6,
+        "Value": 73
+      },
+      {
+        "Key": 7,
+        "Value": 83
+      },
+      {
+        "Key": 8,
+        "Value": 93
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1439,9 +2656,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 17
+      },
+      {
+        "Key": 2,
+        "Value": 35
+      },
+      {
+        "Key": 3,
+        "Value": 41
+      },
+      {
+        "Key": 4,
+        "Value": 53
+      },
+      {
+        "Key": 5,
+        "Value": 63
+      },
+      {
+        "Key": 6,
+        "Value": 73
+      },
+      {
+        "Key": 7,
+        "Value": 83
+      },
+      {
+        "Key": 8,
+        "Value": 93
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1460,9 +2708,7 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1481,9 +2727,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1502,9 +2746,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1523,9 +2765,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1544,9 +2784,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1565,9 +2803,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1586,9 +2822,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1607,9 +2841,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1628,9 +2860,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1649,9 +2879,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1670,9 +2898,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1691,9 +2917,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1712,9 +2936,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1733,9 +2955,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1754,9 +2974,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1775,9 +2993,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1796,9 +3012,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1817,9 +3031,7 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1838,9 +3050,7 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1859,9 +3069,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 6
+      },
+      {
+        "Key": 2,
+        "Value": 28
+      },
+      {
+        "Key": 3,
+        "Value": 45
+      },
+      {
+        "Key": 4,
+        "Value": 57
+      },
+      {
+        "Key": 5,
+        "Value": 67
+      },
+      {
+        "Key": 6,
+        "Value": 77
+      },
+      {
+        "Key": 7,
+        "Value": 87
+      },
+      {
+        "Key": 8,
+        "Value": 97
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1880,9 +3121,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 6
+      },
+      {
+        "Key": 2,
+        "Value": 28
+      },
+      {
+        "Key": 3,
+        "Value": 45
+      },
+      {
+        "Key": 4,
+        "Value": 57
+      },
+      {
+        "Key": 5,
+        "Value": 67
+      },
+      {
+        "Key": 6,
+        "Value": 77
+      },
+      {
+        "Key": 7,
+        "Value": 87
+      },
+      {
+        "Key": 8,
+        "Value": 97
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1901,9 +3173,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1922,9 +3192,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1943,9 +3211,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1964,9 +3230,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -1985,9 +3249,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -2006,9 +3268,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -2027,9 +3287,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -2048,9 +3306,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -2069,9 +3325,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -2090,9 +3344,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -2111,9 +3363,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -2132,9 +3382,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -2153,9 +3401,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -2174,9 +3420,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -2195,9 +3439,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -2216,9 +3458,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -2237,9 +3477,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -2258,9 +3496,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",
@@ -2279,9 +3515,7 @@
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 0
-    },
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "/Game/Aki/Data/PathLine/Pathline_EdgeWall/BP_BasePathLine_Edgewall_1-0_BLY.BP_BasePathLine_Edgewall_1-0_BLY",
@@ -2300,9 +3534,40 @@
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
-    "WorldMonsterLevelMax": {
-      "size": 8
-    },
+    "WorldMonsterLevelMax": [
+      {
+        "Key": 1,
+        "Value": 16
+      },
+      {
+        "Key": 2,
+        "Value": 25
+      },
+      {
+        "Key": 3,
+        "Value": 39
+      },
+      {
+        "Key": 4,
+        "Value": 51
+      },
+      {
+        "Key": 5,
+        "Value": 61
+      },
+      {
+        "Key": 6,
+        "Value": 71
+      },
+      {
+        "Key": 7,
+        "Value": 81
+      },
+      {
+        "Key": 8,
+        "Value": 91
+      }
+    ],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",

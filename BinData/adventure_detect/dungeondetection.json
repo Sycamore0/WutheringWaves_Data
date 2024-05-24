@@ -18,9 +18,40 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_14_UI.T_IconFunctionOpen_14_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_14_UI.T_IconFunctionOpen_14_UI",
     "ShowReward": 3017,
-    "ShowRewardMap": {
-      "size": 8
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 3012
+      },
+      {
+        "Key": 2,
+        "Value": 3012
+      },
+      {
+        "Key": 3,
+        "Value": 3013
+      },
+      {
+        "Key": 4,
+        "Value": 3014
+      },
+      {
+        "Key": 5,
+        "Value": 3015
+      },
+      {
+        "Key": 6,
+        "Value": 3016
+      },
+      {
+        "Key": 7,
+        "Value": 3017
+      },
+      {
+        "Key": 8,
+        "Value": 3018
+      }
+    ],
     "BeginTimeStamp": 0,
     "LockCon": 0,
     "PhantomId": [],
@@ -45,9 +76,40 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_14_UI.T_IconFunctionOpen_14_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_14_UI.T_IconFunctionOpen_14_UI",
     "ShowReward": 3037,
-    "ShowRewardMap": {
-      "size": 8
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 3032
+      },
+      {
+        "Key": 2,
+        "Value": 3032
+      },
+      {
+        "Key": 3,
+        "Value": 3033
+      },
+      {
+        "Key": 4,
+        "Value": 3034
+      },
+      {
+        "Key": 5,
+        "Value": 3035
+      },
+      {
+        "Key": 6,
+        "Value": 3036
+      },
+      {
+        "Key": 7,
+        "Value": 3037
+      },
+      {
+        "Key": 8,
+        "Value": 3038
+      }
+    ],
     "BeginTimeStamp": 0,
     "LockCon": 0,
     "PhantomId": [],
@@ -72,9 +134,40 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_14_UI.T_IconFunctionOpen_14_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_14_UI.T_IconFunctionOpen_14_UI",
     "ShowReward": 3047,
-    "ShowRewardMap": {
-      "size": 8
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 3042
+      },
+      {
+        "Key": 2,
+        "Value": 3042
+      },
+      {
+        "Key": 3,
+        "Value": 3043
+      },
+      {
+        "Key": 4,
+        "Value": 3044
+      },
+      {
+        "Key": 5,
+        "Value": 3045
+      },
+      {
+        "Key": 6,
+        "Value": 3046
+      },
+      {
+        "Key": 7,
+        "Value": 3047
+      },
+      {
+        "Key": 8,
+        "Value": 3048
+      }
+    ],
     "BeginTimeStamp": 0,
     "LockCon": 0,
     "PhantomId": [],
@@ -99,9 +192,40 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_14_UI.T_IconFunctionOpen_14_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_14_UI.T_IconFunctionOpen_14_UI",
     "ShowReward": 3057,
-    "ShowRewardMap": {
-      "size": 8
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 3052
+      },
+      {
+        "Key": 2,
+        "Value": 3052
+      },
+      {
+        "Key": 3,
+        "Value": 3053
+      },
+      {
+        "Key": 4,
+        "Value": 3054
+      },
+      {
+        "Key": 5,
+        "Value": 3055
+      },
+      {
+        "Key": 6,
+        "Value": 3056
+      },
+      {
+        "Key": 7,
+        "Value": 3057
+      },
+      {
+        "Key": 8,
+        "Value": 3058
+      }
+    ],
     "BeginTimeStamp": 0,
     "LockCon": 0,
     "PhantomId": [],
@@ -126,9 +250,40 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_1004_UI.T_IconMonsterHead_1004_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_1004_UI.T_IconMonsterHead_1004_UI",
     "ShowReward": 10238,
-    "ShowRewardMap": {
-      "size": 8
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 10231
+      },
+      {
+        "Key": 2,
+        "Value": 10232
+      },
+      {
+        "Key": 3,
+        "Value": 10233
+      },
+      {
+        "Key": 4,
+        "Value": 10234
+      },
+      {
+        "Key": 5,
+        "Value": 10235
+      },
+      {
+        "Key": 6,
+        "Value": 10236
+      },
+      {
+        "Key": 7,
+        "Value": 10237
+      },
+      {
+        "Key": 8,
+        "Value": 10238
+      }
+    ],
     "BeginTimeStamp": 0,
     "LockCon": 12005108,
     "PhantomId": [],
@@ -153,9 +308,40 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/UiCheckpoints/Image/T_IconLevel_02.T_IconLevel_02",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/UiCheckpoints/Image/T_IconLevel_02.T_IconLevel_02",
     "ShowReward": 10011,
-    "ShowRewardMap": {
-      "size": 8
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 10011
+      },
+      {
+        "Key": 2,
+        "Value": 10012
+      },
+      {
+        "Key": 3,
+        "Value": 10013
+      },
+      {
+        "Key": 4,
+        "Value": 10014
+      },
+      {
+        "Key": 5,
+        "Value": 10015
+      },
+      {
+        "Key": 6,
+        "Value": 10016
+      },
+      {
+        "Key": 7,
+        "Value": 10017
+      },
+      {
+        "Key": 8,
+        "Value": 10018
+      }
+    ],
     "BeginTimeStamp": 0,
     "LockCon": 0,
     "PhantomId": [],
@@ -180,9 +366,40 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/UiCheckpoints/Image/T_IconLevel_01.T_IconLevel_01",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/UiCheckpoints/Image/T_IconLevel_01.T_IconLevel_01",
     "ShowReward": 10021,
-    "ShowRewardMap": {
-      "size": 8
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 10021
+      },
+      {
+        "Key": 2,
+        "Value": 10022
+      },
+      {
+        "Key": 3,
+        "Value": 10023
+      },
+      {
+        "Key": 4,
+        "Value": 10024
+      },
+      {
+        "Key": 5,
+        "Value": 10025
+      },
+      {
+        "Key": 6,
+        "Value": 10026
+      },
+      {
+        "Key": 7,
+        "Value": 10027
+      },
+      {
+        "Key": 8,
+        "Value": 10028
+      }
+    ],
     "BeginTimeStamp": 0,
     "LockCon": 0,
     "PhantomId": [],
@@ -207,9 +424,40 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/UiCheckpoints/Image/T_IconLevel_04.T_IconLevel_04",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/UiCheckpoints/Image/T_IconLevel_04.T_IconLevel_04",
     "ShowReward": 10031,
-    "ShowRewardMap": {
-      "size": 8
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 10031
+      },
+      {
+        "Key": 2,
+        "Value": 10032
+      },
+      {
+        "Key": 3,
+        "Value": 10033
+      },
+      {
+        "Key": 4,
+        "Value": 10034
+      },
+      {
+        "Key": 5,
+        "Value": 10035
+      },
+      {
+        "Key": 6,
+        "Value": 10036
+      },
+      {
+        "Key": 7,
+        "Value": 10037
+      },
+      {
+        "Key": 8,
+        "Value": 10038
+      }
+    ],
     "BeginTimeStamp": 0,
     "LockCon": 0,
     "PhantomId": [],
@@ -234,9 +482,40 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_14_UI.T_IconFunctionOpen_14_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_14_UI.T_IconFunctionOpen_14_UI",
     "ShowReward": 3027,
-    "ShowRewardMap": {
-      "size": 8
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 3022
+      },
+      {
+        "Key": 2,
+        "Value": 3022
+      },
+      {
+        "Key": 3,
+        "Value": 3023
+      },
+      {
+        "Key": 4,
+        "Value": 3024
+      },
+      {
+        "Key": 5,
+        "Value": 3025
+      },
+      {
+        "Key": 6,
+        "Value": 3026
+      },
+      {
+        "Key": 7,
+        "Value": 3027
+      },
+      {
+        "Key": 8,
+        "Value": 3028
+      }
+    ],
     "BeginTimeStamp": 0,
     "LockCon": 0,
     "PhantomId": [],
@@ -261,9 +540,12 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/UiDevelopmentGuide/Image/T_IconDevelopment02.T_IconDevelopment02",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/UiDevelopmentGuide/Image/T_IconDevelopment02.T_IconDevelopment02",
     "ShowReward": 3331,
-    "ShowRewardMap": {
-      "size": 1
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 3331
+      }
+    ],
     "BeginTimeStamp": 0,
     "LockCon": 0,
     "PhantomId": [],
@@ -288,9 +570,12 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_17_UI.T_IconRoleHead175_17_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_17_UI.T_IconRoleHead175_17_UI",
     "ShowReward": 100017,
-    "ShowRewardMap": {
-      "size": 1
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 100017
+      }
+    ],
     "BeginTimeStamp": 0,
     "LockCon": 12008015,
     "PhantomId": [],
@@ -315,9 +600,12 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_3_UI.T_IconRoleHead175_3_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_3_UI.T_IconRoleHead175_3_UI",
     "ShowReward": 100005,
-    "ShowRewardMap": {
-      "size": 1
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 100005
+      }
+    ],
     "BeginTimeStamp": 0,
     "LockCon": 12008003,
     "PhantomId": [],
@@ -342,9 +630,12 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_14_UI.T_IconRoleHead175_14_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_14_UI.T_IconRoleHead175_14_UI",
     "ShowReward": 100018,
-    "ShowRewardMap": {
-      "size": 1
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 100018
+      }
+    ],
     "BeginTimeStamp": 0,
     "LockCon": 12008016,
     "PhantomId": [],
@@ -369,9 +660,12 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_23_UI.T_IconRoleHead175_23_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_23_UI.T_IconRoleHead175_23_UI",
     "ShowReward": 100020,
-    "ShowRewardMap": {
-      "size": 1
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 100020
+      }
+    ],
     "BeginTimeStamp": 0,
     "LockCon": 12008020,
     "PhantomId": [],
@@ -396,9 +690,12 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_8_UI.T_IconRoleHead175_8_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_8_UI.T_IconRoleHead175_8_UI",
     "ShowReward": 100010,
-    "ShowRewardMap": {
-      "size": 1
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 100010
+      }
+    ],
     "BeginTimeStamp": 0,
     "LockCon": 12008009,
     "PhantomId": [],
@@ -423,9 +720,12 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_18_UI.T_IconRoleHead175_18_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_18_UI.T_IconRoleHead175_18_UI",
     "ShowReward": 100016,
-    "ShowRewardMap": {
-      "size": 1
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 100016
+      }
+    ],
     "BeginTimeStamp": 0,
     "LockCon": 12008014,
     "PhantomId": [],
@@ -450,9 +750,12 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_4_UI.T_IconRoleHead175_4_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_4_UI.T_IconRoleHead175_4_UI",
     "ShowReward": 100006,
-    "ShowRewardMap": {
-      "size": 1
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 100006
+      }
+    ],
     "BeginTimeStamp": 0,
     "LockCon": 12008004,
     "PhantomId": [],
@@ -477,9 +780,12 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_5_UI.T_IconRoleHead175_5_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_5_UI.T_IconRoleHead175_5_UI",
     "ShowReward": 100006,
-    "ShowRewardMap": {
-      "size": 1
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 100006
+      }
+    ],
     "BeginTimeStamp": 0,
     "LockCon": 12008007,
     "PhantomId": [],
@@ -504,9 +810,12 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_4_UI.T_IconRoleHead175_4_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_4_UI.T_IconRoleHead175_4_UI",
     "ShowReward": 100021,
-    "ShowRewardMap": {
-      "size": 1
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 100021
+      }
+    ],
     "BeginTimeStamp": 0,
     "LockCon": 12008018,
     "PhantomId": [],
@@ -531,9 +840,12 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_5_UI.T_IconRoleHead175_5_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_5_UI.T_IconRoleHead175_5_UI",
     "ShowReward": 100021,
-    "ShowRewardMap": {
-      "size": 1
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 100021
+      }
+    ],
     "BeginTimeStamp": 0,
     "LockCon": 12008019,
     "PhantomId": [],
@@ -558,9 +870,12 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/UiDevelopmentGuide/Image/T_IconDevelopment01.T_IconDevelopment01",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/UiDevelopmentGuide/Image/T_IconDevelopment01.T_IconDevelopment01",
     "ShowReward": 101001,
-    "ShowRewardMap": {
-      "size": 1
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 101001
+      }
+    ],
     "BeginTimeStamp": 0,
     "LockCon": 0,
     "PhantomId": [],
@@ -585,9 +900,12 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/UiDevelopmentGuide/Image/T_IconDevelopment01.T_IconDevelopment01",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/UiDevelopmentGuide/Image/T_IconDevelopment01.T_IconDevelopment01",
     "ShowReward": 101002,
-    "ShowRewardMap": {
-      "size": 1
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 101002
+      }
+    ],
     "BeginTimeStamp": 0,
     "LockCon": 0,
     "PhantomId": [],
@@ -612,9 +930,40 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_998_UI.T_IconMonsterHead_998_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_998_UI.T_IconMonsterHead_998_UI",
     "ShowReward": 10238,
-    "ShowRewardMap": {
-      "size": 8
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 10241
+      },
+      {
+        "Key": 2,
+        "Value": 10242
+      },
+      {
+        "Key": 3,
+        "Value": 10243
+      },
+      {
+        "Key": 4,
+        "Value": 10244
+      },
+      {
+        "Key": 5,
+        "Value": 10245
+      },
+      {
+        "Key": 6,
+        "Value": 10246
+      },
+      {
+        "Key": 7,
+        "Value": 10247
+      },
+      {
+        "Key": 8,
+        "Value": 10248
+      }
+    ],
     "BeginTimeStamp": 0,
     "LockCon": 2429120,
     "PhantomId": [],
@@ -639,9 +988,12 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_11_UI.T_IconRoleHead175_11_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_11_UI.T_IconRoleHead175_11_UI",
     "ShowReward": 100013,
-    "ShowRewardMap": {
-      "size": 1
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 100013
+      }
+    ],
     "BeginTimeStamp": 0,
     "LockCon": 12008012,
     "PhantomId": [],
@@ -666,9 +1018,12 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_1_UI.T_IconRoleHead175_1_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_1_UI.T_IconRoleHead175_1_UI",
     "ShowReward": 100003,
-    "ShowRewardMap": {
-      "size": 1
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 100003
+      }
+    ],
     "BeginTimeStamp": 0,
     "LockCon": 12008001,
     "PhantomId": [],
@@ -693,9 +1048,12 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_2_UI.T_IconRoleHead175_2_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_2_UI.T_IconRoleHead175_2_UI",
     "ShowReward": 100004,
-    "ShowRewardMap": {
-      "size": 1
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 100004
+      }
+    ],
     "BeginTimeStamp": 0,
     "LockCon": 12008002,
     "PhantomId": [],
@@ -720,9 +1078,12 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_7_UI.T_IconRoleHead175_7_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_7_UI.T_IconRoleHead175_7_UI",
     "ShowReward": 100007,
-    "ShowRewardMap": {
-      "size": 1
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 100007
+      }
+    ],
     "BeginTimeStamp": 0,
     "LockCon": 12008005,
     "PhantomId": [],
@@ -747,9 +1108,12 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_9_UI.T_IconRoleHead175_9_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_9_UI.T_IconRoleHead175_9_UI",
     "ShowReward": 100008,
-    "ShowRewardMap": {
-      "size": 1
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 100008
+      }
+    ],
     "BeginTimeStamp": 0,
     "LockCon": 12008006,
     "PhantomId": [],
@@ -774,9 +1138,12 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_6_UI.T_IconRoleHead175_6_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_6_UI.T_IconRoleHead175_6_UI",
     "ShowReward": 100009,
-    "ShowRewardMap": {
-      "size": 1
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 100009
+      }
+    ],
     "BeginTimeStamp": 0,
     "LockCon": 12008008,
     "PhantomId": [],
@@ -801,9 +1168,12 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_10_UI.T_IconRoleHead175_10_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_10_UI.T_IconRoleHead175_10_UI",
     "ShowReward": 100011,
-    "ShowRewardMap": {
-      "size": 1
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 100011
+      }
+    ],
     "BeginTimeStamp": 0,
     "LockCon": 12008010,
     "PhantomId": [],
@@ -828,9 +1198,12 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_12_UI.T_IconRoleHead175_12_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_12_UI.T_IconRoleHead175_12_UI",
     "ShowReward": 100012,
-    "ShowRewardMap": {
-      "size": 1
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 100012
+      }
+    ],
     "BeginTimeStamp": 0,
     "LockCon": 12008011,
     "PhantomId": [],
@@ -855,9 +1228,12 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_13_UI.T_IconRoleHead175_13_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_13_UI.T_IconRoleHead175_13_UI",
     "ShowReward": 100014,
-    "ShowRewardMap": {
-      "size": 1
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 100014
+      }
+    ],
     "BeginTimeStamp": 0,
     "LockCon": 12008013,
     "PhantomId": [],
@@ -882,9 +1258,12 @@
     "TemporaryIconUnLock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_15_UI.T_IconRoleHead175_15_UI",
     "TemporaryIconlock": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_15_UI.T_IconRoleHead175_15_UI",
     "ShowReward": 100019,
-    "ShowRewardMap": {
-      "size": 1
-    },
+    "ShowRewardMap": [
+      {
+        "Key": 1,
+        "Value": 100019
+      }
+    ],
     "BeginTimeStamp": 0,
     "LockCon": 12008017,
     "PhantomId": [],

@@ -7,9 +7,7 @@
     "InheritLevelParam": 0,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": [
       "1403030001",
       "70000003",
@@ -29,9 +27,14 @@
     "InheritLevelParam": 0,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 1
-    },
+    "InheritSummonerAttribute": [
+      {
+        "Key": 2,
+        "Value": {
+          "ArrayInt": [20000]
+        }
+      }
+    ],
     "BornBuffId": [
       "1403030001",
       "70000003",
@@ -51,9 +54,14 @@
     "InheritLevelParam": 0,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 1
-    },
+    "InheritSummonerAttribute": [
+      {
+        "Key": 2,
+        "Value": {
+          "ArrayInt": [20000]
+        }
+      }
+    ],
     "BornBuffId": ["1302190050", "1302190110", "1302190111"]
   },
   {
@@ -64,9 +72,7 @@
     "InheritLevelParam": 0,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": []
   },
   {
@@ -77,9 +83,20 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 2
-    },
+    "InheritSummonerAttribute": [
+      {
+        "Key": 2,
+        "Value": {
+          "ArrayInt": [1000, 2000]
+        }
+      },
+      {
+        "Key": 7,
+        "Value": {
+          "ArrayInt": [1000, 2000]
+        }
+      }
+    ],
     "BornBuffId": ["1001002004"]
   },
   {
@@ -90,9 +107,20 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 2
-    },
+    "InheritSummonerAttribute": [
+      {
+        "Key": 2,
+        "Value": {
+          "ArrayInt": [1000, 2000]
+        }
+      },
+      {
+        "Key": 7,
+        "Value": {
+          "ArrayInt": [1000, 2000]
+        }
+      }
+    ],
     "BornBuffId": ["1001002004"]
   },
   {
@@ -103,9 +131,20 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 2
-    },
+    "InheritSummonerAttribute": [
+      {
+        "Key": 2,
+        "Value": {
+          "ArrayInt": [1000, 2000]
+        }
+      },
+      {
+        "Key": 7,
+        "Value": {
+          "ArrayInt": [1000, 2000]
+        }
+      }
+    ],
     "BornBuffId": ["1001002004"]
   },
   {
@@ -116,9 +155,20 @@
     "InheritLevelParam": 0,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 2
-    },
+    "InheritSummonerAttribute": [
+      {
+        "Key": 2,
+        "Value": {
+          "ArrayInt": [1000, 2000]
+        }
+      },
+      {
+        "Key": 7,
+        "Value": {
+          "ArrayInt": [1000, 2000]
+        }
+      }
+    ],
     "BornBuffId": [
       "1103100015",
       "1001002004",
@@ -135,9 +185,7 @@
     "InheritLevelParam": 0,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1303904004", "1101009004"]
   },
   {
@@ -148,9 +196,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -161,9 +207,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -174,9 +218,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -187,9 +229,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -200,9 +240,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -213,9 +251,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -226,9 +262,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -239,9 +273,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -252,9 +284,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -265,9 +295,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -278,9 +306,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -291,9 +317,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -304,9 +328,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -317,9 +339,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -330,9 +350,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -343,9 +361,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -356,9 +372,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -369,9 +383,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -382,9 +394,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -395,9 +405,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -408,9 +416,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -421,9 +427,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -434,9 +438,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -447,9 +449,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -460,9 +460,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -473,9 +471,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -486,9 +482,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -499,9 +493,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -512,9 +504,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -525,9 +515,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -538,9 +526,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -551,9 +537,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -564,9 +548,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -577,9 +559,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -590,9 +570,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -603,9 +581,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -616,9 +592,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -629,9 +603,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -642,9 +614,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -655,9 +625,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -668,9 +636,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -681,9 +647,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -694,9 +658,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -707,9 +669,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -720,9 +680,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -733,9 +691,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -746,9 +702,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004"]
   },
   {
@@ -759,9 +713,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004"]
   },
   {
@@ -772,9 +724,7 @@
     "InheritLevelParam": 0,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1303904004", "1101009004"]
   },
   {
@@ -785,9 +735,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": []
   },
   {
@@ -798,9 +746,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -811,9 +757,20 @@
     "InheritLevelParam": 0,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 2
-    },
+    "InheritSummonerAttribute": [
+      {
+        "Key": 84,
+        "Value": {
+          "ArrayInt": [1000]
+        }
+      },
+      {
+        "Key": 85,
+        "Value": {
+          "ArrayInt": [1000]
+        }
+      }
+    ],
     "BornBuffId": []
   },
   {
@@ -824,9 +781,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -837,9 +792,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -850,9 +803,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004"]
   },
   {
@@ -863,9 +814,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -876,9 +825,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -889,9 +836,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": []
   },
   {
@@ -902,9 +847,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -915,9 +858,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -928,9 +869,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -941,9 +880,7 @@
     "InheritLevelParam": 0,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": []
   },
   {
@@ -954,9 +891,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -967,9 +902,7 @@
     "InheritLevelParam": 0,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": []
   },
   {
@@ -980,9 +913,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": []
   },
   {
@@ -993,9 +924,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": []
   },
   {
@@ -1006,9 +935,14 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 1
-    },
+    "InheritSummonerAttribute": [
+      {
+        "Key": 7,
+        "Value": {
+          "ArrayInt": [10000]
+        }
+      }
+    ],
     "BornBuffId": ["80005070"]
   },
   {
@@ -1019,9 +953,7 @@
     "InheritLevelParam": 0,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": []
   },
   {
@@ -1032,9 +964,32 @@
     "InheritLevelParam": 0,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 4
-    },
+    "InheritSummonerAttribute": [
+      {
+        "Key": 2,
+        "Value": {
+          "ArrayInt": [2000]
+        }
+      },
+      {
+        "Key": 3,
+        "Value": {
+          "ArrayInt": [2000]
+        }
+      },
+      {
+        "Key": 84,
+        "Value": {
+          "ArrayInt": [10000]
+        }
+      },
+      {
+        "Key": 85,
+        "Value": {
+          "ArrayInt": [10000]
+        }
+      }
+    ],
     "BornBuffId": []
   },
   {
@@ -1045,9 +1000,7 @@
     "InheritLevelParam": 0,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": []
   },
   {
@@ -1058,9 +1011,14 @@
     "InheritLevelParam": 0,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 1
-    },
+    "InheritSummonerAttribute": [
+      {
+        "Key": 7,
+        "Value": {
+          "ArrayInt": [20000]
+        }
+      }
+    ],
     "BornBuffId": ["9100000030020"]
   },
   {
@@ -1071,9 +1029,20 @@
     "InheritLevelParam": 90,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 2
-    },
+    "InheritSummonerAttribute": [
+      {
+        "Key": 2,
+        "Value": {
+          "ArrayInt": [3600000]
+        }
+      },
+      {
+        "Key": 3,
+        "Value": {
+          "ArrayInt": [3600000]
+        }
+      }
+    ],
     "BornBuffId": []
   },
   {
@@ -1084,9 +1053,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": []
   },
   {
@@ -1097,9 +1064,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -1110,9 +1075,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -1123,9 +1086,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": []
   },
   {
@@ -1136,9 +1097,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -1149,9 +1108,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": []
   },
   {
@@ -1162,9 +1119,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -1175,9 +1130,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -1188,9 +1141,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -1201,9 +1152,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -1214,9 +1163,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -1227,9 +1174,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -1240,9 +1185,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["80003028", "70000012"]
   },
   {
@@ -1253,9 +1196,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -1266,9 +1207,14 @@
     "InheritLevelParam": 0,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 1
-    },
+    "InheritSummonerAttribute": [
+      {
+        "Key": 7,
+        "Value": {
+          "ArrayInt": [40000]
+        }
+      }
+    ],
     "BornBuffId": ["70000009", "80010056", "70000012", "70000014", "77045004"]
   },
   {
@@ -1279,9 +1225,7 @@
     "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": ["1001002004", "1101009004"]
   },
   {
@@ -1292,9 +1236,7 @@
     "InheritLevelParam": 0,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
-    "InheritSummonerAttribute": {
-      "size": 0
-    },
+    "InheritSummonerAttribute": [],
     "BornBuffId": []
   }
 ]

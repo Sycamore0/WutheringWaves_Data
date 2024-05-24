@@ -7,12 +7,8 @@
     "ConsumeId": 3,
     "ConsumeCount": 100,
     "IsRecurringLevel": false,
-    "FreeRecurringReward": {
-      "size": 0
-    },
-    "PayRecurringReward": {
-      "size": 0
-    },
+    "FreeRecurringReward": [],
+    "PayRecurringReward": [],
     "RecurringLevelExp": 1000,
     "WeekExpLimit": 10000,
     "ExclusiveRewardPath": "/Game/Aki/UI/UIResources/UiBp/Image/T_BpWeapon1_UI.T_BpWeapon1_UI"

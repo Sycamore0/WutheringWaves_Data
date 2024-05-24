@@ -20,9 +20,12 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleYangyang.T_ActivityRoleYangyang",
-    "SpilloverItem": {
-      "size": 1
-    },
+    "SpilloverItem": [
+      {
+        "Key": 10001402,
+        "Value": 1
+      }
+    ],
     "MeshId": 100001,
     "UiMeshId": 100001,
     "RoleBody": "FemaleM",
@@ -39,9 +42,12 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1402,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001402,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
@@ -88,9 +94,12 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_maxiaofang_UI.T_IconRole_Pile_maxiaofang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleZhixia.T_ActivityRoleZhixia",
-    "SpilloverItem": {
-      "size": 1
-    },
+    "SpilloverItem": [
+      {
+        "Key": 10001202,
+        "Value": 1
+      }
+    ],
     "MeshId": 100002,
     "UiMeshId": 100002,
     "RoleBody": "FemaleM",
@@ -107,9 +116,12 @@
     "ResonanceId": 1202,
     "ResonantChainGroupId": 1202,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001202,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21030011,
     "WeaponType": 3,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Fire.DA_Fx_UI_UIMap_Character_Fire",
@@ -156,9 +168,12 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jueyuan_UI.T_IconRole_Pile_jueyuan_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": {
-      "size": 1
-    },
+    "SpilloverItem": [
+      {
+        "Key": 10001503,
+        "Value": 1
+      }
+    ],
     "MeshId": 100003,
     "UiMeshId": 100003,
     "RoleBody": "FemaleS",
@@ -175,9 +190,12 @@
     "ResonanceId": 1503,
     "ResonantChainGroupId": 1503,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001503,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21050011,
     "WeaponType": 5,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Light.DA_Fx_UI_UIMap_Character_Light",
@@ -224,9 +242,12 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujuenan_UI.T_IconRole_Pile_zhujuenan_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleNanzhu.T_ActivityRoleNanzhu",
-    "SpilloverItem": {
-      "size": 1
-    },
+    "SpilloverItem": [
+      {
+        "Key": 10001500,
+        "Value": 1
+      }
+    ],
     "MeshId": 100004,
     "UiMeshId": 100004,
     "RoleBody": "MaleM",
@@ -243,9 +264,12 @@
     "ResonanceId": 1,
     "ResonantChainGroupId": 1,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001500,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Light.DA_Fx_UI_UIMap_Character_Light",
@@ -292,9 +316,12 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_shanhua_UI.T_IconRole_Pile_shanhua_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": {
-      "size": 1
-    },
+    "SpilloverItem": [
+      {
+        "Key": 10001102,
+        "Value": 1
+      }
+    ],
     "MeshId": 100005,
     "UiMeshId": 100005,
     "RoleBody": "FemaleM",
@@ -311,9 +338,12 @@
     "ResonanceId": 1102,
     "ResonantChainGroupId": 1102,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001102,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Ice.DA_Fx_UI_UIMap_Character_Ice",
@@ -360,9 +390,12 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_taohua_UI.T_IconRole_Pile_taohua_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleTaoqi.T_ActivityRoleTaoqi",
-    "SpilloverItem": {
-      "size": 1
-    },
+    "SpilloverItem": [
+      {
+        "Key": 10001601,
+        "Value": 1
+      }
+    ],
     "MeshId": 100009,
     "UiMeshId": 100109,
     "RoleBody": "FemaleM",
@@ -379,9 +412,12 @@
     "ResonanceId": 1601,
     "ResonantChainGroupId": 1601,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001601,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21010011,
     "WeaponType": 1,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Dark.DA_Fx_UI_UIMap_Character_Dark",
@@ -428,9 +464,12 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujue_UI.T_IconRole_Pile_zhujue_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleNvzhu.T_ActivityRoleNvzhu",
-    "SpilloverItem": {
-      "size": 1
-    },
+    "SpilloverItem": [
+      {
+        "Key": 10001500,
+        "Value": 1
+      }
+    ],
     "MeshId": 100006,
     "UiMeshId": 100006,
     "RoleBody": "FemaleM",
@@ -447,9 +486,12 @@
     "ResonanceId": 1,
     "ResonantChainGroupId": 1,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001500,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Light.DA_Fx_UI_UIMap_Character_Light",
@@ -496,9 +538,12 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_bailian_UI.T_IconRole_Pile_bailian_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleBailian.T_ActivityRoleBailian",
-    "SpilloverItem": {
-      "size": 1
-    },
+    "SpilloverItem": [
+      {
+        "Key": 10001103,
+        "Value": 1
+      }
+    ],
     "MeshId": 100007,
     "UiMeshId": 100007,
     "RoleBody": "FemaleXL",
@@ -515,9 +560,12 @@
     "ResonanceId": 1103,
     "ResonantChainGroupId": 1103,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001103,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21050011,
     "WeaponType": 5,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Ice.DA_Fx_UI_UIMap_Character_Ice",
@@ -564,9 +612,12 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_anke_UI.T_IconRole_Pile_anke_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": {
-      "size": 1
-    },
+    "SpilloverItem": [
+      {
+        "Key": 10001203,
+        "Value": 1
+      }
+    ],
     "MeshId": 100008,
     "UiMeshId": 100008,
     "RoleBody": "FemaleS",
@@ -583,9 +634,12 @@
     "ResonanceId": 1203,
     "ResonantChainGroupId": 1203,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001203,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21050011,
     "WeaponType": 5,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Fire.DA_Fx_UI_UIMap_Character_Fire",
@@ -632,9 +686,12 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_micai_UI.T_IconRole_Pile_micai_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": {
-      "size": 1
-    },
+    "SpilloverItem": [
+      {
+        "Key": 10001602,
+        "Value": 1
+      }
+    ],
     "MeshId": 100010,
     "UiMeshId": 100010,
     "RoleBody": "FemaleM",
@@ -651,9 +708,12 @@
     "ResonanceId": 1602,
     "ResonantChainGroupId": 1602,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001602,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Dark.DA_Fx_UI_UIMap_Character_Dark",
@@ -700,9 +760,12 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_qiushui_UI.T_IconRole_Pile_qiushui_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": {
-      "size": 1
-    },
+    "SpilloverItem": [
+      {
+        "Key": 10001403,
+        "Value": 1
+      }
+    ],
     "MeshId": 100013,
     "UiMeshId": 100113,
     "RoleBody": "MaleXL",
@@ -719,9 +782,12 @@
     "ResonanceId": 1403,
     "ResonantChainGroupId": 1403,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001403,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21030011,
     "WeaponType": 3,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
@@ -768,9 +834,12 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jiyan_UI.T_IconRole_Pile_jiyan_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleJiyan1.T_ActivityRoleJiyan1",
-    "SpilloverItem": {
-      "size": 1
-    },
+    "SpilloverItem": [
+      {
+        "Key": 10001404,
+        "Value": 1
+      }
+    ],
     "MeshId": 100014,
     "UiMeshId": 100014,
     "RoleBody": "MaleXL",
@@ -787,9 +856,12 @@
     "ResonanceId": 1404,
     "ResonantChainGroupId": 1404,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001404,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21010011,
     "WeaponType": 1,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Fire.DA_Fx_UI_UIMap_Character_Fire",
@@ -836,9 +908,12 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_baer_UI.T_IconRole_Pile_baer_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": {
-      "size": 1
-    },
+    "SpilloverItem": [
+      {
+        "Key": 10001204,
+        "Value": 1
+      }
+    ],
     "MeshId": 100012,
     "UiMeshId": 100012,
     "RoleBody": "MaleXL",
@@ -855,9 +930,12 @@
     "ResonanceId": 1204,
     "ResonantChainGroupId": 1204,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001204,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21030011,
     "WeaponType": 3,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Fire.DA_Fx_UI_UIMap_Character_Fire",
@@ -904,9 +982,12 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_kakaluo_UI.T_IconRole_Pile_kakaluo_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": {
-      "size": 1
-    },
+    "SpilloverItem": [
+      {
+        "Key": 10001301,
+        "Value": 1
+      }
+    ],
     "MeshId": 100011,
     "UiMeshId": 100111,
     "RoleBody": "MaleXL",
@@ -923,9 +1004,12 @@
     "ResonanceId": 1301,
     "ResonantChainGroupId": 1301,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001301,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21010011,
     "WeaponType": 1,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Fire.DA_Fx_UI_UIMap_Character_Fire",
@@ -972,9 +1056,12 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yinlin_UI.T_IconRole_Pile_yinlin_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleYinlin.T_ActivityRoleYinlin",
-    "SpilloverItem": {
-      "size": 1
-    },
+    "SpilloverItem": [
+      {
+        "Key": 10001302,
+        "Value": 1
+      }
+    ],
     "MeshId": 100017,
     "UiMeshId": 100017,
     "RoleBody": "FemaleM",
@@ -991,9 +1078,12 @@
     "ResonanceId": 1302,
     "ResonantChainGroupId": 1302,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001302,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21050011,
     "WeaponType": 5,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Light.DA_Fx_UI_UIMap_Character_Light",
@@ -1040,9 +1130,12 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_lingyang_UI.T_IconRole_Pile_lingyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": {
-      "size": 1
-    },
+    "SpilloverItem": [
+      {
+        "Key": 10001104,
+        "Value": 1
+      }
+    ],
     "MeshId": 100016,
     "UiMeshId": 100016,
     "RoleBody": "MaleS",
@@ -1059,9 +1152,12 @@
     "ResonanceId": 1104,
     "ResonantChainGroupId": 1104,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001104,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21040011,
     "WeaponType": 4,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Light.DA_Fx_UI_UIMap_Character_Light",
@@ -1108,9 +1204,12 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yuanwu_UI.T_IconRole_Pile_yuanwu_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": {
-      "size": 1
-    },
+    "SpilloverItem": [
+      {
+        "Key": 10001303,
+        "Value": 1
+      }
+    ],
     "MeshId": 100019,
     "UiMeshId": 100019,
     "RoleBody": "MaleXL",
@@ -1127,9 +1226,12 @@
     "ResonanceId": 1303,
     "ResonantChainGroupId": 1303,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001303,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21040011,
     "WeaponType": 4,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Light.DA_Fx_UI_UIMap_Character_Light",
@@ -1176,9 +1278,12 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujue_UI.T_IconRole_Pile_zhujue_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": {
-      "size": 1
-    },
+    "SpilloverItem": [
+      {
+        "Key": 10001500,
+        "Value": 1
+      }
+    ],
     "MeshId": 100021,
     "UiMeshId": 100021,
     "RoleBody": "FemaleM",
@@ -1195,9 +1300,12 @@
     "ResonanceId": 1604,
     "ResonantChainGroupId": 1604,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001500,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Dark.DA_Fx_UI_UIMap_Character_Dark",
@@ -1244,9 +1352,12 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujuenan_UI.T_IconRole_Pile_zhujuenan_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": {
-      "size": 1
-    },
+    "SpilloverItem": [
+      {
+        "Key": 10001500,
+        "Value": 1
+      }
+    ],
     "MeshId": 100022,
     "UiMeshId": 100022,
     "RoleBody": "MaleM",
@@ -1263,9 +1374,12 @@
     "ResonanceId": 1604,
     "ResonantChainGroupId": 1604,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001500,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Dark.DA_Fx_UI_UIMap_Character_Dark",
@@ -1312,9 +1426,7 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": {
-      "size": 0
-    },
+    "SpilloverItem": [],
     "MeshId": 39001301,
     "UiMeshId": 39001301,
     "RoleBody": "FemaleM",
@@ -1331,9 +1443,12 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1402,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001402,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
@@ -1380,9 +1495,7 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": {
-      "size": 0
-    },
+    "SpilloverItem": [],
     "MeshId": 10070301,
     "UiMeshId": 10070301,
     "RoleBody": "FemaleM",
@@ -1399,9 +1512,12 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1402,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001402,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
@@ -1448,9 +1564,7 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": {
-      "size": 0
-    },
+    "SpilloverItem": [],
     "MeshId": 39007301,
     "UiMeshId": 39007301,
     "RoleBody": "FemaleM",
@@ -1467,9 +1581,12 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1402,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001402,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
@@ -1516,9 +1633,7 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": {
-      "size": 0
-    },
+    "SpilloverItem": [],
     "MeshId": 30100301,
     "UiMeshId": 30100301,
     "RoleBody": "FemaleM",
@@ -1535,9 +1650,12 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1402,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001402,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
@@ -1584,9 +1702,7 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": {
-      "size": 0
-    },
+    "SpilloverItem": [],
     "MeshId": 39010601,
     "UiMeshId": 39010601,
     "RoleBody": "FemaleM",
@@ -1603,9 +1719,12 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1402,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001402,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
@@ -1652,9 +1771,7 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": {
-      "size": 0
-    },
+    "SpilloverItem": [],
     "MeshId": 39004901,
     "UiMeshId": 39004901,
     "RoleBody": "FemaleM",
@@ -1671,9 +1788,12 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1402,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001402,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
@@ -1720,9 +1840,7 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": {
-      "size": 0
-    },
+    "SpilloverItem": [],
     "MeshId": 39000801,
     "UiMeshId": 39000801,
     "RoleBody": "FemaleM",
@@ -1739,9 +1857,12 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1402,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001402,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
@@ -1788,9 +1909,12 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujue_UI.T_IconRole_Pile_zhujue_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": {
-      "size": 1
-    },
+    "SpilloverItem": [
+      {
+        "Key": 10001102,
+        "Value": 1
+      }
+    ],
     "MeshId": 100018,
     "UiMeshId": 100005,
     "RoleBody": "FemaleM",
@@ -1807,9 +1931,12 @@
     "ResonanceId": 1102,
     "ResonantChainGroupId": 1102,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001102,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Ice.DA_Fx_UI_UIMap_Character_Ice",
@@ -1856,9 +1983,12 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujue_UI.T_IconRole_Pile_zhujue_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": {
-      "size": 1
-    },
+    "SpilloverItem": [
+      {
+        "Key": 10001102,
+        "Value": 1
+      }
+    ],
     "MeshId": 100020,
     "UiMeshId": 100005,
     "RoleBody": "FemaleM",
@@ -1875,9 +2005,12 @@
     "ResonanceId": 1102,
     "ResonantChainGroupId": 1102,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001102,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Ice.DA_Fx_UI_UIMap_Character_Ice",
@@ -1924,9 +2057,12 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujue_UI.T_IconRole_Pile_zhujue_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": {
-      "size": 1
-    },
+    "SpilloverItem": [
+      {
+        "Key": 10001102,
+        "Value": 1
+      }
+    ],
     "MeshId": 100023,
     "UiMeshId": 100005,
     "RoleBody": "FemaleM",
@@ -1943,9 +2079,12 @@
     "ResonanceId": 1102,
     "ResonantChainGroupId": 1102,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001102,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Ice.DA_Fx_UI_UIMap_Character_Ice",
@@ -1992,9 +2131,12 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujue_UI.T_IconRole_Pile_zhujue_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": {
-      "size": 1
-    },
+    "SpilloverItem": [
+      {
+        "Key": 10001500,
+        "Value": 1
+      }
+    ],
     "MeshId": 199999,
     "UiMeshId": 199999,
     "RoleBody": "FemaleM",
@@ -2011,9 +2153,12 @@
     "ResonanceId": 1,
     "ResonantChainGroupId": 1,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001500,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Light.DA_Fx_UI_UIMap_Character_Light",
@@ -2060,9 +2205,12 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujuenan_UI.T_IconRole_Pile_zhujuenan_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": {
-      "size": 1
-    },
+    "SpilloverItem": [
+      {
+        "Key": 10001500,
+        "Value": 1
+      }
+    ],
     "MeshId": 199998,
     "UiMeshId": 199998,
     "RoleBody": "MaleM",
@@ -2079,9 +2227,12 @@
     "ResonanceId": 1,
     "ResonantChainGroupId": 1,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001500,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Light.DA_Fx_UI_UIMap_Character_Light",
@@ -2128,9 +2279,7 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": {
-      "size": 0
-    },
+    "SpilloverItem": [],
     "MeshId": 39009501,
     "UiMeshId": 39009501,
     "RoleBody": "FemaleM",
@@ -2147,9 +2296,12 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1402,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001402,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
@@ -2196,9 +2348,12 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jiexin_UI.T_IconRole_Pile_jiexin_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": {
-      "size": 1
-    },
+    "SpilloverItem": [
+      {
+        "Key": 10001405,
+        "Value": 1
+      }
+    ],
     "MeshId": 100024,
     "UiMeshId": 100024,
     "RoleBody": "FemaleM",
@@ -2215,9 +2370,12 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1405,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001405,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21040011,
     "WeaponType": 4,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
@@ -2264,9 +2422,7 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": {
-      "size": 0
-    },
+    "SpilloverItem": [],
     "MeshId": 39004001,
     "UiMeshId": 39004001,
     "RoleBody": "FemaleM",
@@ -2283,9 +2439,12 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1402,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001402,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
@@ -2332,9 +2491,7 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": {
-      "size": 0
-    },
+    "SpilloverItem": [],
     "MeshId": 39008301,
     "UiMeshId": 39008301,
     "RoleBody": "FemaleM",
@@ -2351,9 +2508,12 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1402,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001402,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
@@ -2400,9 +2560,7 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": {
-      "size": 0
-    },
+    "SpilloverItem": [],
     "MeshId": 390234,
     "UiMeshId": 39010201,
     "RoleBody": "FemaleM",
@@ -2419,9 +2577,12 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1402,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001402,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
@@ -2468,9 +2629,7 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": {
-      "size": 0
-    },
+    "SpilloverItem": [],
     "MeshId": 39002101,
     "UiMeshId": 39002101,
     "RoleBody": "FemaleM",
@@ -2487,9 +2646,12 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1402,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001402,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
@@ -2536,9 +2698,7 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": {
-      "size": 0
-    },
+    "SpilloverItem": [],
     "MeshId": 39002201,
     "UiMeshId": 39002201,
     "RoleBody": "FemaleM",
@@ -2555,9 +2715,12 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1402,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001402,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
@@ -2604,9 +2767,7 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": {
-      "size": 0
-    },
+    "SpilloverItem": [],
     "MeshId": 39000001,
     "UiMeshId": 39000001,
     "RoleBody": "FemaleM",
@@ -2623,9 +2784,12 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1402,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001402,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",
@@ -2672,9 +2836,7 @@
     "FormationRoleCard": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.T_IconRole_Pile_yangyang_UI",
     "RoleStand": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
     "RolePortrait": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
-    "SpilloverItem": {
-      "size": 0
-    },
+    "SpilloverItem": [],
     "MeshId": 39004902,
     "UiMeshId": 39004902,
     "RoleBody": "FemaleM",
@@ -2691,9 +2853,12 @@
     "ResonanceId": 1402,
     "ResonantChainGroupId": 1402,
     "IsShow": false,
-    "ExchangeConsume": {
-      "size": 1
-    },
+    "ExchangeConsume": [
+      {
+        "Key": 10001402,
+        "Value": 1
+      }
+    ],
     "InitWeaponItemId": 21020011,
     "WeaponType": 2,
     "SkillDAPath": "/Game/Aki/Effect/DataAsset/Niagara/UI_Scenes/DA_Fx_UI_UIMap_Character_Wind.DA_Fx_UI_UIMap_Character_Wind",

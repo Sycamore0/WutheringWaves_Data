@@ -5,9 +5,20 @@
     "TrialRoleId": 14047004,
     "InstanceText": "",
     "InstanceId": 8101,
-    "RewardItem": {
-      "size": 3
-    }
+    "RewardItem": [
+      {
+        "Key": 3,
+        "Value": 20
+      },
+      {
+        "Key": 43010003,
+        "Value": 2
+      },
+      {
+        "Key": 43020003,
+        "Value": 2
+      }
+    ]
   },
   {
     "Id": 1602,
@@ -15,9 +26,20 @@
     "TrialRoleId": 16027004,
     "InstanceText": "",
     "InstanceId": 8103,
-    "RewardItem": {
-      "size": 3
-    }
+    "RewardItem": [
+      {
+        "Key": 43010002,
+        "Value": 2
+      },
+      {
+        "Key": 43020002,
+        "Value": 2
+      },
+      {
+        "Key": 2,
+        "Value": 10000
+      }
+    ]
   },
   {
     "Id": 1202,
@@ -25,9 +47,20 @@
     "TrialRoleId": 12027004,
     "InstanceText": "",
     "InstanceId": 8104,
-    "RewardItem": {
-      "size": 3
-    }
+    "RewardItem": [
+      {
+        "Key": 43010002,
+        "Value": 2
+      },
+      {
+        "Key": 43020002,
+        "Value": 2
+      },
+      {
+        "Key": 2,
+        "Value": 10000
+      }
+    ]
   },
   {
     "Id": 1204,
@@ -35,9 +68,20 @@
     "TrialRoleId": 12047004,
     "InstanceText": "",
     "InstanceId": 8102,
-    "RewardItem": {
-      "size": 3
-    }
+    "RewardItem": [
+      {
+        "Key": 43010002,
+        "Value": 2
+      },
+      {
+        "Key": 43020002,
+        "Value": 2
+      },
+      {
+        "Key": 2,
+        "Value": 10000
+      }
+    ]
   },
   {
     "Id": 1302,
@@ -45,9 +89,20 @@
     "TrialRoleId": 13027004,
     "InstanceText": "",
     "InstanceId": 8105,
-    "RewardItem": {
-      "size": 3
-    }
+    "RewardItem": [
+      {
+        "Key": 3,
+        "Value": 20
+      },
+      {
+        "Key": 43010003,
+        "Value": 2
+      },
+      {
+        "Key": 43020003,
+        "Value": 2
+      }
+    ]
   },
   {
     "Id": 1601,
@@ -55,9 +110,20 @@
     "TrialRoleId": 16017004,
     "InstanceText": "",
     "InstanceId": 8106,
-    "RewardItem": {
-      "size": 3
-    }
+    "RewardItem": [
+      {
+        "Key": 43010002,
+        "Value": 2
+      },
+      {
+        "Key": 43020002,
+        "Value": 2
+      },
+      {
+        "Key": 2,
+        "Value": 10000
+      }
+    ]
   },
   {
     "Id": 1403,
@@ -65,9 +131,20 @@
     "TrialRoleId": 14037004,
     "InstanceText": "",
     "InstanceId": 8107,
-    "RewardItem": {
-      "size": 3
-    }
+    "RewardItem": [
+      {
+        "Key": 43010002,
+        "Value": 2
+      },
+      {
+        "Key": 43020002,
+        "Value": 2
+      },
+      {
+        "Key": 2,
+        "Value": 10000
+      }
+    ]
   },
   {
     "Id": 1303,
@@ -75,8 +152,19 @@
     "TrialRoleId": 13037004,
     "InstanceText": "",
     "InstanceId": 8108,
-    "RewardItem": {
-      "size": 3
-    }
+    "RewardItem": [
+      {
+        "Key": 43010002,
+        "Value": 2
+      },
+      {
+        "Key": 43020002,
+        "Value": 2
+      },
+      {
+        "Key": 2,
+        "Value": 10000
+      }
+    ]
   }
 ]

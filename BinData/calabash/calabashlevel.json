@@ -8,14 +8,44 @@
     "BuffDescription": "",
     "LevelUpDescription": "CalabashLevel_1_LevelUpDescription",
     "QualityDescription": "CalabashLevel_2_QualityDescription",
-    "BuffDescriptionMap": {
-      "size": 4
-    },
+    "BuffDescriptionMap": [
+      {
+        "Key": 0,
+        "Value": 100
+      },
+      {
+        "Key": 1,
+        "Value": 0
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      },
+      {
+        "Key": 3,
+        "Value": 0
+      }
+    ],
     "Cost": 8,
     "RewardId": 4301,
-    "QualityDropWeight": {
-      "size": 4
-    }
+    "QualityDropWeight": [
+      {
+        "Key": 5,
+        "Value": 0
+      },
+      {
+        "Key": 4,
+        "Value": 0
+      },
+      {
+        "Key": 3,
+        "Value": 0
+      },
+      {
+        "Key": 2,
+        "Value": 100
+      }
+    ]
   },
   {
     "Level": 2,
@@ -26,14 +56,44 @@
     "BuffDescription": "",
     "LevelUpDescription": "CalabashLevel_2_LevelUpDescription",
     "QualityDescription": "CalabashLevel_2_QualityDescription",
-    "BuffDescriptionMap": {
-      "size": 4
-    },
+    "BuffDescriptionMap": [
+      {
+        "Key": 0,
+        "Value": 200
+      },
+      {
+        "Key": 1,
+        "Value": 0
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      },
+      {
+        "Key": 3,
+        "Value": 0
+      }
+    ],
     "Cost": 10,
     "RewardId": 4302,
-    "QualityDropWeight": {
-      "size": 4
-    }
+    "QualityDropWeight": [
+      {
+        "Key": 5,
+        "Value": 0
+      },
+      {
+        "Key": 4,
+        "Value": 0
+      },
+      {
+        "Key": 3,
+        "Value": 0
+      },
+      {
+        "Key": 2,
+        "Value": 100
+      }
+    ]
   },
   {
     "Level": 3,
@@ -44,14 +104,44 @@
     "BuffDescription": "",
     "LevelUpDescription": "CalabashLevel_3_LevelUpDescription",
     "QualityDescription": "CalabashLevel_2_QualityDescription",
-    "BuffDescriptionMap": {
-      "size": 4
-    },
+    "BuffDescriptionMap": [
+      {
+        "Key": 0,
+        "Value": 300
+      },
+      {
+        "Key": 1,
+        "Value": 0
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      },
+      {
+        "Key": 3,
+        "Value": 0
+      }
+    ],
     "Cost": 10,
     "RewardId": 4303,
-    "QualityDropWeight": {
-      "size": 4
-    }
+    "QualityDropWeight": [
+      {
+        "Key": 5,
+        "Value": 0
+      },
+      {
+        "Key": 4,
+        "Value": 0
+      },
+      {
+        "Key": 3,
+        "Value": 0
+      },
+      {
+        "Key": 2,
+        "Value": 100
+      }
+    ]
   },
   {
     "Level": 4,
@@ -62,14 +152,44 @@
     "BuffDescription": "",
     "LevelUpDescription": "CalabashLevel_4_LevelUpDescription",
     "QualityDescription": "CalabashLevel_2_QualityDescription",
-    "BuffDescriptionMap": {
-      "size": 4
-    },
+    "BuffDescriptionMap": [
+      {
+        "Key": 0,
+        "Value": 400
+      },
+      {
+        "Key": 1,
+        "Value": 0
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      },
+      {
+        "Key": 3,
+        "Value": 0
+      }
+    ],
     "Cost": 10,
     "RewardId": 4304,
-    "QualityDropWeight": {
-      "size": 4
-    }
+    "QualityDropWeight": [
+      {
+        "Key": 5,
+        "Value": 0
+      },
+      {
+        "Key": 4,
+        "Value": 0
+      },
+      {
+        "Key": 3,
+        "Value": 0
+      },
+      {
+        "Key": 2,
+        "Value": 100
+      }
+    ]
   },
   {
     "Level": 5,
@@ -80,14 +200,44 @@
     "BuffDescription": "",
     "LevelUpDescription": "CalabashLevel_5_LevelUpDescription",
     "QualityDescription": "CalabashLevel_3_QualityDescription",
-    "BuffDescriptionMap": {
-      "size": 4
-    },
+    "BuffDescriptionMap": [
+      {
+        "Key": 0,
+        "Value": 500
+      },
+      {
+        "Key": 1,
+        "Value": 0
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      },
+      {
+        "Key": 3,
+        "Value": 0
+      }
+    ],
     "Cost": 10,
     "RewardId": 4305,
-    "QualityDropWeight": {
-      "size": 4
-    }
+    "QualityDropWeight": [
+      {
+        "Key": 5,
+        "Value": 0
+      },
+      {
+        "Key": 4,
+        "Value": 0
+      },
+      {
+        "Key": 3,
+        "Value": 30
+      },
+      {
+        "Key": 2,
+        "Value": 70
+      }
+    ]
   },
   {
     "Level": 6,
@@ -98,14 +248,44 @@
     "BuffDescription": "",
     "LevelUpDescription": "CalabashLevel_6_LevelUpDescription",
     "QualityDescription": "CalabashLevel_3_QualityDescription",
-    "BuffDescriptionMap": {
-      "size": 4
-    },
+    "BuffDescriptionMap": [
+      {
+        "Key": 0,
+        "Value": 600
+      },
+      {
+        "Key": 1,
+        "Value": 0
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      },
+      {
+        "Key": 3,
+        "Value": 0
+      }
+    ],
     "Cost": 10,
     "RewardId": 4306,
-    "QualityDropWeight": {
-      "size": 4
-    }
+    "QualityDropWeight": [
+      {
+        "Key": 5,
+        "Value": 0
+      },
+      {
+        "Key": 4,
+        "Value": 0
+      },
+      {
+        "Key": 3,
+        "Value": 50
+      },
+      {
+        "Key": 2,
+        "Value": 50
+      }
+    ]
   },
   {
     "Level": 7,
@@ -116,14 +296,44 @@
     "BuffDescription": "",
     "LevelUpDescription": "CalabashLevel_7_LevelUpDescription",
     "QualityDescription": "CalabashLevel_3_QualityDescription",
-    "BuffDescriptionMap": {
-      "size": 4
-    },
+    "BuffDescriptionMap": [
+      {
+        "Key": 0,
+        "Value": 700
+      },
+      {
+        "Key": 1,
+        "Value": 0
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      },
+      {
+        "Key": 3,
+        "Value": 0
+      }
+    ],
     "Cost": 10,
     "RewardId": 4307,
-    "QualityDropWeight": {
-      "size": 4
-    }
+    "QualityDropWeight": [
+      {
+        "Key": 5,
+        "Value": 0
+      },
+      {
+        "Key": 4,
+        "Value": 0
+      },
+      {
+        "Key": 3,
+        "Value": 80
+      },
+      {
+        "Key": 2,
+        "Value": 20
+      }
+    ]
   },
   {
     "Level": 8,
@@ -134,14 +344,44 @@
     "BuffDescription": "",
     "LevelUpDescription": "CalabashLevel_8_LevelUpDescription",
     "QualityDescription": "CalabashLevel_4_QualityDescription",
-    "BuffDescriptionMap": {
-      "size": 4
-    },
+    "BuffDescriptionMap": [
+      {
+        "Key": 0,
+        "Value": 800
+      },
+      {
+        "Key": 1,
+        "Value": 0
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      },
+      {
+        "Key": 3,
+        "Value": 0
+      }
+    ],
     "Cost": 10,
     "RewardId": 4308,
-    "QualityDropWeight": {
-      "size": 4
-    }
+    "QualityDropWeight": [
+      {
+        "Key": 5,
+        "Value": 0
+      },
+      {
+        "Key": 4,
+        "Value": 30
+      },
+      {
+        "Key": 3,
+        "Value": 70
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      }
+    ]
   },
   {
     "Level": 9,
@@ -152,14 +392,44 @@
     "BuffDescription": "",
     "LevelUpDescription": "CalabashLevel_9_LevelUpDescription",
     "QualityDescription": "CalabashLevel_4_QualityDescription",
-    "BuffDescriptionMap": {
-      "size": 4
-    },
+    "BuffDescriptionMap": [
+      {
+        "Key": 0,
+        "Value": 900
+      },
+      {
+        "Key": 1,
+        "Value": 0
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      },
+      {
+        "Key": 3,
+        "Value": 0
+      }
+    ],
     "Cost": 12,
     "RewardId": 4309,
-    "QualityDropWeight": {
-      "size": 4
-    }
+    "QualityDropWeight": [
+      {
+        "Key": 5,
+        "Value": 0
+      },
+      {
+        "Key": 4,
+        "Value": 30
+      },
+      {
+        "Key": 3,
+        "Value": 70
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      }
+    ]
   },
   {
     "Level": 10,
@@ -170,14 +440,44 @@
     "BuffDescription": "",
     "LevelUpDescription": "CalabashLevel_10_LevelUpDescription",
     "QualityDescription": "CalabashLevel_4_QualityDescription",
-    "BuffDescriptionMap": {
-      "size": 4
-    },
+    "BuffDescriptionMap": [
+      {
+        "Key": 0,
+        "Value": 1000
+      },
+      {
+        "Key": 1,
+        "Value": 0
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      },
+      {
+        "Key": 3,
+        "Value": 0
+      }
+    ],
     "Cost": 12,
     "RewardId": 4310,
-    "QualityDropWeight": {
-      "size": 4
-    }
+    "QualityDropWeight": [
+      {
+        "Key": 5,
+        "Value": 0
+      },
+      {
+        "Key": 4,
+        "Value": 30
+      },
+      {
+        "Key": 3,
+        "Value": 70
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      }
+    ]
   },
   {
     "Level": 11,
@@ -188,14 +488,44 @@
     "BuffDescription": "",
     "LevelUpDescription": "CalabashLevel_11_LevelUpDescription",
     "QualityDescription": "CalabashLevel_4_QualityDescription",
-    "BuffDescriptionMap": {
-      "size": 4
-    },
+    "BuffDescriptionMap": [
+      {
+        "Key": 0,
+        "Value": 1000
+      },
+      {
+        "Key": 1,
+        "Value": 50
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      },
+      {
+        "Key": 3,
+        "Value": 0
+      }
+    ],
     "Cost": 12,
     "RewardId": 4311,
-    "QualityDropWeight": {
-      "size": 4
-    }
+    "QualityDropWeight": [
+      {
+        "Key": 5,
+        "Value": 0
+      },
+      {
+        "Key": 4,
+        "Value": 50
+      },
+      {
+        "Key": 3,
+        "Value": 50
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      }
+    ]
   },
   {
     "Level": 12,
@@ -206,14 +536,44 @@
     "BuffDescription": "",
     "LevelUpDescription": "CalabashLevel_12_LevelUpDescription",
     "QualityDescription": "CalabashLevel_4_QualityDescription",
-    "BuffDescriptionMap": {
-      "size": 4
-    },
+    "BuffDescriptionMap": [
+      {
+        "Key": 0,
+        "Value": 1000
+      },
+      {
+        "Key": 1,
+        "Value": 100
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      },
+      {
+        "Key": 3,
+        "Value": 0
+      }
+    ],
     "Cost": 12,
     "RewardId": 4312,
-    "QualityDropWeight": {
-      "size": 4
-    }
+    "QualityDropWeight": [
+      {
+        "Key": 5,
+        "Value": 0
+      },
+      {
+        "Key": 4,
+        "Value": 50
+      },
+      {
+        "Key": 3,
+        "Value": 50
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      }
+    ]
   },
   {
     "Level": 13,
@@ -224,14 +584,44 @@
     "BuffDescription": "",
     "LevelUpDescription": "CalabashLevel_13_LevelUpDescription",
     "QualityDescription": "CalabashLevel_4_QualityDescription",
-    "BuffDescriptionMap": {
-      "size": 4
-    },
+    "BuffDescriptionMap": [
+      {
+        "Key": 0,
+        "Value": 1000
+      },
+      {
+        "Key": 1,
+        "Value": 150
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      },
+      {
+        "Key": 3,
+        "Value": 0
+      }
+    ],
     "Cost": 12,
     "RewardId": 4313,
-    "QualityDropWeight": {
-      "size": 4
-    }
+    "QualityDropWeight": [
+      {
+        "Key": 5,
+        "Value": 0
+      },
+      {
+        "Key": 4,
+        "Value": 75
+      },
+      {
+        "Key": 3,
+        "Value": 25
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      }
+    ]
   },
   {
     "Level": 14,
@@ -242,14 +632,44 @@
     "BuffDescription": "",
     "LevelUpDescription": "CalabashLevel_14_LevelUpDescription",
     "QualityDescription": "CalabashLevel_4_QualityDescription",
-    "BuffDescriptionMap": {
-      "size": 4
-    },
+    "BuffDescriptionMap": [
+      {
+        "Key": 0,
+        "Value": 1000
+      },
+      {
+        "Key": 1,
+        "Value": 200
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      },
+      {
+        "Key": 3,
+        "Value": 0
+      }
+    ],
     "Cost": 12,
     "RewardId": 4314,
-    "QualityDropWeight": {
-      "size": 4
-    }
+    "QualityDropWeight": [
+      {
+        "Key": 5,
+        "Value": 0
+      },
+      {
+        "Key": 4,
+        "Value": 75
+      },
+      {
+        "Key": 3,
+        "Value": 25
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      }
+    ]
   },
   {
     "Level": 15,
@@ -260,14 +680,44 @@
     "BuffDescription": "",
     "LevelUpDescription": "CalabashLevel_15_LevelUpDescription",
     "QualityDescription": "CalabashLevel_5_QualityDescription",
-    "BuffDescriptionMap": {
-      "size": 4
-    },
+    "BuffDescriptionMap": [
+      {
+        "Key": 0,
+        "Value": 1000
+      },
+      {
+        "Key": 1,
+        "Value": 250
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      },
+      {
+        "Key": 3,
+        "Value": 0
+      }
+    ],
     "Cost": 12,
     "RewardId": 4315,
-    "QualityDropWeight": {
-      "size": 4
-    }
+    "QualityDropWeight": [
+      {
+        "Key": 5,
+        "Value": 30
+      },
+      {
+        "Key": 4,
+        "Value": 70
+      },
+      {
+        "Key": 3,
+        "Value": 0
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      }
+    ]
   },
   {
     "Level": 16,
@@ -278,14 +728,44 @@
     "BuffDescription": "",
     "LevelUpDescription": "CalabashLevel_16_LevelUpDescription",
     "QualityDescription": "CalabashLevel_5_QualityDescription",
-    "BuffDescriptionMap": {
-      "size": 4
-    },
+    "BuffDescriptionMap": [
+      {
+        "Key": 0,
+        "Value": 1000
+      },
+      {
+        "Key": 1,
+        "Value": 300
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      },
+      {
+        "Key": 3,
+        "Value": 0
+      }
+    ],
     "Cost": 12,
     "RewardId": 4316,
-    "QualityDropWeight": {
-      "size": 4
-    }
+    "QualityDropWeight": [
+      {
+        "Key": 5,
+        "Value": 30
+      },
+      {
+        "Key": 4,
+        "Value": 70
+      },
+      {
+        "Key": 3,
+        "Value": 0
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      }
+    ]
   },
   {
     "Level": 17,
@@ -296,14 +776,44 @@
     "BuffDescription": "",
     "LevelUpDescription": "CalabashLevel_17_LevelUpDescription",
     "QualityDescription": "CalabashLevel_5_QualityDescription",
-    "BuffDescriptionMap": {
-      "size": 4
-    },
+    "BuffDescriptionMap": [
+      {
+        "Key": 0,
+        "Value": 1000
+      },
+      {
+        "Key": 1,
+        "Value": 350
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      },
+      {
+        "Key": 3,
+        "Value": 0
+      }
+    ],
     "Cost": 12,
     "RewardId": 4317,
-    "QualityDropWeight": {
-      "size": 4
-    }
+    "QualityDropWeight": [
+      {
+        "Key": 5,
+        "Value": 50
+      },
+      {
+        "Key": 4,
+        "Value": 50
+      },
+      {
+        "Key": 3,
+        "Value": 0
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      }
+    ]
   },
   {
     "Level": 18,
@@ -314,14 +824,44 @@
     "BuffDescription": "",
     "LevelUpDescription": "CalabashLevel_18_LevelUpDescription",
     "QualityDescription": "CalabashLevel_5_QualityDescription",
-    "BuffDescriptionMap": {
-      "size": 4
-    },
+    "BuffDescriptionMap": [
+      {
+        "Key": 0,
+        "Value": 1000
+      },
+      {
+        "Key": 1,
+        "Value": 400
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      },
+      {
+        "Key": 3,
+        "Value": 0
+      }
+    ],
     "Cost": 12,
     "RewardId": 4318,
-    "QualityDropWeight": {
-      "size": 4
-    }
+    "QualityDropWeight": [
+      {
+        "Key": 5,
+        "Value": 50
+      },
+      {
+        "Key": 4,
+        "Value": 50
+      },
+      {
+        "Key": 3,
+        "Value": 0
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      }
+    ]
   },
   {
     "Level": 19,
@@ -332,14 +872,44 @@
     "BuffDescription": "",
     "LevelUpDescription": "CalabashLevel_19_LevelUpDescription",
     "QualityDescription": "CalabashLevel_5_QualityDescription",
-    "BuffDescriptionMap": {
-      "size": 4
-    },
+    "BuffDescriptionMap": [
+      {
+        "Key": 0,
+        "Value": 1000
+      },
+      {
+        "Key": 1,
+        "Value": 450
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      },
+      {
+        "Key": 3,
+        "Value": 0
+      }
+    ],
     "Cost": 12,
     "RewardId": 4319,
-    "QualityDropWeight": {
-      "size": 4
-    }
+    "QualityDropWeight": [
+      {
+        "Key": 5,
+        "Value": 80
+      },
+      {
+        "Key": 4,
+        "Value": 20
+      },
+      {
+        "Key": 3,
+        "Value": 0
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      }
+    ]
   },
   {
     "Level": 20,
@@ -350,14 +920,44 @@
     "BuffDescription": "",
     "LevelUpDescription": "CalabashLevel_20_LevelUpDescription",
     "QualityDescription": "CalabashLevel_5_QualityDescription",
-    "BuffDescriptionMap": {
-      "size": 4
-    },
+    "BuffDescriptionMap": [
+      {
+        "Key": 0,
+        "Value": 1000
+      },
+      {
+        "Key": 1,
+        "Value": 500
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      },
+      {
+        "Key": 3,
+        "Value": 0
+      }
+    ],
     "Cost": 12,
     "RewardId": 4320,
-    "QualityDropWeight": {
-      "size": 4
-    }
+    "QualityDropWeight": [
+      {
+        "Key": 5,
+        "Value": 80
+      },
+      {
+        "Key": 4,
+        "Value": 20
+      },
+      {
+        "Key": 3,
+        "Value": 0
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      }
+    ]
   },
   {
     "Level": 0,
@@ -368,13 +968,43 @@
     "BuffDescription": "",
     "LevelUpDescription": "",
     "QualityDescription": "CalabashLevel_2_QualityDescription",
-    "BuffDescriptionMap": {
-      "size": 4
-    },
+    "BuffDescriptionMap": [
+      {
+        "Key": 0,
+        "Value": 100
+      },
+      {
+        "Key": 1,
+        "Value": 0
+      },
+      {
+        "Key": 2,
+        "Value": 0
+      },
+      {
+        "Key": 3,
+        "Value": 0
+      }
+    ],
     "Cost": 8,
     "RewardId": 0,
-    "QualityDropWeight": {
-      "size": 4
-    }
+    "QualityDropWeight": [
+      {
+        "Key": 5,
+        "Value": 0
+      },
+      {
+        "Key": 4,
+        "Value": 0
+      },
+      {
+        "Key": 3,
+        "Value": 0
+      },
+      {
+        "Key": 2,
+        "Value": 100
+      }
+    ]
   }
 ]

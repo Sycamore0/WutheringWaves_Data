@@ -6,9 +6,12 @@
     "Desc": "MapNote_2_Desc",
     "Priority": 1,
     "Rank": 1,
-    "MarkIdMap": {
-      "size": 1
-    },
+    "MarkIdMap": [
+      {
+        "Key": 1,
+        "Value": 3000
+      }
+    ],
     "MarkId": [],
     "ConditionId": 0,
     "QuestIdList": []
@@ -20,9 +23,12 @@
     "Desc": "MapNote_3_Desc",
     "Priority": 2,
     "Rank": 2,
-    "MarkIdMap": {
-      "size": 1
-    },
+    "MarkIdMap": [
+      {
+        "Key": 1,
+        "Value": 301203
+      }
+    ],
     "MarkId": [],
     "ConditionId": 0,
     "QuestIdList": []
@@ -34,9 +40,7 @@
     "Desc": "WorldLevelUpgradeNotice_Mapnote",
     "Priority": 3,
     "Rank": 3,
-    "MarkIdMap": {
-      "size": 0
-    },
+    "MarkIdMap": [],
     "MarkId": [],
     "ConditionId": 0,
     "QuestIdList": [880000001, 880000002, 880000003]
@@ -48,9 +52,12 @@
     "Desc": "HuangLongExploreLevelReward_Text",
     "Priority": 4,
     "Rank": 4,
-    "MarkIdMap": {
-      "size": 1
-    },
+    "MarkIdMap": [
+      {
+        "Key": 1,
+        "Value": 3
+      }
+    ],
     "MarkId": [],
     "ConditionId": 0,
     "QuestIdList": []
@@ -62,9 +69,7 @@
     "Desc": "MapNote_LordGym_Desc",
     "Priority": 4,
     "Rank": 4,
-    "MarkIdMap": {
-      "size": 0
-    },
+    "MarkIdMap": [],
     "MarkId": [],
     "ConditionId": 0,
     "QuestIdList": []

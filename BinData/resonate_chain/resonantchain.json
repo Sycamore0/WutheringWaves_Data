@@ -10,9 +10,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1402901001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001402,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["15%", "8"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_YangyangM1_UI.T_IconDevice_YangyangM1_UI"
   },
@@ -27,9 +30,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1402902001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001402,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["10", "20"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_YangyangM2_UI.T_IconDevice_YangyangM2_UI"
   },
@@ -44,9 +50,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1402903001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001402,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["40%", "33%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_YangyangM3_UI.T_IconDevice_YangyangM3_UI"
   },
@@ -61,9 +70,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1402904001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001402,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["95%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_YangyangM4_UI.T_IconDevice_YangyangM4_UI"
   },
@@ -78,9 +90,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1402905001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001402,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["85%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_YangyangM5_UI.T_IconDevice_YangyangM5_UI"
   },
@@ -95,9 +110,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1402906001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001402,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["20%", "20"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_YangyangM6_UI.T_IconDevice_YangyangM6_UI"
   },
@@ -112,9 +130,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1202951013"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001202,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": [],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_MaxiaofangM1_UI.T_IconDevice_MaxiaofangM1_UI"
   },
@@ -129,9 +150,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1202951019"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001202,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["1", "5", "20"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_MaxiaofangM2_UI.T_IconDevice_MaxiaofangM2_UI"
   },
@@ -146,9 +170,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1202951022"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001202,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["50%", "40%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_MaxiaofangM3_UI.T_IconDevice_MaxiaofangM3_UI"
   },
@@ -163,9 +190,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1202951016"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001202,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["60"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_MaxiaofangM4_UI.T_IconDevice_MaxiaofangM4_UI"
   },
@@ -180,9 +210,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1202951025"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001202,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["30%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_MaxiaofangM5_UI.T_IconDevice_MaxiaofangM5_UI"
   },
@@ -197,9 +230,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1202952001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001202,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["25%", "15"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_MaxiaofangM6_UI.T_IconDevice_MaxiaofangM6_UI"
   },
@@ -214,9 +250,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1503901001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001503,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["5", "20%", "30"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_weilinaiM1_UI.T_IconDevice_weilinaiM1_UI"
   },
@@ -231,9 +270,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1503902001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001503,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["1", "10"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_weilinaiM2_UI.T_IconDevice_weilinaiM2_UI"
   },
@@ -248,9 +290,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1503903001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001503,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["12%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_weilinaiM3_UI.T_IconDevice_weilinaiM3_UI"
   },
@@ -265,9 +310,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1503904001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001503,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["15%", "24"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_weilinaiM4_UI.T_IconDevice_weilinaiM4_UI"
   },
@@ -282,9 +330,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1503905001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001503,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["50%", "20%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_weilinaiM5_UI.T_IconDevice_weilinaiM5_UI"
   },
@@ -299,9 +350,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1503906001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001503,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["20%", "1"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_weilinaiM6_UI.T_IconDevice_weilinaiM6_UI"
   },
@@ -316,9 +370,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1102901001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001102,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["15%", "10"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_SanhuaM1_UI.T_IconDevice_SanhuaM1_UI"
   },
@@ -333,9 +390,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1102902001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001102,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["10", "5"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_SanhuaM2_UI.T_IconDevice_SanhuaM2_UI"
   },
@@ -350,9 +410,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1102903001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001102,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["70%", "35%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_SanhuaM3_UI.T_IconDevice_SanhuaM3_UI"
   },
@@ -367,9 +430,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1102904001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001102,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["10", "5", "120%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_SanhuaM4_UI.T_IconDevice_SanhuaM4_UI"
   },
@@ -384,9 +450,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1102905001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001102,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["100%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_SanhuaM5_UI.T_IconDevice_SanhuaM5_UI"
   },
@@ -401,9 +470,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1102906001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001102,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["10%", "20", "2"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_SanhuaM6_UI.T_IconDevice_SanhuaM6_UI"
   },
@@ -418,9 +490,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1103901001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001103,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["1", "2.5"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_BailianM1_UI.T_IconDevice_BailianM1_UI"
   },
@@ -435,9 +510,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1103902001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001103,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["4", "15%", "15%", "12"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_BailianM2_UI.T_IconDevice_BailianM2_UI"
   },
@@ -452,9 +530,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1103903001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001103,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["12%", "10"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_BailianM3_UI.T_IconDevice_BailianM3_UI"
   },
@@ -469,9 +550,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1103904001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001103,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["2", "20%", "1.20%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_BailianM4_UI.T_IconDevice_BailianM4_UI"
   },
@@ -486,9 +570,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1103905001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001103,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["100%", "10"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_BailianM5_UI.T_IconDevice_BailianM5_UI"
   },
@@ -503,9 +590,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1103906001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001103,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["12%", "20"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_BailianM6_UI.T_IconDevice_BailianM6_UI"
   },
@@ -520,9 +610,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1502901001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001500,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["15%", "7"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_nannvzhuM1_UI.T_IconDevice_nannvzhuM1_UI"
   },
@@ -537,9 +630,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1502902001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001500,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["20%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_nannvzhuM2_UI.T_IconDevice_nannvzhuM2_UI"
   },
@@ -554,9 +650,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1502903001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001500,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["20%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_nannvzhuM3_UI.T_IconDevice_nannvzhuM3_UI"
   },
@@ -571,9 +670,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1502904001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001500,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["20%", "5"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_nannvzhuM4_UI.T_IconDevice_nannvzhuM4_UI"
   },
@@ -588,9 +690,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1502905001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001500,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["40%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_nannvzhuM5_UI.T_IconDevice_nannvzhuM5_UI"
   },
@@ -605,9 +710,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1502906001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001500,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["10%", "20"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_nannvzhuM6_UI.T_IconDevice_nannvzhuM6_UI"
   },
@@ -622,9 +730,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1602310501"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001602,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["5%", "6", "6", "1"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_micaiM1_UI.T_IconDevice_micaiM1_UI"
   },
@@ -639,9 +750,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1602310301"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001602,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["20%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_micaiM2_UI.T_IconDevice_micaiM2_UI"
   },
@@ -656,9 +770,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1602310403"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001602,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["30%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_micaiM3_UI.T_IconDevice_micaiM3_UI"
   },
@@ -673,9 +790,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1602310504"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001602,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["60", "15%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_micaiM4_UI.T_IconDevice_micaiM4_UI"
   },
@@ -690,9 +810,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1602310604"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001602,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["15%", "60%", "15%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_micaiM5_UI.T_IconDevice_micaiM5_UI"
   },
@@ -707,9 +830,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1602310701"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001602,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["20%", "20"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_micaiM6_UI.T_IconDevice_micaiM6_UI"
   },
@@ -724,9 +850,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1203901001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001203,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["3%", "4", "6"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_AnkeM1_UI.T_IconDevice_AnkeM1_UI"
   },
@@ -741,9 +870,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1203902001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001203,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["10", "10"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_AnkeM2_UI.T_IconDevice_AnkeM2_UI"
   },
@@ -758,9 +890,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1203903001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001203,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["40%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_AnkeM3_UI.T_IconDevice_AnkeM3_UI"
   },
@@ -775,9 +910,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1203904001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001203,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["20%", "30"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_AnkeM4_UI.T_IconDevice_AnkeM4_UI"
   },
@@ -792,9 +930,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1203905001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001203,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["35%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_AnkeM5_UI.T_IconDevice_AnkeM5_UI"
   },
@@ -809,9 +950,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1203906001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001203,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["1", "5%", "10", "5"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_AnkeM6_UI.T_IconDevice_AnkeM6_UI"
   },
@@ -826,9 +970,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1601901001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001601,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["40%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_TaohuaM1_UI.T_IconDevice_TaohuaM1_UI"
   },
@@ -843,9 +990,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1601906001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001601,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["20%", "20%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_TaohuaM2_UI.T_IconDevice_TaohuaM2_UI"
   },
@@ -860,9 +1010,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1601902001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001601,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["30"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_TaohuaM3_UI.T_IconDevice_TaohuaM3_UI"
   },
@@ -877,9 +1030,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1601903001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001601,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["25%", "50%", "5", "15"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_TaohuaM4_UI.T_IconDevice_TaohuaM4_UI"
   },
@@ -894,9 +1050,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1601905001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001601,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["50%", "20"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_TaohuaM5_UI.T_IconDevice_TaohuaM5_UI"
   },
@@ -911,9 +1070,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1601904001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001601,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["40%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_TaohuaM6_UI.T_IconDevice_TaohuaM6_UI"
   },
@@ -928,9 +1090,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1204010001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001204,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["2"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_MotefeiM1_UI.T_IconDevice_MotefeiM1_UI"
   },
@@ -945,9 +1110,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1204020001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001204,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["10", "20"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_MotefeiM2_UI.T_IconDevice_MotefeiM2_UI"
   },
@@ -962,9 +1130,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1204030001", "1204030002"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001204,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["30%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_MotefeiM3_UI.T_IconDevice_MotefeiM3_UI"
   },
@@ -979,9 +1150,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1204040001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001204,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["7"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_MotefeiM4_UI.T_IconDevice_MotefeiM4_UI"
   },
@@ -996,9 +1170,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1204050001", "1204050002"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001204,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["4", "50%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_MotefeiM5_UI.T_IconDevice_MotefeiM5_UI"
   },
@@ -1013,9 +1190,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1204060001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001204,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["20%", "20"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_MotefeiM6_UI.T_IconDevice_MotefeiM6_UI"
   },
@@ -1030,9 +1210,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1404901001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001404,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["1", "15"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_JiyanM1_UI.T_IconDevice_JiyanM1_UI"
   },
@@ -1047,9 +1230,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1404902001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001404,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["30", "28%", "15", "15"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_JiyanM2_UI.T_IconDevice_JiyanM2_UI"
   },
@@ -1064,9 +1250,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1404903001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001404,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["16%", "32%", "8"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_JiyanM3_UI.T_IconDevice_JiyanM3_UI"
   },
@@ -1081,9 +1270,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1404904001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001404,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["25%", "30"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_JiyanM4_UI.T_IconDevice_JiyanM4_UI"
   },
@@ -1098,9 +1290,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1404905001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001404,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["120%", "3%", "8", "15"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_JiyanM5_UI.T_IconDevice_JiyanM5_UI"
   },
@@ -1115,9 +1310,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1404906001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001404,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["1", "2", "120%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_JiyanM6_UI.T_IconDevice_JiyanM6_UI"
   },
@@ -1132,9 +1330,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1403902001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001403,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["4"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_QiushuiM1_UI.T_IconDevice_QiushuiM2_UI"
   },
@@ -1149,9 +1350,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1403901001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001403,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["100%", "15%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_QiushuiM2_UI.T_IconDevice_QiushuiM1_UI"
   },
@@ -1166,9 +1370,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1403903001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001403,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["50%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_QiushuiM3_UI.T_IconDevice_QiushuiM3_UI"
   },
@@ -1183,9 +1390,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1403904001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001403,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["30%", "30%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_QiushuiM4_UI.T_IconDevice_QiushuiM4_UI"
   },
@@ -1200,9 +1410,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1403905001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001403,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["25%", "6"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_QiushuiM5_UI.T_IconDevice_QiushuiM5_UI"
   },
@@ -1217,9 +1430,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1403906001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001403,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["8%", "50%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_QiushuiM6_UI.T_IconDevice_QiushuiM6_UI"
   },
@@ -1234,9 +1450,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1301600001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001301,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["10", "20"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_KakaluoM1_UI.T_IconDevice_KakaluoM1_UI"
   },
@@ -1251,9 +1470,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1301600003"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001301,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["30%", "15"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_KakaluoM2_UI.T_IconDevice_KakaluoM2_UI"
   },
@@ -1268,9 +1490,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1301600004"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001301,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["25%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_KakaluoM3_UI.T_IconDevice_KakaluoM3_UI"
   },
@@ -1285,9 +1510,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1301600006"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001301,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["20%", "30"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_KakaluoM4_UI.T_IconDevice_KakaluoM4_UI"
   },
@@ -1302,9 +1530,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1301600008"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001301,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["50%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_KakaluoM5_UI.T_IconDevice_KakaluoM5_UI"
   },
@@ -1319,9 +1550,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1301600010"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001301,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["2", "100.00%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_KakaluoM6_UI.T_IconDevice_KakaluoM6_UI"
   },
@@ -1336,9 +1570,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1302901001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001302,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["70%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_YinlinM1_UI.T_IconDevice_YinlinM1_UI"
   },
@@ -1353,9 +1590,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1302902001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001302,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["100%", "5", "5"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_YinlinM2_UI.T_IconDevice_YinlinM2_UI"
   },
@@ -1370,9 +1610,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1302903001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001302,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["55%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_YinlinM3_UI.T_IconDevice_YinlinM3_UI"
   },
@@ -1387,9 +1630,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1302904001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001302,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["20%", "12"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_YinlinM4_UI.T_IconDevice_YinlinM4_UI"
   },
@@ -1404,9 +1650,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1302905001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001302,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["100%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_YinlinM5_UI.T_IconDevice_YinlinM5_UI"
   },
@@ -1421,9 +1670,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1302906001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001302,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["10"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_YinlinM6_UI.T_IconDevice_YinlinM6_UI"
   },
@@ -1438,9 +1690,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1303700001", "1303700002", "1303700003"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001303,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["20%", "20%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_YuanwuM1_UI.T_IconDevice_YuanwuM1_UI"
   },
@@ -1455,9 +1710,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1303700702"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001303,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["15"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_YuanwuM2_UI.T_IconDevice_YuanwuM2_UI"
   },
@@ -1472,9 +1730,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1303700703"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001303,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["20%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_YuanwuM3_UI.T_IconDevice_YuanwuM3_UI"
   },
@@ -1489,9 +1750,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1303700004"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001303,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["200%", "10"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_YuanwuM4_UI.T_IconDevice_YuanwuM4_UI"
   },
@@ -1506,9 +1770,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1303700005"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001303,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["50%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_YuanwuM5_UI.T_IconDevice_YuanwuM5_UI"
   },
@@ -1523,9 +1790,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1303700006"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001303,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["32%", "3"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_YuanwuM6_UI.T_IconDevice_YuanwuM6_UI"
   },
@@ -1540,9 +1810,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1104001001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001104,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": [],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_LingyangM1_UI.T_IconDevice_LingyangM1_UI"
   },
@@ -1557,9 +1830,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1104002001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001104,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["10", "20"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_LingyangM2_UI.T_IconDevice_LingyangM2_UI"
   },
@@ -1574,9 +1850,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1104003001", "1104003002"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001104,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["20%", "10%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_LingyangM3_UI.T_IconDevice_LingyangM3_UI"
   },
@@ -1591,9 +1870,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1104004001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001104,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["20%", "30"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_LingyangM4_UI.T_IconDevice_LingyangM4_UI"
   },
@@ -1608,9 +1890,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1104005001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001104,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["200%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_LingyangM5_UI.T_IconDevice_LingyangM5_UI"
   },
@@ -1625,9 +1910,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1104006001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001104,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["3", "100%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_LingyangM6_UI.T_IconDevice_LingyangM6_UI"
   },
@@ -1642,9 +1930,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1604004000"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001604,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["30%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_ZhujueDarkM1_UI.T_IconDevice_ZhujueDarkM1_UI"
   },
@@ -1659,9 +1950,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1604005000"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001604,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": [],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_ZhujueDarkM2_UI.T_IconDevice_ZhujueDarkM2_UI"
   },
@@ -1676,9 +1970,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1604006000"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001604,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["10%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_ZhujueDarkM3_UI.T_IconDevice_ZhujueDarkM3_UI"
   },
@@ -1693,9 +1990,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1604007000"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001604,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["10%", "20"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_ZhujueDarkM4_UI.T_IconDevice_ZhujueDarkM4_UI"
   },
@@ -1710,9 +2010,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1604008000"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001604,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["50%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_ZhujueDarkM5_UI.T_IconDevice_ZhujueDarkM5_UI"
   },
@@ -1727,9 +2030,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1604009000"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001604,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["25%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_ZhujueDarkM6_UI.T_IconDevice_ZhujueDarkM6_UI"
   },
@@ -1744,9 +2050,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1405010001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001405,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["100%", "10"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_JianxinM1_UI.T_IconDevice_JianxinM1_UI"
   },
@@ -1761,9 +2070,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1405020001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001405,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["1"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_JianxinM2_UI.T_IconDevice_JianxinM2_UI"
   },
@@ -1778,9 +2090,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1405030001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001405,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["2.5"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_JianxinM3_UI.T_IconDevice_JianxinM3_UI"
   },
@@ -1795,9 +2110,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1405040001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001405,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["80%", "14"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_JianxinM4_UI.T_IconDevice_JianxinM4_UI"
   },
@@ -1812,9 +2130,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1405050001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001405,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["33%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_JianxinM5_UI.T_IconDevice_JianxinM5_UI"
   },
@@ -1829,9 +2150,12 @@
     "BgDescription": "PrefabTextItem_Empty_Text",
     "BuffIds": ["1405060001"],
     "AddProp": [],
-    "ActivateConsume": {
-      "size": 1
-    },
+    "ActivateConsume": [
+      {
+        "Key": 10001405,
+        "Value": 1
+      }
+    ],
     "AttributesDescriptionParams": ["5", "1", "556.67%"],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_JianxinM6_UI.T_IconDevice_JianxinM6_UI"
   }
