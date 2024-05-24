@@ -33,7 +33,7 @@
   },
   {
     "Id": "HotFixTipsTitle",
-    "Content": "Astuce"
+    "Content": "Notice."
   },
   {
     "Id": "HotFixQuit",
@@ -85,7 +85,7 @@
   },
   {
     "Id": "SplashCautionContent",
-    "Content": "Un petit nombre de personnes est susceptible de faire des crises d’épilepsie ou de perdre conscience lorsqu’exposées à certains types de lumières clignotantes ou de stimulations lumineuses. Ces personnes, ou même des personnes qui n’ont pas d’antécédent médical ou n’ont jamais eu de crises d’épilepsie, peuvent présenter des symptômes ou faire des crises épileptiques en jouant des jeux vidéo. \nSi vous ou l’un de vos proches, souffrez d’épilepsie ou avez déjà eu des crises de quelque nature que ce soit, consultez le médecin avant de jouer à un jeu vidéo. \nCESSEZ IMMÉDIATEMENT le jeu et consultez un médecin si vous ou votre proche présentez l’un des symptômes suivants : étourdissements, trouble de la vision, contraction des yeux ou des muscles, mouvements involontaires, perte de conscience, trouble de l’orientation ou convulsions."
+    "Content": "Certaines personnes sont susceptibles de faire des crises d'épilepsie ou d'avoir des pertes de conscience à la vue de certains types de lumières clignotantes ou d'éléments fréquents dans notre environnement quotidien. Ces personnes s'exposent à des crises lorsqu'elles regardent certaines images télévisées ou lorsqu'elles jouent à certains jeux vidéo. Ces phénomènes peuvent apparaître alors même que le sujet n'a pas d'antécédent médical ou n'a jamais été confronté à une crise d'épilepsie.\nSi vous-même ou un membre de votre famille avez déjà présenté des symptômes liés à l'épilepsie (crise ou perte de conscience) en présence de stimulations lumineuses, veuillez consulter votre médecin avant toute utilisation.\nNous conseillons aux parents d'être attentifs à leurs enfants lorsqu'ils jouent avec des jeux vidéo. Si vous-même ou votre enfant présentez un des symptômes suivants : vertige, trouble de la vision, contraction des yeux ou des muscles, perte de conscience, troubles de l'orientation, mouvement involontaire ou convulsion, veuillez immédiatement cesser de jouer et consulter un médecin."
   },
   {
     "Id": "SplashLoading",
@@ -93,11 +93,11 @@
   },
   {
     "Id": "SplashHealthyGamingAdvisory",
-    "Content": "\"Rejetez les jeux piratés. Protégez-vous contre les arnaques.\nProfitez des sessions et organisez votre temps de manière raisonnable.\nNous vous souhaitons bonheur et santé.\""
+    "Content": "Rejetez les jeux piratés. Protégez-vous contre les arnaques.\nProfitez des sessions et organisez votre temps de manière raisonnable.\nNous vous souhaitons bonheur et santé."
   },
   {
     "Id": "SplashCopyrightInformation",
-    "Content": "\"No. de Certificat: 国新出审〔2023〕1802号 ISBN 978-7-498-12761-7.\nPublié par 成都盈众九州网络科技有限公司\nCopyright : 广州库洛科技有限公司\""
+    "Content": "No. de Certificat: 国新出审〔2023〕1802号 ISBN 978-7-498-12761-7.\nPublié par 成都盈众九州网络科技有限公司\nCopyright : 广州库洛科技有限公司"
   },
   {
     "Id": "GetRemoteConfigFailed",
@@ -217,7 +217,7 @@
   },
   {
     "Id": "DownloadTitle",
-    "Content": "Téléchargement les ressources."
+    "Content": "Télécharger les ressources"
   },
   {
     "Id": "MobileDriverOutOfVersion",
@@ -225,7 +225,7 @@
   },
   {
     "Id": "DownloadContinue",
-    "Content": "Touchez la zone vide pour continuer."
+    "Content": "Tapez pour continuer"
   },
   {
     "Id": "PatchClear",
