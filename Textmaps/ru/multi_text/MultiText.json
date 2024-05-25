@@ -35025,7 +35025,7 @@
   },
   {
     "Id": "PhantomFetter_10_EffectDescription",
-    "Content": ""
+    "Content": "1"
   },
   {
     "Id": "PhantomFetter_11_EffectDescription",
@@ -38373,7 +38373,7 @@
   },
   {
     "Id": "ResonantChain_25_AttributesDescription",
-    "Content": ""
+    "Content": "<color=Highlight>"
   },
   {
     "Id": "ResonantChain_26_NodeName",
@@ -38381,7 +38381,7 @@
   },
   {
     "Id": "ResonantChain_26_AttributesDescription",
-    "Content": ""
+    "Content": "<color=Highlight></color>"
   },
   {
     "Id": "ResonantChain_27_NodeName",
@@ -44185,7 +44185,7 @@
   },
   {
     "Id": "Skill_1001707_SkillName",
-    "Content": "공명 회로"
+    "Content": ""
   },
   {
     "Id": "Skill_1001707_SkillDescribe",
@@ -81725,7 +81725,7 @@
   },
   {
     "Id": "BuyTextEnough",
-    "Content": ""
+    "Content": "<color=#e1ac68>"
   },
   {
     "Id": "BuyTextNotEnough",

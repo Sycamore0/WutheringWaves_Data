@@ -631,7 +631,7 @@
     "PhantomSkillId": 200020,
     "BuffIds": ["200020001", "1101013011"],
     "SettleIds": ["20002001"],
-    "BuffEffects": [],
+    "BuffEffects": ["1101013011"],
     "ChargeEfficiency": 0,
     "SkillGroupId": 200002,
     "SkillCD": 15,

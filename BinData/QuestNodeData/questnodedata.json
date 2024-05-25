@@ -143103,9 +143103,10 @@
       "TidTip": "Quest_140800000_ChildQuestTip_140_5",
       "TrackTarget": {
         "TrackType": {
-          "Type": "Locations",
-          "Locations": []
-        }
+          "Type": "Entities",
+          "EntityIds": [140800590]
+        },
+        "Range": 100
       },
       "EnterActions": [],
       "FinishActions": [
@@ -143142,7 +143143,6 @@
           "ActionId": 3000372
         }
       ],
-      "HideUi": true,
       "RewardId": 20803
     }
   },
