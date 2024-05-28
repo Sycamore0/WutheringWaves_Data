@@ -6076,8 +6076,7 @@
               "State": "关卡.Common.状态.完成"
             }
           ]
-        },
-        "ChangeRoleTrigger": true
+        }
       },
       "ModelComponent": {
         "Disabled": false,
@@ -6455,8 +6454,7 @@
               "State": "关卡.Common.状态.完成"
             }
           ]
-        },
-        "ChangeRoleTrigger": true
+        }
       },
       "ModelComponent": {
         "Disabled": false,
@@ -6824,8 +6822,7 @@
               "State": "关卡.Common.状态.完成"
             }
           ]
-        },
-        "ChangeRoleTrigger": true
+        }
       },
       "RangeComponent": {
         "Shape": {
@@ -7214,8 +7211,7 @@
               "State": "关卡.Common.状态.完成"
             }
           ]
-        },
-        "ChangeRoleTrigger": true
+        }
       },
       "ModelComponent": {
         "Disabled": false,
