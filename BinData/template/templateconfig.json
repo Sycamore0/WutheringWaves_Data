@@ -6050,7 +6050,7 @@
             "Y": 0,
             "Z": 0
           },
-          "Radius": 350
+          "Radius": 1500
         }
       },
       "TriggerComponent": {
@@ -6076,7 +6076,8 @@
               "State": "关卡.Common.状态.完成"
             }
           ]
-        }
+        },
+        "ChangeRoleTrigger": true
       },
       "ModelComponent": {
         "Disabled": false,
@@ -6428,7 +6429,7 @@
             "Y": 0,
             "Z": 0
           },
-          "Radius": 350
+          "Radius": 1500
         }
       },
       "TriggerComponent": {
@@ -6454,7 +6455,8 @@
               "State": "关卡.Common.状态.完成"
             }
           ]
-        }
+        },
+        "ChangeRoleTrigger": true
       },
       "ModelComponent": {
         "Disabled": false,
@@ -6822,7 +6824,8 @@
               "State": "关卡.Common.状态.完成"
             }
           ]
-        }
+        },
+        "ChangeRoleTrigger": true
       },
       "RangeComponent": {
         "Shape": {
@@ -6832,7 +6835,7 @@
             "Y": 0,
             "Z": 0
           },
-          "Radius": 350
+          "Radius": 1500
         }
       },
       "ModelComponent": {
@@ -7185,7 +7188,7 @@
             "Y": 0,
             "Z": 0
           },
-          "Radius": 350
+          "Radius": 1500
         }
       },
       "TriggerComponent": {
@@ -7211,7 +7214,8 @@
               "State": "关卡.Common.状态.完成"
             }
           ]
-        }
+        },
+        "ChangeRoleTrigger": true
       },
       "ModelComponent": {
         "Disabled": false,

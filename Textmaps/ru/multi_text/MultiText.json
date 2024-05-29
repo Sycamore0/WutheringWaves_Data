@@ -229534,5 +229534,37 @@
   {
     "Id": "LevelPlay_146000043_ReachChallengeMainText_146_1",
     "Content": ""
+  },
+  {
+    "Id": "Side_WGST_1_1",
+    "Content": ""
+  },
+  {
+    "Id": "Side_WGST_1_2",
+    "Content": ""
+  },
+  {
+    "Id": "Side_WGST_1_3",
+    "Content": ""
+  },
+  {
+    "Id": "Side_WGST_1_4",
+    "Content": ""
+  },
+  {
+    "Id": "Side_WGST_1_5",
+    "Content": ""
+  },
+  {
+    "Id": "Side_WGST_1_6",
+    "Content": ""
+  },
+  {
+    "Id": "Side_WGST_1_7",
+    "Content": ""
+  },
+  {
+    "Id": "Side_WGST_1_8",
+    "Content": ""
   }
 ]
