@@ -11,7 +11,7 @@
     "Id": 2,
     "PackageType": 0,
     "Language": ["all"],
-    "Channel": [18, 56],
+    "Channel": [18, 56, 46],
     "ShareId": 4,
     "Icon": "/Game/Aki/UI/UIResources/UiPhotograph/Atlas/SP_ShareIconWeChat.SP_ShareIconWeChat"
   },
@@ -19,7 +19,7 @@
     "Id": 3,
     "PackageType": 0,
     "Language": ["all"],
-    "Channel": [18, 56],
+    "Channel": [18, 56, 46],
     "ShareId": 5,
     "Icon": "/Game/Aki/UI/UIResources/UiPhotograph/Atlas/SP_ShareIconMoments.SP_ShareIconMoments"
   },

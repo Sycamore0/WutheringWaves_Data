@@ -88556,20 +88556,7 @@
             "AssociatedChildQuestIds": [121, 122]
           }
         },
-        "SubTitles": [],
-        "TrackTarget": {
-          "TrackType": {
-            "Type": "Locations",
-            "Locations": [
-              {
-                "X": -44303,
-                "Y": 181763,
-                "Z": -10932,
-                "A": 0
-              }
-            ]
-          }
-        }
+        "SubTitles": []
       }
     }
   },
@@ -138281,32 +138268,7 @@
           "ActionGuid": "c8df1657d2194d54acbcaf786a46fd05",
           "ActionId": 3000395
         }
-      ],
-      "FixProcessor": {
-        "FixActions": [
-          {
-            "Timing": "OnProgress",
-            "Condition": {
-              "Type": 0,
-              "Conditions": [
-                {
-                  "Type": "CheckEntitesExist",
-                  "EntityIds": [139000086],
-                  "IsExist": false
-                }
-              ]
-            },
-            "ThenActions": [
-              {
-                "Name": "FinishCondition",
-                "Params": {},
-                "ActionGuid": "fb129569b0f24cfca2a81286ce86bdd2",
-                "ActionId": 3000359
-              }
-            ]
-          }
-        ]
-      }
+      ]
     }
   },
   {
