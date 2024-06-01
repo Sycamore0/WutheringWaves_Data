@@ -1,7 +1,7 @@
 [
   {
     "Id": "NetworkConnect",
-    "Content": "Verbinden ..."
+    "Content": "Verbinden"
   },
   {
     "Id": "PatchDown",
@@ -9,27 +9,27 @@
   },
   {
     "Id": "PatchDownTips",
-    "Content": "Der Spielclient kann während des Herunterladens minimiert werden"
+    "Content": "Spiel kann während des Downloads minimiert werden"
   },
   {
     "Id": "Install",
-    "Content": "Aktualisierungsressourcen installieren"
+    "Content": "Update installieren"
   },
   {
     "Id": "InstallTips",
-    "Content": "Bitte schließe das Spiel während der Installation nicht"
+    "Content": "Bitte schließen Sie das Spiel während der Installation nicht"
   },
   {
     "Id": "CheckIntegrity",
-    "Content": "Überprüfung der Spielintegrität {0} %"
+    "Content": "Überprüfung der Spielintegrität {0}%"
   },
   {
     "Id": "NoNetwork",
-    "Content": "Keine Internetverbindung. Bitte überprüfe und versuche es erneut"
+    "Content": "Keine Internetverbindung. Bitte überprüfen Sie und versuchen Sie es erneut"
   },
   {
     "Id": "GetUpdateInfoFail",
-    "Content": "Aktualisierungsdetails konnten nicht abgerufen werden"
+    "Content": "Fehler beim Abrufen der Update-Informationen"
   },
   {
     "Id": "HotFixTipsTitle",
@@ -45,7 +45,7 @@
   },
   {
     "Id": "HotFixNewPatch",
-    "Content": "Ein neues Aktualisierungspaket {0} gefunden. Du nutzt gerade dein Mobilfunknetz. Möchtest du mit deinem Mobilfunknetz herunterladen?"
+    "Content": "Update-Paket {0} gefunden. Du nutzt gerade dein Mobilfunknetz. Möchtest du mit deinem Mobilfunknetz herunterladen?"
   },
   {
     "Id": "HotFixUseNetworkDownload",
@@ -53,7 +53,7 @@
   },
   {
     "Id": "HotFixRestartToCompleteHotFix",
-    "Content": "Aktualisierung abgeschlossen, bitte starte das Spiel neu."
+    "Content": "Update abgeschlossen, bitte starte das Spiel neu."
   },
   {
     "Id": "HotFixRestartToRepairFiles",
@@ -61,11 +61,11 @@
   },
   {
     "Id": "HotFixWriteStorageTips",
-    "Content": "Bitte erlaube den Speicherzugriff unter Einstellungen > Anwendung und starte das Spiel neu, um Aktualisierungsressourcen zu sparen."
+    "Content": "Zugriff auf den Speicher erforderlich, um Update-Dateien zu speichern. Bitte aktiviere es in den Telefoneinstellungen - Berechtigungsverwaltung. Dann starte das Spiel neu."
   },
   {
     "Id": "HotFixNotEnoughSpace",
-    "Content": "Nicht genügend Speicherplatz für {0} Aktualisierungsressourcen. Bitte entferne die Dateien, um Speicherplatz freizugeben, und klicke auf „Weiter“, um mit dem Herunterladen fortzufahren."
+    "Content": "{0} Ressource muss heruntergeladen werden. Dein Speicherplatz ist derzeit nicht ausreichend. Bitte schaffe etwas Platz, dann komm zurück und klicke auf \"Weiter\"."
   },
   {
     "Id": "HotFixContinue",
@@ -89,15 +89,15 @@
   },
   {
     "Id": "SplashLoading",
-    "Content": "Spiel wird geladen ..."
+    "Content": "Spiel wird geladen..."
   },
   {
     "Id": "SplashHealthyGamingAdvisory",
-    "Content": "Widerstand gegen illegale Spiele, lehne Raubkopien ab. Achte auf Selbstschutz, sei vorsichtig, um nicht betrogen zu werden.\nMäßiges Spielen ist gut für das Gehirn, aber Spielsucht schadet der Gesundheit. Plane deine Zeit vernünftig und genieße ein gesundes Leben."
+    "Content": "Widerstand gegen illegale Spiele, lehne Raubkopien ab. Achte auf Selbstschutz, sei vorsichtig, um nicht betrogen zu werden.\r\nMäßiges Spielen ist gut für das Gehirn, aber Spielsucht schadet der Gesundheit. Plane deine Zeit vernünftig und genieße ein gesundes Leben."
   },
   {
     "Id": "SplashCopyrightInformation",
-    "Content": "Lizenz & ISBN: 国新出审〔2023〕1802号 ISBN 978-7-498-12761-7  \nHerausgeber: 成都盈众九州网络科技有限公司  \nUrheberrecht: 广州库洛科技有限公司"
+    "Content": "Genehmigungsnummer: Guoxin Chushen [2023] Nr. 1802 ISBN 978-7-498-12761-7 Verlag: Chengdu Yingzhong Jiuzhou Netzwerktechnologie Co., Ltd. Urheberrechtsinhaber: Guangzhou Kuro Technologie Co., Ltd."
   },
   {
     "Id": "GetRemoteConfigFailed",
@@ -105,59 +105,59 @@
   },
   {
     "Id": "StartHotFix",
-    "Content": "Hotfix wird initialisiert …"
+    "Content": "Überprüfung auf heiße Updates."
   },
   {
     "Id": "GetRemoteVersion",
-    "Content": "Remote-Konfiguration anwenden ..."
+    "Content": "Abrufen der Remote-Version-Konfiguration."
   },
   {
     "Id": "GetRemoteVersionFailed",
-    "Content": "Die Remote-Konfiguration konnte nicht angewendet werden"
+    "Content": "Abrufen der Remote-Version-Konfiguration fehlgeschlagen."
   },
   {
     "Id": "CheckAppUpdate",
-    "Content": "Suche nach App-Updates ..."
+    "Content": "Überprüfung auf App-Updates..."
   },
   {
     "Id": "CheckResourceVersion",
-    "Content": "{0} Ressourcenversion wird überprüft ..."
+    "Content": "Überprüfung der Ressourcen-Version {0}."
   },
   {
     "Id": "ResolveIndexFile",
-    "Content": "Patch-Ressourcen werden analysiert ..."
+    "Content": "Analyse der Ressourcen-Patches..."
   },
   {
     "Id": "MountPak",
-    "Content": "Ressourcen-Patches werden angewendet ..."
+    "Content": "Anwendung der Ressourcen-Patches."
   },
   {
     "Id": "CompleteHotFix",
-    "Content": "Hotfix abgeschlossen"
+    "Content": "Hot-Update abgeschlossen."
   },
   {
     "Id": "DownloadIndexFileFailed",
-    "Content": "Patchliste konnte nicht abgerufen werden: {0}"
+    "Content": "Abrufen der Patch-Liste-Informationen fehlgeschlagen. Grund: {0}."
   },
   {
     "Id": "DownloadResourcePatchFailed",
-    "Content": "Patch-Ressourcen konnten nicht heruntergeladen werden: {0}"
+    "Content": "Download des Ressourcen-Patches fehlgeschlagen. Grund: {0}."
   },
   {
     "Id": "EvaluateDownloadResourcePatchFailed",
-    "Content": "Patch-Ressourcen konnten nicht heruntergeladen werden: {0}"
+    "Content": "Download (Bewertung) des Ressourcen-Patches fehlgeschlagen. Grund: {0}."
   },
   {
     "Id": "GetResourceInfoFailed",
-    "Content": "Der Patch-Typ konnte nicht geladen werden"
+    "Content": "Analyse des Ressourcen-Patch-Typs fehlgeschlagen."
   },
   {
     "Id": "ResolveIndexFileFailed",
-    "Content": "Analyse der Patchliste fehlgeschlagen. Bitte starte den Spielclient neu und versuche es erneut oder wende dich an den Kundendienst."
+    "Content": "Fehler bei der Analyse der Patch-Liste. Bitte starte neu und versuche es erneut oder kontaktiere den Kundenservice."
   },
   {
     "Id": "ValidateResourceFailed",
-    "Content": "Die Dateiintegrität konnte nicht überprüft werden. Bitte starte den Spielclient neu und versuche erneut oder wende dich an den Kundendienst."
+    "Content": "Fehler bei der Überprüfung der Ressourcendateien. Bitte starte neu und versuche es erneut oder kontaktiere den Kundenservice."
   },
   {
     "Id": "DownloadStateNone",
@@ -169,15 +169,15 @@
   },
   {
     "Id": "DownloadStateFileRenameError",
-    "Content": "Fehler beim Umbenennen der Datei"
+    "Content": "Fehler bei der Umbenennung der Datei"
   },
   {
     "Id": "DownloadStateValidateError",
-    "Content": "Integritätsüberprüfung fehlgeschlagen"
+    "Content": "Dateiüberprüfung fehlgeschlagen"
   },
   {
     "Id": "DownloadStateOpenToWriteError",
-    "Content": "Dateien konnten nicht gespeichert werden"
+    "Content": "Fehler beim Schreiben der Datei"
   },
   {
     "Id": "DownloadStateNotEnoughSpace",
@@ -185,27 +185,27 @@
   },
   {
     "Id": "DownloadStateDownloadCanceled",
-    "Content": "Herunterladen abgebrochen"
+    "Content": "Download abgebrochen"
   },
   {
     "Id": "DownloadStateSuccess",
-    "Content": "Herunterladen erfolgreich"
+    "Content": "Download erfolgreich"
   },
   {
     "Id": "CompilingShader",
-    "Content": "Shader kompilieren: {0}"
+    "Content": "Shader {0} wird kompiliert"
   },
   {
     "Id": "GetRemotePackageConfigFail",
-    "Content": "Die Remote-Konfiguration konnte nicht angewendet werden. Bitte überprüfe deine Netzwerkverbindung und starte den Spielclient neu."
+    "Content": "Es ist nicht gelungen, die Remote-Daten für das gesamte Paket abzurufen. Bitte überprüfen Sie Ihre Netzwerkverbindung und starten Sie den Client neu, um es erneut zu versuchen."
   },
   {
     "Id": "NewVersionDetailDesc",
-    "Content": "Aktualisierungsdetails"
+    "Content": "Update-Details"
   },
   {
     "Id": "NewVersionDetailDownloadGetReward",
-    "Content": "Eine Aktualisierung des Spiels ist verfügbar. Bitte fahre mit dem Herunterladen fort. Melde dich nach der Aktualisierung an, um <color=#c49e55ff>Astrite ×300 und Kristall-Lösungsmittel ×2</color> zu erhalten."
+    "Content": "Ein Update des Spiels ist verfügbar. Bitte fahren Sie mit dem Download fort. Melden Sie sich nach dem Update an, um <color=#c49e55ff>Astrite*300 und Kristall-Lösungsmittel*2</color> zu erhalten."
   },
   {
     "Id": "ConfirmText",
@@ -213,7 +213,7 @@
   },
   {
     "Id": "FirstDownloadTip",
-    "Content": "{0} Ressourcen werden für die Aktualisierung heruntergeladen. Weitermachen?"
+    "Content": "Insgesamt werden {0} Ressourcen für das Update heruntergeladen. Weitermachen?"
   },
   {
     "Id": "DownloadTitle",
@@ -221,15 +221,15 @@
   },
   {
     "Id": "MobileDriverOutOfVersion",
-    "Content": "Deine Telefontreiberversion ist veraltet (GL-Treiberversion < 378). Dies kann während des Spiels zu Spielabstürzen führen. Um ein reibungsloses Spielerlebnis zu gewährleisten, wird empfohlen, die Systemversion oder den GL-Treiber zu aktualisieren."
+    "Content": "Es wurde festgestellt, dass die Treiberversion des Mobiltelefons veraltet ist (GL-Treiberversion < 378). Es besteht eine hohe Wahrscheinlichkeit, dass das Spiel abstürzt. Um ein reibungsloses Spielerlebnis zu gewährleisten, wird empfohlen, das Mobiltelefonsystem oder den GL-Treiber zu aktualisieren."
   },
   {
     "Id": "DownloadContinue",
-    "Content": "Tippe zum Fortfahren auf den leeren Bereich"
+    "Content": "Klicken Sie auf eine leere Stelle, um fortzufahren."
   },
   {
     "Id": "PatchClear",
-    "Content": "Lokale Patch-Ressourcen werden gelöscht und erneut heruntergeladen. Möchtest du fortfahren?"
+    "Content": "Lokale Patches werden gelöscht und erneut heruntergeladen. Möchten Sie den Vorgang bestätigen?"
   },
   {
     "Id": "PatchClearTitle",
@@ -237,6 +237,6 @@
   },
   {
     "Id": "PatchClearbutton",
-    "Content": "Reparieren"
+    "Content": "Reparatur"
   }
 ]

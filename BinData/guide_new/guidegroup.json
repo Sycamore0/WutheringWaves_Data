@@ -1036,7 +1036,7 @@
     "OpenLimitCondition": 0,
     "AutoOpenCondition": 0,
     "LimitRepeat": [-1],
-    "DungeonId": [1, 2, 8],
+    "DungeonId": [95, 1, 2, 8],
     "ResetInDungeon": false
   },
   {

@@ -77,7 +77,7 @@
   },
   {
     "Id": "HotFixNetworkChange",
-    "Content": "檢測到網路變動，當前網路環境為行動網路，請確認是否使用行動數據下載？"
+    "Content": "檢測到網路變動，當前網路環境為行動數據，請確認是否使用行動數據下載？"
   },
   {
     "Id": "SplashCautionTitle",
@@ -85,7 +85,7 @@
   },
   {
     "Id": "SplashCautionContent",
-    "Content": "當接觸到特定光像圖案或頻閃閃光刺激時，有極少部分人（如癲癇症患者，甚至部分未確診人員）會出現「光敏性癲癇」症狀，包括眩暈、面色發紫、眼部或面部抽搐、口吐白沫、意識混亂或失去意識、全身強直等。如果您、您的家人或您的其他家庭成員曾經有過類似症狀，請在遊戲前聽從醫生的專業意見。若您在遊戲過程中出現上述症狀，請立即停止遊戲並儘快就醫，並在繼續遊戲前聽從醫生的專業意見。"
+    "Content": "當接觸到特定光像圖案或頻閃閃光刺激時，有極少部分人（如癲癇症患者，甚至部分未確診人員）會出現“光敏性癲癇”症狀，包括眩暈、面色發紫、眼部或面部抽搐、口吐白沫、意識混亂或失去意識、全身強直等。如果您、您的家人或您的其他家庭成員曾經有過類似症狀，請在遊戲前聽從醫生的專業意見。若您在遊戲過程中出現上述症狀，請立即停止遊戲並儘快就醫，並在繼續遊戲前聽從醫生的專業意見。"
   },
   {
     "Id": "SplashLoading",
@@ -153,11 +153,11 @@
   },
   {
     "Id": "ResolveIndexFileFailed",
-    "Content": "解析補丁列表失敗，請重啟嘗試或聯絡客服"
+    "Content": "解析補丁列表失敗，請重啟嘗試或聯繫客服"
   },
   {
     "Id": "ValidateResourceFailed",
-    "Content": "校驗資源檔案失敗，請重啟嘗試或聯絡客服"
+    "Content": "校驗資源檔失敗，請重啟嘗試或聯繫客服"
   },
   {
     "Id": "DownloadStateNone",
@@ -169,15 +169,15 @@
   },
   {
     "Id": "DownloadStateFileRenameError",
-    "Content": "檔案重命名出錯"
+    "Content": "檔重命名出錯"
   },
   {
     "Id": "DownloadStateValidateError",
-    "Content": "檔案校驗失敗"
+    "Content": "檔校驗失敗"
   },
   {
     "Id": "DownloadStateOpenToWriteError",
-    "Content": "寫入檔案失敗"
+    "Content": "寫檔失敗"
   },
   {
     "Id": "DownloadStateNotEnoughSpace",
@@ -221,7 +221,7 @@
   },
   {
     "Id": "MobileDriverOutOfVersion",
-    "Content": "檢測到手機驅動版本過舊（GL驅動版本＜378），遊戲運行中有大機率閃退。 為了保證正常遊戲體驗，建議更新手機系統或GL驅動。"
+    "Content": "檢測到手機驅動版本過舊（GL驅動版本＜378），遊戲運行中有大概率閃退。 為了保證正常遊戲體驗，建議更新手機系統或GL驅動。"
   },
   {
     "Id": "DownloadContinue",

@@ -229562,5 +229562,25 @@
   {
     "Id": "Side_WGST_1_8",
     "Content": ""
+  },
+  {
+    "Id": "ItemInfo_50006_AttributesDescription",
+    "Content": ""
+  },
+  {
+    "Id": "ItemInfo_50006_BgDescription",
+    "Content": ""
+  },
+  {
+    "Id": "ItemInfo_50006_Name",
+    "Content": ""
+  },
+  {
+    "Id": "ItemInfo_50006_ObtainedShowDescription",
+    "Content": ""
+  },
+  {
+    "Id": "Text_SummaryDescribe5_Text",
+    "Content": ""
   }
 ]
