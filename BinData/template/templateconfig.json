@@ -6050,7 +6050,7 @@
             "Y": 0,
             "Z": 0
           },
-          "Radius": 350
+          "Radius": 1500
         }
       },
       "TriggerComponent": {
@@ -6429,7 +6429,7 @@
             "Y": 0,
             "Z": 0
           },
-          "Radius": 350
+          "Radius": 1500
         }
       },
       "TriggerComponent": {
@@ -6835,7 +6835,7 @@
             "Y": 0,
             "Z": 0
           },
-          "Radius": 350
+          "Radius": 1500
         }
       },
       "ModelComponent": {
@@ -7188,7 +7188,7 @@
             "Y": 0,
             "Z": 0
           },
-          "Radius": 350
+          "Radius": 1500
         }
       },
       "TriggerComponent": {

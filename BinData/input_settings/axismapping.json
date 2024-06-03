@@ -9,7 +9,7 @@
         "Value": -1
       }
     ],
-    "GamepadKeys": [
+    "FrancePcKeys": [
       {
         "Key": "Gamepad_RightY",
         "Value": 0.699999988079071
@@ -19,7 +19,8 @@
         "Value": 0.699999988079071
       }
     ],
-    "DisplayName": ""
+    "GamepadKeys": [],
+    "DisplayName": null
   },
   {
     "Id": 2,
@@ -35,7 +36,7 @@
         "Value": 1
       }
     ],
-    "GamepadKeys": [
+    "FrancePcKeys": [
       {
         "Key": "Gamepad_LeftY",
         "Value": 1
@@ -45,7 +46,8 @@
         "Value": 1
       }
     ],
-    "DisplayName": ""
+    "GamepadKeys": [],
+    "DisplayName": null
   },
   {
     "Id": 3,
@@ -61,7 +63,7 @@
         "Value": 1
       }
     ],
-    "GamepadKeys": [
+    "FrancePcKeys": [
       {
         "Key": "Gamepad_LeftX",
         "Value": 1
@@ -71,7 +73,8 @@
         "Value": 1
       }
     ],
-    "DisplayName": ""
+    "GamepadKeys": [],
+    "DisplayName": null
   },
   {
     "Id": 4,
@@ -83,7 +86,7 @@
         "Value": 1
       }
     ],
-    "GamepadKeys": [
+    "FrancePcKeys": [
       {
         "Key": "Gamepad_RightX",
         "Value": 0.699999988079071
@@ -93,7 +96,8 @@
         "Value": 0.699999988079071
       }
     ],
-    "DisplayName": ""
+    "GamepadKeys": [],
+    "DisplayName": null
   },
   {
     "Id": 5,
@@ -105,8 +109,9 @@
         "Value": 1
       }
     ],
+    "FrancePcKeys": [],
     "GamepadKeys": [],
-    "DisplayName": ""
+    "DisplayName": null
   },
   {
     "Id": 6,
@@ -118,8 +123,9 @@
         "Value": 1
       }
     ],
+    "FrancePcKeys": [],
     "GamepadKeys": [],
-    "DisplayName": ""
+    "DisplayName": null
   },
   {
     "Id": 7,
@@ -131,7 +137,7 @@
         "Value": 1
       }
     ],
-    "GamepadKeys": [
+    "FrancePcKeys": [
       {
         "Key": "Gamepad_RightTriggerAxis",
         "Value": -1
@@ -141,7 +147,8 @@
         "Value": -1
       }
     ],
-    "DisplayName": ""
+    "GamepadKeys": [],
+    "DisplayName": null
   },
   {
     "Id": 8,
@@ -153,7 +160,7 @@
         "Value": -1
       }
     ],
-    "GamepadKeys": [
+    "FrancePcKeys": [
       {
         "Key": "Gamepad_LeftTriggerAxis",
         "Value": 1
@@ -163,7 +170,8 @@
         "Value": 1
       }
     ],
-    "DisplayName": ""
+    "GamepadKeys": [],
+    "DisplayName": null
   },
   {
     "Id": 9,
@@ -179,7 +187,7 @@
         "Value": 1
       }
     ],
-    "GamepadKeys": [
+    "FrancePcKeys": [
       {
         "Key": "Gamepad_LeftY",
         "Value": 1
@@ -189,7 +197,8 @@
         "Value": 1
       }
     ],
-    "DisplayName": ""
+    "GamepadKeys": [],
+    "DisplayName": null
   },
   {
     "Id": 10,
@@ -205,7 +214,7 @@
         "Value": 1
       }
     ],
-    "GamepadKeys": [
+    "FrancePcKeys": [
       {
         "Key": "Gamepad_LeftX",
         "Value": 1
@@ -215,14 +224,15 @@
         "Value": 1
       }
     ],
-    "DisplayName": ""
+    "GamepadKeys": [],
+    "DisplayName": null
   },
   {
     "Id": 11,
     "AxisName": "UiIncrease2",
     "AxisType": 4,
     "PcKeys": [],
-    "GamepadKeys": [
+    "FrancePcKeys": [
       {
         "Key": "Gamepad_DPad_Right",
         "Value": 0.20000000298023224
@@ -240,14 +250,15 @@
         "Value": 0.20000000298023224
       }
     ],
-    "DisplayName": ""
+    "GamepadKeys": [],
+    "DisplayName": null
   },
   {
     "Id": 12,
     "AxisName": "UiReduce2",
     "AxisType": 4,
     "PcKeys": [],
-    "GamepadKeys": [
+    "FrancePcKeys": [
       {
         "Key": "Gamepad_DPad_Left",
         "Value": -0.20000000298023224
@@ -265,14 +276,15 @@
         "Value": 0.20000000298023224
       }
     ],
-    "DisplayName": ""
+    "GamepadKeys": [],
+    "DisplayName": null
   },
   {
     "Id": 13,
     "AxisName": "NavigationTopDown",
     "AxisType": 4,
     "PcKeys": [],
-    "GamepadKeys": [
+    "FrancePcKeys": [
       {
         "Key": "Gamepad_LeftY",
         "Value": 1
@@ -282,14 +294,15 @@
         "Value": 1
       }
     ],
-    "DisplayName": ""
+    "GamepadKeys": [],
+    "DisplayName": null
   },
   {
     "Id": 14,
     "AxisName": "NavigationLeftRight",
     "AxisType": 4,
     "PcKeys": [],
-    "GamepadKeys": [
+    "FrancePcKeys": [
       {
         "Key": "Gamepad_LeftX",
         "Value": 1
@@ -299,14 +312,15 @@
         "Value": 1
       }
     ],
-    "DisplayName": ""
+    "GamepadKeys": [],
+    "DisplayName": null
   },
   {
     "Id": 15,
     "AxisName": "UiScroll1",
     "AxisType": 4,
     "PcKeys": [],
-    "GamepadKeys": [
+    "FrancePcKeys": [
       {
         "Key": "Gamepad_RightY",
         "Value": 1
@@ -316,14 +330,15 @@
         "Value": 1
       }
     ],
-    "DisplayName": ""
+    "GamepadKeys": [],
+    "DisplayName": null
   },
   {
     "Id": 16,
     "AxisName": "UiScroll2",
     "AxisType": 4,
     "PcKeys": [],
-    "GamepadKeys": [
+    "FrancePcKeys": [
       {
         "Key": "Gamepad_RightX",
         "Value": 1
@@ -333,7 +348,8 @@
         "Value": 1
       }
     ],
-    "DisplayName": ""
+    "GamepadKeys": [],
+    "DisplayName": null
   },
   {
     "Id": 17,
@@ -345,7 +361,7 @@
         "Value": 1
       }
     ],
-    "GamepadKeys": [
+    "FrancePcKeys": [
       {
         "Key": "Gamepad_RightY",
         "Value": 1
@@ -355,7 +371,8 @@
         "Value": 1
       }
     ],
-    "DisplayName": ""
+    "GamepadKeys": [],
+    "DisplayName": null
   },
   {
     "Id": 18,
@@ -367,7 +384,7 @@
         "Value": 1
       }
     ],
-    "GamepadKeys": [
+    "FrancePcKeys": [
       {
         "Key": "Gamepad_RightX",
         "Value": 1
@@ -377,7 +394,8 @@
         "Value": 1
       }
     ],
-    "DisplayName": ""
+    "GamepadKeys": [],
+    "DisplayName": null
   },
   {
     "Id": 19,
@@ -389,8 +407,9 @@
         "Value": 1
       }
     ],
+    "FrancePcKeys": [],
     "GamepadKeys": [],
-    "DisplayName": ""
+    "DisplayName": null
   },
   {
     "Id": 20,
@@ -402,7 +421,7 @@
         "Value": 1
       }
     ],
-    "GamepadKeys": [
+    "FrancePcKeys": [
       {
         "Key": "Gamepad_Left2D",
         "Value": 1
@@ -412,7 +431,8 @@
         "Value": 1
       }
     ],
-    "DisplayName": ""
+    "GamepadKeys": [],
+    "DisplayName": null
   },
   {
     "Id": 21,
@@ -424,7 +444,7 @@
         "Value": 1
       }
     ],
-    "GamepadKeys": [
+    "FrancePcKeys": [
       {
         "Key": "Gamepad_Right2D",
         "Value": 1
@@ -434,7 +454,8 @@
         "Value": 1
       }
     ],
-    "DisplayName": ""
+    "GamepadKeys": [],
+    "DisplayName": null
   },
   {
     "Id": 22,
@@ -450,15 +471,16 @@
         "Value": 1
       }
     ],
+    "FrancePcKeys": [],
     "GamepadKeys": [],
-    "DisplayName": ""
+    "DisplayName": null
   },
   {
     "Id": 23,
     "AxisName": "NextGroup",
     "AxisType": 4,
     "PcKeys": [],
-    "GamepadKeys": [
+    "FrancePcKeys": [
       {
         "Key": "Gamepad_LeftX",
         "Value": 1
@@ -468,14 +490,15 @@
         "Value": 1
       }
     ],
-    "DisplayName": ""
+    "GamepadKeys": [],
+    "DisplayName": null
   },
   {
     "Id": 24,
     "AxisName": "PrevGroup",
     "AxisType": 4,
     "PcKeys": [],
-    "GamepadKeys": [
+    "FrancePcKeys": [
       {
         "Key": "Gamepad_LeftX",
         "Value": 1
@@ -485,14 +508,15 @@
         "Value": 1
       }
     ],
-    "DisplayName": ""
+    "GamepadKeys": [],
+    "DisplayName": null
   },
   {
     "Id": 25,
     "AxisName": "MapIncrease",
     "AxisType": 4,
     "PcKeys": [],
-    "GamepadKeys": [
+    "FrancePcKeys": [
       {
         "Key": "Gamepad_LeftTriggerAxis",
         "Value": -1
@@ -502,14 +526,15 @@
         "Value": -1
       }
     ],
-    "DisplayName": ""
+    "GamepadKeys": [],
+    "DisplayName": null
   },
   {
     "Id": 26,
     "AxisName": "MapReduce",
     "AxisType": 4,
     "PcKeys": [],
-    "GamepadKeys": [
+    "FrancePcKeys": [
       {
         "Key": "Gamepad_RightTriggerAxis",
         "Value": 1
@@ -519,7 +544,8 @@
         "Value": 1
       }
     ],
-    "DisplayName": ""
+    "GamepadKeys": [],
+    "DisplayName": null
   },
   {
     "Id": 27,
@@ -535,7 +561,7 @@
         "Value": 1
       }
     ],
-    "GamepadKeys": [
+    "FrancePcKeys": [
       {
         "Key": "Gamepad_LeftY",
         "Value": 1
@@ -545,7 +571,8 @@
         "Value": 1
       }
     ],
-    "DisplayName": ""
+    "GamepadKeys": [],
+    "DisplayName": null
   },
   {
     "Id": 28,
@@ -561,7 +588,7 @@
         "Value": 1
       }
     ],
-    "GamepadKeys": [
+    "FrancePcKeys": [
       {
         "Key": "Gamepad_LeftX",
         "Value": 1
@@ -571,6 +598,7 @@
         "Value": 1
       }
     ],
-    "DisplayName": ""
+    "GamepadKeys": [],
+    "DisplayName": null
   }
 ]

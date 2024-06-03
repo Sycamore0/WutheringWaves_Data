@@ -2757,15 +2757,15 @@
   },
   {
     "Id": "ComboTeaching_12020101_IconText_0",
-    "Content": "การโจมตีปกติครั้งที่หนึ่ง"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_12020101_IconText_1",
-    "Content": "การโจมตีปกติครั้งที่สอง"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_12020101_IconText_2",
-    "Content": "การโจมตีปกติครั้งที่สาม"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_12020101_IconText_3",
@@ -2773,11 +2773,11 @@
   },
   {
     "Id": "ComboTeaching_12020101_DescriptionTitle",
-    "Content": "ซีเซีย-<color=#d4bf5f>การสอนการโจมตีปกติ</color>การสอน"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_12020101_DescriptionContent",
-    "Content": "เตรียมกระสุน, ทำการยิงต่อเนื่องสูงสุด 4 ครั้ง, สร้าง<color=Fire>ความเสียหายจากความร้อน</color>。"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_12020201_IconText_0",
@@ -65389,55 +65389,55 @@
   },
   {
     "Id": "ComboTeaching_11020101_IconText_0",
-    "Content": "การโจมตีทั่วไปส่วนที่ 1"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11020101_IconText_1",
-    "Content": "การโจมตีทั่วไปส่วนที่ 2"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11020101_IconText_2",
-    "Content": "การโจมตีทั่วไปส่วนที่ 3"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11020101_IconText_3",
-    "Content": "การโจมตีทั่วไปส่วนที่ 4"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11020101_IconText_4",
-    "Content": "การโจมตีทั่วไปส่วนที่ 5"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11020201_IconText_0",
-    "Content": "การโจมตีอย่างรุนแรง"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11020201_IconText_1",
-    "Content": "การโจมตีอย่างรุนแรง·การระเบิด"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11020301_IconText_0",
-    "Content": "กระโดด"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11020301_IconText_1",
-    "Content": "การโจมตีธรรมดาจากอากาศ"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11020401_IconText_0",
-    "Content": "ทักษะสัมผัส"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11020501_IconText_0",
-    "Content": "การปลดปล่อยสัมผัส"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11020601_IconText_0",
-    "Content": "ทักษะสัมผัส"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11020601_IconText_1",
-    "Content": "การโจมตีที่รุนแรง · การระเบิด"
+    "Content": ""
   },
   {
     "Id": "Character_LingYang_44_1",
@@ -65793,11 +65793,11 @@
   },
   {
     "Id": "ComboTeaching_11020101_DescriptionTitle",
-    "Content": "การสอนการโจมตีทั่วไปของสานหัว-<color=#d4bf5f>การโจมตีทั่วไป</color>"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11020201_DescriptionTitle",
-    "Content": "ซัซัฮัว-<color=#f4d582>การโจมตีอย่างรุนแรง</color>การสอน-<color=#d4bf5f>การโจมตีอย่างรุนแรง·การระเบิด</color>"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_16010101_IconText_0",
@@ -66449,55 +66449,55 @@
   },
   {
     "Id": "ComboTeaching_11030402_DescriptionTitle",
-    "Content": "บัวบก-การสอนวงจรความสัมพันธ์-<color=#d4bf5f>ความคิด</color>"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11030401_DescriptionTitle",
-    "Content": "บัวบก-การสอนทักษะความสัมพันธ์"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11030501_DescriptionTitle",
-    "Content": "บัวบก-การสอนการปลดปล่อยความสัมพันธ์"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11030201_IconText_0",
-    "Content": "การโจมตีที่รุนแรง"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11030401_IconText_0",
-    "Content": "ทักษะความสัมพันธ์"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11030101_IconText_0",
-    "Content": "การโจมตีปกติส่วนที่หนึ่ง"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11030101_IconText_1",
-    "Content": "การโจมตีปกติส่วนที่สอง"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11030101_IconText_2",
-    "Content": "การโจมตีปกติส่วนที่สาม"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11030101_IconText_3",
-    "Content": "การโจมตีปกติส่วนที่สี่"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11030402_IconText_0",
-    "Content": "ทักษะความสัมพันธ์"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11030402_DescriptionContent",
-    "Content": "เมื่อ<color=Highlight>การโจมตีปกติ</color>สำเร็จ, คุณจะได้รับ1คะแนนความคิด การใช้<color=Highlight>การโจมตีที่รุนแรง</color> และทักษะความสัมพันธ์<color=Highlight>แผนฉุกเฉิน</color> จะใช้คะแนนความคิดทั้งหมด, ทุกครั้งที่ใช้1คะแนนความคิด, ความชีวิตจะเพิ่มเติม1ครั้ง, แต่ละครั้งมีระยะห่าง 2 วินาที"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11030401_DescriptionContent",
-    "Content": "เรียกเพื่อทำให้เกิด<color=#1891e7ff>ความเสียหายจากความเย็น</color> และเพิ่มค่าชีวิตสำหรับทุกตัวละครในทีมที่อยู่ใกล้"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11030501_DescriptionContent",
-    "Content": "เรียกเพื่อฟื้นฟูค่าชีวิตทั้งหมดของทีมในทันที และสร้าง<color=Highlight>การสะท้อนความถี่</color> 4 ช่วง การสะท้อนความถี่จะตามตัวละครที่เข้าสู่สนาม, ทุก 2.5 วินาทีจะโจมตีเป้าหมายโดยอัตโนมัติ, ทำให้เกิด<color=Ice>ความเสียหายจากความเย็น</color> และเพิ่มค่าชีวิตสำหรับทุกตัวละครในทีมที่อยู่ใกล้จุดที่ถูกโจมตี"
+    "Content": ""
   },
   {
     "Id": "SkillInput_150101_Description",
@@ -69905,23 +69905,23 @@
   },
   {
     "Id": "ComboTeaching_11030101_DescriptionTitle",
-    "Content": "บัวบก-<color=#d4bf5f>การโจมตีปกติ</color>การสอน"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11030201_DescriptionTitle",
-    "Content": "บัวบก-<color=#d4bf5f>การโจมตีที่รุนแรง</color>การสอน"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11030501_IconText_0",
-    "Content": "การปลดปล่อยความสัมพันธ์"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11030101_DescriptionContent",
-    "Content": "คำสั่งให้ยู่ยั่งทำการโจมตีต่อเนื่องสูงสุด 4 ครั้ง สร้างความเสียหายจาก<color=#1891e7ff>ความเย็นที่สะสม</color>"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11030201_DescriptionContent",
-    "Content": "สูญเสียสมรรถภาพอย่างต่อเนื่อง, การโจมตีเป้าหมายที่อยู่ใกล้โดยการหมุนอย่างต่อเนื่อง, ทำให้เกิด<color=#1891e7ff>ความเสียหายจากความเย็น</color> สามารถควบคุมการเคลื่อนที่ระหว่างการโจมตีที่รุนแรง"
+    "Content": ""
   },
   {
     "Id": "Text_TowerSuccess_Text",
@@ -76141,43 +76141,43 @@
   },
   {
     "Id": "ComboTeaching_11020301_DescriptionTitle",
-    "Content": "ซัซัฮัว-<color=#d4bf5f>การโจมตีจากอากาศ</color>การสอน"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11020401_DescriptionTitle",
-    "Content": "ซัซัฮัว-การสอนทักษะสัมผัส"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11020501_DescriptionTitle",
-    "Content": "ซังฮัว - การสอนการปลดปล่อยสัมผัส"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11020601_DescriptionTitle",
-    "Content": "ซังฮัว - การสอนวงจรสัมผัส - <color=#d4bf5f>การบานของน้ำแข็ง</color>"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11020101_DescriptionContent",
-    "Content": "ดำเนินการโจมตีต่อเนื่องสูงสุด 5 รอบ สร้าง<color=#1891e7ff>ความเสียหายจากการเย็นตัวลง</color>เมื่อโจมตีรอบที่ 5 สำเร็จ จะได้รับ 1 ชั้นของ【การมองทะลุ】"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11020201_DescriptionContent",
-    "Content": "以下是翻译后的泰语文本：\nซันฮวากดค้าง<color=#f4d582>การโจมตีทรงพลัง</color> หากปล่อยการโจมตีทรงพลังที่พื้นที่【ลายรอยน้ำแข็ง】 ซันฮวาจะปล่อย<color=#d4bf5f>การโจมตีทรงพลัง·การระเบิด</color> ทำให้เกิด<color=#1891e7ff>ความเสียหายจากการเย็นตัวลง</color>。"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11020301_DescriptionContent",
-    "Content": "ใช้สมรรถภาพในการโจมตีจากอากาศสู่พื้น, สร้าง<color=Ice>ความเสียหายจากความหนาว</color>。"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11020401_DescriptionContent",
-    "Content": "สร้าง<color=Ice>ความเสียหายจากความหนาว</color>，แรงดันจะทิ้ง 1 แถบ【หิมะแข็ง】。 รับ 1 ชั้น【การมองทะลุ】。"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11020501_DescriptionContent",
-    "Content": "以下是翻译后的泰语文本：\nทำให้เกิด<color=#1891e7ff>ความเสียหายจากการหยาดเย็น</color> และสร้าง【หลุมน้ำแข็ง】1 แนว\nในเวลาเดียวกันจะได้รับ【การมองทะลุ】2 ชั้น"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11020601_DescriptionContent",
-    "Content": "<color=#f4d582>การโจมตีที่รุนแรง · การระเบิด</color> จะทำให้【หนามน้ำแข็ง】、【เสี้ยวน้ำแข็ง】และ【หลังเขาน้ำแข็ง】ที่อยู่ในเส้นทางการโจมตีระเบิด ทำให้เกิด<color=#1891e7ff>ความเสียหายจากความหนาว</color>。"
+    "Content": ""
   },
   {
     "Id": "Flow_31000180_34",
@@ -91513,6 +91513,10 @@
   },
   {
     "Id": "Huanglong_main_1_2EX_48_22",
+    "Content": ""
+  },
+  {
+    "Id": "Huanglong_main_1_2EX_48_23",
     "Content": ""
   },
   {
@@ -134457,87 +134461,87 @@
   },
   {
     "Id": "ComboTeaching_11040101_DescriptionTitle",
-    "Content": "ลิงยาง-<color=#d4bf5f>การโจมตีปกติ</color>การสอน"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11040101_DescriptionContent",
-    "Content": "ทำการโจมตีสูงสุด 5 ช่วง, ทำให้เกิด<color=Ice>ความเสียหายจากความเย็น</color>"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11040201_DescriptionTitle",
-    "Content": "ลิงยาง-<color=#d4bf5f>การโจมตีจากที่สูง</color>การสอน"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11040201_DescriptionContent",
-    "Content": "สูญเสียสมรรถภาพเพื่อทำการโจมตีจากที่สูง, ทำให้เกิด<color=Ice>ความเสียหายจากความเย็น</color>"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11040301_DescriptionTitle",
-    "Content": "ลิงหยาง-<color=#d4bf5f>การโจมตีหนัก</color>การสอน"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11040301_DescriptionContent",
-    "Content": "สูญเสียสมรรถภาพ, ทำให้เกิด<color=Ice>ความเสียหายจากความเย็น</color> ถ้าพลังพิเศษของตัวเองยังไม่เต็ม, หลังจาก<color=Highlight>การโจมตีที่รุนแรง</color>แล้วใช้<color=Highlight>การโจมตีปกติ</color> จะใช้<color=Highlight>การโจมตีที่รุนแรง</color> โจมตีเป้าหมาย, ทำให้เกิด<color=Ice>ความเสียหายจากความเย็น</color>"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11040301_IconText_0",
-    "Content": "การโจมตีจากอากาศ"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11040401_DescriptionTitle",
-    "Content": "ลิงหยาง-การสอนสกิลสัมผัส"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11040401_DescriptionContent",
-    "Content": "โจมตีเป้าหมาย, สร้าง<color=Ice>ความเสียหายจากความหนาว</color>。"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11040501_DescriptionTitle",
-    "Content": "ลิงหยาง-การสอนสกิลสัมผัส-<color=Highlight>การกระโดดที่น่าตกใจ·การตามจับที่เต็มเปี่ยมด้วยความโกรธ</color>"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11040501_DescriptionContent",
-    "Content": "เมื่อ<color=Highlight>การโจมตีปกติครั้งที่ 3, 4, 5</color>สามารถโจมตีเป้าหมาย, สกิลสัมผัส<color=Highlight>การโจมตีด้วยมือเปล่า·รูปแบบที่สืบทอด</color>จะถูกแทนที่ด้วยสกิลสัมผัส<color=Highlight>การกระโดดที่น่าตกใจ·การตามจับที่เต็มเปี่ยมด้วยความโกรธ</color> สกิลสัมผัส<color=Highlight>การกระโดดที่น่าตกใจ·การตามจับที่เต็มเปี่ยมด้วยความโกรธ</color>เมื่อใช้งานจะได้รับพลังงานพิเศษ"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11040502_DescriptionTitle",
-    "Content": "ลิงหยาง-<color=#d4bf5f>การได้รับพลังงานพิเศษ</color>การสอน"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11040502_DescriptionContent",
-    "Content": "<color=Highlight>การโจมตีปกติครั้งที่ 3, 4, 5</color>สามารถโจมตีเป้าหมาย, สกิลสัมผัส<color=Highlight>การโจมตีด้วยมือเปล่า·รูปแบบที่สืบทอด</color>จะถูกแทนที่ด้วยสกิลสัมผัส<color=Highlight>การกระโดดที่น่าตกใจ·การตามจับที่เต็มเปี่ยมด้วยความโกรธ</color> สกิลสัมผัส<color=Highlight>การกระโดดที่น่าตกใจ·การตามจับที่เต็มเปี่ยมด้วยความโกรธ</color>เมื่อใช้งานจะได้รับพลังงานพิเศษ"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11040502_IconText_0",
-    "Content": "เสริมสร้างสกิลสัมผัส"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11040502_IconTagText_0",
-    "Content": "เต็มพลังงานพิเศษ"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11040503_DescriptionTitle",
-    "Content": "ลิงหยาง-<color=#d4bf5f>การสอนวงจรสัมผัส</color>การสอน"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11040503_DescriptionContent",
-    "Content": "เมื่อพลังงานพิเศษเต็ม, กดค้างการโจมตีปกติเพื่อใช้งานการโจมตีหนัก<color=Highlight>การเริ่มต้น·แสงทองทะลุดิน</color> สร้าง<color=Ice>ความเสียหายจากความหนาว</color> และเข้าสู่สถานะ<color=Highlight>การเดินสิงโต</color> ได้รับความสามารถในการโจมตีจากอากาศ"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11040503_IconText_0",
-    "Content": "การโจมตีจากอากาศ"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11040503_IconText_1",
-    "Content": "การโจมตีจากอากาศ"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11040601_DescriptionTitle",
-    "Content": "ลิงหยาง-<color=#d4bf5f>การสอนการปลดปล่อยสัมผัส</color>การสอน"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11040601_DescriptionContent",
-    "Content": "โจมตีเป้าหมาย, สร้าง<color=Ice>ความเสียหายจากความหนาว</color> และได้รับความสุขจาก<color=Highlight>สิงโตที่รวดเร็ว</color> ระหว่างที่สิงโตที่รวดเร็วยังคงอยู่, วงจรสัมผัส<color=Highlight>สถานะการเดินสิงโต</color>จะมีระยะเวลาที่ยาวที่สุดจะเพิ่มขึ้นเป็น 10 วินาที"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_13010101_DescriptionTitle",
@@ -134925,11 +134929,11 @@
   },
   {
     "Id": "ComboTeaching_11030301_DescriptionContent",
-    "Content": "สูญเสียสมรรถภาพบางส่วน, โจมตีจากที่สูงโดยการเรียก, ทำให้เกิด<color=#1891e7ff>ความเสียหายจากความเย็น</color>"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_11030301_DescriptionTitle",
-    "Content": "บัวบก-<color=#d4bf5f>การโจมตีจากที่สูง</color>การสอน"
+    "Content": ""
   },
   {
     "Id": "ComboTeaching_12040401_DescriptionTitle",
@@ -158613,7 +158617,7 @@
   },
   {
     "Id": "Achievement_100124_Name",
-    "Content": "หัวใจเดียวกัน"
+    "Content": ""
   },
   {
     "Id": "Character_YinLin_60_1",
@@ -159001,11 +159005,11 @@
   },
   {
     "Id": "FavorWord_150360_Content",
-    "Content": "ปล่อยให้เป็นหน้าที่ฉัน"
+    "Content": ""
   },
   {
     "Id": "FavorWord_150360_Title",
-    "Content": "เทคนิคการเปลี่ยนเป็นสกิลที่สอง"
+    "Content": ""
   },
   {
     "Id": "MowingLevelRewards",
@@ -229529,38 +229533,6 @@
   },
   {
     "Id": "LevelPlay_146000043_ReachChallengeMainText_146_1",
-    "Content": ""
-  },
-  {
-    "Id": "Side_WGST_1_1",
-    "Content": ""
-  },
-  {
-    "Id": "Side_WGST_1_2",
-    "Content": ""
-  },
-  {
-    "Id": "Side_WGST_1_3",
-    "Content": ""
-  },
-  {
-    "Id": "Side_WGST_1_4",
-    "Content": ""
-  },
-  {
-    "Id": "Side_WGST_1_5",
-    "Content": ""
-  },
-  {
-    "Id": "Side_WGST_1_6",
-    "Content": ""
-  },
-  {
-    "Id": "Side_WGST_1_7",
-    "Content": ""
-  },
-  {
-    "Id": "Side_WGST_1_8",
     "Content": ""
   }
 ]
