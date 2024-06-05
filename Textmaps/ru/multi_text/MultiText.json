@@ -35025,7 +35025,7 @@
   },
   {
     "Id": "PhantomFetter_10_EffectDescription",
-    "Content": ""
+    "Content": "1"
   },
   {
     "Id": "PhantomFetter_11_EffectDescription",
@@ -38373,7 +38373,7 @@
   },
   {
     "Id": "ResonantChain_25_AttributesDescription",
-    "Content": ""
+    "Content": "<color=Highlight>"
   },
   {
     "Id": "ResonantChain_26_NodeName",
@@ -38381,7 +38381,7 @@
   },
   {
     "Id": "ResonantChain_26_AttributesDescription",
-    "Content": ""
+    "Content": "<color=Highlight></color>"
   },
   {
     "Id": "ResonantChain_27_NodeName",
@@ -44185,7 +44185,7 @@
   },
   {
     "Id": "Skill_1001707_SkillName",
-    "Content": "공명 회로"
+    "Content": ""
   },
   {
     "Id": "Skill_1001707_SkillDescribe",
@@ -81725,7 +81725,7 @@
   },
   {
     "Id": "BuyTextEnough",
-    "Content": ""
+    "Content": "<color=#e1ac68>"
   },
   {
     "Id": "BuyTextNotEnough",
@@ -91513,10 +91513,6 @@
   },
   {
     "Id": "Huanglong_main_1_2EX_48_22",
-    "Content": ""
-  },
-  {
-    "Id": "Huanglong_main_1_2EX_48_23",
     "Content": ""
   },
   {
@@ -229533,6 +229529,62 @@
   },
   {
     "Id": "LevelPlay_146000043_ReachChallengeMainText_146_1",
+    "Content": ""
+  },
+  {
+    "Id": "Side_WGST_1_1",
+    "Content": ""
+  },
+  {
+    "Id": "Side_WGST_1_2",
+    "Content": ""
+  },
+  {
+    "Id": "Side_WGST_1_3",
+    "Content": ""
+  },
+  {
+    "Id": "Side_WGST_1_4",
+    "Content": ""
+  },
+  {
+    "Id": "Side_WGST_1_5",
+    "Content": ""
+  },
+  {
+    "Id": "Side_WGST_1_6",
+    "Content": ""
+  },
+  {
+    "Id": "Side_WGST_1_7",
+    "Content": ""
+  },
+  {
+    "Id": "Side_WGST_1_8",
+    "Content": ""
+  },
+  {
+    "Id": "ItemInfo_50006_AttributesDescription",
+    "Content": ""
+  },
+  {
+    "Id": "ItemInfo_50006_BgDescription",
+    "Content": ""
+  },
+  {
+    "Id": "ItemInfo_50006_Name",
+    "Content": ""
+  },
+  {
+    "Id": "ItemInfo_50006_ObtainedShowDescription",
+    "Content": ""
+  },
+  {
+    "Id": "Text_SummaryDescribe5_Text",
+    "Content": ""
+  },
+  {
+    "Id": "ConfirmBox_195_Content",
     "Content": ""
   }
 ]

@@ -93,11 +93,11 @@
   },
   {
     "Id": "SplashHealthyGamingAdvisory",
-    "Content": "Resist bad games, refuse pirated games. Pay attention to self-protection, beware of being deceived.\nModerate gaming benefits the brain, addiction to gaming harms the body. Arrange your time reasonably, enjoy a healthy life."
+    "Content": "Say no to games with inappropriate content and piracy.\nKeep your personal information private to avoid scams.\nPlay responsibly to keep your gaming experience safe and fun.\nArrange your time reasonably for a healthy lifestyle"
   },
   {
     "Id": "SplashCopyrightInformation",
-    "Content": "Approval Number: Guo Xin Chu Shen [2023] 1802 Number ISBN 978-7-498-12761-7 Publishing Unit: Chengdu Yingzhong Jiuzhou Network Technology Co., Ltd.\nCopyright Owner: Guangzhou Kuro Technology Co., Ltd."
+    "Content": "License & ISBN: 国新出审〔2023〕1802号 ISBN 978-7-498-12761-7 Publisher: 成都盈众九州网络科技有限公司 Copyright: 广州库洛科技有限公司"
   },
   {
     "Id": "GetRemoteConfigFailed",
@@ -121,7 +121,7 @@
   },
   {
     "Id": "CheckResourceVersion",
-    "Content": "Checking {0} resource version..."
+    "Content": "Checking {0} version..."
   },
   {
     "Id": "ResolveIndexFile",
