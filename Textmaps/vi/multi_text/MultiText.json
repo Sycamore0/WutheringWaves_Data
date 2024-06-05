@@ -38161,7 +38161,7 @@
   },
   {
     "Id": "ResonantChain_2_NodeName",
-    "Content": "fig. un visiteur arrive en trombe"
+    "Content": ""
   },
   {
     "Id": "ResonantChain_2_AttributesDescription",
@@ -38325,7 +38325,7 @@
   },
   {
     "Id": "ResonantChain_20_NodeName",
-    "Content": "fig. purifier l'air"
+    "Content": ""
   },
   {
     "Id": "ResonantChain_20_AttributesDescription",
@@ -38469,7 +38469,7 @@
   },
   {
     "Id": "ResonantChain_36_NodeName",
-    "Content": "fig. long voyage à la maison"
+    "Content": ""
   },
   {
     "Id": "ResonantChain_36_AttributesDescription",
@@ -38477,7 +38477,7 @@
   },
   {
     "Id": "ResonantChain_37_NodeName",
-    "Content": "fig. la sincérité est aussi claire que le cœur"
+    "Content": ""
   },
   {
     "Id": "ResonantChain_37_AttributesDescription",
@@ -39069,7 +39069,7 @@
   },
   {
     "Id": "ResonantChain_103_NodeName",
-    "Content": "fig. en dehors de la boîte"
+    "Content": ""
   },
   {
     "Id": "ResonantChain_103_AttributesDescription",
@@ -39097,7 +39097,7 @@
   },
   {
     "Id": "ResonantChain_106_NodeName",
-    "Content": "fig. disparaît en un instant"
+    "Content": ""
   },
   {
     "Id": "ResonantChain_106_AttributesDescription",
@@ -39117,7 +39117,7 @@
   },
   {
     "Id": "ResonantChain_108_NodeName",
-    "Content": "fig. un élan soudain de vitalité"
+    "Content": ""
   },
   {
     "Id": "ResonantChain_108_AttributesDescription",
@@ -39153,7 +39153,7 @@
   },
   {
     "Id": "ResonantChain_112_NodeName",
-    "Content": "réflexion sur dix questions (en particulier sur les Analectes de Confucius)"
+    "Content": ""
   },
   {
     "Id": "ResonantChain_112_AttributesDescription",
@@ -44185,7 +44185,7 @@
   },
   {
     "Id": "Skill_1001707_SkillName",
-    "Content": "L'illumination éternelle"
+    "Content": ""
   },
   {
     "Id": "Skill_1001707_SkillDescribe",
@@ -49381,7 +49381,7 @@
   },
   {
     "Id": "WeaponConf_21010024_WeaponName",
-    "Content": "fig. vacuité et absence de réponse"
+    "Content": ""
   },
   {
     "Id": "WeaponConf_21010024_Desc",
@@ -49429,7 +49429,7 @@
   },
   {
     "Id": "WeaponConf_21030024_WeaponName",
-    "Content": "fig. belle musique"
+    "Content": ""
   },
   {
     "Id": "WeaponConf_21030024_Desc",
@@ -50029,7 +50029,7 @@
   },
   {
     "Id": "WeaponConf_21020044_WeaponName",
-    "Content": "fig. personnes qui ne rentrent pas chez elles"
+    "Content": ""
   },
   {
     "Id": "WeaponConf_21020044_Desc",
@@ -50077,7 +50077,7 @@
   },
   {
     "Id": "WeaponConf_21040044_WeaponName",
-    "Content": "fig. le respect mutuel de son prochain"
+    "Content": ""
   },
   {
     "Id": "WeaponConf_21040044_Desc",
@@ -50389,23 +50389,23 @@
   },
   {
     "Id": "WeaponReson_41_Name",
-    "Content": "l'affaiblissement"
+    "Content": ""
   },
   {
     "Id": "WeaponReson_42_Name",
-    "Content": "l'affaiblissement"
+    "Content": ""
   },
   {
     "Id": "WeaponReson_43_Name",
-    "Content": "l'affaiblissement"
+    "Content": ""
   },
   {
     "Id": "WeaponReson_44_Name",
-    "Content": "l'affaiblissement"
+    "Content": ""
   },
   {
     "Id": "WeaponReson_45_Name",
-    "Content": "l'affaiblissement"
+    "Content": ""
   },
   {
     "Id": "WeaponReson_46_Name",
@@ -50669,23 +50669,23 @@
   },
   {
     "Id": "WeaponReson_111_Name",
-    "Content": "fig. le rythme de la vie est sans fin"
+    "Content": ""
   },
   {
     "Id": "WeaponReson_112_Name",
-    "Content": "fig. le rythme de la vie est sans fin"
+    "Content": ""
   },
   {
     "Id": "WeaponReson_113_Name",
-    "Content": "fig. le rythme de la vie est sans fin"
+    "Content": ""
   },
   {
     "Id": "WeaponReson_114_Name",
-    "Content": "fig. le rythme de la vie est sans fin"
+    "Content": ""
   },
   {
     "Id": "WeaponReson_115_Name",
-    "Content": "fig. le rythme de la vie est sans fin"
+    "Content": ""
   },
   {
     "Id": "WeaponReson_117_Name",
@@ -50809,23 +50809,23 @@
   },
   {
     "Id": "WeaponReson_153_Name",
-    "Content": "être prêt pour la bataille"
+    "Content": ""
   },
   {
     "Id": "WeaponReson_154_Name",
-    "Content": "être prêt pour la bataille"
+    "Content": ""
   },
   {
     "Id": "WeaponReson_155_Name",
-    "Content": "être prêt pour la bataille"
+    "Content": ""
   },
   {
     "Id": "WeaponReson_156_Name",
-    "Content": "être prêt pour la bataille"
+    "Content": ""
   },
   {
     "Id": "WeaponReson_157_Name",
-    "Content": "être prêt pour la bataille"
+    "Content": ""
   },
   {
     "Id": "WeaponReson_158_Name",
@@ -50849,23 +50849,23 @@
   },
   {
     "Id": "WeaponReson_163_Name",
-    "Content": "loyauté sans faille"
+    "Content": ""
   },
   {
     "Id": "WeaponReson_164_Name",
-    "Content": "loyauté sans faille"
+    "Content": ""
   },
   {
     "Id": "WeaponReson_165_Name",
-    "Content": "loyauté sans faille"
+    "Content": ""
   },
   {
     "Id": "WeaponReson_166_Name",
-    "Content": "loyauté sans faille"
+    "Content": ""
   },
   {
     "Id": "WeaponReson_167_Name",
-    "Content": "loyauté sans faille"
+    "Content": ""
   },
   {
     "Id": "WeaponReson_168_Name",
@@ -91516,10 +91516,6 @@
     "Content": ""
   },
   {
-    "Id": "Huanglong_main_1_2EX_48_23",
-    "Content": ""
-  },
-  {
     "Id": "Huanglong_main_1_2EX_48_24",
     "Content": ""
   },
@@ -107617,7 +107613,7 @@
   },
   {
     "Id": "WeaponReson_21020074_Name",
-    "Content": "fig. manne inattendue"
+    "Content": ""
   },
   {
     "Id": "WeaponReson_21020084_Name",
@@ -107633,7 +107629,7 @@
   },
   {
     "Id": "WeaponReson_21040074_Name",
-    "Content": "fig. franchir une barrière et attaquer le problème"
+    "Content": ""
   },
   {
     "Id": "WeaponReson_21040084_Name",
@@ -229533,6 +229529,62 @@
   },
   {
     "Id": "LevelPlay_146000043_ReachChallengeMainText_146_1",
+    "Content": ""
+  },
+  {
+    "Id": "Side_WGST_1_1",
+    "Content": ""
+  },
+  {
+    "Id": "Side_WGST_1_2",
+    "Content": ""
+  },
+  {
+    "Id": "Side_WGST_1_3",
+    "Content": ""
+  },
+  {
+    "Id": "Side_WGST_1_4",
+    "Content": ""
+  },
+  {
+    "Id": "Side_WGST_1_5",
+    "Content": ""
+  },
+  {
+    "Id": "Side_WGST_1_6",
+    "Content": ""
+  },
+  {
+    "Id": "Side_WGST_1_7",
+    "Content": ""
+  },
+  {
+    "Id": "Side_WGST_1_8",
+    "Content": ""
+  },
+  {
+    "Id": "ItemInfo_50006_AttributesDescription",
+    "Content": ""
+  },
+  {
+    "Id": "ItemInfo_50006_BgDescription",
+    "Content": ""
+  },
+  {
+    "Id": "ItemInfo_50006_Name",
+    "Content": ""
+  },
+  {
+    "Id": "ItemInfo_50006_ObtainedShowDescription",
+    "Content": ""
+  },
+  {
+    "Id": "Text_SummaryDescribe5_Text",
+    "Content": ""
+  },
+  {
+    "Id": "ConfirmBox_195_Content",
     "Content": ""
   }
 ]
