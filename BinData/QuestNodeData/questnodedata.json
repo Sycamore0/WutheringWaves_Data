@@ -33791,15 +33791,6 @@
           },
           "ActionGuid": "4bc6054e8df04f368b79c11602ae1eac",
           "ActionId": 3000005
-        },
-        {
-          "Name": "SetEntityVisible",
-          "Params": {
-            "Visible": true,
-            "EntityIds": [109000159]
-          },
-          "ActionGuid": "7cb066ac462a466fbb691825ffb6ae98",
-          "ActionId": 3000004
         }
       ]
     }
@@ -47607,8 +47598,7 @@
             "EntityIds": [102002233]
           },
           "ActionGuid": "240cac0025b9429182df19e6339d4165",
-          "ActionId": 3000022,
-          "Disabled": true
+          "ActionId": 3000022
         },
         {
           "Name": "SwitchDataLayers",
@@ -47703,15 +47693,6 @@
           },
           "ActionGuid": "2fb821f4e2f743e5ae93b6092cb10510",
           "ActionId": 3000052
-        },
-        {
-          "Name": "AwakeEntity",
-          "Params": {
-            "EntityIds": [102002233]
-          },
-          "ActionGuid": "4849a3d9006f48de8f33a148b21478c2",
-          "Disabled": false,
-          "ActionId": 3000021
         }
       ],
       "FinishActions": [
@@ -47758,31 +47739,7 @@
           "ActionId": 3000088
         }
       ],
-      "HideTip": true,
-      "FixProcessor": {
-        "FixActions": [
-          {
-            "Timing": "OnProgress",
-            "Condition": {
-              "Type": 0,
-              "Conditions": [
-                {
-                  "Type": "CheckDungeonFinish",
-                  "DungeonId": 1504
-                }
-              ]
-            },
-            "ThenActions": [
-              {
-                "Name": "FinishCondition",
-                "Params": {},
-                "ActionGuid": "62d92c575a714d4fb2bf5c00dad17ca8",
-                "ActionId": 3000017
-              }
-            ]
-          }
-        ]
-      }
+      "HideTip": true
     }
   },
   {
@@ -74282,16 +74239,7 @@
           ]
         }
       },
-      "EnterActions": [
-        {
-          "Name": "SetPlayerOperationRestriction",
-          "Params": {
-            "Type": "EnableAll"
-          },
-          "ActionGuid": "6c711b3d3b6343c3a46b430189638165",
-          "ActionId": 3000208
-        }
-      ],
+      "EnterActions": [],
       "FinishActions": [
         {
           "Name": "Wait",
@@ -76388,45 +76336,6 @@
           "EnterRange": 20,
           "LeaveRange": 24
         }
-      },
-      "FixProcessor": {
-        "FixActions": [
-          {
-            "Timing": "Default",
-            "Condition": {
-              "Type": 0,
-              "Conditions": [
-                {
-                  "Type": "CheckPlayerPosition",
-                  "Range": {
-                    "Type": "CircleRange",
-                    "Pos": {
-                      "X": -2998,
-                      "Y": -67183,
-                      "Z": 12322
-                    },
-                    "Radius": 5000
-                  },
-                  "IsOnRange": true
-                }
-              ]
-            },
-            "ThenActions": [
-              {
-                "Name": "ServerSetPlayerPos",
-                "Params": {
-                  "Pos": {
-                    "X": -3401,
-                    "Y": -66926,
-                    "Z": 18491
-                  }
-                },
-                "ActionGuid": "1aa1bb81c5934c21acbeafaf3be28755",
-                "ActionId": 3000411
-              }
-            ]
-          }
-        ]
       }
     }
   },
@@ -84077,8 +83986,7 @@
           "ActionId": 3000013
         }
       ],
-      "FinishActions": [],
-      "RewardId": 45001
+      "FinishActions": []
     }
   },
   {
@@ -88648,20 +88556,7 @@
             "AssociatedChildQuestIds": [121, 122]
           }
         },
-        "SubTitles": [],
-        "TrackTarget": {
-          "TrackType": {
-            "Type": "Locations",
-            "Locations": [
-              {
-                "X": -44303,
-                "Y": 181763,
-                "Z": -10932,
-                "A": 0
-              }
-            ]
-          }
-        }
+        "SubTitles": []
       }
     }
   },
@@ -102609,14 +102504,6 @@
           },
           "ActionGuid": "f1e9a88800b446f6b5ca3f2c5f71d728",
           "ActionId": 3000106
-        },
-        {
-          "Name": "DestroyEntity",
-          "Params": {
-            "EntityIds": [109800359]
-          },
-          "ActionGuid": "b4f0497e8def403c908bb81fd5dce06a",
-          "ActionId": 3000176
         }
       ]
     }
@@ -102704,97 +102591,8 @@
           },
           "ActionGuid": "28357b06ba5b4ea882d2bed3edf5fe54",
           "ActionId": 3000041
-        },
-        {
-          "Name": "DestroyEntity",
-          "Params": {
-            "EntityIds": [109800359]
-          },
-          "ActionGuid": "fcf95283b8104d259d1f0c040815bf15",
-          "ActionId": 3000194
-        },
-        {
-          "Name": "UnlockEntity",
-          "Params": {
-            "EntityIds": [133001078, 109007977]
-          },
-          "ActionGuid": "1ac7aea3afc84bfdae40c71915af5513",
-          "ActionId": 3000197
-        },
-        {
-          "Name": "AwakeEntity",
-          "Params": {
-            "EntityIds": [133000993, 133001007, 133001009, 133001006]
-          },
-          "ActionGuid": "4af1d930a9aa4b7b9c1ab5434d8f86e1",
-          "ActionId": 3000201
         }
-      ],
-      "FixProcessor": {
-        "FixActions": [
-          {
-            "Timing": "OnProgress",
-            "Condition": {
-              "Type": 0,
-              "Conditions": [
-                {
-                  "Type": "CheckEntitesExist",
-                  "EntityIds": [109800359],
-                  "IsExist": true
-                }
-              ]
-            },
-            "ThenActions": [
-              {
-                "Name": "DestroyEntity",
-                "Params": {
-                  "EntityIds": [109800359]
-                },
-                "ActionGuid": "93eb98892f744b0987a67c29340d6148",
-                "ActionId": 3000202
-              }
-            ]
-          },
-          {
-            "Timing": "OnProgress",
-            "Condition": {
-              "Type": 1,
-              "Conditions": [
-                {
-                  "Type": "CheckEntitesExist",
-                  "EntityIds": [133000993],
-                  "IsExist": false
-                },
-                {
-                  "Type": "CheckEntitesExist",
-                  "EntityIds": [133001007],
-                  "IsExist": false
-                },
-                {
-                  "Type": "CheckEntitesExist",
-                  "EntityIds": [133001006],
-                  "IsExist": false
-                },
-                {
-                  "Type": "CheckEntitesExist",
-                  "EntityIds": [133001009],
-                  "IsExist": false
-                }
-              ]
-            },
-            "ThenActions": [
-              {
-                "Name": "AwakeEntity",
-                "Params": {
-                  "EntityIds": [133000993, 133001009, 133001006, 133001007]
-                },
-                "ActionGuid": "7de32be374794300929f23801257dfdf",
-                "ActionId": 3000203
-              }
-            ]
-          }
-        ]
-      }
+      ]
     }
   },
   {
@@ -106748,101 +106546,8 @@
                         },
                         "ActionGuid": "28357b06ba5b4ea882d2bed3edf5fe54",
                         "ActionId": 3000041
-                      },
-                      {
-                        "Name": "DestroyEntity",
-                        "Params": {
-                          "EntityIds": [109800359]
-                        },
-                        "ActionGuid": "fcf95283b8104d259d1f0c040815bf15",
-                        "ActionId": 3000194
-                      },
-                      {
-                        "Name": "UnlockEntity",
-                        "Params": {
-                          "EntityIds": [133001078, 109007977]
-                        },
-                        "ActionGuid": "1ac7aea3afc84bfdae40c71915af5513",
-                        "ActionId": 3000197
-                      },
-                      {
-                        "Name": "AwakeEntity",
-                        "Params": {
-                          "EntityIds": [
-                            133000993, 133001007, 133001009, 133001006
-                          ]
-                        },
-                        "ActionGuid": "4af1d930a9aa4b7b9c1ab5434d8f86e1",
-                        "ActionId": 3000201
                       }
-                    ],
-                    "FixProcessor": {
-                      "FixActions": [
-                        {
-                          "Timing": "OnProgress",
-                          "Condition": {
-                            "Type": 0,
-                            "Conditions": [
-                              {
-                                "Type": "CheckEntitesExist",
-                                "EntityIds": [109800359],
-                                "IsExist": true
-                              }
-                            ]
-                          },
-                          "ThenActions": [
-                            {
-                              "Name": "DestroyEntity",
-                              "Params": {
-                                "EntityIds": [109800359]
-                              },
-                              "ActionGuid": "93eb98892f744b0987a67c29340d6148",
-                              "ActionId": 3000202
-                            }
-                          ]
-                        },
-                        {
-                          "Timing": "OnProgress",
-                          "Condition": {
-                            "Type": 1,
-                            "Conditions": [
-                              {
-                                "Type": "CheckEntitesExist",
-                                "EntityIds": [133000993],
-                                "IsExist": false
-                              },
-                              {
-                                "Type": "CheckEntitesExist",
-                                "EntityIds": [133001007],
-                                "IsExist": false
-                              },
-                              {
-                                "Type": "CheckEntitesExist",
-                                "EntityIds": [133001006],
-                                "IsExist": false
-                              },
-                              {
-                                "Type": "CheckEntitesExist",
-                                "EntityIds": [133001009],
-                                "IsExist": false
-                              }
-                            ]
-                          },
-                          "ThenActions": [
-                            {
-                              "Name": "AwakeEntity",
-                              "Params": {
-                                "EntityIds": [
-                                  133000993, 133001009, 133001006, 133001007
-                                ]
-                              },
-                              "ActionGuid": "7de32be374794300929f23801257dfdf",
-                              "ActionId": 3000203
-                            }
-                          ]
-                        }
-                      ]
-                    }
+                    ]
                   },
                   {
                     "Type": "QuestFailed",
@@ -122338,8 +122043,7 @@
       "Type": "ParallelSelect",
       "Id": 173,
       "Desc": "",
-      "Count": 1,
-      "DisableOnline": true
+      "Count": 1
     }
   },
   {
@@ -130814,8 +130518,7 @@
       "OccupationConfig": {
         "TidDesc": "Quest_114000020_OccupyDesc_0_2",
         "Occupations": ["沃艾珥领主占用"]
-      },
-      "DisableOnline": true
+      }
     }
   },
   {
@@ -138565,32 +138268,7 @@
           "ActionGuid": "c8df1657d2194d54acbcaf786a46fd05",
           "ActionId": 3000395
         }
-      ],
-      "FixProcessor": {
-        "FixActions": [
-          {
-            "Timing": "OnProgress",
-            "Condition": {
-              "Type": 0,
-              "Conditions": [
-                {
-                  "Type": "CheckEntitesExist",
-                  "EntityIds": [139000086],
-                  "IsExist": false
-                }
-              ]
-            },
-            "ThenActions": [
-              {
-                "Name": "FinishCondition",
-                "Params": {},
-                "ActionGuid": "fb129569b0f24cfca2a81286ce86bdd2",
-                "ActionId": 3000359
-              }
-            ]
-          }
-        ]
-      }
+      ]
     }
   },
   {
@@ -143425,10 +143103,9 @@
       "TidTip": "Quest_140800000_ChildQuestTip_140_5",
       "TrackTarget": {
         "TrackType": {
-          "Type": "Entities",
-          "EntityIds": [140800590]
-        },
-        "Range": 100
+          "Type": "Locations",
+          "Locations": []
+        }
       },
       "EnterActions": [],
       "FinishActions": [
@@ -143465,6 +143142,7 @@
           "ActionId": 3000372
         }
       ],
+      "HideUi": true,
       "RewardId": 20803
     }
   },

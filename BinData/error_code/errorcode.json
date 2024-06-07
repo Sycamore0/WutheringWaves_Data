@@ -3434,7 +3434,7 @@
   {
     "Id": 600043,
     "DebugText": "玩法奖励兑换失败",
-    "Text": "Text_InstanceDungeonRewardTimeNotEnough_Text",
+    "Text": "ErrorCode_600043_Text",
     "IsTip": false
   },
   {

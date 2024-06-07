@@ -11000,41 +11000,6 @@
     "Duration": ""
   },
   {
-    "Guid": "59f426ae55f34679b02b5eab6b512cf5",
-    "Type": {
-      "Type": "Actions",
-      "Actions": [
-        {
-          "Name": "ChangeEntityState",
-          "Params": {
-            "Type": "Directly",
-            "EntityId": 29000010,
-            "State": "关卡.Common.状态.激活"
-          },
-          "ActionId": 4000013,
-          "ActionGuid": "c6cea63e80d941e7aaeb13ce4bf732e0"
-        }
-      ]
-    },
-    "Icon": "",
-    "TidContent": "LevelPlay_29000001_InteractContent_0_2",
-    "Condition": {
-      "Type": 0,
-      "Conditions": [
-        {
-          "Type": "CompareEntityState",
-          "EntityId": 29000010,
-          "State": "关卡.Common.状态.常态",
-          "Compare": "Eq"
-        }
-      ]
-    },
-    "UniquenessTest": "",
-    "DoIntactType": "Direct",
-    "Range": 0,
-    "Duration": ""
-  },
-  {
     "Guid": "65e80183956e4094b933974e73edb546",
     "Type": {
       "Type": "Actions",
@@ -24679,6 +24644,41 @@
     "Icon": "",
     "TidContent": "Quest_13000009_InteractContent_34_1",
     "Condition": "",
+    "UniquenessTest": "",
+    "DoIntactType": "Direct",
+    "Range": 0,
+    "Duration": ""
+  },
+  {
+    "Guid": "09e23f0abcc8471aad30437cdf226b0d",
+    "Type": {
+      "Type": "Actions",
+      "Actions": [
+        {
+          "Name": "ChangeEntityState",
+          "Params": {
+            "Type": "Directly",
+            "EntityId": 29000010,
+            "State": "关卡.Common.状态.激活"
+          },
+          "ActionGuid": "eb47ba606e374d6ab7bb50b8a17b2860",
+          "ActionId": 4000013
+        }
+      ]
+    },
+    "Icon": "",
+    "TidContent": "LevelPlay_29000001_InteractContent_34_1",
+    "Condition": {
+      "Type": 0,
+      "Conditions": [
+        {
+          "Type": "CompareEntityState",
+          "EntityId": 29000010,
+          "State": "关卡.Common.状态.常态",
+          "Compare": "Eq"
+        }
+      ]
+    },
     "UniquenessTest": "",
     "DoIntactType": "Direct",
     "Range": 0,
