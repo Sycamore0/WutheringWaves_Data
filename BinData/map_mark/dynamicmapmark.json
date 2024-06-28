@@ -18,7 +18,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_015_UI.SP_IconMonsterHead_015_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_015_UI.SP_IconMonsterHead_015_UI",
     "ShowCondition": 0,
@@ -47,7 +50,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_025_UI.SP_IconMonsterHead_025_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_025_UI.SP_IconMonsterHead_025_UI",
     "ShowCondition": 0,
@@ -76,7 +82,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_035_UI.SP_IconMonsterHead_035_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_035_UI.SP_IconMonsterHead_035_UI",
     "ShowCondition": 0,
@@ -105,7 +114,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_105_UI.SP_IconMonsterHead_105_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_105_UI.SP_IconMonsterHead_105_UI",
     "ShowCondition": 0,
@@ -134,7 +146,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_235_UI.SP_IconMonsterHead_235_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_235_UI.SP_IconMonsterHead_235_UI",
     "ShowCondition": 0,
@@ -163,7 +178,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_045_UI.SP_IconMonsterHead_045_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_045_UI.SP_IconMonsterHead_045_UI",
     "ShowCondition": 0,
@@ -192,7 +210,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_055_UI.SP_IconMonsterHead_055_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_055_UI.SP_IconMonsterHead_055_UI",
     "ShowCondition": 0,
@@ -221,7 +242,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_065_UI.SP_IconMonsterHead_065_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_065_UI.SP_IconMonsterHead_065_UI",
     "ShowCondition": 0,
@@ -250,7 +274,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_075_UI.SP_IconMonsterHead_075_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_075_UI.SP_IconMonsterHead_075_UI",
     "ShowCondition": 0,
@@ -279,7 +306,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_085_UI.SP_IconMonsterHead_085_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_085_UI.SP_IconMonsterHead_085_UI",
     "ShowCondition": 0,
@@ -308,7 +338,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_095_UI.SP_IconMonsterHead_095_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_095_UI.SP_IconMonsterHead_095_UI",
     "ShowCondition": 0,
@@ -337,7 +370,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_115_UI.SP_IconMonsterHead_115_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_115_UI.SP_IconMonsterHead_115_UI",
     "ShowCondition": 0,
@@ -366,7 +402,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_971_UI.SP_IconMonsterHead_971_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_971_UI.SP_IconMonsterHead_971_UI",
     "ShowCondition": 0,
@@ -395,7 +434,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_145_UI.SP_IconMonsterHead_145_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_145_UI.SP_IconMonsterHead_145_UI",
     "ShowCondition": 0,
@@ -424,7 +466,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_155_UI.SP_IconMonsterHead_155_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_155_UI.SP_IconMonsterHead_155_UI",
     "ShowCondition": 0,
@@ -453,7 +498,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_165_UI.SP_IconMonsterHead_165_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_165_UI.SP_IconMonsterHead_165_UI",
     "ShowCondition": 0,
@@ -482,7 +530,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_175_UI.SP_IconMonsterHead_175_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_175_UI.SP_IconMonsterHead_175_UI",
     "ShowCondition": 0,
@@ -511,7 +562,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_255_UI.SP_IconMonsterHead_255_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_255_UI.SP_IconMonsterHead_255_UI",
     "ShowCondition": 0,
@@ -540,7 +594,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_265_UI.SP_IconMonsterHead_265_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_265_UI.SP_IconMonsterHead_265_UI",
     "ShowCondition": 0,
@@ -569,7 +626,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_275_UI.SP_IconMonsterHead_275_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_275_UI.SP_IconMonsterHead_275_UI",
     "ShowCondition": 0,
@@ -598,7 +658,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_285_UI.SP_IconMonsterHead_285_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_285_UI.SP_IconMonsterHead_285_UI",
     "ShowCondition": 0,
@@ -627,7 +690,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_305_UI.SP_IconMonsterHead_305_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_305_UI.SP_IconMonsterHead_305_UI",
     "ShowCondition": 0,
@@ -656,7 +722,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_977_UI.SP_IconMonsterHead_977_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_977_UI.SP_IconMonsterHead_977_UI",
     "ShowCondition": 0,
@@ -685,7 +754,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_976_UI.SP_IconMonsterHead_976_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_976_UI.SP_IconMonsterHead_976_UI",
     "ShowCondition": 0,
@@ -714,7 +786,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_988_UI.SP_IconMonsterHead_988_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_988_UI.SP_IconMonsterHead_988_UI",
     "ShowCondition": 0,
@@ -743,7 +818,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_987_UI.SP_IconMonsterHead_987_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_987_UI.SP_IconMonsterHead_987_UI",
     "ShowCondition": 0,
@@ -772,7 +850,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_969_UI.SP_IconMonsterHead_969_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_969_UI.SP_IconMonsterHead_969_UI",
     "ShowCondition": 0,
@@ -801,7 +882,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_980_UI.SP_IconMonsterHead_980_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_980_UI.SP_IconMonsterHead_980_UI",
     "ShowCondition": 0,
@@ -830,7 +914,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_972_UI.SP_IconMonsterHead_972_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_972_UI.SP_IconMonsterHead_972_UI",
     "ShowCondition": 0,
@@ -859,7 +946,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_1005_UI.SP_IconMonsterHead_1005_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_1005_UI.SP_IconMonsterHead_1005_UI",
     "ShowCondition": 0,
@@ -888,7 +978,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_974_UI.SP_IconMonsterHead_974_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_974_UI.SP_IconMonsterHead_974_UI",
     "ShowCondition": 0,
@@ -917,7 +1010,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_973_UI.SP_IconMonsterHead_973_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_973_UI.SP_IconMonsterHead_973_UI",
     "ShowCondition": 0,
@@ -946,7 +1042,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_1000_UI.SP_IconMonsterHead_1000_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_1000_UI.SP_IconMonsterHead_1000_UI",
     "ShowCondition": 0,
@@ -975,7 +1074,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_185_UI.SP_IconMonsterHead_185_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_185_UI.SP_IconMonsterHead_185_UI",
     "ShowCondition": 0,
@@ -1004,7 +1106,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_125_UI.SP_IconMonsterHead_125_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_125_UI.SP_IconMonsterHead_125_UI",
     "ShowCondition": 0,
@@ -1033,7 +1138,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_135_UI.SP_IconMonsterHead_135_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_135_UI.SP_IconMonsterHead_135_UI",
     "ShowCondition": 0,
@@ -1062,7 +1170,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_195_UI.SP_IconMonsterHead_195_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_195_UI.SP_IconMonsterHead_195_UI",
     "ShowCondition": 0,
@@ -1091,7 +1202,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_205_UI.SP_IconMonsterHead_205_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_205_UI.SP_IconMonsterHead_205_UI",
     "ShowCondition": 0,
@@ -1120,7 +1234,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_245_UI.SP_IconMonsterHead_245_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_245_UI.SP_IconMonsterHead_245_UI",
     "ShowCondition": 0,
@@ -1149,7 +1266,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_215_UI.SP_IconMonsterHead_215_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_215_UI.SP_IconMonsterHead_215_UI",
     "ShowCondition": 0,
@@ -1178,7 +1298,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_295_UI.SP_IconMonsterHead_295_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_295_UI.SP_IconMonsterHead_295_UI",
     "ShowCondition": 0,
@@ -1207,7 +1330,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_315_UI.SP_IconMonsterHead_315_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_315_UI.SP_IconMonsterHead_315_UI",
     "ShowCondition": 0,
@@ -1236,7 +1362,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_984_UI.SP_IconMonsterHead_984_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_984_UI.SP_IconMonsterHead_984_UI",
     "ShowCondition": 0,
@@ -1265,7 +1394,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_989_UI.SP_IconMonsterHead_989_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_989_UI.SP_IconMonsterHead_989_UI",
     "ShowCondition": 0,
@@ -1294,7 +1426,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_986_UI.SP_IconMonsterHead_986_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_986_UI.SP_IconMonsterHead_986_UI",
     "ShowCondition": 0,
@@ -1323,7 +1458,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_970_UI.SP_IconMonsterHead_970_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_986_UI.SP_IconMonsterHead_970_UI",
     "ShowCondition": 0,
@@ -1352,7 +1490,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_979_UI.SP_IconMonsterHead_979_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_970_UI.SP_IconMonsterHead_979_UI",
     "ShowCondition": 0,
@@ -1381,7 +1522,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_978_UI.SP_IconMonsterHead_978_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_979_UI.SP_IconMonsterHead_978_UI",
     "ShowCondition": 0,
@@ -1410,7 +1554,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_975_UI.SP_IconMonsterHead_975_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_975_UI.SP_IconMonsterHead_975_UI",
     "ShowCondition": 0,
@@ -1439,7 +1586,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_1005_UI.SP_IconMonsterHead_1005_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_1005_UI.SP_IconMonsterHead_1005_UI",
     "ShowCondition": 0,
@@ -1468,7 +1618,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_1003_UI.SP_IconMonsterHead_1003_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_1003_UI.SP_IconMonsterHead_1003_UI",
     "ShowCondition": 0,
@@ -1497,7 +1650,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_225_UI.SP_IconMonsterHead_225_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_225_UI.SP_IconMonsterHead_225_UI",
     "ShowCondition": 0,
@@ -1526,7 +1682,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_325_UI.SP_IconMonsterHead_325_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_325_UI.SP_IconMonsterHead_325_UI",
     "ShowCondition": 0,
@@ -1555,7 +1714,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_995_UI.SP_IconMonsterHead_995_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_995_UI.SP_IconMonsterHead_995_UI",
     "ShowCondition": 0,
@@ -1584,7 +1746,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_994_UI.SP_IconMonsterHead_994_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_994_UI.SP_IconMonsterHead_994_UI",
     "ShowCondition": 0,
@@ -1613,7 +1778,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_996_UI.SP_IconMonsterHead_996_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_996_UI.SP_IconMonsterHead_996_UI",
     "ShowCondition": 0,
@@ -1642,7 +1810,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_997_UI.SP_IconMonsterHead_997_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_997_UI.SP_IconMonsterHead_997_UI",
     "ShowCondition": 0,
@@ -1671,7 +1842,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_999_UI.SP_IconMonsterHead_999_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_999_UI.SP_IconMonsterHead_999_UI",
     "ShowCondition": 0,
@@ -1700,7 +1874,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_990_UI.SP_IconMonsterHead_990_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_990_UI.SP_IconMonsterHead_990_UI",
     "ShowCondition": 0,
@@ -1729,7 +1906,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_WYQ_03_UI.SP_IconMap_WYQ_03_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_WYQ_03_UI.SP_IconMap_WYQ_03_UI",
     "ShowCondition": 0,
@@ -1758,7 +1938,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_WYQ_03_UI.SP_IconMap_WYQ_03_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_WYQ_03_UI.SP_IconMap_WYQ_03_UI",
     "ShowCondition": 0,
@@ -1787,7 +1970,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_WYQ_03_UI.SP_IconMap_WYQ_03_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_WYQ_03_UI.SP_IconMap_WYQ_03_UI",
     "ShowCondition": 0,
@@ -1816,7 +2002,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_WYQ_03_UI.SP_IconMap_WYQ_03_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_WYQ_03_UI.SP_IconMap_WYQ_03_UI",
     "ShowCondition": 0,
@@ -1845,7 +2034,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_1001_UI.SP_IconMonsterHead_1001_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_1001_UI.SP_IconMonsterHead_1001_UI",
     "ShowCondition": 0,
@@ -1874,7 +2066,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_992_UI.SP_IconMonsterHead_992_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_992_UI.SP_IconMonsterHead_992_UI",
     "ShowCondition": 0,
@@ -1903,7 +2098,10 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_993_UI.SP_IconMonsterHead_993_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_993_UI.SP_IconMonsterHead_993_UI",
     "ShowCondition": 0,
@@ -1932,13 +2130,944 @@
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,
-    "ShowRange": [-9999, 9999],
+    "ShowRange": [
+      -9999,
+      9999
+    ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_226_UI.SP_IconMonsterHead_226_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_226_UI.SP_IconMonsterHead_226_UI",
     "ShowCondition": 0,
     "FogShow": 1,
     "MapShow": 3,
     "Scale": 1,
+    "FirstReward": 0,
+    "Reward": 0
+  },
+  {
+    "MarkId": 7510,
+    "MapId": 8,
+    "RelativeSubType": 0,
+    "FogHide": 0,
+    "RelativeType": 0,
+    "RelativeId": 0,
+    "MarkVector": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "EntityConfigId": 0,
+    "ObjectType": 7,
+    "MarkTitle": "MapMark_7510_MarkTitle",
+    "MarkDesc": "MapMark_7510_MarkDesc",
+    "ToBeDiscovered": 0,
+    "IsMonster": 1,
+    "ShowPriority": 7,
+    "ShowRange": [
+      -9999,
+      9999
+    ],
+    "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "ShowCondition": 0,
+    "FogShow": 1,
+    "MapShow": 3,
+    "Scale": 0.699999988079071,
+    "FirstReward": 0,
+    "Reward": 0
+  },
+  {
+    "MarkId": 7511,
+    "MapId": 8,
+    "RelativeSubType": 0,
+    "FogHide": 0,
+    "RelativeType": 0,
+    "RelativeId": 0,
+    "MarkVector": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "EntityConfigId": 0,
+    "ObjectType": 7,
+    "MarkTitle": "MapMark_7511_MarkTitle",
+    "MarkDesc": "MapMark_7511_MarkDesc",
+    "ToBeDiscovered": 0,
+    "IsMonster": 1,
+    "ShowPriority": 7,
+    "ShowRange": [
+      -9999,
+      9999
+    ],
+    "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "ShowCondition": 0,
+    "FogShow": 1,
+    "MapShow": 3,
+    "Scale": 0.699999988079071,
+    "FirstReward": 0,
+    "Reward": 0
+  },
+  {
+    "MarkId": 7512,
+    "MapId": 8,
+    "RelativeSubType": 0,
+    "FogHide": 0,
+    "RelativeType": 0,
+    "RelativeId": 0,
+    "MarkVector": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "EntityConfigId": 0,
+    "ObjectType": 7,
+    "MarkTitle": "MapMark_7512_MarkTitle",
+    "MarkDesc": "MapMark_7512_MarkDesc",
+    "ToBeDiscovered": 0,
+    "IsMonster": 1,
+    "ShowPriority": 7,
+    "ShowRange": [
+      -9999,
+      9999
+    ],
+    "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "ShowCondition": 0,
+    "FogShow": 1,
+    "MapShow": 3,
+    "Scale": 0.699999988079071,
+    "FirstReward": 0,
+    "Reward": 0
+  },
+  {
+    "MarkId": 7513,
+    "MapId": 8,
+    "RelativeSubType": 0,
+    "FogHide": 0,
+    "RelativeType": 0,
+    "RelativeId": 0,
+    "MarkVector": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "EntityConfigId": 0,
+    "ObjectType": 7,
+    "MarkTitle": "MapMark_7513_MarkTitle",
+    "MarkDesc": "MapMark_7513_MarkDesc",
+    "ToBeDiscovered": 0,
+    "IsMonster": 1,
+    "ShowPriority": 7,
+    "ShowRange": [
+      -9999,
+      9999
+    ],
+    "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "ShowCondition": 0,
+    "FogShow": 1,
+    "MapShow": 3,
+    "Scale": 0.699999988079071,
+    "FirstReward": 0,
+    "Reward": 0
+  },
+  {
+    "MarkId": 7514,
+    "MapId": 8,
+    "RelativeSubType": 0,
+    "FogHide": 0,
+    "RelativeType": 0,
+    "RelativeId": 0,
+    "MarkVector": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "EntityConfigId": 0,
+    "ObjectType": 7,
+    "MarkTitle": "MapMark_7514_MarkTitle",
+    "MarkDesc": "MapMark_7514_MarkDesc",
+    "ToBeDiscovered": 0,
+    "IsMonster": 1,
+    "ShowPriority": 7,
+    "ShowRange": [
+      -9999,
+      9999
+    ],
+    "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "ShowCondition": 0,
+    "FogShow": 1,
+    "MapShow": 3,
+    "Scale": 0.699999988079071,
+    "FirstReward": 0,
+    "Reward": 0
+  },
+  {
+    "MarkId": 7515,
+    "MapId": 8,
+    "RelativeSubType": 0,
+    "FogHide": 0,
+    "RelativeType": 0,
+    "RelativeId": 0,
+    "MarkVector": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "EntityConfigId": 0,
+    "ObjectType": 7,
+    "MarkTitle": "MapMark_7515_MarkTitle",
+    "MarkDesc": "MapMark_7515_MarkDesc",
+    "ToBeDiscovered": 0,
+    "IsMonster": 1,
+    "ShowPriority": 7,
+    "ShowRange": [
+      -9999,
+      9999
+    ],
+    "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "ShowCondition": 0,
+    "FogShow": 1,
+    "MapShow": 3,
+    "Scale": 0.699999988079071,
+    "FirstReward": 0,
+    "Reward": 0
+  },
+  {
+    "MarkId": 7516,
+    "MapId": 8,
+    "RelativeSubType": 0,
+    "FogHide": 0,
+    "RelativeType": 0,
+    "RelativeId": 0,
+    "MarkVector": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "EntityConfigId": 0,
+    "ObjectType": 7,
+    "MarkTitle": "MapMark_7516_MarkTitle",
+    "MarkDesc": "MapMark_7516_MarkDesc",
+    "ToBeDiscovered": 0,
+    "IsMonster": 1,
+    "ShowPriority": 7,
+    "ShowRange": [
+      -9999,
+      9999
+    ],
+    "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "ShowCondition": 0,
+    "FogShow": 1,
+    "MapShow": 3,
+    "Scale": 0.699999988079071,
+    "FirstReward": 0,
+    "Reward": 0
+  },
+  {
+    "MarkId": 7517,
+    "MapId": 8,
+    "RelativeSubType": 0,
+    "FogHide": 0,
+    "RelativeType": 0,
+    "RelativeId": 0,
+    "MarkVector": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "EntityConfigId": 0,
+    "ObjectType": 7,
+    "MarkTitle": "MapMark_7517_MarkTitle",
+    "MarkDesc": "MapMark_7517_MarkDesc",
+    "ToBeDiscovered": 0,
+    "IsMonster": 1,
+    "ShowPriority": 7,
+    "ShowRange": [
+      -9999,
+      9999
+    ],
+    "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "ShowCondition": 0,
+    "FogShow": 1,
+    "MapShow": 3,
+    "Scale": 0.699999988079071,
+    "FirstReward": 0,
+    "Reward": 0
+  },
+  {
+    "MarkId": 7518,
+    "MapId": 8,
+    "RelativeSubType": 0,
+    "FogHide": 0,
+    "RelativeType": 0,
+    "RelativeId": 0,
+    "MarkVector": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "EntityConfigId": 0,
+    "ObjectType": 7,
+    "MarkTitle": "MapMark_7518_MarkTitle",
+    "MarkDesc": "MapMark_7518_MarkDesc",
+    "ToBeDiscovered": 0,
+    "IsMonster": 1,
+    "ShowPriority": 7,
+    "ShowRange": [
+      -9999,
+      9999
+    ],
+    "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "ShowCondition": 0,
+    "FogShow": 1,
+    "MapShow": 3,
+    "Scale": 0.699999988079071,
+    "FirstReward": 0,
+    "Reward": 0
+  },
+  {
+    "MarkId": 7519,
+    "MapId": 8,
+    "RelativeSubType": 0,
+    "FogHide": 0,
+    "RelativeType": 0,
+    "RelativeId": 0,
+    "MarkVector": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "EntityConfigId": 0,
+    "ObjectType": 7,
+    "MarkTitle": "MapMark_7519_MarkTitle",
+    "MarkDesc": "MapMark_7519_MarkDesc",
+    "ToBeDiscovered": 0,
+    "IsMonster": 1,
+    "ShowPriority": 7,
+    "ShowRange": [
+      -9999,
+      9999
+    ],
+    "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "ShowCondition": 0,
+    "FogShow": 1,
+    "MapShow": 3,
+    "Scale": 0.699999988079071,
+    "FirstReward": 0,
+    "Reward": 0
+  },
+  {
+    "MarkId": 7520,
+    "MapId": 8,
+    "RelativeSubType": 0,
+    "FogHide": 0,
+    "RelativeType": 0,
+    "RelativeId": 0,
+    "MarkVector": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "EntityConfigId": 0,
+    "ObjectType": 7,
+    "MarkTitle": "MapMark_7520_MarkTitle",
+    "MarkDesc": "MapMark_7520_MarkDesc",
+    "ToBeDiscovered": 0,
+    "IsMonster": 1,
+    "ShowPriority": 7,
+    "ShowRange": [
+      -9999,
+      9999
+    ],
+    "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "ShowCondition": 0,
+    "FogShow": 1,
+    "MapShow": 3,
+    "Scale": 0.699999988079071,
+    "FirstReward": 0,
+    "Reward": 0
+  },
+  {
+    "MarkId": 7521,
+    "MapId": 8,
+    "RelativeSubType": 0,
+    "FogHide": 0,
+    "RelativeType": 0,
+    "RelativeId": 0,
+    "MarkVector": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "EntityConfigId": 0,
+    "ObjectType": 7,
+    "MarkTitle": "MapMark_7521_MarkTitle",
+    "MarkDesc": "MapMark_7521_MarkDesc",
+    "ToBeDiscovered": 0,
+    "IsMonster": 1,
+    "ShowPriority": 7,
+    "ShowRange": [
+      -9999,
+      9999
+    ],
+    "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "ShowCondition": 0,
+    "FogShow": 1,
+    "MapShow": 3,
+    "Scale": 0.699999988079071,
+    "FirstReward": 0,
+    "Reward": 0
+  },
+  {
+    "MarkId": 7522,
+    "MapId": 8,
+    "RelativeSubType": 0,
+    "FogHide": 0,
+    "RelativeType": 0,
+    "RelativeId": 0,
+    "MarkVector": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "EntityConfigId": 0,
+    "ObjectType": 7,
+    "MarkTitle": "MapMark_7522_MarkTitle",
+    "MarkDesc": "MapMark_7522_MarkDesc",
+    "ToBeDiscovered": 0,
+    "IsMonster": 1,
+    "ShowPriority": 7,
+    "ShowRange": [
+      -9999,
+      9999
+    ],
+    "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "ShowCondition": 0,
+    "FogShow": 1,
+    "MapShow": 3,
+    "Scale": 0.699999988079071,
+    "FirstReward": 0,
+    "Reward": 0
+  },
+  {
+    "MarkId": 7530,
+    "MapId": 8,
+    "RelativeSubType": 0,
+    "FogHide": 0,
+    "RelativeType": 0,
+    "RelativeId": 0,
+    "MarkVector": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "EntityConfigId": 11900183,
+    "ObjectType": 7,
+    "MarkTitle": "MapMark_7534_MarkTitle",
+    "MarkDesc": "MapMark_7530_MarkDesc",
+    "ToBeDiscovered": 0,
+    "IsMonster": 1,
+    "ShowPriority": 7,
+    "ShowRange": [
+      -9999,
+      9999
+    ],
+    "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "ShowCondition": 0,
+    "FogShow": 1,
+    "MapShow": 3,
+    "Scale": 0.699999988079071,
+    "FirstReward": 0,
+    "Reward": 0
+  },
+  {
+    "MarkId": 7531,
+    "MapId": 8,
+    "RelativeSubType": 0,
+    "FogHide": 0,
+    "RelativeType": 0,
+    "RelativeId": 0,
+    "MarkVector": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "EntityConfigId": 11900187,
+    "ObjectType": 7,
+    "MarkTitle": "MapMark_7531_MarkTitle",
+    "MarkDesc": "MapMark_7531_MarkDesc",
+    "ToBeDiscovered": 0,
+    "IsMonster": 1,
+    "ShowPriority": 7,
+    "ShowRange": [
+      -9999,
+      9999
+    ],
+    "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "ShowCondition": 0,
+    "FogShow": 1,
+    "MapShow": 3,
+    "Scale": 0.699999988079071,
+    "FirstReward": 0,
+    "Reward": 0
+  },
+  {
+    "MarkId": 7532,
+    "MapId": 8,
+    "RelativeSubType": 0,
+    "FogHide": 0,
+    "RelativeType": 0,
+    "RelativeId": 0,
+    "MarkVector": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "EntityConfigId": 11900190,
+    "ObjectType": 7,
+    "MarkTitle": "MapMark_7532_MarkTitle",
+    "MarkDesc": "MapMark_7532_MarkDesc",
+    "ToBeDiscovered": 0,
+    "IsMonster": 1,
+    "ShowPriority": 7,
+    "ShowRange": [
+      -9999,
+      9999
+    ],
+    "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "ShowCondition": 0,
+    "FogShow": 1,
+    "MapShow": 3,
+    "Scale": 0.699999988079071,
+    "FirstReward": 0,
+    "Reward": 0
+  },
+  {
+    "MarkId": 7533,
+    "MapId": 8,
+    "RelativeSubType": 0,
+    "FogHide": 0,
+    "RelativeType": 0,
+    "RelativeId": 0,
+    "MarkVector": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "EntityConfigId": 11900197,
+    "ObjectType": 7,
+    "MarkTitle": "MapMark_7533_MarkTitle",
+    "MarkDesc": "MapMark_7533_MarkDesc",
+    "ToBeDiscovered": 0,
+    "IsMonster": 1,
+    "ShowPriority": 7,
+    "ShowRange": [
+      -9999,
+      9999
+    ],
+    "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "ShowCondition": 0,
+    "FogShow": 1,
+    "MapShow": 3,
+    "Scale": 0.699999988079071,
+    "FirstReward": 0,
+    "Reward": 0
+  },
+  {
+    "MarkId": 7534,
+    "MapId": 8,
+    "RelativeSubType": 0,
+    "FogHide": 0,
+    "RelativeType": 0,
+    "RelativeId": 0,
+    "MarkVector": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "EntityConfigId": 0,
+    "ObjectType": 7,
+    "MarkTitle": "MapMark_7530_MarkTitle",
+    "MarkDesc": "MapMark_7534_MarkDesc",
+    "ToBeDiscovered": 0,
+    "IsMonster": 1,
+    "ShowPriority": 7,
+    "ShowRange": [
+      -9999,
+      9999
+    ],
+    "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "ShowCondition": 0,
+    "FogShow": 1,
+    "MapShow": 3,
+    "Scale": 0.699999988079071,
+    "FirstReward": 0,
+    "Reward": 0
+  },
+  {
+    "MarkId": 7535,
+    "MapId": 8,
+    "RelativeSubType": 0,
+    "FogHide": 0,
+    "RelativeType": 0,
+    "RelativeId": 0,
+    "MarkVector": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "EntityConfigId": 11900215,
+    "ObjectType": 7,
+    "MarkTitle": "MapMark_7535_MarkTitle",
+    "MarkDesc": "MapMark_7535_MarkDesc",
+    "ToBeDiscovered": 0,
+    "IsMonster": 1,
+    "ShowPriority": 7,
+    "ShowRange": [
+      -9999,
+      9999
+    ],
+    "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "ShowCondition": 0,
+    "FogShow": 1,
+    "MapShow": 3,
+    "Scale": 0.699999988079071,
+    "FirstReward": 0,
+    "Reward": 0
+  },
+  {
+    "MarkId": 7536,
+    "MapId": 8,
+    "RelativeSubType": 0,
+    "FogHide": 0,
+    "RelativeType": 0,
+    "RelativeId": 0,
+    "MarkVector": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "EntityConfigId": 11900198,
+    "ObjectType": 7,
+    "MarkTitle": "MapMark_7536_MarkTitle",
+    "MarkDesc": "MapMark_7536_MarkDesc",
+    "ToBeDiscovered": 0,
+    "IsMonster": 1,
+    "ShowPriority": 7,
+    "ShowRange": [
+      -9999,
+      9999
+    ],
+    "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "ShowCondition": 0,
+    "FogShow": 1,
+    "MapShow": 3,
+    "Scale": 0.699999988079071,
+    "FirstReward": 0,
+    "Reward": 0
+  },
+  {
+    "MarkId": 7537,
+    "MapId": 8,
+    "RelativeSubType": 0,
+    "FogHide": 0,
+    "RelativeType": 0,
+    "RelativeId": 0,
+    "MarkVector": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "EntityConfigId": 11900200,
+    "ObjectType": 7,
+    "MarkTitle": "MapMark_7537_MarkTitle",
+    "MarkDesc": "MapMark_7537_MarkDesc",
+    "ToBeDiscovered": 0,
+    "IsMonster": 1,
+    "ShowPriority": 7,
+    "ShowRange": [
+      -9999,
+      9999
+    ],
+    "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "ShowCondition": 0,
+    "FogShow": 1,
+    "MapShow": 3,
+    "Scale": 0.699999988079071,
+    "FirstReward": 0,
+    "Reward": 0
+  },
+  {
+    "MarkId": 7538,
+    "MapId": 8,
+    "RelativeSubType": 0,
+    "FogHide": 0,
+    "RelativeType": 0,
+    "RelativeId": 0,
+    "MarkVector": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "EntityConfigId": 11900205,
+    "ObjectType": 7,
+    "MarkTitle": "MapMark_7538_MarkTitle",
+    "MarkDesc": "MapMark_7538_MarkDesc",
+    "ToBeDiscovered": 0,
+    "IsMonster": 1,
+    "ShowPriority": 7,
+    "ShowRange": [
+      -9999,
+      9999
+    ],
+    "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "ShowCondition": 0,
+    "FogShow": 1,
+    "MapShow": 3,
+    "Scale": 0.699999988079071,
+    "FirstReward": 0,
+    "Reward": 0
+  },
+  {
+    "MarkId": 7523,
+    "MapId": 8,
+    "RelativeSubType": 0,
+    "FogHide": 0,
+    "RelativeType": 0,
+    "RelativeId": 0,
+    "MarkVector": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "EntityConfigId": 0,
+    "ObjectType": 7,
+    "MarkTitle": "MapMark_7523_MarkTitle",
+    "MarkDesc": "MapMark_7523_MarkDesc",
+    "ToBeDiscovered": 0,
+    "IsMonster": 1,
+    "ShowPriority": 7,
+    "ShowRange": [
+      -9999,
+      9999
+    ],
+    "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "ShowCondition": 0,
+    "FogShow": 1,
+    "MapShow": 3,
+    "Scale": 0.699999988079071,
+    "FirstReward": 0,
+    "Reward": 0
+  },
+  {
+    "MarkId": 6034,
+    "MapId": 8,
+    "RelativeSubType": 0,
+    "FogHide": 0,
+    "RelativeType": 0,
+    "RelativeId": 0,
+    "MarkVector": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "EntityConfigId": 0,
+    "ObjectType": 7,
+    "MarkTitle": "MonsterInfo_310000350_Name",
+    "MarkDesc": "MonsterInfo_310000350_DiscoveredDes",
+    "ToBeDiscovered": 0,
+    "IsMonster": 1,
+    "ShowPriority": 7,
+    "ShowRange": [
+      -9999,
+      9999
+    ],
+    "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_326_UI.SP_IconMonsterHead_326_UI",
+    "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_326_UI.SP_IconMonsterHead_326_UI",
+    "ShowCondition": 0,
+    "FogShow": 1,
+    "MapShow": 3,
+    "Scale": 1,
+    "FirstReward": 0,
+    "Reward": 0
+  },
+  {
+    "MarkId": 6035,
+    "MapId": 8,
+    "RelativeSubType": 0,
+    "FogHide": 0,
+    "RelativeType": 0,
+    "RelativeId": 0,
+    "MarkVector": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "EntityConfigId": 0,
+    "ObjectType": 7,
+    "MarkTitle": "MonsterInfo_310000360_Name",
+    "MarkDesc": "MonsterInfo_310000360_DiscoveredDes",
+    "ToBeDiscovered": 0,
+    "IsMonster": 1,
+    "ShowPriority": 7,
+    "ShowRange": [
+      -9999,
+      9999
+    ],
+    "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_331_UI.SP_IconMonsterHead_331_UI",
+    "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_331_UI.SP_IconMonsterHead_331_UI",
+    "ShowCondition": 0,
+    "FogShow": 1,
+    "MapShow": 3,
+    "Scale": 1,
+    "FirstReward": 0,
+    "Reward": 0
+  },
+  {
+    "MarkId": 6518,
+    "MapId": 8,
+    "RelativeSubType": 0,
+    "FogHide": 0,
+    "RelativeType": 0,
+    "RelativeId": 0,
+    "MarkVector": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "EntityConfigId": 0,
+    "ObjectType": 7,
+    "MarkTitle": "MonsterInfo_320000190_Name",
+    "MarkDesc": "MonsterInfo_320000190_UndiscoveredDes",
+    "ToBeDiscovered": 0,
+    "IsMonster": 1,
+    "ShowPriority": 7,
+    "ShowRange": [
+      -9999,
+      9999
+    ],
+    "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_985_UI.SP_IconMonsterHead_985_UI",
+    "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_985_UI.SP_IconMonsterHead_985_UI",
+    "ShowCondition": 0,
+    "FogShow": 1,
+    "MapShow": 3,
+    "Scale": 1,
+    "FirstReward": 0,
+    "Reward": 0
+  },
+  {
+    "MarkId": 6519,
+    "MapId": 8,
+    "RelativeSubType": 0,
+    "FogHide": 0,
+    "RelativeType": 0,
+    "RelativeId": 0,
+    "MarkVector": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "EntityConfigId": 0,
+    "ObjectType": 7,
+    "MarkTitle": "MonsterInfo_320000200_Name",
+    "MarkDesc": "MonsterInfo_320000200_UndiscoveredDes",
+    "ToBeDiscovered": 0,
+    "IsMonster": 1,
+    "ShowPriority": 7,
+    "ShowRange": [
+      -9999,
+      9999
+    ],
+    "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_330_UI.SP_IconMonsterHead_330_UI",
+    "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_330_UI.SP_IconMonsterHead_330_UI",
+    "ShowCondition": 0,
+    "FogShow": 1,
+    "MapShow": 3,
+    "Scale": 1,
+    "FirstReward": 0,
+    "Reward": 0
+  },
+  {
+    "MarkId": 6520,
+    "MapId": 8,
+    "RelativeSubType": 0,
+    "FogHide": 0,
+    "RelativeType": 0,
+    "RelativeId": 0,
+    "MarkVector": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "EntityConfigId": 0,
+    "ObjectType": 7,
+    "MarkTitle": "MonsterInfo_320000210_Name",
+    "MarkDesc": "MonsterInfo_320000210_UndiscoveredDes",
+    "ToBeDiscovered": 0,
+    "IsMonster": 1,
+    "ShowPriority": 7,
+    "ShowRange": [
+      -9999,
+      9999
+    ],
+    "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_329_UI.SP_IconMonsterHead_329_UI",
+    "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMonsterHead_329_UI.SP_IconMonsterHead_329_UI",
+    "ShowCondition": 0,
+    "FogShow": 1,
+    "MapShow": 3,
+    "Scale": 1,
+    "FirstReward": 0,
+    "Reward": 0
+  },
+  {
+    "MarkId": 7524,
+    "MapId": 8,
+    "RelativeSubType": 0,
+    "FogHide": 0,
+    "RelativeType": 0,
+    "RelativeId": 0,
+    "MarkVector": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "EntityConfigId": 0,
+    "ObjectType": 7,
+    "MarkTitle": "MapMark_300202_MarkTitle",
+    "MarkDesc": "MapMark_300202_MarkDesc",
+    "ToBeDiscovered": 0,
+    "IsMonster": 1,
+    "ShowPriority": 7,
+    "ShowRange": [
+      -9999,
+      9999
+    ],
+    "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_05_UI.SP_IconMap_Activity_05_UI",
+    "ShowCondition": 0,
+    "FogShow": 1,
+    "MapShow": 3,
+    "Scale": 0.699999988079071,
     "FirstReward": 0,
     "Reward": 0
   }

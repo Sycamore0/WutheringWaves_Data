@@ -19,10 +19,6 @@
       {
         "Key": "Gamepad_RightY",
         "Value": 0.699999988079071
-      },
-      {
-        "Key": "GenericUSBController_Axis3",
-        "Value": 0.699999988079071
       }
     ],
     "DisplayName": ""
@@ -54,10 +50,6 @@
     "GamepadKeys": [
       {
         "Key": "Gamepad_LeftY",
-        "Value": 1
-      },
-      {
-        "Key": "GenericUSBController_Axis5",
         "Value": 1
       }
     ],
@@ -91,10 +83,6 @@
       {
         "Key": "Gamepad_LeftX",
         "Value": 1
-      },
-      {
-        "Key": "GenericUSBController_Axis6",
-        "Value": 1
       }
     ],
     "DisplayName": ""
@@ -118,10 +106,6 @@
     "GamepadKeys": [
       {
         "Key": "Gamepad_RightX",
-        "Value": 0.699999988079071
-      },
-      {
-        "Key": "GenericUSBController_Axis4",
         "Value": 0.699999988079071
       }
     ],
@@ -185,10 +169,6 @@
       {
         "Key": "Gamepad_RightTriggerAxis",
         "Value": -1
-      },
-      {
-        "Key": "GenericUSBController_Axis1",
-        "Value": -1
       }
     ],
     "DisplayName": ""
@@ -212,10 +192,6 @@
     "GamepadKeys": [
       {
         "Key": "Gamepad_LeftTriggerAxis",
-        "Value": 1
-      },
-      {
-        "Key": "GenericUSBController_Axis2",
         "Value": 1
       }
     ],
@@ -249,10 +225,6 @@
       {
         "Key": "Gamepad_LeftY",
         "Value": 1
-      },
-      {
-        "Key": "GenericUSBController_Axis5",
-        "Value": 1
       }
     ],
     "DisplayName": ""
@@ -285,10 +257,6 @@
       {
         "Key": "Gamepad_LeftX",
         "Value": 1
-      },
-      {
-        "Key": "GenericUSBController_Axis6",
-        "Value": 1
       }
     ],
     "DisplayName": ""
@@ -306,14 +274,6 @@
       },
       {
         "Key": "Gamepad_LeftX",
-        "Value": 0.20000000298023224
-      },
-      {
-        "Key": "GenericUSBController_Button17",
-        "Value": 0.20000000298023224
-      },
-      {
-        "Key": "GenericUSBController_Axis6",
         "Value": 0.20000000298023224
       }
     ],
@@ -333,14 +293,6 @@
       {
         "Key": "Gamepad_LeftX",
         "Value": 0.20000000298023224
-      },
-      {
-        "Key": "GenericUSBController_Button19",
-        "Value": -0.20000000298023224
-      },
-      {
-        "Key": "GenericUSBController_Axis6",
-        "Value": 0.20000000298023224
       }
     ],
     "DisplayName": ""
@@ -354,10 +306,6 @@
     "GamepadKeys": [
       {
         "Key": "Gamepad_LeftY",
-        "Value": 1
-      },
-      {
-        "Key": "GenericUSBController_Axis5",
         "Value": 1
       }
     ],
@@ -373,10 +321,6 @@
       {
         "Key": "Gamepad_LeftX",
         "Value": 1
-      },
-      {
-        "Key": "GenericUSBController_Axis6",
-        "Value": 1
       }
     ],
     "DisplayName": ""
@@ -391,10 +335,6 @@
       {
         "Key": "Gamepad_RightY",
         "Value": 1
-      },
-      {
-        "Key": "GenericUSBController_Axis3",
-        "Value": 1
       }
     ],
     "DisplayName": ""
@@ -408,10 +348,6 @@
     "GamepadKeys": [
       {
         "Key": "Gamepad_RightX",
-        "Value": 1
-      },
-      {
-        "Key": "GenericUSBController_Axis4",
         "Value": 1
       }
     ],
@@ -437,10 +373,6 @@
       {
         "Key": "Gamepad_RightY",
         "Value": 1
-      },
-      {
-        "Key": "GenericUSBController_Axis3",
-        "Value": 1
       }
     ],
     "DisplayName": ""
@@ -464,10 +396,6 @@
     "GamepadKeys": [
       {
         "Key": "Gamepad_RightX",
-        "Value": 1
-      },
-      {
-        "Key": "GenericUSBController_Axis4",
         "Value": 1
       }
     ],
@@ -512,10 +440,6 @@
       {
         "Key": "Gamepad_Left2D",
         "Value": 1
-      },
-      {
-        "Key": "GenericUSBController_Button28",
-        "Value": 1
       }
     ],
     "DisplayName": ""
@@ -539,10 +463,6 @@
     "GamepadKeys": [
       {
         "Key": "Gamepad_Right2D",
-        "Value": 1
-      },
-      {
-        "Key": "GenericUSBController_Button29",
         "Value": 1
       }
     ],
@@ -585,10 +505,6 @@
       {
         "Key": "Gamepad_LeftX",
         "Value": 1
-      },
-      {
-        "Key": "GenericUSBController_Axis6",
-        "Value": 1
       }
     ],
     "DisplayName": ""
@@ -602,10 +518,6 @@
     "GamepadKeys": [
       {
         "Key": "Gamepad_LeftX",
-        "Value": 1
-      },
-      {
-        "Key": "GenericUSBController_Axis6",
         "Value": 1
       }
     ],
@@ -621,10 +533,6 @@
       {
         "Key": "Gamepad_LeftTriggerAxis",
         "Value": -1
-      },
-      {
-        "Key": "GenericUSBController_Axis2",
-        "Value": -1
       }
     ],
     "DisplayName": ""
@@ -638,10 +546,6 @@
     "GamepadKeys": [
       {
         "Key": "Gamepad_RightTriggerAxis",
-        "Value": 1
-      },
-      {
-        "Key": "GenericUSBController_Axis1",
         "Value": 1
       }
     ],
@@ -675,10 +579,6 @@
       {
         "Key": "Gamepad_LeftY",
         "Value": 1
-      },
-      {
-        "Key": "GenericUSBController_Axis5",
-        "Value": 1
       }
     ],
     "DisplayName": ""
@@ -711,9 +611,61 @@
       {
         "Key": "Gamepad_LeftX",
         "Value": 1
-      },
+      }
+    ],
+    "DisplayName": ""
+  },
+  {
+    "Id": 29,
+    "AxisName": "RoleLookUp",
+    "AxisType": 4,
+    "PcKeys": [],
+    "FrancePcKeys": [],
+    "GamepadKeys": [
       {
-        "Key": "GenericUSBController_Axis6",
+        "Key": "Gamepad_RightY",
+        "Value": 1
+      }
+    ],
+    "DisplayName": ""
+  },
+  {
+    "Id": 30,
+    "AxisName": "RoleTurn",
+    "AxisType": 4,
+    "PcKeys": [],
+    "FrancePcKeys": [],
+    "GamepadKeys": [
+      {
+        "Key": "Gamepad_RightX",
+        "Value": 1
+      }
+    ],
+    "DisplayName": ""
+  },
+  {
+    "Id": 31,
+    "AxisName": "RoleIncrease",
+    "AxisType": 4,
+    "PcKeys": [],
+    "FrancePcKeys": [],
+    "GamepadKeys": [
+      {
+        "Key": "Gamepad_RightTriggerAxis",
+        "Value": -1
+      }
+    ],
+    "DisplayName": ""
+  },
+  {
+    "Id": 32,
+    "AxisName": "RoleReduce",
+    "AxisType": 4,
+    "PcKeys": [],
+    "FrancePcKeys": [],
+    "GamepadKeys": [
+      {
+        "Key": "Gamepad_LeftTriggerAxis",
         "Value": 1
       }
     ],

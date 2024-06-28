@@ -31,7 +31,9 @@
       {
         "Key": 2,
         "Value": {
-          "ArrayInt": [20000]
+          "ArrayInt": [
+            20000
+          ]
         }
       }
     ],
@@ -58,11 +60,17 @@
       {
         "Key": 2,
         "Value": {
-          "ArrayInt": [20000]
+          "ArrayInt": [
+            20000
+          ]
         }
       }
     ],
-    "BornBuffId": ["1302190050", "1302190110", "1302190111"]
+    "BornBuffId": [
+      "1302190050",
+      "1302190110",
+      "1302190111"
+    ]
   },
   {
     "Id": 1001,
@@ -87,17 +95,25 @@
       {
         "Key": 2,
         "Value": {
-          "ArrayInt": [1000, 2000]
+          "ArrayInt": [
+            1000,
+            2000
+          ]
         }
       },
       {
         "Key": 7,
         "Value": {
-          "ArrayInt": [1000, 2000]
+          "ArrayInt": [
+            1000,
+            2000
+          ]
         }
       }
     ],
-    "BornBuffId": ["1001002004"]
+    "BornBuffId": [
+      "1001002004"
+    ]
   },
   {
     "Id": 390070065,
@@ -111,17 +127,25 @@
       {
         "Key": 2,
         "Value": {
-          "ArrayInt": [1000, 2000]
+          "ArrayInt": [
+            1000,
+            2000
+          ]
         }
       },
       {
         "Key": 7,
         "Value": {
-          "ArrayInt": [1000, 2000]
+          "ArrayInt": [
+            1000,
+            2000
+          ]
         }
       }
     ],
-    "BornBuffId": ["1001002004"]
+    "BornBuffId": [
+      "1001002004"
+    ]
   },
   {
     "Id": 390077024,
@@ -135,17 +159,25 @@
       {
         "Key": 2,
         "Value": {
-          "ArrayInt": [1000, 2000]
+          "ArrayInt": [
+            1000,
+            2000
+          ]
         }
       },
       {
         "Key": 7,
         "Value": {
-          "ArrayInt": [1000, 2000]
+          "ArrayInt": [
+            1000,
+            2000
+          ]
         }
       }
     ],
-    "BornBuffId": ["1001002004"]
+    "BornBuffId": [
+      "1001002004"
+    ]
   },
   {
     "Id": 100701,
@@ -159,13 +191,19 @@
       {
         "Key": 2,
         "Value": {
-          "ArrayInt": [1000, 2000]
+          "ArrayInt": [
+            1000,
+            2000
+          ]
         }
       },
       {
         "Key": 7,
         "Value": {
-          "ArrayInt": [1000, 2000]
+          "ArrayInt": [
+            1000,
+            2000
+          ]
         }
       }
     ],
@@ -186,7 +224,11 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1303904004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1303904004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200001,
@@ -197,7 +239,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200002,
@@ -208,7 +253,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200003,
@@ -219,7 +267,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200004,
@@ -230,7 +281,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200005,
@@ -241,7 +295,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200006,
@@ -252,7 +309,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200007,
@@ -263,7 +323,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200008,
@@ -274,7 +337,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200009,
@@ -285,7 +351,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200010,
@@ -296,7 +365,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200011,
@@ -307,7 +379,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200012,
@@ -318,7 +393,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200013,
@@ -329,7 +407,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200014,
@@ -340,7 +421,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200015,
@@ -351,7 +435,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200016,
@@ -362,7 +449,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200017,
@@ -373,7 +463,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200018,
@@ -384,7 +477,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200019,
@@ -395,7 +491,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200020,
@@ -406,7 +505,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200021,
@@ -417,7 +519,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200022,
@@ -428,7 +533,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200023,
@@ -439,7 +547,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200024,
@@ -450,7 +561,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200025,
@@ -461,7 +575,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200026,
@@ -472,7 +589,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200027,
@@ -483,7 +603,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200028,
@@ -494,7 +617,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200029,
@@ -505,7 +631,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200030,
@@ -516,7 +645,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200031,
@@ -527,7 +659,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200032,
@@ -538,7 +673,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200033,
@@ -549,7 +687,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200034,
@@ -560,7 +701,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200035,
@@ -571,7 +715,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200036,
@@ -582,7 +729,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200037,
@@ -593,7 +743,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200038,
@@ -604,7 +757,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200039,
@@ -615,7 +771,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200040,
@@ -626,7 +785,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200041,
@@ -637,7 +799,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200042,
@@ -648,7 +813,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200043,
@@ -659,7 +827,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200044,
@@ -670,7 +841,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 280001,
@@ -681,7 +855,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 280002,
@@ -692,7 +869,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 24000000,
@@ -703,7 +883,9 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004"]
+    "BornBuffId": [
+      "1001002004"
+    ]
   },
   {
     "Id": 24000017,
@@ -714,7 +896,9 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004"]
+    "BornBuffId": [
+      "1001002004"
+    ]
   },
   {
     "Id": 10070501,
@@ -725,7 +909,11 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1303904004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1303904004",
+      "1101009004"
+    ]
   },
   {
     "Id": 3980010,
@@ -747,7 +935,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 290001,
@@ -761,13 +952,17 @@
       {
         "Key": 84,
         "Value": {
-          "ArrayInt": [1000]
+          "ArrayInt": [
+            1000
+          ]
         }
       },
       {
         "Key": 85,
         "Value": {
-          "ArrayInt": [1000]
+          "ArrayInt": [
+            1000
+          ]
         }
       }
     ],
@@ -782,7 +977,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 280004,
@@ -793,7 +991,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 3980007,
@@ -804,7 +1005,9 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004"]
+    "BornBuffId": [
+      "1001002004"
+    ]
   },
   {
     "Id": 280005,
@@ -815,7 +1018,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200046,
@@ -826,7 +1032,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 3980012,
@@ -848,7 +1057,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 280007,
@@ -859,7 +1071,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 280008,
@@ -870,7 +1085,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 3980011,
@@ -892,7 +1110,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 3980013,
@@ -939,11 +1160,15 @@
       {
         "Key": 7,
         "Value": {
-          "ArrayInt": [10000]
+          "ArrayInt": [
+            10000
+          ]
         }
       }
     ],
-    "BornBuffId": ["80005070"]
+    "BornBuffId": [
+      "80005070"
+    ]
   },
   {
     "Id": 7009251,
@@ -968,25 +1193,33 @@
       {
         "Key": 2,
         "Value": {
-          "ArrayInt": [2000]
+          "ArrayInt": [
+            2000
+          ]
         }
       },
       {
         "Key": 3,
         "Value": {
-          "ArrayInt": [2000]
+          "ArrayInt": [
+            2000
+          ]
         }
       },
       {
         "Key": 84,
         "Value": {
-          "ArrayInt": [10000]
+          "ArrayInt": [
+            10000
+          ]
         }
       },
       {
         "Key": 85,
         "Value": {
-          "ArrayInt": [10000]
+          "ArrayInt": [
+            10000
+          ]
         }
       }
     ],
@@ -1015,11 +1248,15 @@
       {
         "Key": 7,
         "Value": {
-          "ArrayInt": [20000]
+          "ArrayInt": [
+            20000
+          ]
         }
       }
     ],
-    "BornBuffId": ["9100000030020"]
+    "BornBuffId": [
+      "9100000030020"
+    ]
   },
   {
     "Id": 3980017,
@@ -1033,13 +1270,17 @@
       {
         "Key": 2,
         "Value": {
-          "ArrayInt": [3600000]
+          "ArrayInt": [
+            3600000
+          ]
         }
       },
       {
         "Key": 3,
         "Value": {
-          "ArrayInt": [3600000]
+          "ArrayInt": [
+            3600000
+          ]
         }
       }
     ],
@@ -1065,7 +1306,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 281008,
@@ -1076,7 +1320,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 201022,
@@ -1098,7 +1345,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 201033,
@@ -1120,7 +1370,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 200049,
@@ -1131,7 +1384,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 280009,
@@ -1142,7 +1398,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 281001,
@@ -1153,7 +1412,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 280010,
@@ -1164,7 +1426,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 280011,
@@ -1175,7 +1440,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 3980018,
@@ -1186,7 +1454,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["80003028", "70000012"]
+    "BornBuffId": [
+      "80003028",
+      "70000012"
+    ]
   },
   {
     "Id": 281006,
@@ -1197,7 +1468,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 3980019,
@@ -1211,11 +1485,19 @@
       {
         "Key": 7,
         "Value": {
-          "ArrayInt": [40000]
+          "ArrayInt": [
+            40000
+          ]
         }
       }
     ],
-    "BornBuffId": ["70000009", "80010056", "70000012", "70000014", "77045004"]
+    "BornBuffId": [
+      "70000009",
+      "80010056",
+      "70000012",
+      "70000014",
+      "77045004"
+    ]
   },
   {
     "Id": 281010,
@@ -1226,7 +1508,10 @@
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],
-    "BornBuffId": ["1001002004", "1101009004"]
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
   },
   {
     "Id": 3980020,
@@ -1234,6 +1519,134 @@
     "SurvivalTime": 10,
     "InheritLevelType": 0,
     "InheritLevelParam": 0,
+    "AttributeType": 0,
+    "InheritAttributeBaseType": 0,
+    "InheritSummonerAttribute": [],
+    "BornBuffId": []
+  },
+  {
+    "Id": 3980021,
+    "BlueprintType": "Gameplay_CSX_9",
+    "SurvivalTime": 0,
+    "InheritLevelType": 0,
+    "InheritLevelParam": 0,
+    "AttributeType": 0,
+    "InheritAttributeBaseType": 0,
+    "InheritSummonerAttribute": [],
+    "BornBuffId": []
+  },
+  {
+    "Id": 3980022,
+    "BlueprintType": "Gameplay_CSX_8",
+    "SurvivalTime": 0,
+    "InheritLevelType": 0,
+    "InheritLevelParam": 0,
+    "AttributeType": 0,
+    "InheritAttributeBaseType": 0,
+    "InheritSummonerAttribute": [],
+    "BornBuffId": []
+  },
+  {
+    "Id": 200051,
+    "BlueprintType": "Vision051",
+    "SurvivalTime": 15,
+    "InheritLevelType": 2,
+    "InheritLevelParam": 1,
+    "AttributeType": 0,
+    "InheritAttributeBaseType": 0,
+    "InheritSummonerAttribute": [],
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
+  },
+  {
+    "Id": 200052,
+    "BlueprintType": "Vision052",
+    "SurvivalTime": 15,
+    "InheritLevelType": 2,
+    "InheritLevelParam": 1,
+    "AttributeType": 0,
+    "InheritAttributeBaseType": 0,
+    "InheritSummonerAttribute": [],
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
+  },
+  {
+    "Id": 200053,
+    "BlueprintType": "Vision053",
+    "SurvivalTime": 15,
+    "InheritLevelType": 2,
+    "InheritLevelParam": 1,
+    "AttributeType": 0,
+    "InheritAttributeBaseType": 0,
+    "InheritSummonerAttribute": [],
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
+  },
+  {
+    "Id": 200054,
+    "BlueprintType": "Vision054",
+    "SurvivalTime": 15,
+    "InheritLevelType": 2,
+    "InheritLevelParam": 1,
+    "AttributeType": 0,
+    "InheritAttributeBaseType": 0,
+    "InheritSummonerAttribute": [],
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
+  },
+  {
+    "Id": 200055,
+    "BlueprintType": "Vision055",
+    "SurvivalTime": 15,
+    "InheritLevelType": 2,
+    "InheritLevelParam": 1,
+    "AttributeType": 0,
+    "InheritAttributeBaseType": 0,
+    "InheritSummonerAttribute": [],
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
+  },
+  {
+    "Id": 280012,
+    "BlueprintType": "VisionBoss012",
+    "SurvivalTime": 15,
+    "InheritLevelType": 2,
+    "InheritLevelParam": 1,
+    "AttributeType": 0,
+    "InheritAttributeBaseType": 0,
+    "InheritSummonerAttribute": [],
+    "BornBuffId": [
+      "1001002004",
+      "1101009004"
+    ]
+  },
+  {
+    "Id": 201052,
+    "BlueprintType": "Vision056",
+    "SurvivalTime": 15,
+    "InheritLevelType": 2,
+    "InheritLevelParam": 1,
+    "AttributeType": 0,
+    "InheritAttributeBaseType": 0,
+    "InheritSummonerAttribute": [],
+    "BornBuffId": []
+  },
+  {
+    "Id": 201050,
+    "BlueprintType": "Vision057",
+    "SurvivalTime": 15,
+    "InheritLevelType": 2,
+    "InheritLevelParam": 1,
     "AttributeType": 0,
     "InheritAttributeBaseType": 0,
     "InheritSummonerAttribute": [],

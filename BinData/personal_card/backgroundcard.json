@@ -22,7 +22,9 @@
   {
     "Id": 80060001,
     "QualityId": 5,
-    "ItemAccess": [702000],
+    "ItemAccess": [
+      702000
+    ],
     "SortIndex": 0,
     "LongCardPath": "/Game/Aki/UI/UIResources/Common/Image/CardLong/T_CardLong2.T_CardLong2",
     "CardPath": "/Game/Aki/UI/UIResources/Common/Image/Card/T_Card2.T_Card2",
@@ -42,7 +44,9 @@
   {
     "Id": 80060002,
     "QualityId": 5,
-    "ItemAccess": [702000],
+    "ItemAccess": [
+      702000
+    ],
     "SortIndex": 0,
     "LongCardPath": "/Game/Aki/UI/UIResources/Common/Image/CardLong/T_CardLong3.T_CardLong3",
     "CardPath": "/Game/Aki/UI/UIResources/Common/Image/Card/T_Card3.T_Card3",
@@ -62,7 +66,9 @@
   {
     "Id": 80060003,
     "QualityId": 5,
-    "ItemAccess": [702000],
+    "ItemAccess": [
+      702000
+    ],
     "SortIndex": 0,
     "LongCardPath": "/Game/Aki/UI/UIResources/Common/Image/CardLong/T_CardLong5.T_CardLong5",
     "CardPath": "/Game/Aki/UI/UIResources/Common/Image/Card/T_Card5.T_Card5",
@@ -82,7 +88,9 @@
   {
     "Id": 80060004,
     "QualityId": 5,
-    "ItemAccess": [702000],
+    "ItemAccess": [
+      702000
+    ],
     "SortIndex": 0,
     "LongCardPath": "/Game/Aki/UI/UIResources/Common/Image/CardLong/T_CardLong6.T_CardLong6",
     "CardPath": "/Game/Aki/UI/UIResources/Common/Image/Card/T_Card6.T_Card6",
@@ -102,7 +110,9 @@
   {
     "Id": 80060005,
     "QualityId": 5,
-    "ItemAccess": [702000],
+    "ItemAccess": [
+      702000
+    ],
     "SortIndex": 0,
     "LongCardPath": "/Game/Aki/UI/UIResources/Common/Image/CardLong/T_CardLong7.T_CardLong7",
     "CardPath": "/Game/Aki/UI/UIResources/Common/Image/Card/T_Card7.T_Card7",
@@ -122,7 +132,9 @@
   {
     "Id": 80060006,
     "QualityId": 5,
-    "ItemAccess": [702000],
+    "ItemAccess": [
+      702000
+    ],
     "SortIndex": 0,
     "LongCardPath": "/Game/Aki/UI/UIResources/Common/Image/CardLong/T_CardLong8.T_CardLong8",
     "CardPath": "/Game/Aki/UI/UIResources/Common/Image/Card/T_Card8.T_Card8",
@@ -142,7 +154,9 @@
   {
     "Id": 80060007,
     "QualityId": 5,
-    "ItemAccess": [702000],
+    "ItemAccess": [
+      702000
+    ],
     "SortIndex": 0,
     "LongCardPath": "/Game/Aki/UI/UIResources/Common/Image/CardLong/T_CardLong9.T_CardLong9",
     "CardPath": "/Game/Aki/UI/UIResources/Common/Image/Card/T_Card9.T_Card9",
@@ -162,7 +176,9 @@
   {
     "Id": 80060008,
     "QualityId": 5,
-    "ItemAccess": [702000],
+    "ItemAccess": [
+      702000
+    ],
     "SortIndex": 0,
     "LongCardPath": "/Game/Aki/UI/UIResources/Common/Image/CardLong/T_CardLong10.T_CardLong10",
     "CardPath": "/Game/Aki/UI/UIResources/Common/Image/Card/T_Card10.T_Card10",
@@ -182,7 +198,9 @@
   {
     "Id": 80060009,
     "QualityId": 5,
-    "ItemAccess": [702000],
+    "ItemAccess": [
+      702000
+    ],
     "SortIndex": 0,
     "LongCardPath": "/Game/Aki/UI/UIResources/Common/Image/CardLong/T_CardLong11.T_CardLong11",
     "CardPath": "/Game/Aki/UI/UIResources/Common/Image/Card/T_Card11.T_Card11",
@@ -202,7 +220,9 @@
   {
     "Id": 80060010,
     "QualityId": 5,
-    "ItemAccess": [702000],
+    "ItemAccess": [
+      702000
+    ],
     "SortIndex": 0,
     "LongCardPath": "/Game/Aki/UI/UIResources/Common/Image/CardLong/T_CardLong12.T_CardLong12",
     "CardPath": "/Game/Aki/UI/UIResources/Common/Image/Card/T_Card12.T_Card12",
@@ -222,7 +242,9 @@
   {
     "Id": 80060011,
     "QualityId": 5,
-    "ItemAccess": [702000],
+    "ItemAccess": [
+      702000
+    ],
     "SortIndex": 0,
     "LongCardPath": "/Game/Aki/UI/UIResources/Common/Image/CardLong/T_CardLong13.T_CardLong13",
     "CardPath": "/Game/Aki/UI/UIResources/Common/Image/Card/T_Card13.T_Card13",
@@ -242,7 +264,9 @@
   {
     "Id": 80060012,
     "QualityId": 5,
-    "ItemAccess": [702000],
+    "ItemAccess": [
+      702000
+    ],
     "SortIndex": 0,
     "LongCardPath": "/Game/Aki/UI/UIResources/Common/Image/CardLong/T_CardLong14.T_CardLong14",
     "CardPath": "/Game/Aki/UI/UIResources/Common/Image/Card/T_Card14.T_Card14",
@@ -262,7 +286,9 @@
   {
     "Id": 80060013,
     "QualityId": 5,
-    "ItemAccess": [702000],
+    "ItemAccess": [
+      702000
+    ],
     "SortIndex": 0,
     "LongCardPath": "/Game/Aki/UI/UIResources/Common/Image/CardLong/T_CardLong15.T_CardLong15",
     "CardPath": "/Game/Aki/UI/UIResources/Common/Image/Card/T_Card15.T_Card15",
@@ -282,7 +308,9 @@
   {
     "Id": 80060014,
     "QualityId": 5,
-    "ItemAccess": [702000],
+    "ItemAccess": [
+      702000
+    ],
     "SortIndex": 0,
     "LongCardPath": "/Game/Aki/UI/UIResources/Common/Image/CardLong/T_CardLong16.T_CardLong16",
     "CardPath": "/Game/Aki/UI/UIResources/Common/Image/Card/T_Card16.T_Card16",
@@ -302,7 +330,9 @@
   {
     "Id": 80060015,
     "QualityId": 5,
-    "ItemAccess": [702000],
+    "ItemAccess": [
+      702000
+    ],
     "SortIndex": 0,
     "LongCardPath": "/Game/Aki/UI/UIResources/Common/Image/CardLong/T_CardLong17.T_CardLong17",
     "CardPath": "/Game/Aki/UI/UIResources/Common/Image/Card/T_Card17.T_Card17",
@@ -322,7 +352,9 @@
   {
     "Id": 80060016,
     "QualityId": 5,
-    "ItemAccess": [702000],
+    "ItemAccess": [
+      702000
+    ],
     "SortIndex": 0,
     "LongCardPath": "/Game/Aki/UI/UIResources/Common/Image/CardLong/T_CardLong19.T_CardLong19",
     "CardPath": "/Game/Aki/UI/UIResources/Common/Image/Card/T_Card19.T_Card19",
@@ -342,7 +374,9 @@
   {
     "Id": 80069001,
     "QualityId": 5,
-    "ItemAccess": [504000],
+    "ItemAccess": [
+      504000
+    ],
     "SortIndex": 0,
     "LongCardPath": "/Game/Aki/UI/UIResources/Common/Image/CardLong/T_CardLong18.T_CardLong18",
     "CardPath": "/Game/Aki/UI/UIResources/Common/Image/Card/T_Card18.T_Card18",
@@ -362,7 +396,9 @@
   {
     "Id": 80061002,
     "QualityId": 5,
-    "ItemAccess": [701000],
+    "ItemAccess": [
+      701000
+    ],
     "SortIndex": 0,
     "LongCardPath": "/Game/Aki/UI/UIResources/Common/Image/CardLong/T_CardLong20.T_CardLong20",
     "CardPath": "/Game/Aki/UI/UIResources/Common/Image/Card/T_Card20.T_Card20",
@@ -382,7 +418,9 @@
   {
     "Id": 80063002,
     "QualityId": 5,
-    "ItemAccess": [701000],
+    "ItemAccess": [
+      701000
+    ],
     "SortIndex": 0,
     "LongCardPath": "/Game/Aki/UI/UIResources/Common/Image/CardLong/T_CardLong22.T_CardLong22",
     "CardPath": "/Game/Aki/UI/UIResources/Common/Image/Card/T_Card22.T_Card22",
@@ -402,7 +440,9 @@
   {
     "Id": 80063003,
     "QualityId": 5,
-    "ItemAccess": [701000],
+    "ItemAccess": [
+      701000
+    ],
     "SortIndex": 0,
     "LongCardPath": "/Game/Aki/UI/UIResources/Common/Image/CardLong/T_CardLong23.T_CardLong23",
     "CardPath": "/Game/Aki/UI/UIResources/Common/Image/Card/T_Card23.T_Card23",
@@ -422,7 +462,9 @@
   {
     "Id": 80064002,
     "QualityId": 5,
-    "ItemAccess": [701000],
+    "ItemAccess": [
+      701000
+    ],
     "SortIndex": 0,
     "LongCardPath": "/Game/Aki/UI/UIResources/Common/Image/CardLong/T_CardLong21.T_CardLong21",
     "CardPath": "/Game/Aki/UI/UIResources/Common/Image/Card/T_Card21.T_Card21",
@@ -442,7 +484,9 @@
   {
     "Id": 80065001,
     "QualityId": 5,
-    "ItemAccess": [804000],
+    "ItemAccess": [
+      804000
+    ],
     "SortIndex": 0,
     "LongCardPath": "/Game/Aki/UI/UIResources/Common/Image/CardLong/T_CardLong25.T_CardLong25",
     "CardPath": "/Game/Aki/UI/UIResources/Common/Image/Card/T_Card25.T_Card25",
@@ -462,7 +506,9 @@
   {
     "Id": 80065002,
     "QualityId": 5,
-    "ItemAccess": [805000],
+    "ItemAccess": [
+      805000
+    ],
     "SortIndex": 0,
     "LongCardPath": "/Game/Aki/UI/UIResources/Common/Image/CardLong/T_CardLong24.T_CardLong24",
     "CardPath": "/Game/Aki/UI/UIResources/Common/Image/Card/T_Card24.T_Card24",
@@ -476,6 +522,28 @@
     "TypeDescription": "BackgroundCard_80060000_TypeDescription",
     "BgDescription": "BackgroundCard_80070001_BgDescription",
     "Tips": "BackgroundCard_80065002_Tips",
+    "ShowInBag": false,
+    "RedDotDisableRule": 0
+  },
+  {
+    "Id": 80069002,
+    "QualityId": 5,
+    "ItemAccess": [
+      504000
+    ],
+    "SortIndex": 0,
+    "LongCardPath": "/Game/Aki/UI/UIResources/Common/Image/CardLong/T_CardLong26.T_CardLong26",
+    "CardPath": "/Game/Aki/UI/UIResources/Common/Image/Card/T_Card26.T_Card26",
+    "FunctionViewCardPath": "/Game/Aki/UI/UIResources/Common/Image/CardPolygon/T_CardPolygon_26.T_CardPolygon_26",
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconCard/T_IconCard256_26.T_IconCard256_26",
+    "IconMiddle": "/Game/Aki/UI/UIResources/Common/Image/IconCard160/T_IconCard160_26.T_IconCard160_26",
+    "IconSmall": "/Game/Aki/UI/UIResources/Common/Image/IconCard80/T_IconCard80_26.T_IconCard80_26",
+    "Title": "BackgroundCard_80069002_Title",
+    "AttributesDescription": "BackgroundCard_80069002_AttributesDescription",
+    "ObtainedShowDescription": "",
+    "TypeDescription": "BackgroundCard_80060000_TypeDescription",
+    "BgDescription": "BackgroundCard_80070001_BgDescription",
+    "Tips": "BackgroundCard_80069001_Tips",
     "ShowInBag": false,
     "RedDotDisableRule": 0
   }

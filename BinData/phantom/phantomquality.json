@@ -15,7 +15,11 @@
   {
     "Quality": 3,
     "LevelLimit": 15,
-    "SlotUnlockLevel": [5, 10, 15],
+    "SlotUnlockLevel": [
+      5,
+      10,
+      15
+    ],
     "IdentifyCost": [
       {
         "Key": 36000012,
@@ -28,7 +32,12 @@
   {
     "Quality": 4,
     "LevelLimit": 20,
-    "SlotUnlockLevel": [5, 10, 15, 20],
+    "SlotUnlockLevel": [
+      5,
+      10,
+      15,
+      20
+    ],
     "IdentifyCost": [
       {
         "Key": 36000013,
@@ -41,7 +50,13 @@
   {
     "Quality": 5,
     "LevelLimit": 25,
-    "SlotUnlockLevel": [5, 10, 15, 20, 25],
+    "SlotUnlockLevel": [
+      5,
+      10,
+      15,
+      20,
+      25
+    ],
     "IdentifyCost": [
       {
         "Key": 36000014,

@@ -4,7 +4,9 @@
     "Name": "ClearPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [134000726]
+      "EntityIds": [
+        134000726
+      ]
     },
     "ActionId": 3000113
   },
@@ -13,7 +15,10 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [134000726, 134000725],
+      "EntityIds": [
+        134000726,
+        134000725
+      ],
       "EnterRadius": 2000,
       "LeaveRadius": 3000,
       "Flow": {
@@ -30,7 +35,10 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [139000327, 139000399],
+      "EntityIds": [
+        139000327,
+        139000399
+      ],
       "EnterRadius": 1500,
       "LeaveRadius": 2000,
       "Flow": {
@@ -46,7 +54,11 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [139000000, 139000032, 310000000],
+      "EntityIds": [
+        139000000,
+        139000032,
+        310000000
+      ],
       "EnterRadius": 500,
       "LeaveRadius": 1500,
       "Flow": {
@@ -63,7 +75,11 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [311000073, 311000071, 311000072],
+      "EntityIds": [
+        311000073,
+        311000071,
+        311000072
+      ],
       "EnterRadius": 500,
       "LeaveRadius": 1500,
       "Flow": {
@@ -79,7 +95,11 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [114000867, 114000868, 114000869],
+      "EntityIds": [
+        114000867,
+        114000868,
+        114000869
+      ],
       "EnterRadius": 1500,
       "LeaveRadius": 3000,
       "Flow": {
@@ -95,7 +115,9 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [310000514],
+      "EntityIds": [
+        310000514
+      ],
       "EnterRadius": 2500,
       "LeaveRadius": 3000,
       "Flow": {
@@ -112,7 +134,9 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [310000518],
+      "EntityIds": [
+        310000518
+      ],
       "EnterRadius": 2500,
       "LeaveRadius": 3500,
       "Flow": {
@@ -127,7 +151,9 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [310000521],
+      "EntityIds": [
+        310000521
+      ],
       "EnterRadius": 3500,
       "LeaveRadius": 4500,
       "Flow": {
@@ -142,7 +168,10 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [121000916, 109002834],
+      "EntityIds": [
+        121000916,
+        109002834
+      ],
       "EnterRadius": 1000,
       "LeaveRadius": 1500,
       "Flow": {
@@ -159,7 +188,10 @@
     "Name": "ClearPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [121000916, 109002834]
+      "EntityIds": [
+        121000916,
+        109002834
+      ]
     },
     "ActionId": 3000002
   },
@@ -168,7 +200,11 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [11000447, 121000917, 121000919],
+      "EntityIds": [
+        11000447,
+        121000917,
+        121000919
+      ],
       "EnterRadius": 800,
       "LeaveRadius": 1500,
       "Flow": {
@@ -186,7 +222,11 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [121000921, 121000922, 121000920],
+      "EntityIds": [
+        121000921,
+        121000922,
+        121000920
+      ],
       "EnterRadius": 800,
       "LeaveRadius": 1500,
       "Flow": {
@@ -204,7 +244,11 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [121000923, 121000924, 121000925],
+      "EntityIds": [
+        121000923,
+        121000924,
+        121000925
+      ],
       "EnterRadius": 800,
       "LeaveRadius": 1500,
       "Flow": {
@@ -222,7 +266,11 @@
     "Name": "ClearPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [121000923, 121000924, 121000925]
+      "EntityIds": [
+        121000923,
+        121000924,
+        121000925
+      ]
     },
     "ActionId": 3000056
   },
@@ -231,7 +279,11 @@
     "Name": "ClearPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [121000921, 121000922, 121000920]
+      "EntityIds": [
+        121000921,
+        121000922,
+        121000920
+      ]
     },
     "ActionId": 3000057
   },
@@ -240,7 +292,10 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [121000931, 121000932],
+      "EntityIds": [
+        121000931,
+        121000932
+      ],
       "EnterRadius": 1500,
       "LeaveRadius": 2500,
       "Flow": {
@@ -256,7 +311,12 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [125001079, 125001087, 125001085, 125001086],
+      "EntityIds": [
+        125001079,
+        125001087,
+        125001085,
+        125001086
+      ],
       "EnterRadius": 1000,
       "LeaveRadius": 1500,
       "Flow": {
@@ -273,7 +333,10 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [121001030, 121000862],
+      "EntityIds": [
+        121001030,
+        121000862
+      ],
       "EnterRadius": 1500,
       "LeaveRadius": 3000,
       "Flow": {
@@ -291,7 +354,9 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [121000963],
+      "EntityIds": [
+        121000963
+      ],
       "EnterRadius": 1000,
       "LeaveRadius": 3000,
       "Flow": {
@@ -309,7 +374,9 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [121000962],
+      "EntityIds": [
+        121000962
+      ],
       "EnterRadius": 1000,
       "LeaveRadius": 3000,
       "Flow": {
@@ -327,7 +394,10 @@
     "Name": "ClearPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [121000886, 121000941]
+      "EntityIds": [
+        121000886,
+        121000941
+      ]
     },
     "ActionId": 3000016
   },
@@ -336,7 +406,10 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [121000886, 121000941],
+      "EntityIds": [
+        121000886,
+        121000941
+      ],
       "EnterRadius": 500,
       "LeaveRadius": 1500,
       "Flow": {
@@ -352,7 +425,10 @@
     "Name": "ClearPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [121000962, 121000963]
+      "EntityIds": [
+        121000962,
+        121000963
+      ]
     },
     "ActionId": 3000021
   },
@@ -361,7 +437,10 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [121000965, 121000964],
+      "EntityIds": [
+        121000965,
+        121000964
+      ],
       "EnterRadius": 1000,
       "LeaveRadius": 3000,
       "Flow": {
@@ -379,7 +458,10 @@
     "Name": "ClearPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [121000965, 121000964]
+      "EntityIds": [
+        121000965,
+        121000964
+      ]
     },
     "ActionId": 3000026
   },
@@ -388,7 +470,9 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [121000816],
+      "EntityIds": [
+        121000816
+      ],
       "EnterRadius": 1500,
       "LeaveRadius": 2500,
       "Flow": {
@@ -406,7 +490,9 @@
     "Name": "ClearPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [121000816]
+      "EntityIds": [
+        121000816
+      ]
     },
     "ActionId": 3000041
   },
@@ -415,7 +501,9 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [121000857],
+      "EntityIds": [
+        121000857
+      ],
       "EnterRadius": 800,
       "LeaveRadius": 2000,
       "Flow": {
@@ -433,7 +521,9 @@
     "Name": "ClearPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [121000857]
+      "EntityIds": [
+        121000857
+      ]
     },
     "ActionId": 3000143
   },
@@ -442,7 +532,9 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [121000991],
+      "EntityIds": [
+        121000991
+      ],
       "EnterRadius": 500,
       "LeaveRadius": 1500,
       "Flow": {
@@ -459,7 +551,10 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [121000968, 121000969],
+      "EntityIds": [
+        121000968,
+        121000969
+      ],
       "EnterRadius": 500,
       "LeaveRadius": 1500,
       "Flow": {
@@ -476,7 +571,10 @@
     "Name": "ClearPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [121000969, 121000968]
+      "EntityIds": [
+        121000969,
+        121000968
+      ]
     },
     "ActionId": 3000176
   },
@@ -485,7 +583,13 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [121000994, 121001100, 121000993, 121000996, 121000997],
+      "EntityIds": [
+        121000994,
+        121001100,
+        121000993,
+        121000996,
+        121000997
+      ],
       "EnterRadius": 500,
       "LeaveRadius": 1500,
       "Flow": {
@@ -503,7 +607,9 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [121000988],
+      "EntityIds": [
+        121000988
+      ],
       "EnterRadius": 500,
       "LeaveRadius": 1500,
       "Flow": {
@@ -521,7 +627,10 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [114000872, 114000873],
+      "EntityIds": [
+        114000872,
+        114000873
+      ],
       "EnterRadius": 500,
       "LeaveRadius": 1500,
       "Flow": {
@@ -537,7 +646,10 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [114000883, 114000884],
+      "EntityIds": [
+        114000883,
+        114000884
+      ],
       "EnterRadius": 500,
       "LeaveRadius": 1500,
       "Flow": {
@@ -553,7 +665,9 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [114000938],
+      "EntityIds": [
+        114000938
+      ],
       "EnterRadius": 500,
       "LeaveRadius": 1500,
       "Flow": {
@@ -569,7 +683,10 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [114800073, 114000945],
+      "EntityIds": [
+        114800073,
+        114000945
+      ],
       "EnterRadius": 500,
       "LeaveRadius": 1500,
       "Flow": {
@@ -585,7 +702,10 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [114001161, 114001162],
+      "EntityIds": [
+        114001161,
+        114001162
+      ],
       "EnterRadius": 500,
       "LeaveRadius": 1500,
       "Flow": {
@@ -601,7 +721,10 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [114800133, 114000947],
+      "EntityIds": [
+        114800133,
+        114000947
+      ],
       "EnterRadius": 500,
       "LeaveRadius": 1500,
       "Flow": {
@@ -617,7 +740,11 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [27000022, 27000023, 27000024],
+      "EntityIds": [
+        27000022,
+        27000023,
+        27000024
+      ],
       "EnterRadius": 100,
       "LeaveRadius": 500,
       "Flow": {
@@ -633,7 +760,11 @@
     "Name": "ClearPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [27000022, 27000023, 27000024]
+      "EntityIds": [
+        27000022,
+        27000023,
+        27000024
+      ]
     },
     "ActionId": 3000044
   },
@@ -658,7 +789,9 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [29000239],
+      "EntityIds": [
+        29000239
+      ],
       "EnterRadius": 500,
       "LeaveRadius": 1500,
       "Flow": {
@@ -674,7 +807,9 @@
     "Name": "ClearPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [29000239]
+      "EntityIds": [
+        29000239
+      ]
     },
     "ActionId": 3000047
   },
@@ -683,7 +818,9 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [29000240],
+      "EntityIds": [
+        29000240
+      ],
       "EnterRadius": 500,
       "LeaveRadius": 1500,
       "Flow": {
@@ -699,7 +836,9 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [29000241],
+      "EntityIds": [
+        29000241
+      ],
       "EnterRadius": 500,
       "LeaveRadius": 1500,
       "Flow": {
@@ -716,7 +855,9 @@
     "Name": "ClearPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [29000241],
+      "EntityIds": [
+        29000241
+      ],
       "OnlyClearRedDot": true
     },
     "ActionId": 3000050
@@ -726,7 +867,10 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [29000252, 29000253],
+      "EntityIds": [
+        29000252,
+        29000253
+      ],
       "EnterRadius": 500,
       "LeaveRadius": 1500,
       "Flow": {
@@ -742,7 +886,10 @@
     "Name": "ClearPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [29000252, 29000253]
+      "EntityIds": [
+        29000252,
+        29000253
+      ]
     },
     "ActionId": 3000058
   },
@@ -751,7 +898,10 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [114001190, 114001189],
+      "EntityIds": [
+        114001190,
+        114001189
+      ],
       "EnterRadius": 500,
       "LeaveRadius": 1500,
       "Flow": {
@@ -767,7 +917,9 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [114001056],
+      "EntityIds": [
+        114001056
+      ],
       "EnterRadius": 500,
       "LeaveRadius": 1500,
       "Flow": {
@@ -783,7 +935,10 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [114000732, 114000737],
+      "EntityIds": [
+        114000732,
+        114000737
+      ],
       "EnterRadius": 500,
       "LeaveRadius": 1500,
       "Flow": {
@@ -799,7 +954,11 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [114001105, 114001106, 114001107],
+      "EntityIds": [
+        114001105,
+        114001106,
+        114001107
+      ],
       "EnterRadius": 500,
       "LeaveRadius": 1500,
       "Flow": {
@@ -815,7 +974,11 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [114001109, 114001110, 114001244],
+      "EntityIds": [
+        114001109,
+        114001110,
+        114001244
+      ],
       "EnterRadius": 500,
       "LeaveRadius": 1500,
       "Flow": {
@@ -831,7 +994,10 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [114001226, 114001133],
+      "EntityIds": [
+        114001226,
+        114001133
+      ],
       "EnterRadius": 500,
       "LeaveRadius": 1500,
       "Flow": {
@@ -847,7 +1013,10 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [121000886, 121000941],
+      "EntityIds": [
+        121000886,
+        121000941
+      ],
       "EnterRadius": 500,
       "LeaveRadius": 1500,
       "Flow": {
@@ -863,7 +1032,10 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [114800078, 114001176],
+      "EntityIds": [
+        114800078,
+        114001176
+      ],
       "EnterRadius": 500,
       "LeaveRadius": 1500,
       "Flow": {
@@ -879,7 +1051,12 @@
     "Name": "AddPlayBubble",
     "Async": false,
     "Params": {
-      "EntityIds": [114000660, 114000659, 114000658, 114001029],
+      "EntityIds": [
+        114000660,
+        114000659,
+        114000658,
+        114001029
+      ],
       "EnterRadius": 500,
       "LeaveRadius": 1500,
       "Flow": {
@@ -896,7 +1073,12 @@
     "Async": false,
     "Params": {
       "EntityIds": [
-        140800703, 140800704, 140800701, 140800700, 140800699, 140800702
+        140800703,
+        140800704,
+        140800701,
+        140800700,
+        140800699,
+        140800702
       ],
       "EnterRadius": 1500,
       "LeaveRadius": 1800,

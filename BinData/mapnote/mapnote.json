@@ -43,7 +43,11 @@
     "MarkIdMap": [],
     "MarkId": [],
     "ConditionId": 0,
-    "QuestIdList": [880000001, 880000002, 880000003]
+    "QuestIdList": [
+      880000001,
+      880000002,
+      880000003
+    ]
   },
   {
     "Id": 5,

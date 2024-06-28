@@ -279,8 +279,13 @@
     "Id": "wyq_test",
     "OccupationType": "SilentArea",
     "OccupationData": {
-      "LevelPlayIds": [30000015],
-      "AssociatedEntities": [30000219, 30000217]
+      "LevelPlayIds": [
+        30000015
+      ],
+      "AssociatedEntities": [
+        30000219,
+        30000217
+      ]
     },
     "OccupationNameStringKey": "OccupationConfig_wyq_test_Name"
   },
@@ -288,8 +293,14 @@
     "Id": "wyq_npc_test",
     "OccupationType": "SilentArea",
     "OccupationData": {
-      "LevelPlayIds": [30000015],
-      "AssociatedEntities": [30000219, 30000217, 30000223]
+      "LevelPlayIds": [
+        30000015
+      ],
+      "AssociatedEntities": [
+        30000219,
+        30000217,
+        30000223
+      ]
     },
     "OccupationNameStringKey": "OccupationConfig_wyq_npc_test_Nam"
   },
@@ -297,8 +308,13 @@
     "Id": "主线无冠者无音区占用",
     "OccupationType": "SilentArea",
     "OccupationData": {
-      "LevelPlayIds": [110000000],
-      "AssociatedEntities": [110000595, 110001071]
+      "LevelPlayIds": [
+        110000000
+      ],
+      "AssociatedEntities": [
+        110000595,
+        110001071
+      ]
     },
     "OccupationNameStringKey": "OccupationConfig_主线无冠者无音区占用_Nam"
   },
@@ -306,7 +322,9 @@
     "Id": "乌龟无音区占用",
     "OccupationType": "SilentArea",
     "OccupationData": {
-      "LevelPlayIds": [110000001],
+      "LevelPlayIds": [
+        110000001
+      ],
       "AssociatedEntities": []
     },
     "OccupationNameStringKey": "OccupationConfig_乌龟无音区占用_Nam"
@@ -315,7 +333,9 @@
     "Id": "燎照之骑无音区占用",
     "OccupationType": "SilentArea",
     "OccupationData": {
-      "LevelPlayIds": [110000050],
+      "LevelPlayIds": [
+        110000050
+      ],
       "AssociatedEntities": []
     },
     "OccupationNameStringKey": "OccupationConfig_燎照之骑无音区占用_Nam"
@@ -324,7 +344,9 @@
     "Id": "沃艾珥领主占用",
     "OccupationType": "SilentArea",
     "OccupationData": {
-      "LevelPlayIds": [118000128],
+      "LevelPlayIds": [
+        118000128
+      ],
       "AssociatedEntities": []
     },
     "OccupationNameStringKey": "OccupationConfig_沃艾珥领主占用_Nam"
@@ -333,8 +355,13 @@
     "Id": "辉莹军势占用",
     "OccupationType": "SilentArea",
     "OccupationData": {
-      "LevelPlayIds": [110000046],
-      "AssociatedEntities": [146000109, 129000008]
+      "LevelPlayIds": [
+        110000046
+      ],
+      "AssociatedEntities": [
+        146000109,
+        129000008
+      ]
     },
     "OccupationNameStringKey": "OccupationConfig_辉莹军势占用_Nam"
   },
@@ -342,8 +369,13 @@
     "Id": "鳞人无音区占用",
     "OccupationType": "SilentArea",
     "OccupationData": {
-      "LevelPlayIds": [110000002],
-      "AssociatedEntities": [110001073, 129000002, 110000092]
+      "LevelPlayIds": [
+        110000002
+      ],
+      "AssociatedEntities": [
+        110001073,
+        110000092
+      ]
     },
     "OccupationNameStringKey": "OccupationConfig_鳞人无音区占用_Nam"
   },
@@ -351,8 +383,14 @@
     "Id": "wyq_test2",
     "OccupationType": "SilentArea",
     "OccupationData": {
-      "LevelPlayIds": [34000038],
-      "AssociatedEntities": [34000885, 34000883, 34000886]
+      "LevelPlayIds": [
+        34000038
+      ],
+      "AssociatedEntities": [
+        34000885,
+        34000883,
+        34000886
+      ]
     },
     "OccupationNameStringKey": "OccupationConfig_wyq_test2_Name"
   },
@@ -360,8 +398,13 @@
     "Id": "祈池村无音区",
     "OccupationType": "SilentArea",
     "OccupationData": {
-      "LevelPlayIds": [200000023],
-      "AssociatedEntities": [200000001, 200000187]
+      "LevelPlayIds": [
+        200000023
+      ],
+      "AssociatedEntities": [
+        200000001,
+        200000187
+      ]
     },
     "OccupationNameStringKey": "OccupationConfig_祈池村无音区_Nam"
   },
@@ -369,8 +412,14 @@
     "Id": "地下鳞人刷新",
     "OccupationType": "SilentArea",
     "OccupationData": {
-      "LevelPlayIds": [133000002],
-      "AssociatedEntities": [133000087, 133000089, 133000090]
+      "LevelPlayIds": [
+        133000002
+      ],
+      "AssociatedEntities": [
+        133000087,
+        133000089,
+        133000090
+      ]
     },
     "OccupationNameStringKey": "OccupationConfig_地下鳞人刷新_Nam"
   },
@@ -397,5 +446,17 @@
     "OccupationType": "Npc",
     "OccupationData": "",
     "OccupationNameStringKey": "OccupationConfig_漂泊者_Name"
+  },
+  {
+    "Id": "changli",
+    "OccupationType": "Npc",
+    "OccupationData": "",
+    "OccupationNameStringKey": "Empty"
+  },
+  {
+    "Id": "xinyi",
+    "OccupationType": "Npc",
+    "OccupationData": "",
+    "OccupationNameStringKey": "Empty"
   }
 ]

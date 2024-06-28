@@ -1,7 +1,9 @@
 [
   {
     "UId": 1,
-    "ScanInfos": [1],
+    "ScanInfos": [
+      1
+    ],
     "ItemMaterialDataPath": "",
     "NearVoiceEffectPath": "",
     "FarVoiceEffectPath": "",
@@ -14,7 +16,9 @@
   },
   {
     "UId": 2,
-    "ScanInfos": [2],
+    "ScanInfos": [
+      2
+    ],
     "ItemMaterialDataPath": "",
     "NearVoiceEffectPath": "",
     "FarVoiceEffectPath": "",
@@ -27,7 +31,9 @@
   },
   {
     "UId": 3,
-    "ScanInfos": [3],
+    "ScanInfos": [
+      3
+    ],
     "ItemMaterialDataPath": "",
     "NearVoiceEffectPath": "",
     "FarVoiceEffectPath": "",
@@ -40,7 +46,9 @@
   },
   {
     "UId": 101,
-    "ScanInfos": [201],
+    "ScanInfos": [
+      201
+    ],
     "ItemMaterialDataPath": "",
     "NearVoiceEffectPath": "",
     "FarVoiceEffectPath": "",
@@ -53,7 +61,9 @@
   },
   {
     "UId": 102,
-    "ScanInfos": [2],
+    "ScanInfos": [
+      2
+    ],
     "ItemMaterialDataPath": "/Game/Aki/Effect/MaterialController/ItemMaterial/DA_Fx_ActorItem_Scanning.DA_Fx_ActorItem_Scanning",
     "NearVoiceEffectPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide01.DA_Fx_Group_Scaning_Hide01",
     "FarVoiceEffectPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide02.DA_Fx_Group_Scaning_Hide02",
@@ -66,7 +76,9 @@
   },
   {
     "UId": 103,
-    "ScanInfos": [2],
+    "ScanInfos": [
+      2
+    ],
     "ItemMaterialDataPath": "/Game/Aki/Effect/MaterialController/ItemMaterial/DA_Fx_ActorItem_Scanning.DA_Fx_ActorItem_Scanning",
     "NearVoiceEffectPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide01.DA_Fx_Group_Scaning_Hide01",
     "FarVoiceEffectPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide02.DA_Fx_Group_Scaning_Hide02",
@@ -79,7 +91,9 @@
   },
   {
     "UId": 104,
-    "ScanInfos": [212],
+    "ScanInfos": [
+      212
+    ],
     "ItemMaterialDataPath": "/Game/Aki/Effect/MaterialController/ItemMaterial/DA_Fx_ActorItem_Scanning.DA_Fx_ActorItem_Scanning",
     "NearVoiceEffectPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide01.DA_Fx_Group_Scaning_Hide01",
     "FarVoiceEffectPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide02.DA_Fx_Group_Scaning_Hide02",
@@ -92,7 +106,9 @@
   },
   {
     "UId": 105,
-    "ScanInfos": [300],
+    "ScanInfos": [
+      300
+    ],
     "ItemMaterialDataPath": "/Game/Aki/Effect/MaterialController/ItemMaterial/DA_Fx_ActorItem_Scanning.DA_Fx_ActorItem_Scanning",
     "NearVoiceEffectPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide01.DA_Fx_Group_Scaning_Hide01",
     "FarVoiceEffectPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide02.DA_Fx_Group_Scaning_Hide02",
@@ -105,7 +121,9 @@
   },
   {
     "UId": 106,
-    "ScanInfos": [2],
+    "ScanInfos": [
+      2
+    ],
     "ItemMaterialDataPath": "/Game/Aki/Effect/MaterialController/ItemMaterial/DA_Fx_ActorItem_Scanning.DA_Fx_ActorItem_Scanning",
     "NearVoiceEffectPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide01.DA_Fx_Group_Scaning_Hide01",
     "FarVoiceEffectPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide02.DA_Fx_Group_Scaning_Hide02",
@@ -118,7 +136,9 @@
   },
   {
     "UId": 107,
-    "ScanInfos": [2],
+    "ScanInfos": [
+      2
+    ],
     "ItemMaterialDataPath": "/Game/Aki/Effect/MaterialController/ItemMaterial/DA_Fx_ActorItem_Scanning.DA_Fx_ActorItem_Scanning",
     "NearVoiceEffectPath": "",
     "FarVoiceEffectPath": "",
@@ -131,7 +151,9 @@
   },
   {
     "UId": 301,
-    "ScanInfos": [201],
+    "ScanInfos": [
+      201
+    ],
     "ItemMaterialDataPath": "",
     "NearVoiceEffectPath": "",
     "FarVoiceEffectPath": "",
@@ -144,7 +166,9 @@
   },
   {
     "UId": 302,
-    "ScanInfos": [202],
+    "ScanInfos": [
+      202
+    ],
     "ItemMaterialDataPath": "",
     "NearVoiceEffectPath": "",
     "FarVoiceEffectPath": "",
@@ -157,7 +181,9 @@
   },
   {
     "UId": 303,
-    "ScanInfos": [203],
+    "ScanInfos": [
+      203
+    ],
     "ItemMaterialDataPath": "",
     "NearVoiceEffectPath": "",
     "FarVoiceEffectPath": "",
@@ -170,7 +196,9 @@
   },
   {
     "UId": 304,
-    "ScanInfos": [204],
+    "ScanInfos": [
+      204
+    ],
     "ItemMaterialDataPath": "",
     "NearVoiceEffectPath": "",
     "FarVoiceEffectPath": "",
@@ -183,7 +211,9 @@
   },
   {
     "UId": 305,
-    "ScanInfos": [205],
+    "ScanInfos": [
+      205
+    ],
     "ItemMaterialDataPath": "",
     "NearVoiceEffectPath": "",
     "FarVoiceEffectPath": "",
@@ -196,7 +226,9 @@
   },
   {
     "UId": 306,
-    "ScanInfos": [206],
+    "ScanInfos": [
+      206
+    ],
     "ItemMaterialDataPath": "",
     "NearVoiceEffectPath": "",
     "FarVoiceEffectPath": "",
@@ -209,7 +241,9 @@
   },
   {
     "UId": 108,
-    "ScanInfos": [2],
+    "ScanInfos": [
+      2
+    ],
     "ItemMaterialDataPath": "/Game/Aki/Effect/MaterialController/ItemMaterial/DA_Fx_ActorItem_Scanning.DA_Fx_ActorItem_Scanning",
     "NearVoiceEffectPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide01.DA_Fx_Group_Scaning_Hide01",
     "FarVoiceEffectPath": "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Scaning_Hide02.DA_Fx_Group_Scaning_Hide02",
@@ -222,7 +256,9 @@
   },
   {
     "UId": 109,
-    "ScanInfos": [262],
+    "ScanInfos": [
+      262
+    ],
     "ItemMaterialDataPath": "/Game/Aki/Effect/MaterialController/ItemMaterial/DA_Fx_ActorItem_Scanning.DA_Fx_ActorItem_Scanning",
     "NearVoiceEffectPath": "",
     "FarVoiceEffectPath": "",
@@ -235,7 +271,9 @@
   },
   {
     "UId": 307,
-    "ScanInfos": [301],
+    "ScanInfos": [
+      301
+    ],
     "ItemMaterialDataPath": "/Game/Aki/Effect/EffectGroup/MB1ShanghengMd00501/DA_Fx_Group_L2_MBs018_Pyangtou_Loop_R.DA_Fx_Group_L2_MBs018_Pyangtou_Loop_R",
     "NearVoiceEffectPath": "/Game/Aki/Effect/EffectGroup/MB1ShanghengMd00501/DA_Fx_Group_L2_MBs018_Pyangtou_Loop_R.DA_Fx_Group_L2_MBs018_Pyangtou_Loop_R",
     "FarVoiceEffectPath": "/Game/Aki/Effect/EffectGroup/MB1ShanghengMd00501/DA_Fx_Group_L2_MBs018_Pyangtou_Loop_R.DA_Fx_Group_L2_MBs018_Pyangtou_Loop_R",
@@ -248,7 +286,9 @@
   },
   {
     "UId": 308,
-    "ScanInfos": [308],
+    "ScanInfos": [
+      308
+    ],
     "ItemMaterialDataPath": "/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UI_Dogmark_01.DA_Fx_Group_UI_Dogmark_01",
     "NearVoiceEffectPath": "",
     "FarVoiceEffectPath": "",
@@ -261,7 +301,9 @@
   },
   {
     "UId": 309,
-    "ScanInfos": [309],
+    "ScanInfos": [
+      309
+    ],
     "ItemMaterialDataPath": "/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UI_Dogmark_02.DA_Fx_Group_UI_Dogmark_02",
     "NearVoiceEffectPath": "",
     "FarVoiceEffectPath": "",
@@ -269,6 +311,21 @@
     "InteractionEffectInterval": 8,
     "ShowDistance": false,
     "ShowInteractionEffect": false,
+    "ScanAudioEvent": "",
+    "TriggerRoleAudio": false
+  },
+  {
+    "UId": 310,
+    "ScanInfos": [
+      310
+    ],
+    "ItemMaterialDataPath": "/Game/Aki/TypeScript/Game/NewWorld/Character/SimpleNpc/Blueprint/DA_NPC_Protect.DA_NPC_Protect",
+    "NearVoiceEffectPath": "",
+    "FarVoiceEffectPath": "",
+    "ScanConcealEffectPath": "",
+    "InteractionEffectInterval": 8,
+    "ShowDistance": false,
+    "ShowInteractionEffect": true,
     "ScanAudioEvent": "",
     "TriggerRoleAudio": false
   }

@@ -7,7 +7,15 @@
     "CountryId": 0,
     "FilterIcon": "/Game/Aki/UI/UIResources/UiRole/Atlas/SP_RoleTabQuanBu.SP_RoleTabQuanBu",
     "Role": {
-      "ArrayInt": [1103, 1402, 1202, 1203, 1404, 1302, 1104]
+      "ArrayInt": [
+        1103,
+        1402,
+        1202,
+        1203,
+        1404,
+        1302,
+        1104
+      ]
     }
   },
   {
@@ -18,7 +26,9 @@
     "CountryId": 0,
     "FilterIcon": "/Game/Aki/UI/UIResources/UiRole/Atlas/SP_RoleTabHeiHaiAn.SP_RoleTabHeiHaiAn",
     "Role": {
-      "ArrayInt": [1203]
+      "ArrayInt": [
+        1203
+      ]
     }
   },
   {
@@ -29,7 +39,14 @@
     "CountryId": 1,
     "FilterIcon": "/Game/Aki/UI/UIResources/UiRole/Atlas/SP_RoleTabHuangLong.SP_RoleTabHuangLong",
     "Role": {
-      "ArrayInt": [1103, 1402, 1202, 1404, 1302, 1104]
+      "ArrayInt": [
+        1103,
+        1402,
+        1202,
+        1404,
+        1302,
+        1104
+      ]
     }
   }
 ]

@@ -5,10 +5,19 @@
     "ButtonType": 1,
     "ActionType": 1,
     "SkillId": 100010,
-    "SkillIdTagMap": [],
-    "SkillIconTags": ["幻象.声骸角色.叮咚咚.跳跃"],
+    "SkillIdTagMap": [
+      {
+        "Key": "角色.R2T1ChangLiMd10011.buff相关.心眼",
+        "Value": 1205106
+      }
+    ],
+    "SkillIconTags": [
+      "幻象.声骸角色.叮咚咚.跳跃"
+    ],
     "EnableTags": [],
-    "DisableTags": ["战斗状态.行为限制.禁止跳跃"],
+    "DisableTags": [
+      "战斗状态.行为限制.禁止跳跃"
+    ],
     "DisableSkillIdTags": [],
     "HiddenTags": [],
     "IsCdVisible": true,
@@ -19,7 +28,12 @@
     "CdCompletedEffectId": 0,
     "IsLongPressControlCamera": false,
     "LongPressTime": 0,
-    "DynamicEffectTagMap": []
+    "DynamicEffectTagMap": [
+      {
+        "Key": "角色.R2T1ChangLiMd10011.buff相关.心眼",
+        "Value": 12051310
+      }
+    ]
   },
   {
     "Id": 1001,
@@ -50,11 +64,18 @@
     "ActionType": 5,
     "SkillId": 100001,
     "SkillIdTagMap": [],
-    "SkillIconTags": ["行为状态.位置状态.水中", "幻象.声骸角色.叮咚咚.疾跑"],
+    "SkillIconTags": [
+      "行为状态.位置状态.水中",
+      "幻象.声骸角色.叮咚咚.疾跑"
+    ],
     "EnableTags": [],
-    "DisableTags": ["战斗状态.技能限制.禁止地面闪避"],
+    "DisableTags": [
+      "战斗状态.技能限制.禁止地面闪避"
+    ],
     "DisableSkillIdTags": [],
-    "HiddenTags": ["功能.功能制作.隐藏按钮功能.隐藏冲刺按键"],
+    "HiddenTags": [
+      "功能.功能制作.隐藏按钮功能.隐藏冲刺按键"
+    ],
     "IsCdVisible": true,
     "AttributeId": 0,
     "MaxAttributeId": 0,
@@ -99,29 +120,42 @@
       {
         "Key": "角色.Common.探索技能.禁用自由钩锁",
         "Value": {
-          "ArrayInt": [210001]
+          "ArrayInt": [
+            210001
+          ]
         }
       },
       {
         "Key": "行为状态.位置状态.攀爬",
         "Value": {
-          "ArrayInt": [210003, 210008, 210011]
+          "ArrayInt": [
+            210003,
+            210008,
+            210011
+          ]
         }
       },
       {
         "Key": "行为状态.位置状态.空中",
         "Value": {
-          "ArrayInt": [210008, 210011]
+          "ArrayInt": [
+            210008,
+            210011
+          ]
         }
       },
       {
         "Key": "行为状态.位置状态.水中",
         "Value": {
-          "ArrayInt": [210008]
+          "ArrayInt": [
+            210008
+          ]
         }
       }
     ],
-    "HiddenTags": ["功能.功能制作.隐藏按钮功能.隐藏探索幻象按键"],
+    "HiddenTags": [
+      "功能.功能制作.隐藏按钮功能.隐藏探索幻象按键"
+    ],
     "IsCdVisible": true,
     "AttributeId": 0,
     "MaxAttributeId": 0,
@@ -146,6 +180,10 @@
       {
         "Key": "角色.Common.技能通用标识.拉取巨物可用",
         "Value": 1002
+      },
+      {
+        "Key": "行为状态.逻辑状态.拍照装备中",
+        "Value": 1003
       }
     ]
   },
@@ -157,7 +195,10 @@
     "SkillId": 0,
     "SkillIdTagMap": [],
     "SkillIconTags": [],
-    "EnableTags": ["幻象.技能.不显示CD", "幻象.技能.鳞人二阶段技能期间不进CD"],
+    "EnableTags": [
+      "幻象.技能.不显示CD",
+      "幻象.技能.鳞人二阶段技能期间不进CD"
+    ],
     "DisableTags": [
       "功能.功能制作.被击硬直时间",
       "战斗状态.技能限制.禁止战斗幻象技能",
@@ -166,7 +207,9 @@
       "行为状态.逻辑状态.控物.进入投掷"
     ],
     "DisableSkillIdTags": [],
-    "HiddenTags": ["功能.功能制作.隐藏按钮功能.隐藏攻击幻象按键"],
+    "HiddenTags": [
+      "功能.功能制作.隐藏按钮功能.隐藏攻击幻象按键"
+    ],
     "IsCdVisible": true,
     "AttributeId": 0,
     "MaxAttributeId": 0,
@@ -174,13 +217,19 @@
       {
         "Key": "幻象.怪物.Lord.聚械机偶.充能中",
         "Value": {
-          "ArrayInt": [68, 67]
+          "ArrayInt": [
+            68,
+            67
+          ]
         }
       },
       {
         "Key": "Rogue.Vision.Wuguanzhe.激活变身无冠者",
         "Value": {
-          "ArrayInt": [68, 67]
+          "ArrayInt": [
+            68,
+            67
+          ]
         }
       }
     ],
@@ -199,7 +248,9 @@
     "SkillIdTagMap": [],
     "SkillIconTags": [],
     "EnableTags": [],
-    "DisableTags": ["战斗状态.技能限制.禁止地面闪避"],
+    "DisableTags": [
+      "战斗状态.技能限制.禁止地面闪避"
+    ],
     "DisableSkillIdTags": [],
     "HiddenTags": [
       "功能.功能制作.隐藏按钮功能.隐藏冲刺按键",
@@ -224,11 +275,15 @@
     "ActionType": 14,
     "SkillId": 240001,
     "SkillIdTagMap": [],
-    "SkillIconTags": ["角色.Common.探索技能.新版控物.抛物线模式"],
+    "SkillIconTags": [
+      "角色.Common.探索技能.新版控物.抛物线模式"
+    ],
     "EnableTags": [],
     "DisableTags": [],
     "DisableSkillIdTags": [],
-    "HiddenTags": ["功能.功能制作.隐藏按钮功能.隐藏瞄准技能按键.控物"],
+    "HiddenTags": [
+      "功能.功能制作.隐藏按钮功能.隐藏瞄准技能按键.控物"
+    ],
     "IsCdVisible": true,
     "AttributeId": 0,
     "MaxAttributeId": 0,

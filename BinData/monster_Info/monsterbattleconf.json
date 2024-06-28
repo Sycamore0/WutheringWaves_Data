@@ -148,14 +148,20 @@
   },
   {
     "Id": 80001001,
-    "ExecutionId": [2, 1],
+    "ExecutionId": [
+      2,
+      1
+    ],
     "ExecutionRadius": 260,
     "ForceLockOnCoefficient": 1000,
     "MonsterSizeId": 7
   },
   {
     "Id": 80001002,
-    "ExecutionId": [2, 1],
+    "ExecutionId": [
+      2,
+      1
+    ],
     "ExecutionRadius": 260,
     "ForceLockOnCoefficient": 1000,
     "MonsterSizeId": 7
@@ -414,7 +420,10 @@
   },
   {
     "Id": 80008002,
-    "ExecutionId": [5, 6],
+    "ExecutionId": [
+      5,
+      6
+    ],
     "ExecutionRadius": 550,
     "ForceLockOnCoefficient": 1000,
     "MonsterSizeId": 7
@@ -565,5 +574,40 @@
     "ExecutionRadius": 3,
     "ForceLockOnCoefficient": 0,
     "MonsterSizeId": 2
+  },
+  {
+    "Id": 80017001,
+    "ExecutionId": [],
+    "ExecutionRadius": 3,
+    "ForceLockOnCoefficient": 0,
+    "MonsterSizeId": 7
+  },
+  {
+    "Id": 77049,
+    "ExecutionId": [],
+    "ExecutionRadius": 3,
+    "ForceLockOnCoefficient": 0,
+    "MonsterSizeId": 4
+  },
+  {
+    "Id": 770421,
+    "ExecutionId": [],
+    "ExecutionRadius": 3,
+    "ForceLockOnCoefficient": 0,
+    "MonsterSizeId": 4
+  },
+  {
+    "Id": 770082,
+    "ExecutionId": [],
+    "ExecutionRadius": 3,
+    "ForceLockOnCoefficient": 0,
+    "MonsterSizeId": 4
+  },
+  {
+    "Id": 800080021,
+    "ExecutionId": [],
+    "ExecutionRadius": 3,
+    "ForceLockOnCoefficient": 0,
+    "MonsterSizeId": 7
   }
 ]

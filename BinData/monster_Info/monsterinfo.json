@@ -11,7 +11,9 @@
     "MonsterPose": "/Game/Aki/Character/Monster/Ordinary/MO1QunJing1Md00001/CommonAnim/Stand2.Stand2",
     "UndiscoveredDes": "MonsterInfo_310000010_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000010_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 320000010,
@@ -25,7 +27,9 @@
     "MonsterPose": "/Game/Aki/Character/Monster/Elite/ME1QunJingMd00001/CommonAnim/Stand2.Stand2",
     "UndiscoveredDes": "MonsterInfo_320000010_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_320000010_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 330000010,
@@ -39,21 +43,25 @@
     "MonsterPose": "/Game/Aki/Character/Monster/Lord/ML1LinrenMd00311/CommonAnim/Stand2.Stand2",
     "UndiscoveredDes": "MonsterInfo_330000010_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_330000010_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 340000010,
     "Name": "MonsterInfo_340000010_Name",
     "RarityId": 3,
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_999_UI.T_IconMonsterHead_999_UI",
-    "BigIcon": "0",
+    "BigIcon": "/Game/Aki/UI/UIResources/Common/Image/ImgBoss/T_Boss_05.T_Boss_05",
     "Tachine": "/Game/Aki/UI/UIResources/UiSingleTower/Image/T_UiSingleTowerMonster1_UI.T_UiSingleTowerMonster1_UI",
     "ElementId": 6,
     "MonsterEntityID": "Monster046",
     "MonsterPose": "/Game/Aki/Character/Monster/Boss/MB1Wuguanzhe00601/CommonAnim/Layer1/Stand2.Stand2",
     "UndiscoveredDes": "MonsterInfo_340000010_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_340000010_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000020,
@@ -67,7 +75,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000020_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000020_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000030,
@@ -81,7 +91,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000030_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000030_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000040,
@@ -95,7 +107,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000040_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000040_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000050,
@@ -109,7 +123,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000050_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000050_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000060,
@@ -123,7 +139,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000060_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000060_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000070,
@@ -137,7 +155,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000070_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000070_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000080,
@@ -151,7 +171,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000080_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000080_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000090,
@@ -165,7 +187,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000090_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000090_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000100,
@@ -179,7 +203,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000100_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000100_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000110,
@@ -193,7 +219,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000110_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000110_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000120,
@@ -207,7 +235,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000120_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000120_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000130,
@@ -221,7 +251,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000130_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000130_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000140,
@@ -235,7 +267,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000140_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000140_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000150,
@@ -249,7 +283,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000150_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000150_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000160,
@@ -263,7 +299,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000160_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000160_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000170,
@@ -277,7 +315,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000170_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000170_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000180,
@@ -291,7 +331,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000180_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000180_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000190,
@@ -305,7 +347,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000190_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000190_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000200,
@@ -319,7 +363,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000200_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000200_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000210,
@@ -333,7 +379,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000210_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000210_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000220,
@@ -347,7 +395,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000220_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000220_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000230,
@@ -361,7 +411,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000230_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000230_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000231,
@@ -375,7 +427,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000231_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000231_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000232,
@@ -389,7 +443,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000232_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000232_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000233,
@@ -403,7 +459,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000233_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000233_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000234,
@@ -417,7 +475,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000234_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000234_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000235,
@@ -431,7 +491,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000235_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000235_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000240,
@@ -445,7 +507,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000240_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000240_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000241,
@@ -459,7 +523,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000241_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000241_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000242,
@@ -473,7 +539,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000242_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000242_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000243,
@@ -487,7 +555,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000243_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000243_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000244,
@@ -501,7 +571,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000244_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000244_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000245,
@@ -515,7 +587,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000245_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000245_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000250,
@@ -529,7 +603,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000250_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000250_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000260,
@@ -543,7 +619,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000260_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000260_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000270,
@@ -557,7 +635,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000270_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000270_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000280,
@@ -571,7 +651,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000280_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000280_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 320000020,
@@ -585,7 +667,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_320000020_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_320000020_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 320000030,
@@ -599,7 +683,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_320000030_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_320000030_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 320000040,
@@ -613,7 +699,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_320000040_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_320000040_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 320000050,
@@ -627,7 +715,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_320000050_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_320000050_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 320000060,
@@ -641,7 +731,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_320000060_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_320000060_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 320000070,
@@ -655,7 +747,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_320000070_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_320000070_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 320000080,
@@ -669,7 +763,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_320000080_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_320000080_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 320000090,
@@ -683,7 +779,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_320000090_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_320000090_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 320000100,
@@ -697,7 +795,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_320000100_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_320000100_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 320000110,
@@ -711,7 +811,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_320000110_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_320000110_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 320000120,
@@ -725,7 +827,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_320000120_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_320000120_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 320000130,
@@ -739,7 +843,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_320000130_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_320000130_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 320000140,
@@ -753,7 +859,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_320000140_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_320000140_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 320000150,
@@ -767,7 +875,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_320000150_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_320000150_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 320000160,
@@ -781,7 +891,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_320000160_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_320000160_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 330000020,
@@ -795,7 +907,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_330000020_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_330000020_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 330000030,
@@ -809,7 +923,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_330000030_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_330000030_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 330000040,
@@ -823,7 +939,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_330000040_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_330000040_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 330000050,
@@ -837,7 +955,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_330000050_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_330000050_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 330000060,
@@ -851,7 +971,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_330000060_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_330000060_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 340000020,
@@ -865,7 +987,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_340000020_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_340000020_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 340000050,
@@ -879,7 +1003,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_340000050_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_340000050_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 320000170,
@@ -893,7 +1019,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_320000170_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_320000170_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000290,
@@ -907,7 +1035,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000290_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000290_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000300,
@@ -921,7 +1051,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000290_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000290_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000310,
@@ -935,7 +1067,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000300_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000300_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000320,
@@ -949,7 +1083,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000310_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000310_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000330,
@@ -963,7 +1099,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000320_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000320_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000340,
@@ -975,9 +1113,11 @@
     "ElementId": 1,
     "MonsterEntityID": "Monster119",
     "MonsterPose": "0",
-    "UndiscoveredDes": "MonsterInfo_310000330_UndiscoveredDes",
-    "DiscoveredDes": "MonsterInfo_310000330_DiscoveredDes",
-    "PerchId": [13]
+    "UndiscoveredDes": "MonsterInfo_310000340_UndiscoveredDes",
+    "DiscoveredDes": "MonsterInfo_310000340_DiscoveredDes",
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 320000180,
@@ -991,7 +1131,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_320000180_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_320000180_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 340000060,
@@ -1005,7 +1147,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_340000060_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_340000060_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 340000070,
@@ -1019,7 +1163,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_340000070_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_340000070_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 340000080,
@@ -1033,7 +1179,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_340000080_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_340000080_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 350000010,
@@ -1047,7 +1195,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_350000010_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_350000010_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 350000020,
@@ -1061,7 +1211,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_350000020_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_350000020_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 350000030,
@@ -1075,7 +1227,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_350000030_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_350000030_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 350000040,
@@ -1089,7 +1243,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_350000040_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_350000040_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 350000050,
@@ -1103,7 +1259,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_350000050_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_350000050_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 350000060,
@@ -1117,7 +1275,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_330000030_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_330000030_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 310000251,
@@ -1131,7 +1291,9 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_310000250_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_310000250_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
   },
   {
     "Id": 320000111,
@@ -1145,6 +1307,136 @@
     "MonsterPose": "0",
     "UndiscoveredDes": "MonsterInfo_320000110_UndiscoveredDes",
     "DiscoveredDes": "MonsterInfo_320000110_DiscoveredDes",
-    "PerchId": [13]
+    "PerchId": [
+      13
+    ]
+  },
+  {
+    "Id": 310000350,
+    "Name": "MonsterInfo_310000350_Name",
+    "RarityId": 1,
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_326_UI.T_IconMonsterHead_326_UI",
+    "BigIcon": "0",
+    "Tachine": "/Game/Aki/UI/UIResources/UiSingleTower/Image/T_UiSingleTowerMonster1_UI.T_UiSingleTowerMonster1_UI",
+    "ElementId": 2,
+    "MonsterEntityID": "Monster118",
+    "MonsterPose": "0",
+    "UndiscoveredDes": "MonsterInfo_310000350_UndiscoveredDes",
+    "DiscoveredDes": "MonsterInfo_310000350_DiscoveredDes",
+    "PerchId": [
+      13
+    ]
+  },
+  {
+    "Id": 310000360,
+    "Name": "MonsterInfo_310000360_Name",
+    "RarityId": 1,
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_330_UI.T_IconMonsterHead_330_UI",
+    "BigIcon": "0",
+    "Tachine": "/Game/Aki/UI/UIResources/UiSingleTower/Image/T_UiSingleTowerMonster1_UI.T_UiSingleTowerMonster1_UI",
+    "ElementId": 0,
+    "MonsterEntityID": "Monster127",
+    "MonsterPose": "0",
+    "UndiscoveredDes": "MonsterInfo_310000360_UndiscoveredDes",
+    "DiscoveredDes": "MonsterInfo_310000360_DiscoveredDes",
+    "PerchId": [
+      13
+    ]
+  },
+  {
+    "Id": 320000190,
+    "Name": "MonsterInfo_320000190_Name",
+    "RarityId": 2,
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_985_UI.T_IconMonsterHead_985_UI",
+    "BigIcon": "0",
+    "Tachine": "/Game/Aki/UI/UIResources/UiSingleTower/Image/T_UiSingleTowerMonster1_UI.T_UiSingleTowerMonster1_UI",
+    "ElementId": 1,
+    "MonsterEntityID": "Monster_branch1.1_001",
+    "MonsterPose": "0",
+    "UndiscoveredDes": "MonsterInfo_320000190_UndiscoveredDes",
+    "DiscoveredDes": "MonsterInfo_320000190_DiscoveredDes",
+    "PerchId": [
+      13
+    ]
+  },
+  {
+    "Id": 320000200,
+    "Name": "MonsterInfo_320000200_Name",
+    "RarityId": 2,
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_329_UI.T_IconMonsterHead_329_UI",
+    "BigIcon": "0",
+    "Tachine": "/Game/Aki/UI/UIResources/UiSingleTower/Image/T_UiSingleTowerMonster1_UI.T_UiSingleTowerMonster1_UI",
+    "ElementId": 1,
+    "MonsterEntityID": "Monster170",
+    "MonsterPose": "0",
+    "UndiscoveredDes": "MonsterInfo_320000200_UndiscoveredDes",
+    "DiscoveredDes": "MonsterInfo_320000200_DiscoveredDes",
+    "PerchId": [
+      13
+    ]
+  },
+  {
+    "Id": 320000210,
+    "Name": "MonsterInfo_320000210_Name",
+    "RarityId": 2,
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_328_UI.T_IconMonsterHead_328_UI",
+    "BigIcon": "0",
+    "Tachine": "/Game/Aki/UI/UIResources/UiSingleTower/Image/T_UiSingleTowerMonster1_UI.T_UiSingleTowerMonster1_UI",
+    "ElementId": 5,
+    "MonsterEntityID": "Monster126",
+    "MonsterPose": "0",
+    "UndiscoveredDes": "MonsterInfo_320000210_UndiscoveredDes",
+    "DiscoveredDes": "MonsterInfo_320000210_DiscoveredDes",
+    "PerchId": [
+      13
+    ]
+  },
+  {
+    "Id": 340000090,
+    "Name": "MonsterInfo_340000090_Name",
+    "RarityId": 4,
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_327_UI.T_IconMonsterHead_327_UI",
+    "BigIcon": "0",
+    "Tachine": "/Game/Aki/UI/UIResources/UiSingleTower/Image/T_UiSingleTowerMonster1_UI.T_UiSingleTowerMonster1_UI",
+    "ElementId": 5,
+    "MonsterEntityID": "Monster123",
+    "MonsterPose": "0",
+    "UndiscoveredDes": "MonsterInfo_340000090_UndiscoveredDes",
+    "DiscoveredDes": "MonsterInfo_340000090_DiscoveredDes",
+    "PerchId": [
+      13
+    ]
+  },
+  {
+    "Id": 350000070,
+    "Name": "MonsterInfo_350000070_Name",
+    "RarityId": 1,
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_1015_UI.T_IconMonsterHead_1015_UI",
+    "BigIcon": "0",
+    "Tachine": "/Game/Aki/UI/UIResources/UiSingleTower/Image/T_UiSingleTowerMonster1_UI.T_UiSingleTowerMonster1_UI",
+    "ElementId": 1,
+    "MonsterEntityID": "Monster119",
+    "MonsterPose": "0",
+    "UndiscoveredDes": "MonsterInfo_310000330_UndiscoveredDes",
+    "DiscoveredDes": "MonsterInfo_310000330_DiscoveredDes",
+    "PerchId": [
+      13
+    ]
+  },
+  {
+    "Id": 350000080,
+    "Name": "MonsterInfo_350000080_Name",
+    "RarityId": 2,
+    "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_1016_UI.T_IconMonsterHead_1016_UI",
+    "BigIcon": "0",
+    "Tachine": "/Game/Aki/UI/UIResources/UiSingleTower/Image/T_UiSingleTowerMonster1_UI.T_UiSingleTowerMonster1_UI",
+    "ElementId": 5,
+    "MonsterEntityID": "Monster126",
+    "MonsterPose": "0",
+    "UndiscoveredDes": "MonsterInfo_320000210_UndiscoveredDes",
+    "DiscoveredDes": "MonsterInfo_320000210_DiscoveredDes",
+    "PerchId": [
+      13
+    ]
   }
 ]

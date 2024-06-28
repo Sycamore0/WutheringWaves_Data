@@ -220,6 +220,18 @@
     "Content": "资源下载"
   },
   {
+    "Id": "PatchDownload",
+    "Content": "正在下载：{0}/{1}"
+  },
+  {
+    "Id": "PatchDownID",
+    "Content": "{0}"
+  },
+  {
+    "Id": "PatchDownSpeed",
+    "Content": "速度：{0}"
+  },
+  {
     "Id": "MobileDriverOutOfVersion",
     "Content": "检测到手机驱动版本过旧（GL驱动版本＜378），游戏运行中有大概率闪退。为了保证正常游戏体验，建议更新手机系统或GL驱动。"
   },
@@ -238,5 +250,9 @@
   {
     "Id": "PatchClearbutton",
     "Content": "修复"
+  },
+  {
+    "Id": "MobileChipOutOfVersion",
+    "Content": "检测到设备芯片版本过旧，游戏运行中有大概率闪退。为了保证正常游戏体验，建议更换设备。"
   }
 ]

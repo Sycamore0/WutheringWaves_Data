@@ -20,7 +20,9 @@
     "MaxProficiencyCount": 30,
     "FoodContent": "",
     "FoodBackground": "",
-    "RoleList": [1104]
+    "RoleList": [
+      1104
+    ]
   },
   {
     "Id": 10001,
@@ -66,7 +68,9 @@
     "MaxProficiencyCount": 30,
     "FoodContent": "",
     "FoodBackground": "",
-    "RoleList": [1103]
+    "RoleList": [
+      1103
+    ]
   },
   {
     "Id": 10003,
@@ -120,7 +124,9 @@
     "MaxProficiencyCount": 20,
     "FoodContent": "",
     "FoodBackground": "",
-    "RoleList": [1602]
+    "RoleList": [
+      1602
+    ]
   },
   {
     "Id": 10005,
@@ -147,7 +153,9 @@
     "MaxProficiencyCount": 20,
     "FoodContent": "",
     "FoodBackground": "",
-    "RoleList": [1301]
+    "RoleList": [
+      1301
+    ]
   },
   {
     "Id": 10006,
@@ -201,7 +209,9 @@
     "MaxProficiencyCount": 20,
     "FoodContent": "",
     "FoodBackground": "",
-    "RoleList": [1303]
+    "RoleList": [
+      1303
+    ]
   },
   {
     "Id": 10009,
@@ -321,7 +331,9 @@
     "MaxProficiencyCount": 20,
     "FoodContent": "",
     "FoodBackground": "",
-    "RoleList": [1102]
+    "RoleList": [
+      1102
+    ]
   },
   {
     "Id": 10013,
@@ -383,7 +395,9 @@
     "MaxProficiencyCount": 20,
     "FoodContent": "",
     "FoodBackground": "",
-    "RoleList": [1404]
+    "RoleList": [
+      1404
+    ]
   },
   {
     "Id": 10015,
@@ -445,7 +459,9 @@
     "MaxProficiencyCount": 10,
     "FoodContent": "",
     "FoodBackground": "",
-    "RoleList": [1402]
+    "RoleList": [
+      1402
+    ]
   },
   {
     "Id": 10017,
@@ -476,7 +492,9 @@
     "MaxProficiencyCount": 20,
     "FoodContent": "",
     "FoodBackground": "",
-    "RoleList": [1302]
+    "RoleList": [
+      1302
+    ]
   },
   {
     "Id": 10019,
@@ -534,7 +552,9 @@
     "MaxProficiencyCount": 10,
     "FoodContent": "",
     "FoodBackground": "",
-    "RoleList": [1601]
+    "RoleList": [
+      1601
+    ]
   },
   {
     "Id": 10021,
@@ -565,7 +585,9 @@
     "MaxProficiencyCount": 10,
     "FoodContent": "",
     "FoodBackground": "",
-    "RoleList": [1203]
+    "RoleList": [
+      1203
+    ]
   },
   {
     "Id": 10023,
@@ -596,7 +618,9 @@
     "MaxProficiencyCount": 10,
     "FoodContent": "",
     "FoodBackground": "",
-    "RoleList": [1405]
+    "RoleList": [
+      1405
+    ]
   },
   {
     "Id": 10024,
@@ -627,7 +651,9 @@
     "MaxProficiencyCount": 10,
     "FoodContent": "",
     "FoodBackground": "",
-    "RoleList": [1204]
+    "RoleList": [
+      1204
+    ]
   },
   {
     "Id": 10025,
@@ -658,7 +684,9 @@
     "MaxProficiencyCount": 10,
     "FoodContent": "",
     "FoodBackground": "",
-    "RoleList": [1202]
+    "RoleList": [
+      1202
+    ]
   },
   {
     "Id": 10026,
@@ -720,7 +748,9 @@
     "MaxProficiencyCount": 10,
     "FoodContent": "",
     "FoodBackground": "",
-    "RoleList": [1503]
+    "RoleList": [
+      1503
+    ]
   },
   {
     "Id": 10032,
@@ -747,6 +777,252 @@
     "MaxProficiencyCount": 20,
     "FoodContent": "",
     "FoodBackground": "",
-    "RoleList": [1403]
+    "RoleList": [
+      1403
+    ]
+  },
+  {
+    "Id": 10033,
+    "FormulaItemId": 80010033,
+    "FoodItemId": 80000033,
+    "TypeId": 1,
+    "Unlock": false,
+    "Name": "雪莲酥",
+    "ConsumeItems": [
+      {
+        "ItemId": 42310220,
+        "Count": 2
+      },
+      {
+        "ItemId": 80050000,
+        "Count": 3
+      },
+      {
+        "ItemId": 80050003,
+        "Count": 1
+      }
+    ],
+    "Proficiency": 20,
+    "MaxProficiencyCount": 20,
+    "FoodContent": "",
+    "FoodBackground": "",
+    "RoleList": [
+      1304
+    ]
+  },
+  {
+    "Id": 10034,
+    "FormulaItemId": 80010034,
+    "FoodItemId": 80000034,
+    "TypeId": 1,
+    "Unlock": false,
+    "Name": "雀翎辣肉",
+    "ConsumeItems": [
+      {
+        "ItemId": 42310200,
+        "Count": 1
+      },
+      {
+        "ItemId": 42400030,
+        "Count": 3
+      },
+      {
+        "ItemId": 80050001,
+        "Count": 2
+      }
+    ],
+    "Proficiency": 20,
+    "MaxProficiencyCount": 20,
+    "FoodContent": "",
+    "FoodBackground": "",
+    "RoleList": [
+      1205
+    ]
+  },
+  {
+    "Id": 10007,
+    "FormulaItemId": 80010007,
+    "FoodItemId": 80000007,
+    "TypeId": 3,
+    "Unlock": false,
+    "Name": "咸奶茶",
+    "ConsumeItems": [
+      {
+        "ItemId": 80050004,
+        "Count": 3
+      },
+      {
+        "ItemId": 80050005,
+        "Count": 3
+      },
+      {
+        "ItemId": 80050008,
+        "Count": 3
+      },
+      {
+        "ItemId": 80021006,
+        "Count": 1
+      }
+    ],
+    "Proficiency": 40,
+    "MaxProficiencyCount": 10,
+    "FoodContent": "",
+    "FoodBackground": "",
+    "RoleList": []
+  },
+  {
+    "Id": 10018,
+    "FormulaItemId": 80010018,
+    "FoodItemId": 80000018,
+    "TypeId": 3,
+    "Unlock": false,
+    "Name": "香柠炖肉",
+    "ConsumeItems": [
+      {
+        "ItemId": 42400030,
+        "Count": 4
+      },
+      {
+        "ItemId": 42310070,
+        "Count": 3
+      },
+      {
+        "ItemId": 80050008,
+        "Count": 2
+      },
+      {
+        "ItemId": 80021006,
+        "Count": 1
+      }
+    ],
+    "Proficiency": 40,
+    "MaxProficiencyCount": 10,
+    "FoodContent": "",
+    "FoodBackground": "",
+    "RoleList": []
+  },
+  {
+    "Id": 10022,
+    "FormulaItemId": 80010022,
+    "FoodItemId": 80000022,
+    "TypeId": 3,
+    "Unlock": false,
+    "Name": "菱果炒盐雀",
+    "ConsumeItems": [
+      {
+        "ItemId": 80020002,
+        "Count": 1
+      },
+      {
+        "ItemId": 42310110,
+        "Count": 2
+      },
+      {
+        "ItemId": 42400010,
+        "Count": 3
+      },
+      {
+        "ItemId": 80021006,
+        "Count": 1
+      }
+    ],
+    "Proficiency": 40,
+    "MaxProficiencyCount": 10,
+    "FoodContent": "",
+    "FoodBackground": "",
+    "RoleList": []
+  },
+  {
+    "Id": 10027,
+    "FormulaItemId": 80010027,
+    "FoodItemId": 80000027,
+    "TypeId": 3,
+    "Unlock": false,
+    "Name": "糖醋里脊",
+    "ConsumeItems": [
+      {
+        "ItemId": 80020003,
+        "Count": 1
+      },
+      {
+        "ItemId": 42400030,
+        "Count": 4
+      },
+      {
+        "ItemId": 80050000,
+        "Count": 4
+      },
+      {
+        "ItemId": 80021007,
+        "Count": 1
+      }
+    ],
+    "Proficiency": 60,
+    "MaxProficiencyCount": 10,
+    "FoodContent": "",
+    "FoodBackground": "",
+    "RoleList": []
+  },
+  {
+    "Id": 10028,
+    "FormulaItemId": 80010028,
+    "FoodItemId": 80000028,
+    "TypeId": 3,
+    "Unlock": false,
+    "Name": "油辣豆腐",
+    "ConsumeItems": [
+      {
+        "ItemId": 80020000,
+        "Count": 1
+      },
+      {
+        "ItemId": 80020004,
+        "Count": 4
+      },
+      {
+        "ItemId": 42400010,
+        "Count": 2
+      },
+      {
+        "ItemId": 80021006,
+        "Count": 1
+      }
+    ],
+    "Proficiency": 60,
+    "MaxProficiencyCount": 10,
+    "FoodContent": "",
+    "FoodBackground": "",
+    "RoleList": []
+  },
+  {
+    "Id": 10030,
+    "FormulaItemId": 80010030,
+    "FoodItemId": 80000030,
+    "TypeId": 3,
+    "Unlock": false,
+    "Name": "酿肉豆腐",
+    "ConsumeItems": [
+      {
+        "ItemId": 80020001,
+        "Count": 1
+      },
+      {
+        "ItemId": 80020004,
+        "Count": 2
+      },
+      {
+        "ItemId": 42400030,
+        "Count": 4
+      },
+      {
+        "ItemId": 80021006,
+        "Count": 1
+      }
+    ],
+    "Proficiency": 60,
+    "MaxProficiencyCount": 10,
+    "FoodContent": "",
+    "FoodBackground": "",
+    "RoleList": []
   }
 ]

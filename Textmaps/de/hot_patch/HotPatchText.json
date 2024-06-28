@@ -93,7 +93,7 @@
   },
   {
     "Id": "SplashHealthyGamingAdvisory",
-    "Content": "Widerstand gegen illegale Spiele, lehne Raubkopien ab. Achte auf Selbstschutz, sei vorsichtig, um nicht betrogen zu werden.\nMäßiges Spielen ist gut für das Gehirn, aber Spielsucht schadet der Gesundheit. Plane deine Zeit vernünftig und genieße ein gesundes Leben."
+    "Content": "Sag Nein zu Spielen mit unangemessenem Inhalt und Piraterie.\nHalte deine persönlichen Informationen privat, um Betrug zu vermeiden.\nSpiel verantwortungsbewusst, um dein Spielerlebnis sicher und spaßig zu gestalten.\nPlane deine Zeit vernünftig für einen gesunden Lebensstil."
   },
   {
     "Id": "SplashCopyrightInformation",
@@ -220,6 +220,18 @@
     "Content": "Ressourcen herunterladen"
   },
   {
+    "Id": "PatchDownload",
+    "Content": "Herunterladen: {0}/{1}"
+  },
+  {
+    "Id": "PatchDownID",
+    "Content": "{0}"
+  },
+  {
+    "Id": "PatchDownSpeed",
+    "Content": "Geschwindigkeit: {0}"
+  },
+  {
     "Id": "MobileDriverOutOfVersion",
     "Content": "Deine Telefontreiberversion ist veraltet (GL-Treiberversion < 378). Dies kann während des Spiels zu Spielabstürzen führen. Um ein reibungsloses Spielerlebnis zu gewährleisten, wird empfohlen, die Systemversion oder den GL-Treiber zu aktualisieren."
   },
@@ -238,5 +250,9 @@
   {
     "Id": "PatchClearbutton",
     "Content": "Reparieren"
+  },
+  {
+    "Id": "MobileChipOutOfVersion",
+    "Content": "Es wird festgestellt, dass die Chipversion des Geräts zu alt ist und die Wahrscheinlichkeit hoch ist, dass das Spiel während des Betriebs abstürzt. Um ein besseres Spielerlebnis zu gewährleisten, wird empfohlen, das Gerät auszutauschen."
   }
 ]

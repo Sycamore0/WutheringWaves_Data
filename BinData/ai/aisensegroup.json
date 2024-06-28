@@ -5,7 +5,10 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [1, 170001],
+    "AiSenseIds": [
+      1,
+      170001
+    ],
     "ShareDis": 0
   },
   {
@@ -14,7 +17,9 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [21001],
+    "AiSenseIds": [
+      21001
+    ],
     "ShareDis": 0
   },
   {
@@ -23,7 +28,9 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [21005],
+    "AiSenseIds": [
+      21005
+    ],
     "ShareDis": 0
   },
   {
@@ -32,7 +39,9 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [21006],
+    "AiSenseIds": [
+      21006
+    ],
     "ShareDis": 0
   },
   {
@@ -41,7 +50,9 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [21007],
+    "AiSenseIds": [
+      21007
+    ],
     "ShareDis": 0
   },
   {
@@ -50,7 +61,10 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [70051, 170001],
+    "AiSenseIds": [
+      70051,
+      170001
+    ],
     "ShareDis": 0
   },
   {
@@ -59,7 +73,10 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [70053, 170001],
+    "AiSenseIds": [
+      70053,
+      170001
+    ],
     "ShareDis": 0
   },
   {
@@ -68,7 +85,10 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [70092, 170001],
+    "AiSenseIds": [
+      70092,
+      170001
+    ],
     "ShareDis": 0
   },
   {
@@ -77,7 +97,10 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [77026, 170001],
+    "AiSenseIds": [
+      77026,
+      170001
+    ],
     "ShareDis": 0
   },
   {
@@ -86,7 +109,9 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [70054],
+    "AiSenseIds": [
+      70054
+    ],
     "ShareDis": 0
   },
   {
@@ -95,7 +120,9 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [70056],
+    "AiSenseIds": [
+      70056
+    ],
     "ShareDis": 0
   },
   {
@@ -104,7 +131,10 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [70065, 170001],
+    "AiSenseIds": [
+      70065,
+      170001
+    ],
     "ShareDis": 0
   },
   {
@@ -113,7 +143,10 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [70068, 170001],
+    "AiSenseIds": [
+      70068,
+      170001
+    ],
     "ShareDis": 0
   },
   {
@@ -122,7 +155,10 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [70074, 170001],
+    "AiSenseIds": [
+      70074,
+      170001
+    ],
     "ShareDis": 0
   },
   {
@@ -131,7 +167,10 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [70075, 170001],
+    "AiSenseIds": [
+      70075,
+      170001
+    ],
     "ShareDis": 0
   },
   {
@@ -140,7 +179,10 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [70093, 170001],
+    "AiSenseIds": [
+      70093,
+      170001
+    ],
     "ShareDis": 0
   },
   {
@@ -149,7 +191,10 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [70100, 170001],
+    "AiSenseIds": [
+      70100,
+      170001
+    ],
     "ShareDis": 0
   },
   {
@@ -158,7 +203,10 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [70105, 170001],
+    "AiSenseIds": [
+      70105,
+      170001
+    ],
     "ShareDis": 0
   },
   {
@@ -167,7 +215,10 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [77021, 170001],
+    "AiSenseIds": [
+      77021,
+      170001
+    ],
     "ShareDis": 0
   },
   {
@@ -176,7 +227,10 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [77022, 170001],
+    "AiSenseIds": [
+      77022,
+      170001
+    ],
     "ShareDis": 0
   },
   {
@@ -185,7 +239,10 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [77027, 170001],
+    "AiSenseIds": [
+      77027,
+      170001
+    ],
     "ShareDis": 0
   },
   {
@@ -194,7 +251,10 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [77028, 170001],
+    "AiSenseIds": [
+      77028,
+      170001
+    ],
     "ShareDis": 0
   },
   {
@@ -203,7 +263,10 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [77029, 170001],
+    "AiSenseIds": [
+      77029,
+      170001
+    ],
     "ShareDis": 0
   },
   {
@@ -212,7 +275,10 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [77033, 170001],
+    "AiSenseIds": [
+      77033,
+      170001
+    ],
     "ShareDis": 0
   },
   {
@@ -221,7 +287,10 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [77036, 170001],
+    "AiSenseIds": [
+      77036,
+      170001
+    ],
     "ShareDis": 0
   },
   {
@@ -230,7 +299,10 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [77038, 170001],
+    "AiSenseIds": [
+      77038,
+      170001
+    ],
     "ShareDis": 0
   },
   {
@@ -239,7 +311,11 @@
       "Min": 1000,
       "Max": 2000
     },
-    "AiSenseIds": [75005, 2, 75008],
+    "AiSenseIds": [
+      75005,
+      2,
+      75008
+    ],
     "ShareDis": 0
   },
   {
@@ -248,7 +324,10 @@
       "Min": 0,
       "Max": 0
     },
-    "AiSenseIds": [80002, 170001],
+    "AiSenseIds": [
+      80002,
+      170001
+    ],
     "ShareDis": 0
   },
   {
@@ -257,7 +336,10 @@
       "Min": 0,
       "Max": 0
     },
-    "AiSenseIds": [80003, 170001],
+    "AiSenseIds": [
+      80003,
+      170001
+    ],
     "ShareDis": 0
   },
   {
@@ -266,7 +348,10 @@
       "Min": 0,
       "Max": 0
     },
-    "AiSenseIds": [80004, 170001],
+    "AiSenseIds": [
+      80004,
+      170001
+    ],
     "ShareDis": 0
   },
   {
@@ -275,7 +360,10 @@
       "Min": 0,
       "Max": 0
     },
-    "AiSenseIds": [800051, 80005],
+    "AiSenseIds": [
+      800051,
+      80005
+    ],
     "ShareDis": 0
   },
   {
@@ -284,7 +372,9 @@
       "Min": 0,
       "Max": 0
     },
-    "AiSenseIds": [80006],
+    "AiSenseIds": [
+      80006
+    ],
     "ShareDis": 0
   },
   {
@@ -293,7 +383,9 @@
       "Min": 0,
       "Max": 0
     },
-    "AiSenseIds": [80007],
+    "AiSenseIds": [
+      80007
+    ],
     "ShareDis": 0
   },
   {
@@ -302,7 +394,9 @@
       "Min": 0,
       "Max": 0
     },
-    "AiSenseIds": [80008],
+    "AiSenseIds": [
+      80008
+    ],
     "ShareDis": 0
   },
   {
@@ -311,7 +405,9 @@
       "Min": 0,
       "Max": 0
     },
-    "AiSenseIds": [80009],
+    "AiSenseIds": [
+      80009
+    ],
     "ShareDis": 0
   },
   {
@@ -320,7 +416,9 @@
       "Min": 0,
       "Max": 0
     },
-    "AiSenseIds": [80010],
+    "AiSenseIds": [
+      80010
+    ],
     "ShareDis": 0
   },
   {
@@ -329,7 +427,9 @@
       "Min": 0,
       "Max": 0
     },
-    "AiSenseIds": [80011],
+    "AiSenseIds": [
+      80011
+    ],
     "ShareDis": 0
   },
   {
@@ -338,7 +438,9 @@
       "Min": 0,
       "Max": 0
     },
-    "AiSenseIds": [80015],
+    "AiSenseIds": [
+      80015
+    ],
     "ShareDis": 0
   },
   {
@@ -347,7 +449,9 @@
       "Min": 0,
       "Max": 0
     },
-    "AiSenseIds": [80016],
+    "AiSenseIds": [
+      80016
+    ],
     "ShareDis": 0
   },
   {
@@ -356,7 +460,9 @@
       "Min": 0,
       "Max": 0
     },
-    "AiSenseIds": [90001],
+    "AiSenseIds": [
+      90001
+    ],
     "ShareDis": 0
   },
   {
@@ -365,7 +471,9 @@
       "Min": 0,
       "Max": 0
     },
-    "AiSenseIds": [90004],
+    "AiSenseIds": [
+      90004
+    ],
     "ShareDis": 0
   },
   {
@@ -374,7 +482,11 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [70072, 170001, 700721],
+    "AiSenseIds": [
+      70072,
+      170001,
+      700721
+    ],
     "ShareDis": 0
   },
   {
@@ -383,7 +495,9 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [77041],
+    "AiSenseIds": [
+      77041
+    ],
     "ShareDis": 0
   },
   {
@@ -392,7 +506,10 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [770450, 770451],
+    "AiSenseIds": [
+      770450,
+      770451
+    ],
     "ShareDis": 0
   },
   {
@@ -401,7 +518,11 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [1, 75006, 170001],
+    "AiSenseIds": [
+      1,
+      75006,
+      170001
+    ],
     "ShareDis": 0
   },
   {
@@ -410,7 +531,9 @@
       "Min": 0,
       "Max": 0
     },
-    "AiSenseIds": [80012],
+    "AiSenseIds": [
+      80012
+    ],
     "ShareDis": 0
   },
   {
@@ -419,7 +542,9 @@
       "Min": 0,
       "Max": 0
     },
-    "AiSenseIds": [80014],
+    "AiSenseIds": [
+      80014
+    ],
     "ShareDis": 0
   },
   {
@@ -428,7 +553,10 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [70078, 170001],
+    "AiSenseIds": [
+      70078,
+      170001
+    ],
     "ShareDis": 0
   },
   {
@@ -437,7 +565,9 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [80011],
+    "AiSenseIds": [
+      80011
+    ],
     "ShareDis": 0
   },
   {
@@ -446,7 +576,9 @@
       "Min": 0,
       "Max": 0
     },
-    "AiSenseIds": [80013],
+    "AiSenseIds": [
+      80013
+    ],
     "ShareDis": 0
   },
   {
@@ -455,7 +587,10 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [70111, 170001],
+    "AiSenseIds": [
+      70111,
+      170001
+    ],
     "ShareDis": 0
   },
   {
@@ -464,7 +599,9 @@
       "Min": 0,
       "Max": 0
     },
-    "AiSenseIds": [80017],
+    "AiSenseIds": [
+      80017
+    ],
     "ShareDis": 0
   },
   {
@@ -473,7 +610,9 @@
       "Min": 0,
       "Max": 0
     },
-    "AiSenseIds": [800052],
+    "AiSenseIds": [
+      800052
+    ],
     "ShareDis": 0
   },
   {
@@ -482,7 +621,9 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [77042],
+    "AiSenseIds": [
+      77042
+    ],
     "ShareDis": 0
   },
   {
@@ -491,7 +632,9 @@
       "Min": 0,
       "Max": 0
     },
-    "AiSenseIds": [178001],
+    "AiSenseIds": [
+      178001
+    ],
     "ShareDis": 0
   },
   {
@@ -500,7 +643,10 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [77047, 170001],
+    "AiSenseIds": [
+      77047,
+      170001
+    ],
     "ShareDis": 0
   },
   {
@@ -509,7 +655,10 @@
       "Min": 0,
       "Max": 0
     },
-    "AiSenseIds": [800041, 170001],
+    "AiSenseIds": [
+      800041,
+      170001
+    ],
     "ShareDis": 0
   },
   {
@@ -518,7 +667,9 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [70116],
+    "AiSenseIds": [
+      70116
+    ],
     "ShareDis": 0
   },
   {
@@ -527,7 +678,10 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [77048, 170001],
+    "AiSenseIds": [
+      77048,
+      170001
+    ],
     "ShareDis": 0
   },
   {
@@ -536,7 +690,9 @@
       "Min": 0,
       "Max": 0
     },
-    "AiSenseIds": [800131],
+    "AiSenseIds": [
+      800131
+    ],
     "ShareDis": 0
   },
   {
@@ -545,7 +701,10 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [77024, 170001],
+    "AiSenseIds": [
+      77024,
+      170001
+    ],
     "ShareDis": 0
   },
   {
@@ -554,7 +713,9 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [70119],
+    "AiSenseIds": [
+      70119
+    ],
     "ShareDis": 0
   },
   {
@@ -563,7 +724,9 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [70107],
+    "AiSenseIds": [
+      70107
+    ],
     "ShareDis": 0
   },
   {
@@ -572,7 +735,9 @@
       "Min": 0,
       "Max": 0
     },
-    "AiSenseIds": [800091],
+    "AiSenseIds": [
+      800091
+    ],
     "ShareDis": 0
   },
   {
@@ -581,7 +746,9 @@
       "Min": 5000,
       "Max": 9000
     },
-    "AiSenseIds": [70120],
+    "AiSenseIds": [
+      70120
+    ],
     "ShareDis": 0
   },
   {
@@ -590,7 +757,21 @@
       "Min": 2000,
       "Max": 3000
     },
-    "AiSenseIds": [700531, 170001],
+    "AiSenseIds": [
+      700531,
+      170001
+    ],
+    "ShareDis": 0
+  },
+  {
+    "Id": 77049,
+    "LoseDelay": {
+      "Min": 2000,
+      "Max": 3000
+    },
+    "AiSenseIds": [
+      77049
+    ],
     "ShareDis": 0
   },
   {
@@ -599,7 +780,10 @@
       "Min": 0,
       "Max": 0
     },
-    "AiSenseIds": [800021, 170001],
+    "AiSenseIds": [
+      800021,
+      170001
+    ],
     "ShareDis": 0
   },
   {
@@ -608,7 +792,10 @@
       "Min": 0,
       "Max": 0
     },
-    "AiSenseIds": [800031, 170001],
+    "AiSenseIds": [
+      800031,
+      170001
+    ],
     "ShareDis": 0
   },
   {
@@ -617,7 +804,9 @@
       "Min": 0,
       "Max": 0
     },
-    "AiSenseIds": [800053],
+    "AiSenseIds": [
+      800053
+    ],
     "ShareDis": 0
   },
   {
@@ -626,7 +815,9 @@
       "Min": 0,
       "Max": 0
     },
-    "AiSenseIds": [800092],
+    "AiSenseIds": [
+      800092
+    ],
     "ShareDis": 0
   },
   {
@@ -635,7 +826,9 @@
       "Min": 0,
       "Max": 0
     },
-    "AiSenseIds": [800111],
+    "AiSenseIds": [
+      800111
+    ],
     "ShareDis": 0
   },
   {
@@ -644,7 +837,9 @@
       "Min": 0,
       "Max": 0
     },
-    "AiSenseIds": [800121],
+    "AiSenseIds": [
+      800121
+    ],
     "ShareDis": 0
   },
   {
@@ -653,7 +848,21 @@
       "Min": 0,
       "Max": 0
     },
-    "AiSenseIds": [800101],
+    "AiSenseIds": [
+      800101
+    ],
+    "ShareDis": 0
+  },
+  {
+    "Id": 77032,
+    "LoseDelay": {
+      "Min": 2000,
+      "Max": 3000
+    },
+    "AiSenseIds": [
+      77032,
+      170001
+    ],
     "ShareDis": 0
   }
 ]

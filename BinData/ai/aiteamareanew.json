@@ -6,7 +6,12 @@
       "Min": 1500,
       "Max": 2500
     },
-    "CharTypes": [1, 3, 4, 6],
+    "CharTypes": [
+      1,
+      3,
+      4,
+      6
+    ],
     "AreaAngle": 70,
     "AreaDistance": {
       "Min": 100,
@@ -21,7 +26,12 @@
       "Min": 0,
       "Max": 1500
     },
-    "CharTypes": [4, 6, 3, 1],
+    "CharTypes": [
+      4,
+      6,
+      3,
+      1
+    ],
     "AreaAngle": 65,
     "AreaDistance": {
       "Min": 500,
@@ -31,12 +41,15 @@
   },
   {
     "Id": 3,
-    "MaxCharacter": 6,
+    "MaxCharacter": 99,
     "ReactionTime": {
       "Min": 0,
       "Max": 2000
     },
-    "CharTypes": [2, 5],
+    "CharTypes": [
+      2,
+      5
+    ],
     "AreaAngle": 75,
     "AreaDistance": {
       "Min": 1000,
@@ -51,7 +64,12 @@
       "Min": 1500,
       "Max": 2500
     },
-    "CharTypes": [1, 3, 4, 6],
+    "CharTypes": [
+      1,
+      3,
+      4,
+      6
+    ],
     "AreaAngle": 60,
     "AreaDistance": {
       "Min": 100,
@@ -66,7 +84,12 @@
       "Min": 0,
       "Max": 1500
     },
-    "CharTypes": [4, 6, 3, 1],
+    "CharTypes": [
+      4,
+      6,
+      3,
+      1
+    ],
     "AreaAngle": 60,
     "AreaDistance": {
       "Min": 500,
@@ -76,12 +99,15 @@
   },
   {
     "Id": 6,
-    "MaxCharacter": 6,
+    "MaxCharacter": 99,
     "ReactionTime": {
       "Min": 0,
       "Max": 2000
     },
-    "CharTypes": [2, 5],
+    "CharTypes": [
+      2,
+      5
+    ],
     "AreaAngle": 50,
     "AreaDistance": {
       "Min": 800,

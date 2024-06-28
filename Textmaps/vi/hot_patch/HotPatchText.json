@@ -220,6 +220,18 @@
     "Content": ""
   },
   {
+    "Id": "PatchDownload",
+    "Content": ""
+  },
+  {
+    "Id": "PatchDownID",
+    "Content": ""
+  },
+  {
+    "Id": "PatchDownSpeed",
+    "Content": ""
+  },
+  {
     "Id": "MobileDriverOutOfVersion",
     "Content": ""
   },
@@ -237,6 +249,10 @@
   },
   {
     "Id": "PatchClearbutton",
+    "Content": ""
+  },
+  {
+    "Id": "MobileChipOutOfVersion",
     "Content": ""
   }
 ]

@@ -5,7 +5,10 @@
     "MarkTitle": "MapMark_3_MarkTitle",
     "MarkDesc": "MapMark_3_MarkDesc",
     "ShowPriority": 8,
-    "ShowRange": [15, 9999],
+    "ShowRange": [
+      15,
+      9999
+    ],
     "Scale": 1
   }
 ]

@@ -4,7 +4,9 @@
     "InitValue": 14000,
     "InitRecoveryRate": 2400,
     "InitMax": 14000,
-    "MarkTag": ["功能.功能制作.禁止体力恢复"],
+    "MarkTag": [
+      "功能.功能制作.禁止体力恢复"
+    ],
     "ResistTag": [],
     "TriggerRange1": {
       "Min": 0,
@@ -33,7 +35,9 @@
     "InitValue": 0,
     "InitRecoveryRate": -5000,
     "InitMax": 10000,
-    "MarkTag": ["功能.逻辑状态标识.剧情中"],
+    "MarkTag": [
+      "功能.逻辑状态标识.剧情中"
+    ],
     "ResistTag": [],
     "TriggerRange1": {
       "Min": 9999,
@@ -41,7 +45,9 @@
     },
     "TriggerType1": 0,
     "TriggerEffect1": 0,
-    "TriggerEffectParams1": ["640006011"],
+    "TriggerEffectParams1": [
+      "640006011"
+    ],
     "TriggerRange2": {
       "Min": 9999,
       "Max": 10000
@@ -77,7 +83,10 @@
     },
     "TriggerType1": 1,
     "TriggerEffect1": 0,
-    "TriggerEffectParams1": ["80011012", "80011013"],
+    "TriggerEffectParams1": [
+      "80011012",
+      "80011013"
+    ],
     "TriggerRange2": {
       "Min": 9999,
       "Max": 10000
@@ -106,7 +115,9 @@
     },
     "TriggerType1": 1,
     "TriggerEffect1": 0,
-    "TriggerEffectParams1": ["800100003090"],
+    "TriggerEffectParams1": [
+      "800100003090"
+    ],
     "TriggerRange2": {
       "Min": 9999,
       "Max": 10000
@@ -156,7 +167,10 @@
     "InitValue": 0,
     "InitRecoveryRate": -5000,
     "InitMax": 10000,
-    "MarkTag": ["功能.逻辑状态标识.剧情中", "关卡.孢子.孢子计量停止"],
+    "MarkTag": [
+      "功能.逻辑状态标识.剧情中",
+      "关卡.孢子.孢子计量停止"
+    ],
     "ResistTag": [],
     "TriggerRange1": {
       "Min": 9999,
@@ -164,7 +178,43 @@
     },
     "TriggerType1": 1,
     "TriggerEffect1": 0,
-    "TriggerEffectParams1": ["631060002"],
+    "TriggerEffectParams1": [
+      "631060002"
+    ],
+    "TriggerRange2": {
+      "Min": 9999,
+      "Max": 10000
+    },
+    "TriggerType2": 0,
+    "TriggerEffect2": 0,
+    "TriggerEffectParams2": [],
+    "TriggerRange3": {
+      "Min": 9999,
+      "Max": 10000
+    },
+    "TriggerType3": 0,
+    "TriggerEffect3": 0,
+    "TriggerEffectParams3": []
+  },
+  {
+    "Id": 7,
+    "InitValue": 0,
+    "InitRecoveryRate": -5000,
+    "InitMax": 10000,
+    "MarkTag": [
+      "功能.逻辑状态标识.剧情中"
+    ],
+    "ResistTag": [],
+    "TriggerRange1": {
+      "Min": 9999,
+      "Max": 10000
+    },
+    "TriggerType1": 0,
+    "TriggerEffect1": 0,
+    "TriggerEffectParams1": [
+      "640007002",
+      "640007020"
+    ],
     "TriggerRange2": {
       "Min": 9999,
       "Max": 10000

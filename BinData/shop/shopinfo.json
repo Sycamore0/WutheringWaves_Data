@@ -4,7 +4,9 @@
     "ShopType": 1,
     "ShopName": "",
     "OpenId": 0,
-    "ShowCurrency": [3],
+    "ShowCurrency": [
+      3
+    ],
     "DialogueText": ""
   },
   {
@@ -12,7 +14,9 @@
     "ShopType": 1,
     "ShopName": "ShopInfo_101_ShopName",
     "OpenId": 0,
-    "ShowCurrency": [2],
+    "ShowCurrency": [
+      2
+    ],
     "DialogueText": ""
   },
   {
@@ -20,7 +24,9 @@
     "ShopType": 1,
     "ShopName": "ShopInfo_103_ShopName",
     "OpenId": 0,
-    "ShowCurrency": [2],
+    "ShowCurrency": [
+      2
+    ],
     "DialogueText": ""
   },
   {
@@ -28,7 +34,9 @@
     "ShopType": 1,
     "ShopName": "ShopInfo_104_ShopName",
     "OpenId": 0,
-    "ShowCurrency": [44010025],
+    "ShowCurrency": [
+      44010025
+    ],
     "DialogueText": ""
   },
   {
@@ -36,7 +44,9 @@
     "ShopType": 1,
     "ShopName": "ShopInfo_107_ShopName",
     "OpenId": 0,
-    "ShowCurrency": [2],
+    "ShowCurrency": [
+      2
+    ],
     "DialogueText": ""
   },
   {
@@ -44,7 +54,9 @@
     "ShopType": 1,
     "ShopName": "ShopInfo_108_ShopName",
     "OpenId": 0,
-    "ShowCurrency": [2],
+    "ShowCurrency": [
+      2
+    ],
     "DialogueText": ""
   },
   {
@@ -52,7 +64,9 @@
     "ShopType": 1,
     "ShopName": "",
     "OpenId": 0,
-    "ShowCurrency": [3],
+    "ShowCurrency": [
+      3
+    ],
     "DialogueText": ""
   },
   {
@@ -60,7 +74,9 @@
     "ShopType": 1,
     "ShopName": "ShopInfo_109_ShopName",
     "OpenId": 0,
-    "ShowCurrency": [42500020],
+    "ShowCurrency": [
+      42500020
+    ],
     "DialogueText": ""
   },
   {
@@ -68,7 +84,9 @@
     "ShopType": 1,
     "ShopName": "ShopInfo_110_ShopName",
     "OpenId": 0,
-    "ShowCurrency": [2],
+    "ShowCurrency": [
+      2
+    ],
     "DialogueText": ""
   },
   {
@@ -76,7 +94,19 @@
     "ShopType": 1,
     "ShopName": "ShopInfo_111_ShopName",
     "OpenId": 0,
-    "ShowCurrency": [2],
+    "ShowCurrency": [
+      2
+    ],
+    "DialogueText": ""
+  },
+  {
+    "Id": 113,
+    "ShopType": 1,
+    "ShopName": "ShopInfo_104_ShopName",
+    "OpenId": 0,
+    "ShowCurrency": [
+      44010025
+    ],
     "DialogueText": ""
   }
 ]

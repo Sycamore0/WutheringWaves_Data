@@ -220,6 +220,18 @@
     "Content": "リソースダウンロード"
   },
   {
+    "Id": "PatchDownload",
+    "Content": "ダウンロード中：{0}/{1}"
+  },
+  {
+    "Id": "PatchDownID",
+    "Content": "{0}"
+  },
+  {
+    "Id": "PatchDownSpeed",
+    "Content": "データ転送速度：{0}"
+  },
+  {
     "Id": "MobileDriverOutOfVersion",
     "Content": "古いドライババージョン（GLドライババージョン378未満）が検出されました。頻繁にクラッシュする恐れがあるため、正常なゲーム体験を確保するために、スマホのシステムまたはGLドライバのアップデートを推奨いたします。"
   },
@@ -238,5 +250,9 @@
   {
     "Id": "PatchClearbutton",
     "Content": "修復"
+  },
+  {
+    "Id": "MobileChipOutOfVersion",
+    "Content": "デバイスチップのバージョンが古く、ゲーム中にラッシュする可能性があります。正常にゲームをプレイできるために、デバイスの変更をお勧めします。"
   }
 ]

@@ -1,7 +1,11 @@
 [
   {
     "Id": 1,
-    "PositionId": [1, 2, 3],
+    "PositionId": [
+      1,
+      2,
+      3
+    ],
     "AllocationPeriodic": {
       "Min": 8000,
       "Max": 10000
@@ -19,12 +23,23 @@
       "Min": 100,
       "Max": 100
     },
-    "EliteRatio": [3, 1],
-    "RangeRatio": [2, 3, 1]
+    "EliteRatio": [
+      3,
+      1
+    ],
+    "RangeRatio": [
+      2,
+      3,
+      1
+    ]
   },
   {
     "Id": 2,
-    "PositionId": [1, 2, 3],
+    "PositionId": [
+      1,
+      2,
+      3
+    ],
     "AllocationPeriodic": {
       "Min": 8000,
       "Max": 10000
@@ -42,12 +57,23 @@
       "Min": 100,
       "Max": 100
     },
-    "EliteRatio": [2, 1],
-    "RangeRatio": [12, 10, 4]
+    "EliteRatio": [
+      2,
+      1
+    ],
+    "RangeRatio": [
+      12,
+      10,
+      4
+    ]
   },
   {
     "Id": 3,
-    "PositionId": [1, 2, 3],
+    "PositionId": [
+      1,
+      2,
+      3
+    ],
     "AllocationPeriodic": {
       "Min": 8000,
       "Max": 10000
@@ -65,12 +91,21 @@
       "Min": 100,
       "Max": 100
     },
-    "EliteRatio": [2, 1],
-    "RangeRatio": [12, 10, 4]
+    "EliteRatio": [
+      2,
+      1
+    ],
+    "RangeRatio": [
+      12,
+      10,
+      4
+    ]
   },
   {
     "Id": 4,
-    "PositionId": [3],
+    "PositionId": [
+      3
+    ],
     "AllocationPeriodic": {
       "Min": 8000,
       "Max": 10000
@@ -88,12 +123,23 @@
       "Min": 100,
       "Max": 100
     },
-    "EliteRatio": [2, 1],
-    "RangeRatio": [0, 2, 1]
+    "EliteRatio": [
+      2,
+      1
+    ],
+    "RangeRatio": [
+      0,
+      2,
+      1
+    ]
   },
   {
     "Id": 100,
-    "PositionId": [1, 2, 3],
+    "PositionId": [
+      1,
+      2,
+      3
+    ],
     "AllocationPeriodic": {
       "Min": 8000,
       "Max": 10000
@@ -111,12 +157,23 @@
       "Min": 100,
       "Max": 100
     },
-    "EliteRatio": [3, 1],
-    "RangeRatio": [2, 3, 1]
+    "EliteRatio": [
+      3,
+      1
+    ],
+    "RangeRatio": [
+      2,
+      3,
+      1
+    ]
   },
   {
     "Id": 801,
-    "PositionId": [1, 2, 3],
+    "PositionId": [
+      1,
+      2,
+      3
+    ],
     "AllocationPeriodic": {
       "Min": 8000,
       "Max": 10000
@@ -134,12 +191,23 @@
       "Min": 100,
       "Max": 100
     },
-    "EliteRatio": [2, 1],
-    "RangeRatio": [2, 3, 1]
+    "EliteRatio": [
+      2,
+      1
+    ],
+    "RangeRatio": [
+      2,
+      3,
+      1
+    ]
   },
   {
     "Id": 802,
-    "PositionId": [1, 2, 3],
+    "PositionId": [
+      1,
+      2,
+      3
+    ],
     "AllocationPeriodic": {
       "Min": 8000,
       "Max": 10000
@@ -157,12 +225,23 @@
       "Min": 100,
       "Max": 100
     },
-    "EliteRatio": [2, 1],
-    "RangeRatio": [12, 10, 4]
+    "EliteRatio": [
+      2,
+      1
+    ],
+    "RangeRatio": [
+      12,
+      10,
+      4
+    ]
   },
   {
     "Id": 94,
-    "PositionId": [1, 2, 3],
+    "PositionId": [
+      1,
+      2,
+      3
+    ],
     "AllocationPeriodic": {
       "Min": 8000,
       "Max": 10000
@@ -180,12 +259,23 @@
       "Min": 100,
       "Max": 100
     },
-    "EliteRatio": [4, 1],
-    "RangeRatio": [1, 1, 1]
+    "EliteRatio": [
+      4,
+      1
+    ],
+    "RangeRatio": [
+      1,
+      1,
+      1
+    ]
   },
   {
     "Id": 901,
-    "PositionId": [1, 2, 3],
+    "PositionId": [
+      1,
+      2,
+      3
+    ],
     "AllocationPeriodic": {
       "Min": 8000,
       "Max": 10000
@@ -203,12 +293,23 @@
       "Min": 100,
       "Max": 100
     },
-    "EliteRatio": [2, 1],
-    "RangeRatio": [12, 10, 4]
+    "EliteRatio": [
+      2,
+      1
+    ],
+    "RangeRatio": [
+      12,
+      10,
+      4
+    ]
   },
   {
     "Id": 5,
-    "PositionId": [4, 5, 6],
+    "PositionId": [
+      4,
+      5,
+      6
+    ],
     "AllocationPeriodic": {
       "Min": 5000,
       "Max": 7000
@@ -226,12 +327,23 @@
       "Min": 100,
       "Max": 100
     },
-    "EliteRatio": [2, 1],
-    "RangeRatio": [2, 3, 1]
+    "EliteRatio": [
+      2,
+      1
+    ],
+    "RangeRatio": [
+      2,
+      3,
+      1
+    ]
   },
   {
     "Id": 9401,
-    "PositionId": [1, 2, 3],
+    "PositionId": [
+      1,
+      2,
+      3
+    ],
     "AllocationPeriodic": {
       "Min": 8000,
       "Max": 10000
@@ -249,7 +361,14 @@
       "Min": 100,
       "Max": 100
     },
-    "EliteRatio": [4, 1],
-    "RangeRatio": [1, 1, 1]
+    "EliteRatio": [
+      4,
+      1
+    ],
+    "RangeRatio": [
+      1,
+      1,
+      1
+    ]
   }
 ]

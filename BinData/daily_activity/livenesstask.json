@@ -9,8 +9,11 @@
         "Value": 40
       }
     ],
-    "TaskFunc": ["2"],
-    "UnlockCondition": 0
+    "TaskFunc": [
+      "2"
+    ],
+    "UnlockCondition": 0,
+    "SortRank": 1
   },
   {
     "TaskId": 102,
@@ -22,8 +25,13 @@
         "Value": 20
       }
     ],
-    "TaskFunc": ["4", "NewSoundAreaView", "19"],
-    "UnlockCondition": 12005124
+    "TaskFunc": [
+      "4",
+      "NewSoundAreaView",
+      "19"
+    ],
+    "UnlockCondition": 12005124,
+    "SortRank": 3
   },
   {
     "TaskId": 103,
@@ -35,8 +43,13 @@
         "Value": 20
       }
     ],
-    "TaskFunc": ["4", "NewSoundAreaView", "4"],
-    "UnlockCondition": 12005118
+    "TaskFunc": [
+      "4",
+      "NewSoundAreaView",
+      "4"
+    ],
+    "UnlockCondition": 12005118,
+    "SortRank": 3
   },
   {
     "TaskId": 104,
@@ -48,8 +61,13 @@
         "Value": 20
       }
     ],
-    "TaskFunc": ["4", "NewSoundAreaView", "22"],
-    "UnlockCondition": 12005113
+    "TaskFunc": [
+      "4",
+      "NewSoundAreaView",
+      "22"
+    ],
+    "UnlockCondition": 12005113,
+    "SortRank": 3
   },
   {
     "TaskId": 107,
@@ -61,8 +79,12 @@
         "Value": 20
       }
     ],
-    "TaskFunc": ["5", "RolePhantomTabView"],
-    "UnlockCondition": 0
+    "TaskFunc": [
+      "5",
+      "RolePhantomTabView"
+    ],
+    "UnlockCondition": 0,
+    "SortRank": 4
   },
   {
     "TaskId": 108,
@@ -74,8 +96,12 @@
         "Value": 20
       }
     ],
-    "TaskFunc": ["5", "RolePhantomTabView"],
-    "UnlockCondition": 1020
+    "TaskFunc": [
+      "5",
+      "RolePhantomTabView"
+    ],
+    "UnlockCondition": 1020,
+    "SortRank": 4
   },
   {
     "TaskId": 109,
@@ -87,8 +113,12 @@
         "Value": 20
       }
     ],
-    "TaskFunc": ["5", "RoleWeaponTabView"],
-    "UnlockCondition": 0
+    "TaskFunc": [
+      "5",
+      "RoleWeaponTabView"
+    ],
+    "UnlockCondition": 0,
+    "SortRank": 4
   },
   {
     "TaskId": 110,
@@ -100,8 +130,13 @@
         "Value": 20
       }
     ],
-    "TaskFunc": ["4", "MonsterDetectView", "-3"],
-    "UnlockCondition": 12005106
+    "TaskFunc": [
+      "4",
+      "MonsterDetectView",
+      "-3"
+    ],
+    "UnlockCondition": 12005106,
+    "SortRank": 4
   },
   {
     "TaskId": 105,
@@ -113,8 +148,13 @@
         "Value": 20
       }
     ],
-    "TaskFunc": ["4", "NewSoundAreaView", "21"],
-    "UnlockCondition": 12005111
+    "TaskFunc": [
+      "4",
+      "NewSoundAreaView",
+      "21"
+    ],
+    "UnlockCondition": 12005111,
+    "SortRank": 3
   },
   {
     "TaskId": 106,
@@ -126,8 +166,13 @@
         "Value": 20
       }
     ],
-    "TaskFunc": ["4", "NewSoundAreaView", "7"],
-    "UnlockCondition": 12005120
+    "TaskFunc": [
+      "4",
+      "NewSoundAreaView",
+      "7"
+    ],
+    "UnlockCondition": 12005120,
+    "SortRank": 3
   },
   {
     "TaskId": 111,
@@ -139,8 +184,11 @@
         "Value": 20
       }
     ],
-    "TaskFunc": ["1"],
-    "UnlockCondition": 0
+    "TaskFunc": [
+      "1"
+    ],
+    "UnlockCondition": 0,
+    "SortRank": 6
   },
   {
     "TaskId": 112,
@@ -152,8 +200,12 @@
         "Value": 20
       }
     ],
-    "TaskFunc": ["3", "3003"],
-    "UnlockCondition": 0
+    "TaskFunc": [
+      "3",
+      "3003"
+    ],
+    "UnlockCondition": 0,
+    "SortRank": 6
   },
   {
     "TaskId": 113,
@@ -165,8 +217,12 @@
         "Value": 20
       }
     ],
-    "TaskFunc": ["3", "3010"],
-    "UnlockCondition": 0
+    "TaskFunc": [
+      "3",
+      "3010"
+    ],
+    "UnlockCondition": 0,
+    "SortRank": 6
   },
   {
     "TaskId": 114,
@@ -178,8 +234,12 @@
         "Value": 20
       }
     ],
-    "TaskFunc": ["3", "3002"],
-    "UnlockCondition": 0
+    "TaskFunc": [
+      "3",
+      "3002"
+    ],
+    "UnlockCondition": 0,
+    "SortRank": 6
   },
   {
     "TaskId": 115,
@@ -191,8 +251,11 @@
         "Value": 20
       }
     ],
-    "TaskFunc": ["1"],
-    "UnlockCondition": 0
+    "TaskFunc": [
+      "1"
+    ],
+    "UnlockCondition": 0,
+    "SortRank": 6
   },
   {
     "TaskId": 116,
@@ -204,8 +267,11 @@
         "Value": 10
       }
     ],
-    "TaskFunc": ["1"],
-    "UnlockCondition": 0
+    "TaskFunc": [
+      "1"
+    ],
+    "UnlockCondition": 0,
+    "SortRank": 7
   },
   {
     "TaskId": 117,
@@ -217,8 +283,11 @@
         "Value": 10
       }
     ],
-    "TaskFunc": ["1"],
-    "UnlockCondition": 0
+    "TaskFunc": [
+      "1"
+    ],
+    "UnlockCondition": 0,
+    "SortRank": 7
   },
   {
     "TaskId": 118,
@@ -230,8 +299,11 @@
         "Value": 10
       }
     ],
-    "TaskFunc": ["1"],
-    "UnlockCondition": 0
+    "TaskFunc": [
+      "1"
+    ],
+    "UnlockCondition": 0,
+    "SortRank": 7
   },
   {
     "TaskId": 119,
@@ -243,8 +315,11 @@
         "Value": 10
       }
     ],
-    "TaskFunc": ["1"],
-    "UnlockCondition": 0
+    "TaskFunc": [
+      "1"
+    ],
+    "UnlockCondition": 0,
+    "SortRank": 7
   },
   {
     "TaskId": 120,
@@ -256,7 +331,144 @@
         "Value": 20
       }
     ],
-    "TaskFunc": ["5", "RoleAttributeTabView"],
-    "UnlockCondition": 0
+    "TaskFunc": [
+      "5",
+      "RoleAttributeTabView"
+    ],
+    "UnlockCondition": 0,
+    "SortRank": 4
+  },
+  {
+    "TaskId": 121,
+    "TaskName": "LivenessTask_121_TaskName",
+    "UpdateType": 2,
+    "TaskReward": [
+      {
+        "Key": 9,
+        "Value": 20
+      }
+    ],
+    "TaskFunc": [
+      "1"
+    ],
+    "UnlockCondition": 0,
+    "SortRank": 5
+  },
+  {
+    "TaskId": 122,
+    "TaskName": "LivenessTask_122_TaskName",
+    "UpdateType": 2,
+    "TaskReward": [
+      {
+        "Key": 9,
+        "Value": 20
+      }
+    ],
+    "TaskFunc": [
+      "1"
+    ],
+    "UnlockCondition": 0,
+    "SortRank": 5
+  },
+  {
+    "TaskId": 123,
+    "TaskName": "LivenessTask_123_TaskName",
+    "UpdateType": 2,
+    "TaskReward": [
+      {
+        "Key": 9,
+        "Value": 20
+      }
+    ],
+    "TaskFunc": [
+      "1"
+    ],
+    "UnlockCondition": 0,
+    "SortRank": 5
+  },
+  {
+    "TaskId": 124,
+    "TaskName": "LivenessTask_124_TaskName",
+    "UpdateType": 3,
+    "TaskReward": [
+      {
+        "Key": 9,
+        "Value": 100
+      }
+    ],
+    "TaskFunc": [
+      "7",
+      "1"
+    ],
+    "UnlockCondition": 0,
+    "SortRank": 2
+  },
+  {
+    "TaskId": 125,
+    "TaskName": "LivenessTask_125_TaskName",
+    "UpdateType": 3,
+    "TaskReward": [
+      {
+        "Key": 9,
+        "Value": 20
+      }
+    ],
+    "TaskFunc": [
+      "7",
+      "2"
+    ],
+    "UnlockCondition": 0,
+    "SortRank": 2
+  },
+  {
+    "TaskId": 126,
+    "TaskName": "LivenessTask_126_TaskName",
+    "UpdateType": 3,
+    "TaskReward": [
+      {
+        "Key": 9,
+        "Value": 100
+      }
+    ],
+    "TaskFunc": [
+      "7",
+      "9"
+    ],
+    "UnlockCondition": 0,
+    "SortRank": 2
+  },
+  {
+    "TaskId": 127,
+    "TaskName": "LivenessTask_127_TaskName",
+    "UpdateType": 1,
+    "TaskReward": [
+      {
+        "Key": 9,
+        "Value": 20
+      }
+    ],
+    "TaskFunc": [
+      "1"
+    ],
+    "UnlockCondition": 0,
+    "SortRank": 3
+  },
+  {
+    "TaskId": 128,
+    "TaskName": "LivenessTask_128_TaskName",
+    "UpdateType": 1,
+    "TaskReward": [
+      {
+        "Key": 9,
+        "Value": 20
+      }
+    ],
+    "TaskFunc": [
+      "4",
+      "NewSoundAreaView",
+      "5"
+    ],
+    "UnlockCondition": 12980063,
+    "SortRank": 3
   }
 ]

@@ -97,7 +97,7 @@
   },
   {
     "Id": "SplashCopyrightInformation",
-    "Content": "\"심사번호: 国新出审〔2023〕1802号 ISBN 978-7-498-12761-7  퍼블리싱: 成都盈众九州网络科技有限公司\n저작권자: 广州库洛科技有限公司\""
+    "Content": "심사번호: 国新出审〔2023〕1802号 ISBN 978-7-498-12761-7  퍼블리싱: 成都盈众九州网络科技有限公司\n저작권자: 广州库洛科技有限公司"
   },
   {
     "Id": "GetRemoteConfigFailed",
@@ -220,6 +220,18 @@
     "Content": "리소스 다운로드"
   },
   {
+    "Id": "PatchDownload",
+    "Content": "다운로드 중: {0}/{1}"
+  },
+  {
+    "Id": "PatchDownID",
+    "Content": "{0}"
+  },
+  {
+    "Id": "PatchDownSpeed",
+    "Content": "속도: {0}"
+  },
+  {
     "Id": "MobileDriverOutOfVersion",
     "Content": "모바일 드라이버 버전이 너무 오래된 것으로 감지되었습니다. (GL 드라이버 버전 < 378) 게임 실행 중에 튕길 가능성이 있으므로, 정상적인 게임 체험을 위해 모바일 시스템 혹은 GL 드라이버를 업데이트하시기 바랍니다"
   },
@@ -238,5 +250,9 @@
   {
     "Id": "PatchClearbutton",
     "Content": "복구"
+  },
+  {
+    "Id": "MobileChipOutOfVersion",
+    "Content": "디바이스 칩 버전이 낮아 게임 실행 중에 튕길 가능성이 있습니다. 정상적인 게임 플레이를 위해 디바이스 교체를 권장합니다"
   }
 ]

@@ -2,16 +2,27 @@
   {
     "GuideId": 1090007001,
     "Content": "GuideTips_1090007001_Content",
-    "Button": ["跳跃"],
-    "InputEnums": ["跳跃"],
-    "LimitInputEnums": ["跳跃"],
+    "Button": [
+      "跳跃"
+    ],
+    "InputEnums": [
+      "跳跃"
+    ],
+    "LimitInputEnums": [
+      "跳跃"
+    ],
     "UseLoopAnim": false,
     "UseMask": 0
   },
   {
     "GuideId": 1090008001,
     "Content": "GuideTips_1090008001_Content",
-    "Button": ["1#MoveForward", "0#MoveForward", "0#MoveRight", "1#MoveRight"],
+    "Button": [
+      "1#MoveForward",
+      "0#MoveForward",
+      "0#MoveRight",
+      "1#MoveRight"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -20,7 +31,9 @@
   {
     "GuideId": 1090009001,
     "Content": "GuideTips_1090009001_Content",
-    "Button": ["攻击"],
+    "Button": [
+      "攻击"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -29,7 +42,11 @@
   {
     "GuideId": 1090010001,
     "Content": "GuideTips_1090010001_Content",
-    "Button": ["1#MoveForward", "0#闪避", "1#闪避"],
+    "Button": [
+      "1#MoveForward",
+      "0#闪避",
+      "1#闪避"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -38,7 +55,12 @@
   {
     "GuideId": 1,
     "Content": "GuideTips_1_Content",
-    "Button": ["1#MoveForward", "0#MoveForward", "0#MoveRight", "1#MoveRight"],
+    "Button": [
+      "1#MoveForward",
+      "0#MoveForward",
+      "0#MoveRight",
+      "1#MoveRight"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -47,8 +69,12 @@
   {
     "GuideId": 2,
     "Content": "GuideTips_2_Content",
-    "Button": ["跳跃"],
-    "InputEnums": ["跳跃"],
+    "Button": [
+      "跳跃"
+    ],
+    "InputEnums": [
+      "跳跃"
+    ],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
     "UseMask": 0
@@ -56,7 +82,11 @@
   {
     "GuideId": 3,
     "Content": "GuideTips_3_Content",
-    "Button": ["1#MoveForward", "0#闪避", "1#闪避"],
+    "Button": [
+      "1#MoveForward",
+      "0#闪避",
+      "1#闪避"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -83,7 +113,9 @@
   {
     "GuideId": 22,
     "Content": "GuideTips_9_Content",
-    "Button": ["攻击"],
+    "Button": [
+      "攻击"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -92,18 +124,31 @@
   {
     "GuideId": 66,
     "Content": "GuideTips_25_Content",
-    "Button": ["0#闪避", "1#闪避"],
-    "InputEnums": ["闪避"],
-    "LimitInputEnums": ["闪避"],
+    "Button": [
+      "0#闪避",
+      "1#闪避"
+    ],
+    "InputEnums": [
+      "闪避"
+    ],
+    "LimitInputEnums": [
+      "闪避"
+    ],
     "UseLoopAnim": true,
     "UseMask": 0
   },
   {
     "GuideId": 76,
     "Content": "GuideTips_29_Content",
-    "Button": ["攻击"],
-    "InputEnums": ["攻击"],
-    "LimitInputEnums": ["攻击"],
+    "Button": [
+      "攻击"
+    ],
+    "InputEnums": [
+      "攻击"
+    ],
+    "LimitInputEnums": [
+      "攻击"
+    ],
     "UseLoopAnim": true,
     "UseMask": 0
   },
@@ -119,9 +164,15 @@
   {
     "GuideId": 1090021001,
     "Content": "GuideTips_2_Content",
-    "Button": ["跳跃"],
-    "InputEnums": ["跳跃"],
-    "LimitInputEnums": ["跳跃"],
+    "Button": [
+      "跳跃"
+    ],
+    "InputEnums": [
+      "跳跃"
+    ],
+    "LimitInputEnums": [
+      "跳跃"
+    ],
     "UseLoopAnim": false,
     "UseMask": 0
   },
@@ -155,7 +206,9 @@
   {
     "GuideId": 11,
     "Content": "GuideTips_7_Content",
-    "Button": ["1#MoveForward"],
+    "Button": [
+      "1#MoveForward"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -164,7 +217,11 @@
   {
     "GuideId": 16,
     "Content": "GuideTips_84_Content",
-    "Button": ["1#MoveForward", "0#闪避", "1#闪避"],
+    "Button": [
+      "1#MoveForward",
+      "0#闪避",
+      "1#闪避"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -173,7 +230,9 @@
   {
     "GuideId": 23,
     "Content": "GuideTips_23_Content",
-    "Button": ["攻击"],
+    "Button": [
+      "攻击"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -182,7 +241,9 @@
   {
     "GuideId": 24,
     "Content": "GuideTips_10_Content",
-    "Button": ["技能1"],
+    "Button": [
+      "技能1"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": true,
@@ -191,7 +252,9 @@
   {
     "GuideId": 36,
     "Content": "GuideTips_13_Content",
-    "Button": ["通用交互"],
+    "Button": [
+      "通用交互"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -200,7 +263,10 @@
   {
     "GuideId": 56,
     "Content": "GuideTips_132_Content",
-    "Button": ["0#闪避", "1#闪避"],
+    "Button": [
+      "0#闪避",
+      "1#闪避"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": true,
@@ -218,7 +284,9 @@
   {
     "GuideId": 61,
     "Content": "GuideTips_61_Content",
-    "Button": ["通用交互"],
+    "Button": [
+      "通用交互"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -236,16 +304,24 @@
   {
     "GuideId": 86,
     "Content": "GuideTips_19_Content",
-    "Button": ["跳跃"],
-    "InputEnums": ["跳跃"],
-    "LimitInputEnums": ["跳跃"],
+    "Button": [
+      "跳跃"
+    ],
+    "InputEnums": [
+      "跳跃"
+    ],
+    "LimitInputEnums": [
+      "跳跃"
+    ],
     "UseLoopAnim": true,
     "UseMask": 0
   },
   {
     "GuideId": 91,
     "Content": "GuideTips_142_Content",
-    "Button": ["幻象探索选择界面"],
+    "Button": [
+      "幻象探索选择界面"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": true,
@@ -254,16 +330,24 @@
   {
     "GuideId": 101,
     "Content": "GuideTips_101_Content",
-    "Button": ["编队"],
-    "InputEnums": ["编队"],
-    "LimitInputEnums": ["编队"],
+    "Button": [
+      "编队"
+    ],
+    "InputEnums": [
+      "编队"
+    ],
+    "LimitInputEnums": [
+      "编队"
+    ],
     "UseLoopAnim": true,
     "UseMask": 0
   },
   {
     "GuideId": 157,
     "Content": "GuideTips_22_Content",
-    "Button": ["瞄准"],
+    "Button": [
+      "瞄准"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": true,
@@ -272,7 +356,9 @@
   {
     "GuideId": 88,
     "Content": "GuideTips_88_Content",
-    "Button": ["1#MoveForward"],
+    "Button": [
+      "1#MoveForward"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": true,
@@ -281,25 +367,39 @@
   {
     "GuideId": 170,
     "Content": "GuideTips_170_Content",
-    "Button": ["幻象探索选择界面"],
+    "Button": [
+      "幻象探索选择界面"
+    ],
     "InputEnums": [],
-    "LimitInputEnums": ["幻象探索选择界面"],
+    "LimitInputEnums": [
+      "幻象探索选择界面"
+    ],
     "UseLoopAnim": true,
     "UseMask": 0
   },
   {
     "GuideId": 172,
     "Content": "GuideTips_101_Content",
-    "Button": ["编队"],
-    "InputEnums": ["编队"],
-    "LimitInputEnums": ["编队"],
+    "Button": [
+      "编队"
+    ],
+    "InputEnums": [
+      "编队"
+    ],
+    "LimitInputEnums": [
+      "编队"
+    ],
     "UseLoopAnim": true,
     "UseMask": 0
   },
   {
     "GuideId": 40011,
     "Content": "GuideTips_40011_Content",
-    "Button": ["0#攻击", "0#闪避", "1#闪避"],
+    "Button": [
+      "0#攻击",
+      "0#闪避",
+      "1#闪避"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -326,7 +426,10 @@
   {
     "GuideId": 318,
     "Content": "GuideTips_102_Content",
-    "Button": ["0#闪避", "1#闪避"],
+    "Button": [
+      "0#闪避",
+      "1#闪避"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": true,
@@ -335,9 +438,16 @@
   {
     "GuideId": 316,
     "Content": "GuideFocusNew_316_Content",
-    "Button": ["0#闪避", "1#闪避"],
-    "InputEnums": ["闪避"],
-    "LimitInputEnums": ["闪避"],
+    "Button": [
+      "0#闪避",
+      "1#闪避"
+    ],
+    "InputEnums": [
+      "闪避"
+    ],
+    "LimitInputEnums": [
+      "闪避"
+    ],
     "UseLoopAnim": true,
     "UseMask": 0
   },
@@ -398,8 +508,12 @@
   {
     "GuideId": 392,
     "Content": "GuideTips_392_Content",
-    "Button": ["教程"],
-    "InputEnums": ["教程"],
+    "Button": [
+      "教程"
+    ],
+    "InputEnums": [
+      "教程"
+    ],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
     "UseMask": 0
@@ -407,8 +521,12 @@
   {
     "GuideId": 393,
     "Content": "GuideTips_393_Content",
-    "Button": ["UI键盘H手柄特左"],
-    "InputEnums": ["UI键盘H手柄特左"],
+    "Button": [
+      "UI键盘H手柄特左"
+    ],
+    "InputEnums": [
+      "UI键盘H手柄特左"
+    ],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
     "UseMask": 0
@@ -425,7 +543,9 @@
   {
     "GuideId": 395,
     "Content": "GuideTips_395_Content",
-    "Button": ["攻击"],
+    "Button": [
+      "攻击"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -434,7 +554,9 @@
   {
     "GuideId": 396,
     "Content": "GuideTips_396_Content",
-    "Button": ["攻击"],
+    "Button": [
+      "攻击"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -443,7 +565,10 @@
   {
     "GuideId": 400,
     "Content": "GuideTips_400_Content",
-    "Button": ["幻象探索选择界面", "轮盘切换"],
+    "Button": [
+      "幻象探索选择界面",
+      "轮盘切换"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -452,7 +577,9 @@
   {
     "GuideId": 403,
     "Content": "GuideTips_403_Content",
-    "Button": ["幻象探索选择界面"],
+    "Button": [
+      "幻象探索选择界面"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -461,7 +588,9 @@
   {
     "GuideId": 412,
     "Content": "GuideTips_412_Content",
-    "Button": ["幻象探索选择界面"],
+    "Button": [
+      "幻象探索选择界面"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -470,43 +599,70 @@
   {
     "GuideId": 1027,
     "Content": "GuideTips_25_Content",
-    "Button": ["0#闪避", "1#闪避"],
-    "InputEnums": ["闪避"],
-    "LimitInputEnums": ["闪避"],
+    "Button": [
+      "0#闪避",
+      "1#闪避"
+    ],
+    "InputEnums": [
+      "闪避"
+    ],
+    "LimitInputEnums": [
+      "闪避"
+    ],
     "UseLoopAnim": true,
     "UseMask": 0
   },
   {
     "GuideId": 1029,
     "Content": "GuideTips_29_Content",
-    "Button": ["攻击"],
-    "InputEnums": ["攻击"],
-    "LimitInputEnums": ["攻击"],
+    "Button": [
+      "攻击"
+    ],
+    "InputEnums": [
+      "攻击"
+    ],
+    "LimitInputEnums": [
+      "攻击"
+    ],
     "UseLoopAnim": true,
     "UseMask": 0
   },
   {
     "GuideId": 1041,
     "Content": "GuideTips_1041_Content",
-    "Button": ["攻击"],
-    "InputEnums": ["攻击"],
-    "LimitInputEnums": ["攻击"],
+    "Button": [
+      "攻击"
+    ],
+    "InputEnums": [
+      "攻击"
+    ],
+    "LimitInputEnums": [
+      "攻击"
+    ],
     "UseLoopAnim": true,
     "UseMask": 0
   },
   {
     "GuideId": 1043,
     "Content": "GuideTips_1043_Content",
-    "Button": ["攻击"],
-    "InputEnums": ["攻击"],
-    "LimitInputEnums": ["攻击"],
+    "Button": [
+      "攻击"
+    ],
+    "InputEnums": [
+      "攻击"
+    ],
+    "LimitInputEnums": [
+      "攻击"
+    ],
     "UseLoopAnim": true,
     "UseMask": 0
   },
   {
     "GuideId": 431,
     "Content": "GuideTips_431_Content",
-    "Button": ["幻象探索选择界面"],
+    "Button": [
+      "幻象探索选择界面"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -551,7 +707,10 @@
   {
     "GuideId": 10001,
     "Content": "GuideTips_10001_Content",
-    "Button": ["MoveForward", "MoveRight"],
+    "Button": [
+      "MoveForward",
+      "MoveRight"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -560,7 +719,9 @@
   {
     "GuideId": 10002,
     "Content": "GuideTips_10002_Content",
-    "Button": ["MoveForward"],
+    "Button": [
+      "MoveForward"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -569,7 +730,10 @@
   {
     "GuideId": 10036,
     "Content": "GuideTips_10036_Content",
-    "Button": ["MoveForward", "闪避"],
+    "Button": [
+      "MoveForward",
+      "闪避"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -578,7 +742,9 @@
   {
     "GuideId": 477,
     "Content": "GuideTips_477_Content",
-    "Button": ["攻击"],
+    "Button": [
+      "攻击"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -587,7 +753,9 @@
   {
     "GuideId": 478,
     "Content": "GuideTips_478_Content",
-    "Button": ["攻击"],
+    "Button": [
+      "攻击"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -605,7 +773,10 @@
   {
     "GuideId": 10003,
     "Content": "GuideTips_10003_Content",
-    "Button": ["MoveForward", "闪避"],
+    "Button": [
+      "MoveForward",
+      "闪避"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -614,8 +785,12 @@
   {
     "GuideId": 10018,
     "Content": "GuideTips_10018_Content",
-    "Button": ["技能1"],
-    "InputEnums": ["技能1"],
+    "Button": [
+      "技能1"
+    ],
+    "InputEnums": [
+      "技能1"
+    ],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
     "UseMask": 0
@@ -623,8 +798,12 @@
   {
     "GuideId": 10035,
     "Content": "GuideTips_10035_Content",
-    "Button": ["跳跃"],
-    "InputEnums": ["跳跃"],
+    "Button": [
+      "跳跃"
+    ],
+    "InputEnums": [
+      "跳跃"
+    ],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
     "UseMask": 0
@@ -632,8 +811,12 @@
   {
     "GuideId": 10053,
     "Content": "GuideTips_10053_Content",
-    "Button": ["攻击"],
-    "InputEnums": ["攻击"],
+    "Button": [
+      "攻击"
+    ],
+    "InputEnums": [
+      "攻击"
+    ],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
     "UseMask": 0
@@ -641,16 +824,25 @@
   {
     "GuideId": 10011,
     "Content": "GuideTips_10011_Content",
-    "Button": ["闪避"],
-    "InputEnums": ["闪避"],
-    "LimitInputEnums": ["闪避"],
+    "Button": [
+      "闪避"
+    ],
+    "InputEnums": [
+      "闪避"
+    ],
+    "LimitInputEnums": [
+      "闪避"
+    ],
     "UseLoopAnim": true,
     "UseMask": 0
   },
   {
     "GuideId": 10058,
     "Content": "GuideTips_10058_Content",
-    "Button": ["组合主键", "UI键盘R手柄X"],
+    "Button": [
+      "组合主键",
+      "UI键盘R手柄X"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -668,7 +860,9 @@
   {
     "GuideId": 497,
     "Content": "GuideTips_497_Content",
-    "Button": ["幻象探索选择界面"],
+    "Button": [
+      "幻象探索选择界面"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -677,7 +871,9 @@
   {
     "GuideId": 511,
     "Content": "GuideTips_511_Content",
-    "Button": ["技能1"],
+    "Button": [
+      "技能1"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -686,7 +882,9 @@
   {
     "GuideId": 512,
     "Content": "GuideTips_512_Content",
-    "Button": ["技能1"],
+    "Button": [
+      "技能1"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -704,7 +902,9 @@
   {
     "GuideId": 10065,
     "Content": "GuideTips_10065_Content",
-    "Button": ["幻象探索选择界面"],
+    "Button": [
+      "幻象探索选择界面"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -713,7 +913,10 @@
   {
     "GuideId": 10057,
     "Content": "GuideTips_10057_Content",
-    "Button": ["组合主键", "UI键盘T手柄Y"],
+    "Button": [
+      "组合主键",
+      "UI键盘T手柄Y"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [
       "组合主键",
@@ -728,16 +931,22 @@
   {
     "GuideId": 517,
     "Content": "GuideTips_517_Content",
-    "Button": ["幻象探索选择界面"],
+    "Button": [
+      "幻象探索选择界面"
+    ],
     "InputEnums": [],
-    "LimitInputEnums": ["幻象探索选择界面"],
+    "LimitInputEnums": [
+      "幻象探索选择界面"
+    ],
     "UseLoopAnim": true,
     "UseMask": 0
   },
   {
     "GuideId": 534,
     "Content": "GuideTips_534_Content",
-    "Button": ["幻象探索选择界面"],
+    "Button": [
+      "幻象探索选择界面"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -746,7 +955,9 @@
   {
     "GuideId": 10040,
     "Content": "GuideTips_142_Content",
-    "Button": ["幻象探索选择界面"],
+    "Button": [
+      "幻象探索选择界面"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": true,
@@ -755,7 +966,9 @@
   {
     "GuideId": 550,
     "Content": "GuideTips_550_Content",
-    "Button": ["幻象探索选择界面"],
+    "Button": [
+      "幻象探索选择界面"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -764,7 +977,9 @@
   {
     "GuideId": 10008,
     "Content": "GuideTips_10008_Content",
-    "Button": ["闪避"],
+    "Button": [
+      "闪避"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": true,
@@ -773,8 +988,12 @@
   {
     "GuideId": 10071,
     "Content": "GuideTips_10071_Content",
-    "Button": ["闪避"],
-    "InputEnums": ["闪避"],
+    "Button": [
+      "闪避"
+    ],
+    "InputEnums": [
+      "闪避"
+    ],
     "LimitInputEnums": [
       "闪避",
       "幻象1",
@@ -788,7 +1007,9 @@
   {
     "GuideId": 10072,
     "Content": "GuideTips_10072_Content",
-    "Button": ["闪避"],
+    "Button": [
+      "闪避"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -797,7 +1018,9 @@
   {
     "GuideId": 552,
     "Content": "GuideTips_552_Content",
-    "Button": ["幻象探索选择界面"],
+    "Button": [
+      "幻象探索选择界面"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -806,43 +1029,69 @@
   {
     "GuideId": 1147,
     "Content": "GuideTips_10011_Content",
-    "Button": ["闪避"],
-    "InputEnums": ["闪避"],
-    "LimitInputEnums": ["闪避"],
+    "Button": [
+      "闪避"
+    ],
+    "InputEnums": [
+      "闪避"
+    ],
+    "LimitInputEnums": [
+      "闪避"
+    ],
     "UseLoopAnim": true,
     "UseMask": 0
   },
   {
     "GuideId": 1148,
     "Content": "GuideTips_29_Content",
-    "Button": ["攻击"],
-    "InputEnums": ["攻击"],
-    "LimitInputEnums": ["攻击"],
+    "Button": [
+      "攻击"
+    ],
+    "InputEnums": [
+      "攻击"
+    ],
+    "LimitInputEnums": [
+      "攻击"
+    ],
     "UseLoopAnim": true,
     "UseMask": 0
   },
   {
     "GuideId": 1152,
     "Content": "GuideTips_1041_Content",
-    "Button": ["攻击"],
-    "InputEnums": ["攻击"],
-    "LimitInputEnums": ["攻击"],
+    "Button": [
+      "攻击"
+    ],
+    "InputEnums": [
+      "攻击"
+    ],
+    "LimitInputEnums": [
+      "攻击"
+    ],
     "UseLoopAnim": true,
     "UseMask": 0
   },
   {
     "GuideId": 1153,
     "Content": "GuideTips_1043_Content",
-    "Button": ["攻击"],
-    "InputEnums": ["攻击"],
-    "LimitInputEnums": ["攻击"],
+    "Button": [
+      "攻击"
+    ],
+    "InputEnums": [
+      "攻击"
+    ],
+    "LimitInputEnums": [
+      "攻击"
+    ],
     "UseLoopAnim": true,
     "UseMask": 0
   },
   {
     "GuideId": 454,
     "Content": "GuideTips_454_Content",
-    "Button": ["幻象探索选择界面"],
+    "Button": [
+      "幻象探索选择界面"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -851,7 +1100,9 @@
   {
     "GuideId": 556,
     "Content": "GuideTips_10089_Content",
-    "Button": ["幻象探索选择界面"],
+    "Button": [
+      "幻象探索选择界面"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -860,7 +1111,9 @@
   {
     "GuideId": 10086,
     "Content": "GuideTips_10086_Content",
-    "Button": ["幻象探索选择界面"],
+    "Button": [
+      "幻象探索选择界面"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": true,
@@ -869,7 +1122,10 @@
   {
     "GuideId": 10087,
     "Content": "GuideTips_10087_Content",
-    "Button": ["组合主键", "UI键盘T手柄Y"],
+    "Button": [
+      "组合主键",
+      "UI键盘T手柄Y"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [
       "组合主键",
@@ -884,7 +1140,10 @@
   {
     "GuideId": 40033,
     "Content": "GuideTips_10057_Content",
-    "Button": ["组合主键", "UI键盘T手柄Y"],
+    "Button": [
+      "组合主键",
+      "UI键盘T手柄Y"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [
       "组合主键",
@@ -900,7 +1159,10 @@
   {
     "GuideId": 40043,
     "Content": "GuideTips_10057_Content",
-    "Button": ["组合主键", "UI键盘T手柄Y"],
+    "Button": [
+      "组合主键",
+      "UI键盘T手柄Y"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [
       "组合主键",
@@ -916,7 +1178,10 @@
   {
     "GuideId": 40053,
     "Content": "GuideTips_10057_Content",
-    "Button": ["组合主键", "UI键盘T手柄Y"],
+    "Button": [
+      "组合主键",
+      "UI键盘T手柄Y"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [
       "组合主键",
@@ -932,7 +1197,9 @@
   {
     "GuideId": 562,
     "Content": "GuideTips_562_Content",
-    "Button": ["幻象探索选择界面"],
+    "Button": [
+      "幻象探索选择界面"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -941,7 +1208,9 @@
   {
     "GuideId": 466,
     "Content": "GuideTips_469_Content",
-    "Button": ["幻象探索选择界面"],
+    "Button": [
+      "幻象探索选择界面"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -950,8 +1219,12 @@
   {
     "GuideId": 10017,
     "Content": "GuideFocusNew_10017_Content",
-    "Button": ["大招"],
-    "InputEnums": ["大招"],
+    "Button": [
+      "大招"
+    ],
+    "InputEnums": [
+      "大招"
+    ],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
     "UseMask": 0
@@ -959,7 +1232,9 @@
   {
     "GuideId": 10037,
     "Content": "GuideTips_10037_Content",
-    "Button": ["MoveForward"],
+    "Button": [
+      "MoveForward"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -968,7 +1243,10 @@
   {
     "GuideId": 20017,
     "Content": "GuideFocusNew_20017_Content",
-    "Button": ["组合主键", "UI键盘R手柄X"],
+    "Button": [
+      "组合主键",
+      "UI键盘R手柄X"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -977,7 +1255,9 @@
   {
     "GuideId": 10012,
     "Content": "GuideTips_10012_Content",
-    "Button": ["锁定目标"],
+    "Button": [
+      "锁定目标"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "UseLoopAnim": false,
@@ -986,18 +1266,30 @@
   {
     "GuideId": 575,
     "Content": "GuideTips_575_Content",
-    "Button": ["技能1"],
-    "InputEnums": ["技能1"],
-    "LimitInputEnums": ["技能1"],
+    "Button": [
+      "技能1"
+    ],
+    "InputEnums": [
+      "技能1"
+    ],
+    "LimitInputEnums": [
+      "技能1"
+    ],
     "UseLoopAnim": false,
     "UseMask": 0
   },
   {
     "GuideId": 576,
     "Content": "GuideTips_576_Content",
-    "Button": ["技能1"],
-    "InputEnums": ["技能1"],
-    "LimitInputEnums": ["技能1"],
+    "Button": [
+      "技能1"
+    ],
+    "InputEnums": [
+      "技能1"
+    ],
+    "LimitInputEnums": [
+      "技能1"
+    ],
     "UseLoopAnim": false,
     "UseMask": 0
   },
@@ -1013,6 +1305,111 @@
   {
     "GuideId": 10117,
     "Content": "GuideTips_10117_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "UseLoopAnim": false,
+    "UseMask": 0
+  },
+  {
+    "GuideId": 20058,
+    "Content": "GuideTips_20058_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "UseLoopAnim": false,
+    "UseMask": 0
+  },
+  {
+    "GuideId": 20059,
+    "Content": "GuideTips_20059_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "UseLoopAnim": false,
+    "UseMask": 0
+  },
+  {
+    "GuideId": 20060,
+    "Content": "GuideTips_20060_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "UseLoopAnim": false,
+    "UseMask": 0
+  },
+  {
+    "GuideId": 20076,
+    "Content": "GuideTips_20076_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "UseLoopAnim": false,
+    "UseMask": 0
+  },
+  {
+    "GuideId": 20077,
+    "Content": "GuideTips_20077_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "UseLoopAnim": false,
+    "UseMask": 0
+  },
+  {
+    "GuideId": 589,
+    "Content": "GuideTips_589_Content",
+    "Button": [
+      "组合主键",
+      "UI键盘T手柄Y"
+    ],
+    "InputEnums": [],
+    "LimitInputEnums": [
+      "组合主键",
+      "幻象1",
+      "UI键盘F手柄A",
+      "UI返回",
+      "UI键盘T手柄Y"
+    ],
+    "UseLoopAnim": true,
+    "UseMask": 0
+  },
+  {
+    "GuideId": 590,
+    "Content": "GuideTips_590_Content",
+    "Button": [],
+    "InputEnums": [
+      "攻击"
+    ],
+    "LimitInputEnums": [],
+    "UseLoopAnim": false,
+    "UseMask": 0
+  },
+  {
+    "GuideId": 591,
+    "Content": "GuideTips_591_Content",
+    "Button": [],
+    "InputEnums": [
+      "攻击"
+    ],
+    "LimitInputEnums": [],
+    "UseLoopAnim": false,
+    "UseMask": 0
+  },
+  {
+    "GuideId": 592,
+    "Content": "GuideTips_592_Content",
+    "Button": [],
+    "InputEnums": [
+      "攻击"
+    ],
+    "LimitInputEnums": [],
+    "UseLoopAnim": false,
+    "UseMask": 0
+  },
+  {
+    "GuideId": 10118,
+    "Content": "GuideTips_10118_Content",
     "Button": [],
     "InputEnums": [],
     "LimitInputEnums": [],

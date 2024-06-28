@@ -261,9 +261,16 @@
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_27_Content",
-    "Button": ["锁定目标"],
-    "InputEnums": ["锁定目标"],
-    "LimitInputEnums": ["锁定目标", "UI左键点击"],
+    "Button": [
+      "锁定目标"
+    ],
+    "InputEnums": [
+      "锁定目标"
+    ],
+    "LimitInputEnums": [
+      "锁定目标",
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": false,
@@ -356,7 +363,10 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["tab", "0"],
+    "ExtraParam": [
+      "tab",
+      "0"
+    ],
     "ExtraParamDesc": "滚动列表的第一个元素",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -438,7 +448,10 @@
     "Content": "GuideFocusNew_26_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["闪避", "UI左键点击"],
+    "LimitInputEnums": [
+      "闪避",
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -481,7 +494,11 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["0", "V-白条", "T-白条"],
+    "ExtraParam": [
+      "0",
+      "V-白条",
+      "T-白条"
+    ],
     "ExtraParamDesc": "[战斗界面子界面索引,子界面内引导组件索引(展示),子界面内引导组件索引]",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -513,7 +530,10 @@
     "Content": "GuideFocusNew_20_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["跳跃", "UI左键点击"],
+    "LimitInputEnums": [
+      "跳跃",
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -538,7 +558,9 @@
     "Content": "GuideFocusNew_201_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -556,14 +578,18 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1202"],
+    "ExtraParam": [
+      "1202"
+    ],
     "ExtraParamDesc": "角色Id",
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_202_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -588,7 +614,9 @@
     "Content": "GuideFocusNew_204_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -606,14 +634,18 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["10007"],
+    "ExtraParam": [
+      "10007"
+    ],
     "ExtraParamDesc": "g.功能开启-功能菜单",
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_205_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -638,7 +670,9 @@
     "Content": "GuideFocusNew_201_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -661,9 +695,17 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_89_Content",
-    "Button": ["角色选择界面"],
-    "InputEnums": ["角色选择界面"],
-    "LimitInputEnums": ["角色选择界面", "UI左键点击", "显示鼠标"],
+    "Button": [
+      "角色选择界面"
+    ],
+    "InputEnums": [
+      "角色选择界面"
+    ],
+    "LimitInputEnums": [
+      "角色选择界面",
+      "UI左键点击",
+      "显示鼠标"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -688,7 +730,9 @@
     "Content": "GuideFocusNew_208_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -706,14 +750,19 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["tab", "3"],
+    "ExtraParam": [
+      "tab",
+      "3"
+    ],
     "ExtraParamDesc": "角色升级道具",
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_209_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -738,7 +787,9 @@
     "Content": "GuideFocusNew_210_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -763,7 +814,9 @@
     "Content": "GuideFocusNew_103_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -788,7 +841,9 @@
     "Content": "GuideFocusNew_208_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -806,14 +861,19 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["tab", "3"],
+    "ExtraParam": [
+      "tab",
+      "3"
+    ],
     "ExtraParamDesc": "角色升级道具",
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_209_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -838,7 +898,9 @@
     "Content": "GuideFocusNew_210_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -861,9 +923,17 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_36_Content",
-    "Button": ["功能菜单"],
-    "InputEnums": ["功能菜单"],
-    "LimitInputEnums": ["功能菜单", "UI左键点击", "显示鼠标"],
+    "Button": [
+      "功能菜单"
+    ],
+    "InputEnums": [
+      "功能菜单"
+    ],
+    "LimitInputEnums": [
+      "功能菜单",
+      "UI左键点击",
+      "显示鼠标"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -888,7 +958,9 @@
     "Content": "GuideFocusNew_34_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -906,7 +978,9 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["25200"],
+    "ExtraParam": [
+      "25200"
+    ],
     "ExtraParamDesc": "七点",
     "ContentDirection": "U",
     "ShowArrow": true,
@@ -938,7 +1012,9 @@
     "Content": "GuideFocusNew_102_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -963,7 +1039,9 @@
     "Content": "GuideFocusNew_37_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -981,7 +1059,9 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["25200"],
+    "ExtraParam": [
+      "25200"
+    ],
     "ExtraParamDesc": "七点",
     "ContentDirection": "U",
     "ShowArrow": true,
@@ -1006,14 +1086,18 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["2"],
+    "ExtraParam": [
+      "2"
+    ],
     "ExtraParamDesc": "抽卡表Id",
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_207_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -1038,7 +1122,9 @@
     "Content": "GuideFocusNew_206_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -1063,7 +1149,9 @@
     "Content": "GuideFocusNew_124_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -1088,7 +1176,11 @@
     "Content": "GuideFocusNew_23_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["切换角色2", "UI左键点击", "显示鼠标"],
+    "LimitInputEnums": [
+      "切换角色2",
+      "UI左键点击",
+      "显示鼠标"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -1586,9 +1678,15 @@
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_1016_Content",
-    "Button": ["攻击"],
-    "InputEnums": ["攻击"],
-    "LimitInputEnums": ["攻击"],
+    "Button": [
+      "攻击"
+    ],
+    "InputEnums": [
+      "攻击"
+    ],
+    "LimitInputEnums": [
+      "攻击"
+    ],
     "ShowMouse": false,
     "UseMask": true,
     "UseClick": false,
@@ -1811,9 +1909,15 @@
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_1019_Content",
-    "Button": ["攻击"],
-    "InputEnums": ["攻击"],
-    "LimitInputEnums": ["攻击"],
+    "Button": [
+      "攻击"
+    ],
+    "InputEnums": [
+      "攻击"
+    ],
+    "LimitInputEnums": [
+      "攻击"
+    ],
     "ShowMouse": false,
     "UseMask": true,
     "UseClick": false,
@@ -1963,7 +2067,9 @@
     "Content": "GuideFocusNew_28_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["锁定目标"],
+    "LimitInputEnums": [
+      "锁定目标"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": false,
@@ -1988,7 +2094,10 @@
     "Content": "GuideFocusNew_49_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["技能1", "UI左键点击"],
+    "LimitInputEnums": [
+      "技能1",
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -2011,8 +2120,12 @@
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_27_Content",
-    "Button": ["锁定目标"],
-    "InputEnums": ["锁定目标"],
+    "Button": [
+      "锁定目标"
+    ],
+    "InputEnums": [
+      "锁定目标"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -2038,7 +2151,11 @@
     "Content": "GuideFocusNew_30_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["攻击", "UI左键点击", "显示鼠标"],
+    "LimitInputEnums": [
+      "攻击",
+      "UI左键点击",
+      "显示鼠标"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -2056,7 +2173,11 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["0", "V-白条", "T-白条"],
+    "ExtraParam": [
+      "0",
+      "V-白条",
+      "T-白条"
+    ],
     "ExtraParamDesc": "[战斗界面子界面索引,子界面内引导组件索引(展示),子界面内引导组件索引]",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -2088,7 +2209,9 @@
     "Content": "GuideFocusNew_203_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -2113,7 +2236,9 @@
     "Content": "GuideFocusNew_211_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -2131,14 +2256,18 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1202"],
+    "ExtraParam": [
+      "1202"
+    ],
     "ExtraParamDesc": "角色Id",
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_202_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -2161,9 +2290,16 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_87_Content",
-    "Button": ["调谐"],
-    "InputEnums": ["调谐"],
-    "LimitInputEnums": ["UI左键点击", "调谐"],
+    "Button": [
+      "调谐"
+    ],
+    "InputEnums": [
+      "调谐"
+    ],
+    "LimitInputEnums": [
+      "UI左键点击",
+      "调谐"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -2188,7 +2324,9 @@
     "Content": "GuideFocusNew_206_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -2213,7 +2351,9 @@
     "Content": "GuideFocusNew_88_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -2231,14 +2371,18 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["2"],
+    "ExtraParam": [
+      "2"
+    ],
     "ExtraParamDesc": "抽卡表Id",
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_207_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -2261,9 +2405,16 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_146_Content",
-    "Button": ["拾音辑录"],
-    "InputEnums": ["拾音辑录"],
-    "LimitInputEnums": ["UI左键点击", "拾音辑录"],
+    "Button": [
+      "拾音辑录"
+    ],
+    "InputEnums": [
+      "拾音辑录"
+    ],
+    "LimitInputEnums": [
+      "UI左键点击",
+      "拾音辑录"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -2286,9 +2437,17 @@
     "ContentDirection": "L",
     "ShowArrow": true,
     "Content": "GuideFocusNew_21_Content",
-    "Button": ["切换角色2"],
-    "InputEnums": ["切换角色2"],
-    "LimitInputEnums": ["切换角色2", "UI左键点击", "显示鼠标"],
+    "Button": [
+      "切换角色2"
+    ],
+    "InputEnums": [
+      "切换角色2"
+    ],
+    "LimitInputEnums": [
+      "切换角色2",
+      "UI左键点击",
+      "显示鼠标"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -2312,7 +2471,9 @@
     "ShowArrow": true,
     "Content": "GuideFocusNew_48_Content",
     "Button": [],
-    "InputEnums": ["攻击"],
+    "InputEnums": [
+      "攻击"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -2337,7 +2498,9 @@
     "ShowArrow": true,
     "Content": "GuideFocusNew_48_Content",
     "Button": [],
-    "InputEnums": ["攻击"],
+    "InputEnums": [
+      "攻击"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -2363,7 +2526,9 @@
     "Content": "GuideFocusNew_203_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -2388,7 +2553,9 @@
     "Content": "GuideFocusNew_211_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -2438,7 +2605,9 @@
     "Content": "GuideFocusNew_147_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["幻象1"],
+    "LimitInputEnums": [
+      "幻象1"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -2461,9 +2630,17 @@
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_47_Content",
-    "Button": ["技能1"],
-    "InputEnums": ["技能1"],
-    "LimitInputEnums": ["技能1", "UI左键点击", "显示鼠标"],
+    "Button": [
+      "技能1"
+    ],
+    "InputEnums": [
+      "技能1"
+    ],
+    "LimitInputEnums": [
+      "技能1",
+      "UI左键点击",
+      "显示鼠标"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -2511,8 +2688,12 @@
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideTips_17_Content",
-    "Button": ["大招"],
-    "InputEnums": ["大招"],
+    "Button": [
+      "大招"
+    ],
+    "InputEnums": [
+      "大招"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -2531,14 +2712,21 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["Execution"],
+    "ExtraParam": [
+      "Execution"
+    ],
     "ExtraParamDesc": "滚动列表的第一个元素",
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_083_Content",
-    "Button": ["通用交互"],
+    "Button": [
+      "通用交互"
+    ],
     "InputEnums": [],
-    "LimitInputEnums": ["通用交互", "UI左键点击"],
+    "LimitInputEnums": [
+      "通用交互",
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": false,
@@ -2556,14 +2744,19 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["Execution"],
+    "ExtraParam": [
+      "Execution"
+    ],
     "ExtraParamDesc": "滚动列表的第一个元素",
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_084_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["通用交互", "UI左键点击"],
+    "LimitInputEnums": [
+      "通用交互",
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -2611,9 +2804,16 @@
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_140_Content",
-    "Button": ["幻象1"],
-    "InputEnums": ["幻象1"],
-    "LimitInputEnums": ["幻象1", "UI左键点击"],
+    "Button": [
+      "幻象1"
+    ],
+    "InputEnums": [
+      "幻象1"
+    ],
+    "LimitInputEnums": [
+      "幻象1",
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -2636,9 +2836,17 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_89_Content",
-    "Button": ["角色选择界面"],
-    "InputEnums": ["角色选择界面"],
-    "LimitInputEnums": ["角色选择界面", "UI左键点击", "显示鼠标"],
+    "Button": [
+      "角色选择界面"
+    ],
+    "InputEnums": [
+      "角色选择界面"
+    ],
+    "LimitInputEnums": [
+      "角色选择界面",
+      "UI左键点击",
+      "显示鼠标"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -2656,14 +2864,19 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["tab", "3"],
+    "ExtraParam": [
+      "tab",
+      "3"
+    ],
     "ExtraParamDesc": "共鸣链页签",
     "ContentDirection": "R",
     "ShowArrow": true,
     "Content": "GuideFocusNew_221_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": false,
@@ -2681,14 +2894,18 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1"],
+    "ExtraParam": [
+      "1"
+    ],
     "ExtraParamDesc": "共鸣链第几个节点",
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_222_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -2706,14 +2923,18 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["btn"],
+    "ExtraParam": [
+      "btn"
+    ],
     "ExtraParamDesc": "共鸣链激活按钮",
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_223_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -2738,7 +2959,9 @@
     "Content": "GuideFocusNew_103_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -2756,14 +2979,19 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["tab", "3"],
+    "ExtraParam": [
+      "tab",
+      "3"
+    ],
     "ExtraParamDesc": "共鸣链页签",
     "ContentDirection": "R",
     "ShowArrow": true,
     "Content": "GuideFocusNew_221_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": false,
@@ -2781,14 +3009,18 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1"],
+    "ExtraParam": [
+      "1"
+    ],
     "ExtraParamDesc": "共鸣链第几个节点",
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_222_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -2806,14 +3038,18 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["btn"],
+    "ExtraParam": [
+      "btn"
+    ],
     "ExtraParamDesc": "共鸣链激活按钮",
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_223_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -2836,9 +3072,16 @@
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_168_Content",
-    "Button": ["幻象1"],
-    "InputEnums": ["幻象1"],
-    "LimitInputEnums": ["幻象1", "UI左键点击"],
+    "Button": [
+      "幻象1"
+    ],
+    "InputEnums": [
+      "幻象1"
+    ],
+    "LimitInputEnums": [
+      "幻象1",
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -2863,7 +3106,9 @@
     "Content": "GuideFocusNew_169_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["幻象1"],
+    "LimitInputEnums": [
+      "幻象1"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -2881,7 +3126,11 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["0", "V-白条", "T-白条"],
+    "ExtraParam": [
+      "0",
+      "V-白条",
+      "T-白条"
+    ],
     "ExtraParamDesc": "[战斗界面子界面索引,子界面内引导组件索引(展示),子界面内引导组件索引]",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -2906,7 +3155,11 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["0", "V-白条", "T-白条"],
+    "ExtraParam": [
+      "0",
+      "V-白条",
+      "T-白条"
+    ],
     "ExtraParamDesc": "[战斗界面子界面索引,子界面内引导组件索引(展示),子界面内引导组件索引]",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -2963,7 +3216,9 @@
     "Content": "GuideFocusNew_201_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -2981,14 +3236,18 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1103"],
+    "ExtraParam": [
+      "1103"
+    ],
     "ExtraParamDesc": "角色Id",
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_174_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3013,7 +3272,9 @@
     "Content": "GuideFocusNew_203_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3038,7 +3299,9 @@
     "Content": "GuideFocusNew_211_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3063,7 +3326,9 @@
     "Content": "GuideFocusNew_204_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3081,14 +3346,18 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["10007"],
+    "ExtraParam": [
+      "10007"
+    ],
     "ExtraParamDesc": "g.功能开启-功能菜单",
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_205_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3113,7 +3382,9 @@
     "Content": "GuideFocusNew_201_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3131,14 +3402,18 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1103"],
+    "ExtraParam": [
+      "1103"
+    ],
     "ExtraParamDesc": "角色Id",
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_174_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3163,7 +3438,9 @@
     "Content": "GuideFocusNew_203_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3188,7 +3465,9 @@
     "Content": "GuideFocusNew_211_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3213,7 +3492,9 @@
     "Content": "GuideFocusNew_705_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3238,7 +3519,9 @@
     "Content": "GuideFocusNew_706_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3261,9 +3544,17 @@
     "ContentDirection": "L",
     "ShowArrow": true,
     "Content": "GuideFocusNew_185_Content",
-    "Button": ["切换角色2"],
-    "InputEnums": ["切换角色2"],
-    "LimitInputEnums": ["切换角色2", "UI左键点击", "显示鼠标"],
+    "Button": [
+      "切换角色2"
+    ],
+    "InputEnums": [
+      "切换角色2"
+    ],
+    "LimitInputEnums": [
+      "切换角色2",
+      "UI左键点击",
+      "显示鼠标"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3288,7 +3579,9 @@
     "Content": "GuideFocusNew_186_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3311,9 +3604,17 @@
     "ContentDirection": "L",
     "ShowArrow": true,
     "Content": "GuideFocusNew_185_Content",
-    "Button": ["切换角色1"],
-    "InputEnums": ["切换角色1"],
-    "LimitInputEnums": ["切换角色1", "UI左键点击", "显示鼠标"],
+    "Button": [
+      "切换角色1"
+    ],
+    "InputEnums": [
+      "切换角色1"
+    ],
+    "LimitInputEnums": [
+      "切换角色1",
+      "UI左键点击",
+      "显示鼠标"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3338,7 +3639,9 @@
     "Content": "GuideFocusNew_186_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3361,9 +3664,17 @@
     "ContentDirection": "L",
     "ShowArrow": true,
     "Content": "GuideFocusNew_185_Content",
-    "Button": ["切换角色1"],
-    "InputEnums": ["切换角色1"],
-    "LimitInputEnums": ["切换角色1", "UI左键点击", "显示鼠标"],
+    "Button": [
+      "切换角色1"
+    ],
+    "InputEnums": [
+      "切换角色1"
+    ],
+    "LimitInputEnums": [
+      "切换角色1",
+      "UI左键点击",
+      "显示鼠标"
+    ],
     "ShowMouse": false,
     "UseMask": false,
     "UseClick": true,
@@ -3388,7 +3699,9 @@
     "Content": "GuideFocusNew_186_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": false,
     "UseMask": false,
     "UseClick": true,
@@ -3411,9 +3724,17 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_89_Content",
-    "Button": ["角色选择界面"],
-    "InputEnums": ["角色选择界面"],
-    "LimitInputEnums": ["角色选择界面", "UI左键点击", "显示鼠标"],
+    "Button": [
+      "角色选择界面"
+    ],
+    "InputEnums": [
+      "角色选择界面"
+    ],
+    "LimitInputEnums": [
+      "角色选择界面",
+      "UI左键点击",
+      "显示鼠标"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3431,14 +3752,18 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1202"],
+    "ExtraParam": [
+      "1202"
+    ],
     "ExtraParamDesc": "角色Id",
     "ContentDirection": "L",
     "ShowArrow": true,
     "Content": "GuideFocusNew_202_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3463,7 +3788,9 @@
     "Content": "GuideFocusNew_193_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3488,7 +3815,9 @@
     "Content": "GuideFocusNew_194_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3513,7 +3842,9 @@
     "Content": "GuideFocusNew_103_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3531,14 +3862,18 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1202"],
+    "ExtraParam": [
+      "1202"
+    ],
     "ExtraParamDesc": "角色Id",
     "ContentDirection": "L",
     "ShowArrow": true,
     "Content": "GuideFocusNew_202_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3563,7 +3898,9 @@
     "Content": "GuideFocusNew_193_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3588,7 +3925,9 @@
     "Content": "GuideFocusNew_194_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3611,9 +3950,17 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_89_Content",
-    "Button": ["角色选择界面"],
-    "InputEnums": ["角色选择界面"],
-    "LimitInputEnums": ["角色选择界面", "UI左键点击", "显示鼠标"],
+    "Button": [
+      "角色选择界面"
+    ],
+    "InputEnums": [
+      "角色选择界面"
+    ],
+    "LimitInputEnums": [
+      "角色选择界面",
+      "UI左键点击",
+      "显示鼠标"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3631,14 +3978,18 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1103"],
+    "ExtraParam": [
+      "1103"
+    ],
     "ExtraParamDesc": "角色Id",
     "ContentDirection": "L",
     "ShowArrow": true,
     "Content": "GuideFocusNew_200_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3663,7 +4014,9 @@
     "Content": "GuideFocusNew_193_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3688,7 +4041,9 @@
     "Content": "GuideFocusNew_194_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3713,7 +4068,9 @@
     "Content": "GuideFocusNew_103_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3731,14 +4088,18 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1103"],
+    "ExtraParam": [
+      "1103"
+    ],
     "ExtraParamDesc": "角色Id",
     "ContentDirection": "L",
     "ShowArrow": true,
     "Content": "GuideFocusNew_200_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3763,7 +4124,9 @@
     "Content": "GuideFocusNew_193_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3788,7 +4151,9 @@
     "Content": "GuideFocusNew_194_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3811,9 +4176,17 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_20701_Content",
-    "Button": ["角色选择界面"],
-    "InputEnums": ["角色选择界面"],
-    "LimitInputEnums": ["角色选择界面", "UI左键点击", "显示鼠标"],
+    "Button": [
+      "角色选择界面"
+    ],
+    "InputEnums": [
+      "角色选择界面"
+    ],
+    "LimitInputEnums": [
+      "角色选择界面",
+      "UI左键点击",
+      "显示鼠标"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3831,14 +4204,18 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1402"],
+    "ExtraParam": [
+      "1402"
+    ],
     "ExtraParamDesc": "角色Id",
     "ContentDirection": "L",
     "ShowArrow": true,
     "Content": "GuideFocusNew_199_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3863,7 +4240,9 @@
     "Content": "GuideFocusNew_208_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3888,7 +4267,9 @@
     "Content": "GuideFocusNew_209_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3913,7 +4294,9 @@
     "Content": "GuideFocusNew_210_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3938,7 +4321,9 @@
     "Content": "GuideFocusNew_212_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3956,14 +4341,18 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1402"],
+    "ExtraParam": [
+      "1402"
+    ],
     "ExtraParamDesc": "角色Id",
     "ContentDirection": "L",
     "ShowArrow": true,
     "Content": "GuideFocusNew_199_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -3988,7 +4377,9 @@
     "Content": "GuideFocusNew_208_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -4013,7 +4404,9 @@
     "Content": "GuideFocusNew_209_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -4038,7 +4431,9 @@
     "Content": "GuideFocusNew_210_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -4063,7 +4458,9 @@
     "Content": "GuideFocusNew_217_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -4088,7 +4485,9 @@
     "Content": "GuideFocusNew_211_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -4113,7 +4512,9 @@
     "Content": "GuideFocusNew_217_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -4138,7 +4539,9 @@
     "Content": "GuideFocusNew_211_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -4156,7 +4559,9 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["380000"],
+    "ExtraParam": [
+      "380000"
+    ],
     "ExtraParamDesc": "地图标记Id",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -4181,7 +4586,10 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["PanelIndex", "5"],
+    "ExtraParam": [
+      "PanelIndex",
+      "5"
+    ],
     "ExtraParamDesc": "地图弹窗Index（参见代码中ESecondaryPanel枚举）",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -4231,7 +4639,9 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1"],
+    "ExtraParam": [
+      "1"
+    ],
     "ExtraParamDesc": "副本列表第几个格子（此处注意如果存在副本标题要一起数进去，否则会点击没反应）",
     "ContentDirection": "L",
     "ShowArrow": true,
@@ -4261,9 +4671,17 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_226_Content",
-    "Button": ["角色选择界面"],
-    "InputEnums": ["角色选择界面"],
-    "LimitInputEnums": ["角色选择界面", "UI左键点击", "显示鼠标"],
+    "Button": [
+      "角色选择界面"
+    ],
+    "InputEnums": [
+      "角色选择界面"
+    ],
+    "LimitInputEnums": [
+      "角色选择界面",
+      "UI左键点击",
+      "显示鼠标"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -4281,14 +4699,19 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["tab", "2"],
+    "ExtraParam": [
+      "tab",
+      "2"
+    ],
     "ExtraParamDesc": "声骸页签",
     "ContentDirection": "R",
     "ShowArrow": true,
     "Content": "GuideFocusNew_482_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -4313,7 +4736,9 @@
     "Content": "GuideFocusNew_236_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -4331,14 +4756,19 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["tab", "2"],
+    "ExtraParam": [
+      "tab",
+      "2"
+    ],
     "ExtraParamDesc": "声骸页签",
     "ContentDirection": "R",
     "ShowArrow": true,
     "Content": "GuideFocusNew_482_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -4361,8 +4791,12 @@
     "ContentDirection": "L",
     "ShowArrow": true,
     "Content": "GuideFocusNew_241_Content",
-    "Button": ["切换角色2"],
-    "InputEnums": ["切换角色2"],
+    "Button": [
+      "切换角色2"
+    ],
+    "InputEnums": [
+      "切换角色2"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -4406,14 +4840,18 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["First"],
+    "ExtraParam": [
+      "First"
+    ],
     "ExtraParamDesc": "第一个声骸按钮",
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_228_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -4431,14 +4869,19 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["item", "390077021"],
+    "ExtraParam": [
+      "item",
+      "390077021"
+    ],
     "ExtraParamDesc": "声骸怪物Id",
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_227_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -4456,14 +4899,18 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["First"],
+    "ExtraParam": [
+      "First"
+    ],
     "ExtraParamDesc": "第一个声骸按钮",
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_228_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -4481,14 +4928,19 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["item", "390077021"],
+    "ExtraParam": [
+      "item",
+      "390077021"
+    ],
     "ExtraParamDesc": "声骸怪物Id",
     "ContentDirection": "R",
     "ShowArrow": true,
     "Content": "GuideFocusNew_227_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -4513,7 +4965,9 @@
     "Content": "GuideFocusNew_230_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -4538,7 +4992,9 @@
     "Content": "GuideFocusNew_230_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -4561,9 +5017,17 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_251_Content",
-    "Button": ["功能菜单"],
-    "InputEnums": ["功能菜单"],
-    "LimitInputEnums": ["功能菜单", "UI左键点击", "显示鼠标"],
+    "Button": [
+      "功能菜单"
+    ],
+    "InputEnums": [
+      "功能菜单"
+    ],
+    "LimitInputEnums": [
+      "功能菜单",
+      "UI左键点击",
+      "显示鼠标"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -4581,14 +5045,18 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["10007"],
+    "ExtraParam": [
+      "10007"
+    ],
     "ExtraParamDesc": "g.功能开启-功能菜单",
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_252_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -4613,7 +5081,9 @@
     "Content": "GuideFocusNew_253_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -4631,14 +5101,18 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1103"],
+    "ExtraParam": [
+      "1103"
+    ],
     "ExtraParamDesc": "角色Id",
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_254_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -4688,7 +5162,9 @@
     "Content": "GuideFocusNew_211_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -4713,7 +5189,11 @@
     "Content": "GuideFocusNew_257_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["功能菜单", "UI左键点击", "显示鼠标"],
+    "LimitInputEnums": [
+      "功能菜单",
+      "UI左键点击",
+      "显示鼠标"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -4731,14 +5211,18 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["10007"],
+    "ExtraParam": [
+      "10007"
+    ],
     "ExtraParamDesc": "g.功能开启-功能菜单",
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_252_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -4763,7 +5247,9 @@
     "Content": "GuideFocusNew_253_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -4781,14 +5267,18 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1103"],
+    "ExtraParam": [
+      "1103"
+    ],
     "ExtraParamDesc": "角色Id",
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_254_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -4838,7 +5328,9 @@
     "Content": "GuideFocusNew_211_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -4861,9 +5353,16 @@
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_263_Content",
-    "Button": ["幻象1"],
-    "InputEnums": ["幻象1"],
-    "LimitInputEnums": ["幻象1", "UI左键点击"],
+    "Button": [
+      "幻象1"
+    ],
+    "InputEnums": [
+      "幻象1"
+    ],
+    "LimitInputEnums": [
+      "幻象1",
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -4888,7 +5387,9 @@
     "Content": "GuideFocusNew_264_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["幻象1"],
+    "LimitInputEnums": [
+      "幻象1"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -4906,13 +5407,20 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["Skill", "9"],
+    "ExtraParam": [
+      "Skill",
+      "9"
+    ],
     "ExtraParamDesc": "声骸技能",
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_41_Content",
-    "Button": ["幻象2"],
-    "InputEnums": ["幻象2"],
+    "Button": [
+      "幻象2"
+    ],
+    "InputEnums": [
+      "幻象2"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -4981,7 +5489,9 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["29"],
+    "ExtraParam": [
+      "29"
+    ],
     "ExtraParamDesc": "选择集音回传",
     "ContentDirection": "R",
     "ShowArrow": true,
@@ -5056,7 +5566,9 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["29"],
+    "ExtraParam": [
+      "29"
+    ],
     "ExtraParamDesc": "选择集音回传",
     "ContentDirection": "R",
     "ShowArrow": true,
@@ -5086,8 +5598,12 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_271_Content",
-    "Button": ["功能菜单"],
-    "InputEnums": ["功能菜单"],
+    "Button": [
+      "功能菜单"
+    ],
+    "InputEnums": [
+      "功能菜单"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -5106,7 +5622,9 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["10003"],
+    "ExtraParam": [
+      "10003"
+    ],
     "ExtraParamDesc": "选择鸣域终端",
     "ContentDirection": "L",
     "ShowArrow": true,
@@ -5137,7 +5655,9 @@
     "ShowArrow": true,
     "Content": "GuideFocusNew_273_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": true,
     "UseMask": true,
@@ -5156,13 +5676,17 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["28"],
+    "ExtraParam": [
+      "28"
+    ],
     "ExtraParamDesc": "点击图鉴按钮",
     "ContentDirection": "R",
     "ShowArrow": true,
     "Content": "GuideFocusNew_274_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": true,
     "UseMask": true,
@@ -5206,14 +5730,18 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["10003"],
+    "ExtraParam": [
+      "10003"
+    ],
     "ExtraParamDesc": "选择鸣域终端",
     "ContentDirection": "L",
     "ShowArrow": true,
     "Content": "GuideFocusNew_276_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -5238,7 +5766,9 @@
     "Content": "GuideFocusNew_277_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -5256,14 +5786,18 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["28"],
+    "ExtraParam": [
+      "28"
+    ],
     "ExtraParamDesc": "点击图鉴按钮",
     "ContentDirection": "R",
     "ShowArrow": true,
     "Content": "GuideFocusNew_278_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -5286,9 +5820,17 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_279_Content",
-    "Button": ["角色选择界面"],
-    "InputEnums": ["角色选择界面"],
-    "LimitInputEnums": ["角色选择界面", "UI左键点击", "显示鼠标"],
+    "Button": [
+      "角色选择界面"
+    ],
+    "InputEnums": [
+      "角色选择界面"
+    ],
+    "LimitInputEnums": [
+      "角色选择界面",
+      "UI左键点击",
+      "显示鼠标"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -5313,7 +5855,9 @@
     "Content": "GuideFocusNew_280_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -5338,7 +5882,9 @@
     "Content": "GuideFocusNew_281_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -5363,7 +5909,9 @@
     "Content": "GuideFocusNew_282_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -5386,9 +5934,17 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_283_Content",
-    "Button": ["角色选择界面"],
-    "InputEnums": ["角色选择界面"],
-    "LimitInputEnums": ["角色选择界面", "UI左键点击", "显示鼠标"],
+    "Button": [
+      "角色选择界面"
+    ],
+    "InputEnums": [
+      "角色选择界面"
+    ],
+    "LimitInputEnums": [
+      "角色选择界面",
+      "UI左键点击",
+      "显示鼠标"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -5406,14 +5962,19 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["tab", "1"],
+    "ExtraParam": [
+      "tab",
+      "1"
+    ],
     "ExtraParamDesc": "点击角色武器",
     "ContentDirection": "R",
     "ShowArrow": true,
     "Content": "GuideFocusNew_284_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -5438,7 +5999,9 @@
     "Content": "GuideFocusNew_285_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -5456,14 +6019,19 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["tab", "1"],
+    "ExtraParam": [
+      "tab",
+      "1"
+    ],
     "ExtraParamDesc": "点击角色武器",
     "ContentDirection": "R",
     "ShowArrow": true,
     "Content": "GuideFocusNew_286_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -5486,9 +6054,17 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_287_Content",
-    "Button": ["角色选择界面"],
-    "InputEnums": ["角色选择界面"],
-    "LimitInputEnums": ["角色选择界面", "UI左键点击", "显示鼠标"],
+    "Button": [
+      "角色选择界面"
+    ],
+    "InputEnums": [
+      "角色选择界面"
+    ],
+    "LimitInputEnums": [
+      "角色选择界面",
+      "UI左键点击",
+      "显示鼠标"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -5506,14 +6082,19 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["tab", "2"],
+    "ExtraParam": [
+      "tab",
+      "2"
+    ],
     "ExtraParamDesc": "点击角色声骸",
     "ContentDirection": "R",
     "ShowArrow": true,
     "Content": "GuideFocusNew_288_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -5538,7 +6119,9 @@
     "Content": "GuideFocusNew_289_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -5556,14 +6139,19 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["tab", "2"],
+    "ExtraParam": [
+      "tab",
+      "2"
+    ],
     "ExtraParamDesc": "点击角色声骸",
     "ContentDirection": "R",
     "ShowArrow": true,
     "Content": "GuideFocusNew_290_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -5588,7 +6176,9 @@
     "Content": "GuideFocusNew_291_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -5613,7 +6203,9 @@
     "Content": "GuideFocusNew_292_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -5638,7 +6230,9 @@
     "Content": "GuideFocusNew_293_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -5663,7 +6257,9 @@
     "Content": "GuideFocusNew_294_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -5686,8 +6282,12 @@
     "ContentDirection": "R",
     "ShowArrow": true,
     "Content": "GuideFocusNew_295_Content",
-    "Button": ["任务"],
-    "InputEnums": ["任务"],
+    "Button": [
+      "任务"
+    ],
+    "InputEnums": [
+      "任务"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -5706,7 +6306,9 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["139000027"],
+    "ExtraParam": [
+      "139000027"
+    ],
     "ExtraParamDesc": "主线第一幕",
     "ContentDirection": "R",
     "ShowArrow": true,
@@ -5781,7 +6383,9 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["139000027"],
+    "ExtraParam": [
+      "139000027"
+    ],
     "ExtraParamDesc": "主线第一幕",
     "ContentDirection": "R",
     "ShowArrow": true,
@@ -5836,7 +6440,9 @@
     "ContentDirection": "CT",
     "ShowArrow": true,
     "Content": "GuideFocusNew_301_Content",
-    "Button": ["任务追踪"],
+    "Button": [
+      "任务追踪"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "ShowMouse": true,
@@ -5881,7 +6487,9 @@
     "Platform": "全端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1"],
+    "ExtraParam": [
+      "1"
+    ],
     "ExtraParamDesc": "武器调谐",
     "ContentDirection": "R",
     "ShowArrow": true,
@@ -5911,8 +6519,12 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_304_Content",
-    "Button": ["角色选择界面"],
-    "InputEnums": ["角色选择界面"],
+    "Button": [
+      "角色选择界面"
+    ],
+    "InputEnums": [
+      "角色选择界面"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -5931,7 +6543,10 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["tab", "4"],
+    "ExtraParam": [
+      "tab",
+      "4"
+    ],
     "ExtraParamDesc": "共鸣链",
     "ContentDirection": "R",
     "ShowArrow": true,
@@ -5981,7 +6596,10 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["tab", "4"],
+    "ExtraParam": [
+      "tab",
+      "4"
+    ],
     "ExtraParamDesc": "共鸣链",
     "ContentDirection": "R",
     "ShowArrow": true,
@@ -6011,8 +6629,12 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_308_Content",
-    "Button": ["拾音辑录"],
-    "InputEnums": ["拾音辑录"],
+    "Button": [
+      "拾音辑录"
+    ],
+    "InputEnums": [
+      "拾音辑录"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -6056,7 +6678,11 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["0", "V-白条", "T-白条"],
+    "ExtraParam": [
+      "0",
+      "V-白条",
+      "T-白条"
+    ],
     "ExtraParamDesc": "[战斗界面子界面索引,子界面内引导组件索引(展示),子界面内引导组件索引]",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -6081,7 +6707,11 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["0", "V-白条", "T-白条"],
+    "ExtraParam": [
+      "0",
+      "V-白条",
+      "T-白条"
+    ],
     "ExtraParamDesc": "[战斗界面子界面索引,子界面内引导组件索引(展示),子界面内引导组件索引]",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -6131,7 +6761,9 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["0"],
+    "ExtraParam": [
+      "0"
+    ],
     "ExtraParamDesc": "介绍声骸技能",
     "ContentDirection": "R",
     "ShowArrow": true,
@@ -6181,7 +6813,9 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["0"],
+    "ExtraParam": [
+      "0"
+    ],
     "ExtraParamDesc": "介绍声骸技能",
     "ContentDirection": "R",
     "ShowArrow": true,
@@ -6238,7 +6872,10 @@
     "Content": "GuideFocusNew_317_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["闪避", "UI左键点击"],
+    "LimitInputEnums": [
+      "闪避",
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -6261,8 +6898,12 @@
     "ContentDirection": "R",
     "ShowArrow": true,
     "Content": "GuideFocusNew_320_Content",
-    "Button": ["任务"],
-    "InputEnums": ["任务"],
+    "Button": [
+      "任务"
+    ],
+    "InputEnums": [
+      "任务"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -6281,7 +6922,9 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["880000001"],
+    "ExtraParam": [
+      "880000001"
+    ],
     "ExtraParamDesc": "鸣域突破任务",
     "ContentDirection": "R",
     "ShowArrow": true,
@@ -6356,7 +6999,9 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["880000001"],
+    "ExtraParam": [
+      "880000001"
+    ],
     "ExtraParamDesc": "鸣域突破任务",
     "ContentDirection": "R",
     "ShowArrow": true,
@@ -6461,8 +7106,12 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_328_Content",
-    "Button": ["拾音辑录"],
-    "InputEnums": ["拾音辑录"],
+    "Button": [
+      "拾音辑录"
+    ],
+    "InputEnums": [
+      "拾音辑录"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -6481,7 +7130,9 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["32"],
+    "ExtraParam": [
+      "32"
+    ],
     "ExtraParamDesc": "选择周本",
     "ContentDirection": "R",
     "ShowArrow": true,
@@ -6506,7 +7157,9 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["7"],
+    "ExtraParam": [
+      "7"
+    ],
     "ExtraParamDesc": "战歌重奏 周本",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -6556,7 +7209,9 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["32"],
+    "ExtraParam": [
+      "32"
+    ],
     "ExtraParamDesc": "选择周本",
     "ContentDirection": "R",
     "ShowArrow": true,
@@ -6581,7 +7236,9 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["7"],
+    "ExtraParam": [
+      "7"
+    ],
     "ExtraParamDesc": "战歌重奏 周本",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -6606,7 +7263,9 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["26"],
+    "ExtraParam": [
+      "26"
+    ],
     "ExtraParamDesc": "声骸鉴定页签",
     "ContentDirection": "R",
     "ShowArrow": true,
@@ -6631,7 +7290,9 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["26"],
+    "ExtraParam": [
+      "26"
+    ],
     "ExtraParamDesc": "声骸鉴定页签",
     "ContentDirection": "R",
     "ShowArrow": true,
@@ -6662,7 +7323,9 @@
     "ShowArrow": true,
     "Content": "GuideFocusNew_336_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": true,
     "UseMask": true,
@@ -6687,7 +7350,9 @@
     "ShowArrow": true,
     "Content": "GuideFocusNew_337_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": true,
     "UseMask": true,
@@ -6756,13 +7421,17 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["0"],
+    "ExtraParam": [
+      "0"
+    ],
     "ExtraParamDesc": "选第一个物品",
     "ContentDirection": "R",
     "ShowArrow": true,
     "Content": "GuideFocusNew_340_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": true,
     "UseMask": true,
@@ -6787,7 +7456,9 @@
     "ShowArrow": true,
     "Content": "GuideFocusNew_341_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": true,
     "UseMask": true,
@@ -6806,7 +7477,9 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["0"],
+    "ExtraParam": [
+      "0"
+    ],
     "ExtraParamDesc": "选第一个物品",
     "ContentDirection": "R",
     "ShowArrow": true,
@@ -6862,7 +7535,9 @@
     "ShowArrow": true,
     "Content": "GuideFocusNew_344_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": true,
     "UseMask": true,
@@ -6887,7 +7562,9 @@
     "ShowArrow": true,
     "Content": "GuideFocusNew_345_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": true,
     "UseMask": true,
@@ -6963,7 +7640,9 @@
     "Content": "GuideFocusNew_348_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -6988,7 +7667,9 @@
     "Content": "GuideFocusNew_349_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -7011,9 +7692,17 @@
     "ContentDirection": "L",
     "ShowArrow": true,
     "Content": "GuideFocusNew_352_Content",
-    "Button": ["切换角色2"],
-    "InputEnums": ["切换角色2"],
-    "LimitInputEnums": ["切换角色2", "UI左键点击", "显示鼠标"],
+    "Button": [
+      "切换角色2"
+    ],
+    "InputEnums": [
+      "切换角色2"
+    ],
+    "LimitInputEnums": [
+      "切换角色2",
+      "UI左键点击",
+      "显示鼠标"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -7038,7 +7727,9 @@
     "Content": "GuideFocusNew_353_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -7061,9 +7752,17 @@
     "ContentDirection": "L",
     "ShowArrow": true,
     "Content": "GuideFocusNew_356_Content",
-    "Button": ["切换角色1"],
-    "InputEnums": ["切换角色1"],
-    "LimitInputEnums": ["切换角色1", "UI左键点击", "显示鼠标"],
+    "Button": [
+      "切换角色1"
+    ],
+    "InputEnums": [
+      "切换角色1"
+    ],
+    "LimitInputEnums": [
+      "切换角色1",
+      "UI左键点击",
+      "显示鼠标"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -7088,7 +7787,9 @@
     "Content": "GuideFocusNew_357_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -7113,7 +7814,10 @@
     "Content": "GuideFocusNew_358_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击", "显示鼠标"],
+    "LimitInputEnums": [
+      "UI左键点击",
+      "显示鼠标"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -7131,14 +7835,19 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["tab", "3"],
+    "ExtraParam": [
+      "tab",
+      "3"
+    ],
     "ExtraParamDesc": "点击角色技能",
     "ContentDirection": "R",
     "ShowArrow": true,
     "Content": "GuideFocusNew_359_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -7163,7 +7872,9 @@
     "Content": "GuideFocusNew_360_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -7188,7 +7899,9 @@
     "Content": "GuideFocusNew_361_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -7206,14 +7919,19 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["tab", "3"],
+    "ExtraParam": [
+      "tab",
+      "3"
+    ],
     "ExtraParamDesc": "点击角色技能",
     "ContentDirection": "R",
     "ShowArrow": true,
     "Content": "GuideFocusNew_362_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -7238,7 +7956,9 @@
     "Content": "GuideFocusNew_363_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -7261,8 +7981,12 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_364_Content",
-    "Button": ["角色选择界面"],
-    "InputEnums": ["角色选择界面"],
+    "Button": [
+      "角色选择界面"
+    ],
+    "InputEnums": [
+      "角色选择界面"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -7281,7 +8005,10 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["tab", "2"],
+    "ExtraParam": [
+      "tab",
+      "2"
+    ],
     "ExtraParamDesc": "声骸页签",
     "ContentDirection": "R",
     "ShowArrow": true,
@@ -7356,7 +8083,10 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["txt", "1"],
+    "ExtraParam": [
+      "txt",
+      "1"
+    ],
     "ExtraParamDesc": "声骸套装描述",
     "ContentDirection": "L",
     "ShowArrow": true,
@@ -7406,7 +8136,10 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["tab", "2"],
+    "ExtraParam": [
+      "tab",
+      "2"
+    ],
     "ExtraParamDesc": "声骸页签",
     "ContentDirection": "R",
     "ShowArrow": true,
@@ -7481,7 +8214,10 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["txt", "1"],
+    "ExtraParam": [
+      "txt",
+      "1"
+    ],
     "ExtraParamDesc": "声骸套装描述",
     "ContentDirection": "L",
     "ShowArrow": true,
@@ -7531,7 +8267,9 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["30"],
+    "ExtraParam": [
+      "30"
+    ],
     "ExtraParamDesc": "选择周本",
     "ContentDirection": "R",
     "ShowArrow": true,
@@ -7581,7 +8319,9 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["32"],
+    "ExtraParam": [
+      "32"
+    ],
     "ExtraParamDesc": "选择周本",
     "ContentDirection": "R",
     "ShowArrow": true,
@@ -7612,7 +8352,9 @@
     "ShowArrow": true,
     "Content": "GuideFocusNew_378_Content",
     "Button": [],
-    "InputEnums": ["技能1"],
+    "InputEnums": [
+      "技能1"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -7637,7 +8379,9 @@
     "ShowArrow": true,
     "Content": "GuideFocusNew_379_Content",
     "Button": [],
-    "InputEnums": ["技能1"],
+    "InputEnums": [
+      "技能1"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -7656,7 +8400,11 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["0", "V-白条", "T-白条"],
+    "ExtraParam": [
+      "0",
+      "V-白条",
+      "T-白条"
+    ],
     "ExtraParamDesc": "[战斗界面子界面索引,子界面内引导组件索引(展示),子界面内引导组件索引]",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -7681,7 +8429,11 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["0", "V-白条", "T-白条"],
+    "ExtraParam": [
+      "0",
+      "V-白条",
+      "T-白条"
+    ],
     "ExtraParamDesc": "[战斗界面子界面索引,子界面内引导组件索引(展示),子界面内引导组件索引]",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -7711,9 +8463,16 @@
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_382_Content",
-    "Button": ["幻象1"],
-    "InputEnums": ["幻象1"],
-    "LimitInputEnums": ["幻象1", "UI左键点击"],
+    "Button": [
+      "幻象1"
+    ],
+    "InputEnums": [
+      "幻象1"
+    ],
+    "LimitInputEnums": [
+      "幻象1",
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -7738,7 +8497,9 @@
     "Content": "GuideFocusNew_383_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["幻象1"],
+    "LimitInputEnums": [
+      "幻象1"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -7761,8 +8522,12 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_384_Content",
-    "Button": ["角色选择界面"],
-    "InputEnums": ["角色选择界面"],
+    "Button": [
+      "角色选择界面"
+    ],
+    "InputEnums": [
+      "角色选择界面"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -7781,7 +8546,10 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["tab", "2"],
+    "ExtraParam": [
+      "tab",
+      "2"
+    ],
     "ExtraParamDesc": "声骸页签",
     "ContentDirection": "R",
     "ShowArrow": true,
@@ -7831,7 +8599,10 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["tab", "2"],
+    "ExtraParam": [
+      "tab",
+      "2"
+    ],
     "ExtraParamDesc": "声骸页签",
     "ContentDirection": "R",
     "ShowArrow": true,
@@ -7856,7 +8627,11 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["0", "V-白条", "T-白条"],
+    "ExtraParam": [
+      "0",
+      "V-白条",
+      "T-白条"
+    ],
     "ExtraParamDesc": "[战斗界面子界面索引,子界面内引导组件索引(展示),子界面内引导组件索引]",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -7881,7 +8656,11 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["0", "V-白条", "T-白条"],
+    "ExtraParam": [
+      "0",
+      "V-白条",
+      "T-白条"
+    ],
     "ExtraParamDesc": "[战斗界面子界面索引,子界面内引导组件索引(展示),子界面内引导组件索引]",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -7986,9 +8765,16 @@
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_263_Content",
-    "Button": ["幻象1"],
-    "InputEnums": ["幻象1"],
-    "LimitInputEnums": ["幻象1", "UI左键点击"],
+    "Button": [
+      "幻象1"
+    ],
+    "InputEnums": [
+      "幻象1"
+    ],
+    "LimitInputEnums": [
+      "幻象1",
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -8013,7 +8799,9 @@
     "Content": "GuideFocusNew_264_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["幻象1"],
+    "LimitInputEnums": [
+      "幻象1"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -8036,9 +8824,16 @@
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_263_Content",
-    "Button": ["幻象1"],
-    "InputEnums": ["幻象1"],
-    "LimitInputEnums": ["幻象1", "UI左键点击"],
+    "Button": [
+      "幻象1"
+    ],
+    "InputEnums": [
+      "幻象1"
+    ],
+    "LimitInputEnums": [
+      "幻象1",
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -8063,7 +8858,9 @@
     "Content": "GuideFocusNew_264_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["幻象1"],
+    "LimitInputEnums": [
+      "幻象1"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -8086,9 +8883,16 @@
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_263_Content",
-    "Button": ["幻象1"],
-    "InputEnums": ["幻象1"],
-    "LimitInputEnums": ["幻象1", "UI左键点击"],
+    "Button": [
+      "幻象1"
+    ],
+    "InputEnums": [
+      "幻象1"
+    ],
+    "LimitInputEnums": [
+      "幻象1",
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -8113,7 +8917,9 @@
     "Content": "GuideFocusNew_264_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["幻象1"],
+    "LimitInputEnums": [
+      "幻象1"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -8131,7 +8937,10 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["0", "All"],
+    "ExtraParam": [
+      "0",
+      "All"
+    ],
     "ExtraParamDesc": "声骸",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -8156,7 +8965,10 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["0", "All"],
+    "ExtraParam": [
+      "0",
+      "All"
+    ],
     "ExtraParamDesc": "声骸",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -8181,7 +8993,10 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["0", "All"],
+    "ExtraParam": [
+      "0",
+      "All"
+    ],
     "ExtraParamDesc": "声骸",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -8206,7 +9021,9 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["Sub"],
+    "ExtraParam": [
+      "Sub"
+    ],
     "ExtraParamDesc": "声骸介绍",
     "ContentDirection": "U",
     "ShowArrow": true,
@@ -8231,13 +9048,17 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["Sub"],
+    "ExtraParam": [
+      "Sub"
+    ],
     "ExtraParamDesc": "声骸介绍",
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_20005_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": true,
     "UseMask": true,
@@ -8256,7 +9077,9 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["Sub"],
+    "ExtraParam": [
+      "Sub"
+    ],
     "ExtraParamDesc": "声骸介绍",
     "ContentDirection": "U",
     "ShowArrow": true,
@@ -8312,7 +9135,9 @@
     "ShowArrow": true,
     "Content": "GuideFocusNew_20008_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": true,
     "UseMask": true,
@@ -8356,7 +9181,10 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["0", "Cost"],
+    "ExtraParam": [
+      "0",
+      "Cost"
+    ],
     "ExtraParamDesc": "肉鸽代币",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -8381,7 +9209,10 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["0", "Cost"],
+    "ExtraParam": [
+      "0",
+      "Cost"
+    ],
     "ExtraParamDesc": "肉鸽代币",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -8406,7 +9237,10 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["0", "Cost"],
+    "ExtraParam": [
+      "0",
+      "Cost"
+    ],
     "ExtraParamDesc": "肉鸽代币",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -8431,7 +9265,10 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["0", "Attribute"],
+    "ExtraParam": [
+      "0",
+      "Attribute"
+    ],
     "ExtraParamDesc": "激活信物",
     "ContentDirection": "U",
     "ShowArrow": true,
@@ -8456,13 +9293,18 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["0", "Attribute"],
+    "ExtraParam": [
+      "0",
+      "Attribute"
+    ],
     "ExtraParamDesc": "激活信物",
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_20014_Content",
     "Button": [],
-    "InputEnums": ["UI键盘U手柄左摇杆"],
+    "InputEnums": [
+      "UI键盘U手柄左摇杆"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": true,
     "UseMask": false,
@@ -8481,7 +9323,10 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["0", "Attribute"],
+    "ExtraParam": [
+      "0",
+      "Attribute"
+    ],
     "ExtraParamDesc": "激活信物",
     "ContentDirection": "U",
     "ShowArrow": true,
@@ -8511,8 +9356,12 @@
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_20016_Content",
-    "Button": ["幻象2"],
-    "InputEnums": ["幻象2"],
+    "Button": [
+      "幻象2"
+    ],
+    "InputEnums": [
+      "幻象2"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -8587,7 +9436,9 @@
     "ShowArrow": true,
     "Content": "GuideFocusNew_20020_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": true,
     "UseMask": true,
@@ -8661,7 +9512,9 @@
     "ContentDirection": "R",
     "ShowArrow": true,
     "Content": "GuideFocusNew_20023_Content",
-    "Button": ["UI键盘R手柄X"],
+    "Button": [
+      "UI键盘R手柄X"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "ShowMouse": true,
@@ -8737,7 +9590,9 @@
     "ShowArrow": true,
     "Content": "GuideFocusNew_20026_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": true,
     "UseMask": true,
@@ -8787,7 +9642,9 @@
     "ShowArrow": true,
     "Content": "GuideFocusNew_20028_Content",
     "Button": [],
-    "InputEnums": ["切换角色2"],
+    "InputEnums": [
+      "切换角色2"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -8812,7 +9669,9 @@
     "ShowArrow": true,
     "Content": "GuideFocusNew_20029_Content",
     "Button": [],
-    "InputEnums": ["切换角色2"],
+    "InputEnums": [
+      "切换角色2"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -8837,7 +9696,9 @@
     "ShowArrow": true,
     "Content": "GuideFocusNew_20030_Content",
     "Button": [],
-    "InputEnums": ["切换角色2"],
+    "InputEnums": [
+      "切换角色2"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -8887,7 +9748,9 @@
     "ShowArrow": true,
     "Content": "GuideFocusNew_20032_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": true,
     "UseMask": true,
@@ -8961,7 +9824,10 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_20035_Content",
-    "Button": ["组合主键", "UI键盘G手柄特右"],
+    "Button": [
+      "组合主键",
+      "UI键盘G手柄特右"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "ShowMouse": false,
@@ -9112,7 +9978,9 @@
     "ShowArrow": true,
     "Content": "GuideFocusNew_20041_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": true,
     "UseMask": true,
@@ -9161,8 +10029,12 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_399_Content",
-    "Button": ["显示鼠标"],
-    "InputEnums": ["小活动"],
+    "Button": [
+      "显示鼠标"
+    ],
+    "InputEnums": [
+      "小活动"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -9211,8 +10083,12 @@
     "ContentDirection": "R",
     "ShowArrow": true,
     "Content": "GuideFocusNew_402_Content",
-    "Button": ["背包"],
-    "InputEnums": ["背包"],
+    "Button": [
+      "背包"
+    ],
+    "InputEnums": [
+      "背包"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -9256,13 +10132,17 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["3"],
+    "ExtraParam": [
+      "3"
+    ],
     "ExtraParamDesc": "cost提示",
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_405_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": true,
     "UseMask": true,
@@ -9281,13 +10161,17 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["3"],
+    "ExtraParam": [
+      "3"
+    ],
     "ExtraParamDesc": "cost提示",
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_406_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": true,
     "UseMask": true,
@@ -9306,7 +10190,9 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["3"],
+    "ExtraParam": [
+      "3"
+    ],
     "ExtraParamDesc": "cost提示",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -9362,7 +10248,9 @@
     "ShowArrow": true,
     "Content": "GuideFocusNew_409_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": true,
     "UseMask": true,
@@ -9411,8 +10299,12 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_411_Content",
-    "Button": ["角色选择界面"],
-    "InputEnums": ["角色选择界面"],
+    "Button": [
+      "角色选择界面"
+    ],
+    "InputEnums": [
+      "角色选择界面"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -9456,7 +10348,9 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1402"],
+    "ExtraParam": [
+      "1402"
+    ],
     "ExtraParamDesc": "秧秧角色Id",
     "ContentDirection": "L",
     "ShowArrow": true,
@@ -9481,7 +10375,9 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1402"],
+    "ExtraParam": [
+      "1402"
+    ],
     "ExtraParamDesc": "秧秧角色Id",
     "ContentDirection": "L",
     "ShowArrow": true,
@@ -9506,7 +10402,9 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1402"],
+    "ExtraParam": [
+      "1402"
+    ],
     "ExtraParamDesc": "秧秧角色Id",
     "ContentDirection": "L",
     "ShowArrow": true,
@@ -9531,7 +10429,10 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["tab", "1"],
+    "ExtraParam": [
+      "tab",
+      "1"
+    ],
     "ExtraParamDesc": "声骸页签",
     "ContentDirection": "R",
     "ShowArrow": true,
@@ -9556,7 +10457,10 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["tab", "1"],
+    "ExtraParam": [
+      "tab",
+      "1"
+    ],
     "ExtraParamDesc": "声骸页签",
     "ContentDirection": "R",
     "ShowArrow": true,
@@ -9581,7 +10485,10 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["tab", "1"],
+    "ExtraParam": [
+      "tab",
+      "1"
+    ],
     "ExtraParamDesc": "声骸页签",
     "ContentDirection": "R",
     "ShowArrow": true,
@@ -9611,11 +10518,17 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_420_Content",
-    "Button": ["功能菜单"],
-    "InputEnums": ["功能菜单"],
-    "LimitInputEnums": [],
+    "Button": [
+      "功能菜单"
+    ],
+    "InputEnums": [
+      "功能菜单"
+    ],
+    "LimitInputEnums": [
+      "功能菜单"
+    ],
     "ShowMouse": false,
-    "UseMask": false,
+    "UseMask": true,
     "UseClick": true,
     "ClickAnywhere": false,
     "ClickAnywhereShowTime": 0,
@@ -9636,11 +10549,17 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_421_Content",
-    "Button": ["功能菜单"],
-    "InputEnums": ["功能菜单"],
-    "LimitInputEnums": [],
+    "Button": [
+      "功能菜单"
+    ],
+    "InputEnums": [
+      "功能菜单"
+    ],
+    "LimitInputEnums": [
+      "功能菜单"
+    ],
     "ShowMouse": false,
-    "UseMask": false,
+    "UseMask": true,
     "UseClick": true,
     "ClickAnywhere": false,
     "ClickAnywhereShowTime": 0,
@@ -9665,7 +10584,7 @@
     "InputEnums": [],
     "LimitInputEnums": [],
     "ShowMouse": false,
-    "UseMask": false,
+    "UseMask": true,
     "UseClick": true,
     "ClickAnywhere": false,
     "ClickAnywhereShowTime": 0,
@@ -9681,7 +10600,9 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["10026"],
+    "ExtraParam": [
+      "10026"
+    ],
     "ExtraParamDesc": "探索工具",
     "ContentDirection": "U",
     "ShowArrow": true,
@@ -9706,7 +10627,9 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["10026"],
+    "ExtraParam": [
+      "10026"
+    ],
     "ExtraParamDesc": "探索工具",
     "ContentDirection": "U",
     "ShowArrow": true,
@@ -9731,7 +10654,9 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["10026"],
+    "ExtraParam": [
+      "10026"
+    ],
     "ExtraParamDesc": "探索工具",
     "ContentDirection": "U",
     "ShowArrow": true,
@@ -9756,7 +10681,9 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1007"],
+    "ExtraParam": [
+      "1007"
+    ],
     "ExtraParamDesc": "声骸显像",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -9781,7 +10708,9 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1007"],
+    "ExtraParam": [
+      "1007"
+    ],
     "ExtraParamDesc": "声骸显像",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -9806,7 +10735,9 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1007"],
+    "ExtraParam": [
+      "1007"
+    ],
     "ExtraParamDesc": "声骸显像",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -9838,7 +10769,10 @@
     "Content": "GuideFocusNew_26_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["闪避", "UI左键点击"],
+    "LimitInputEnums": [
+      "闪避",
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -9863,7 +10797,11 @@
     "Content": "GuideFocusNew_30_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["攻击", "UI左键点击", "显示鼠标"],
+    "LimitInputEnums": [
+      "攻击",
+      "UI左键点击",
+      "显示鼠标"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -9938,7 +10876,9 @@
     "Content": "GuideFocusNew_1033_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -9963,7 +10903,9 @@
     "Content": "GuideFocusNew_1034_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["UI左键点击"],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -9986,8 +10928,12 @@
     "ContentDirection": "L",
     "ShowArrow": true,
     "Content": "GuideFocusNew_1035_Content",
-    "Button": ["切换角色2"],
-    "InputEnums": ["切换角色2"],
+    "Button": [
+      "切换角色2"
+    ],
+    "InputEnums": [
+      "切换角色2"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -10036,8 +10982,12 @@
     "ContentDirection": "L",
     "ShowArrow": true,
     "Content": "GuideFocusNew_1037_Content",
-    "Button": ["切换角色1"],
-    "InputEnums": ["切换角色1"],
+    "Button": [
+      "切换角色1"
+    ],
+    "InputEnums": [
+      "切换角色1"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -10138,7 +11088,11 @@
     "Content": "GuideFocusNew_1042_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["攻击", "UI左键点击", "显示鼠标"],
+    "LimitInputEnums": [
+      "攻击",
+      "UI左键点击",
+      "显示鼠标"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -10163,7 +11117,11 @@
     "Content": "GuideFocusNew_1044_Content",
     "Button": [],
     "InputEnums": [],
-    "LimitInputEnums": ["攻击", "UI左键点击", "显示鼠标"],
+    "LimitInputEnums": [
+      "攻击",
+      "UI左键点击",
+      "显示鼠标"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -10236,8 +11194,12 @@
     "ContentDirection": "R",
     "ShowArrow": true,
     "Content": "GuideFocusNew_429_Content",
-    "Button": ["地图"],
-    "InputEnums": ["地图"],
+    "Button": [
+      "地图"
+    ],
+    "InputEnums": [
+      "地图"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -10311,7 +11273,10 @@
     "ContentDirection": "R",
     "ShowArrow": true,
     "Content": "GuideFocusNew_433_Content",
-    "Button": ["组合主键", "UI键盘G手柄特右"],
+    "Button": [
+      "组合主键",
+      "UI键盘G手柄特右"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "ShowMouse": false,
@@ -10811,8 +11776,12 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_453_Content",
-    "Button": ["角色选择界面"],
-    "InputEnums": ["角色选择界面"],
+    "Button": [
+      "角色选择界面"
+    ],
+    "InputEnums": [
+      "角色选择界面"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -10856,7 +11825,9 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1501"],
+    "ExtraParam": [
+      "1501"
+    ],
     "ExtraParamDesc": "男主Id",
     "ContentDirection": "L",
     "ShowArrow": true,
@@ -10881,7 +11852,9 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1501"],
+    "ExtraParam": [
+      "1501"
+    ],
     "ExtraParamDesc": "男主Id",
     "ContentDirection": "L",
     "ShowArrow": true,
@@ -10906,7 +11879,9 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1501"],
+    "ExtraParam": [
+      "1501"
+    ],
     "ExtraParamDesc": "男主Id",
     "ContentDirection": "L",
     "ShowArrow": true,
@@ -11037,7 +12012,9 @@
     "ShowArrow": true,
     "Content": "GuideFocusNew_463_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": true,
     "UseMask": true,
@@ -11086,8 +12063,12 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_465_Content",
-    "Button": ["角色选择界面"],
-    "InputEnums": ["角色选择界面"],
+    "Button": [
+      "角色选择界面"
+    ],
+    "InputEnums": [
+      "角色选择界面"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -11131,7 +12112,9 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1502"],
+    "ExtraParam": [
+      "1502"
+    ],
     "ExtraParamDesc": "女主Id",
     "ContentDirection": "L",
     "ShowArrow": true,
@@ -11156,7 +12139,9 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1502"],
+    "ExtraParam": [
+      "1502"
+    ],
     "ExtraParamDesc": "女主Id",
     "ContentDirection": "L",
     "ShowArrow": true,
@@ -11287,7 +12272,9 @@
     "ShowArrow": true,
     "Content": "GuideFocusNew_475_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": true,
     "UseMask": true,
@@ -11336,8 +12323,12 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_480_Content",
-    "Button": ["功能菜单"],
-    "InputEnums": ["功能菜单"],
+    "Button": [
+      "功能菜单"
+    ],
+    "InputEnums": [
+      "功能菜单"
+    ],
     "LimitInputEnums": [
       "功能菜单",
       "UI左键点击",
@@ -11362,7 +12353,9 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["10001"],
+    "ExtraParam": [
+      "10001"
+    ],
     "ExtraParamDesc": "共鸣者",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -11387,14 +12380,21 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["tab", "2"],
+    "ExtraParam": [
+      "tab",
+      "2"
+    ],
     "ExtraParamDesc": "声骸页签",
     "ContentDirection": "R",
     "ShowArrow": true,
     "Content": "GuideFocusNew_482_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
-    "LimitInputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
+    "LimitInputEnums": [
+      "手柄引导下一步"
+    ],
     "ShowMouse": false,
     "UseMask": true,
     "UseClick": true,
@@ -11412,7 +12412,9 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["First"],
+    "ExtraParam": [
+      "First"
+    ],
     "ExtraParamDesc": "首个声骸位",
     "ContentDirection": "U",
     "ShowArrow": true,
@@ -11437,14 +12439,21 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["item", "390077021"],
+    "ExtraParam": [
+      "item",
+      "390077021"
+    ],
     "ExtraParamDesc": "声骸怪物Id",
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_484_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
-    "LimitInputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
+    "LimitInputEnums": [
+      "手柄引导下一步"
+    ],
     "ShowMouse": false,
     "UseMask": true,
     "UseClick": true,
@@ -11467,7 +12476,9 @@
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_485_Content",
-    "Button": ["UI键盘F手柄A"],
+    "Button": [
+      "UI键盘F手柄A"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "ShowMouse": false,
@@ -11492,7 +12503,9 @@
     "ContentDirection": "L",
     "ShowArrow": true,
     "Content": "GuideFocusNew_486_Content",
-    "Button": ["UI键盘ESC手柄B"],
+    "Button": [
+      "UI键盘ESC手柄B"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "ShowMouse": false,
@@ -11512,14 +12525,20 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["0"],
+    "ExtraParam": [
+      "0"
+    ],
     "ExtraParamDesc": "介绍声骸技能",
     "ContentDirection": "R",
     "ShowArrow": true,
     "Content": "GuideFocusNew_487_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
-    "LimitInputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
+    "LimitInputEnums": [
+      "手柄引导下一步"
+    ],
     "ShowMouse": false,
     "UseMask": true,
     "UseClick": true,
@@ -12893,7 +13912,9 @@
     "ShowArrow": false,
     "Content": "GuideFocusNew_1107_Content",
     "Button": [],
-    "InputEnums": ["大招"],
+    "InputEnums": [
+      "大招"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -12918,7 +13939,9 @@
     "ShowArrow": false,
     "Content": "GuideFocusNew_1108_Content",
     "Button": [],
-    "InputEnums": ["大招"],
+    "InputEnums": [
+      "大招"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -13242,7 +14265,9 @@
     "ContentDirection": "U",
     "ShowArrow": false,
     "Content": "GuideFocusNew_1121_Content",
-    "Button": ["攻击"],
+    "Button": [
+      "攻击"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "ShowMouse": false,
@@ -13342,7 +14367,9 @@
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_490_Content",
-    "Button": ["UI键盘R手柄X"],
+    "Button": [
+      "UI键盘R手柄X"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "ShowMouse": false,
@@ -13387,7 +14414,9 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["300301"],
+    "ExtraParam": [
+      "300301"
+    ],
     "ExtraParamDesc": "今州城坐标",
     "ContentDirection": "U",
     "ShowArrow": true,
@@ -13412,7 +14441,9 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["300301"],
+    "ExtraParam": [
+      "300301"
+    ],
     "ExtraParamDesc": "今州城坐标",
     "ContentDirection": "U",
     "ShowArrow": true,
@@ -13437,7 +14468,9 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["300301"],
+    "ExtraParam": [
+      "300301"
+    ],
     "ExtraParamDesc": "今州城坐标",
     "ContentDirection": "U",
     "ShowArrow": true,
@@ -13467,8 +14500,12 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_495_Content",
-    "Button": ["角色选择界面"],
-    "InputEnums": ["角色选择界面"],
+    "Button": [
+      "角色选择界面"
+    ],
+    "InputEnums": [
+      "角色选择界面"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -13512,7 +14549,10 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["tab", "3"],
+    "ExtraParam": [
+      "tab",
+      "3"
+    ],
     "ExtraParamDesc": "技能页签",
     "ContentDirection": "R",
     "ShowArrow": true,
@@ -13537,7 +14577,10 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["tab", "3"],
+    "ExtraParam": [
+      "tab",
+      "3"
+    ],
     "ExtraParamDesc": "技能页签",
     "ContentDirection": "R",
     "ShowArrow": true,
@@ -13562,7 +14605,10 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["tab", "3"],
+    "ExtraParam": [
+      "tab",
+      "3"
+    ],
     "ExtraParamDesc": "技能页签",
     "ContentDirection": "R",
     "ShowArrow": true,
@@ -13692,7 +14738,9 @@
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_20044_Content",
-    "Button": ["UI键盘T手柄Y"],
+    "Button": [
+      "UI键盘T手柄Y"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "ShowMouse": true,
@@ -13743,7 +14791,10 @@
     "ShowArrow": true,
     "Content": "GuideFocusNew_20046_Content",
     "Button": [],
-    "InputEnums": ["攻击", "UI左键点击"],
+    "InputEnums": [
+      "攻击",
+      "UI左键点击"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -13762,7 +14813,9 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["29"],
+    "ExtraParam": [
+      "29"
+    ],
     "ExtraParamDesc": "选择漂泊日志",
     "ContentDirection": "R",
     "ShowArrow": true,
@@ -13787,7 +14840,9 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["29"],
+    "ExtraParam": [
+      "29"
+    ],
     "ExtraParamDesc": "选择漂泊日志",
     "ContentDirection": "R",
     "ShowArrow": true,
@@ -13812,7 +14867,9 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["29"],
+    "ExtraParam": [
+      "29"
+    ],
     "ExtraParamDesc": "选择漂泊日志",
     "ContentDirection": "R",
     "ShowArrow": true,
@@ -13837,7 +14894,9 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["62"],
+    "ExtraParam": [
+      "62"
+    ],
     "ExtraParamDesc": "基础训练",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -13862,7 +14921,9 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["62"],
+    "ExtraParam": [
+      "62"
+    ],
     "ExtraParamDesc": "基础训练",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -13887,7 +14948,9 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["62"],
+    "ExtraParam": [
+      "62"
+    ],
     "ExtraParamDesc": "基础训练",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -13912,7 +14975,9 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1402"],
+    "ExtraParam": [
+      "1402"
+    ],
     "ExtraParamDesc": "角色Id",
     "ContentDirection": "L",
     "ShowArrow": true,
@@ -13937,7 +15002,9 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1402"],
+    "ExtraParam": [
+      "1402"
+    ],
     "ExtraParamDesc": "角色Id",
     "ContentDirection": "L",
     "ShowArrow": true,
@@ -13962,7 +15029,9 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1402"],
+    "ExtraParam": [
+      "1402"
+    ],
     "ExtraParamDesc": "角色Id",
     "ContentDirection": "L",
     "ShowArrow": true,
@@ -14292,9 +15361,16 @@
     "ContentDirection": "U",
     "ShowArrow": false,
     "Content": "GuideFocusNew_1135_Content",
-    "Button": ["攻击"],
-    "InputEnums": ["攻击"],
-    "LimitInputEnums": ["攻击", "UI左键点击"],
+    "Button": [
+      "攻击"
+    ],
+    "InputEnums": [
+      "攻击"
+    ],
+    "LimitInputEnums": [
+      "攻击",
+      "UI左键点击"
+    ],
     "ShowMouse": false,
     "UseMask": false,
     "UseClick": false,
@@ -14342,9 +15418,16 @@
     "ContentDirection": "U",
     "ShowArrow": false,
     "Content": "GuideFocusNew_1137_Content",
-    "Button": ["攻击"],
-    "InputEnums": ["攻击"],
-    "LimitInputEnums": ["攻击", "UI左键点击"],
+    "Button": [
+      "攻击"
+    ],
+    "InputEnums": [
+      "攻击"
+    ],
+    "LimitInputEnums": [
+      "攻击",
+      "UI左键点击"
+    ],
     "ShowMouse": false,
     "UseMask": false,
     "UseClick": false,
@@ -14487,14 +15570,22 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["2"],
+    "ExtraParam": [
+      "2"
+    ],
     "ExtraParamDesc": "抽卡表Id",
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_518_Content",
-    "Button": ["UI键盘R手柄X"],
-    "InputEnums": ["UI键盘R手柄X"],
-    "LimitInputEnums": ["UI键盘R手柄X"],
+    "Button": [
+      "UI键盘R手柄X"
+    ],
+    "InputEnums": [
+      "UI键盘R手柄X"
+    ],
+    "LimitInputEnums": [
+      "UI键盘R手柄X"
+    ],
     "ShowMouse": false,
     "UseMask": true,
     "UseClick": true,
@@ -14517,8 +15608,12 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_519_Content",
-    "Button": ["功能菜单"],
-    "InputEnums": ["功能菜单"],
+    "Button": [
+      "功能菜单"
+    ],
+    "InputEnums": [
+      "功能菜单"
+    ],
     "LimitInputEnums": [
       "功能菜单",
       "UI左键点击",
@@ -14544,7 +15639,9 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["10009"],
+    "ExtraParam": [
+      "10009"
+    ],
     "ExtraParamDesc": "g.功能开启-功能菜单-抽卡",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -14574,8 +15671,12 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_251_Content",
-    "Button": ["功能菜单"],
-    "InputEnums": ["功能菜单"],
+    "Button": [
+      "功能菜单"
+    ],
+    "InputEnums": [
+      "功能菜单"
+    ],
     "LimitInputEnums": [
       "功能菜单",
       "UI左键点击",
@@ -14601,7 +15702,9 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["10007"],
+    "ExtraParam": [
+      "10007"
+    ],
     "ExtraParamDesc": "g.功能开启-功能菜单",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -14651,13 +15754,17 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1103"],
+    "ExtraParam": [
+      "1103"
+    ],
     "ExtraParamDesc": "角色Id",
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_254_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": true,
@@ -14681,7 +15788,9 @@
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_525_Content",
-    "Button": ["UI键盘F手柄A"],
+    "Button": [
+      "UI键盘F手柄A"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "ShowMouse": false,
@@ -14706,8 +15815,12 @@
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_1143_Content",
-    "Button": ["大招"],
-    "InputEnums": ["大招"],
+    "Button": [
+      "大招"
+    ],
+    "InputEnums": [
+      "大招"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": true,
@@ -14737,7 +15850,7 @@
     "ShowMouse": false,
     "UseMask": true,
     "UseClick": true,
-    "ClickAnywhere": false,
+    "ClickAnywhere": true,
     "ClickAnywhereShowTime": 0,
     "OnlyFrame": false,
     "OnlyText": true,
@@ -14782,8 +15895,14 @@
     "ShowArrow": true,
     "Content": "GuideFocusNew_1146_Content",
     "Button": [],
-    "InputEnums": ["攻击", "UI左键点击"],
-    "LimitInputEnums": ["攻击", "UI左键点击"],
+    "InputEnums": [
+      "攻击",
+      "UI左键点击"
+    ],
+    "LimitInputEnums": [
+      "攻击",
+      "UI左键点击"
+    ],
     "ShowMouse": false,
     "UseMask": true,
     "UseClick": false,
@@ -14806,8 +15925,12 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_36_Content",
-    "Button": ["功能菜单"],
-    "InputEnums": ["功能菜单"],
+    "Button": [
+      "功能菜单"
+    ],
+    "InputEnums": [
+      "功能菜单"
+    ],
     "LimitInputEnums": [
       "功能菜单",
       "UI左键点击",
@@ -14858,14 +15981,20 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["25200"],
+    "ExtraParam": [
+      "25200"
+    ],
     "ExtraParamDesc": "七点",
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_35_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
-    "LimitInputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
+    "LimitInputEnums": [
+      "手柄引导下一步"
+    ],
     "ShowMouse": false,
     "UseMask": true,
     "UseClick": true,
@@ -14888,8 +16017,12 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_529_Content",
-    "Button": ["功能菜单"],
-    "InputEnums": ["功能菜单"],
+    "Button": [
+      "功能菜单"
+    ],
+    "InputEnums": [
+      "功能菜单"
+    ],
     "LimitInputEnums": [
       "功能菜单",
       "UI左键点击",
@@ -14914,7 +16047,9 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["10001"],
+    "ExtraParam": [
+      "10001"
+    ],
     "ExtraParamDesc": "共鸣者",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -14939,7 +16074,9 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1402"],
+    "ExtraParam": [
+      "1402"
+    ],
     "ExtraParamDesc": "角色Id",
     "ContentDirection": "L",
     "ShowArrow": true,
@@ -14969,7 +16106,9 @@
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_532_Content",
-    "Button": ["UI键盘T手柄Y"],
+    "Button": [
+      "UI键盘T手柄Y"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "ShowMouse": false,
@@ -14994,7 +16133,9 @@
     "ContentDirection": "R",
     "ShowArrow": true,
     "Content": "GuideFocusNew_533_Content",
-    "Button": ["UI键盘R手柄X"],
+    "Button": [
+      "UI键盘R手柄X"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "ShowMouse": false,
@@ -15020,7 +16161,9 @@
     "ShowArrow": true,
     "Content": "GuideFocusNew_326_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": true,
@@ -15039,7 +16182,9 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["5021"],
+    "ExtraParam": [
+      "5021"
+    ],
     "ExtraParamDesc": "无冠者boss",
     "ContentDirection": "U",
     "ShowArrow": true,
@@ -15064,7 +16209,9 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["5021"],
+    "ExtraParam": [
+      "5021"
+    ],
     "ExtraParamDesc": "无冠者boss",
     "ContentDirection": "U",
     "ShowArrow": true,
@@ -15089,7 +16236,9 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["5021"],
+    "ExtraParam": [
+      "5021"
+    ],
     "ExtraParamDesc": "无冠者boss",
     "ContentDirection": "U",
     "ShowArrow": true,
@@ -15119,8 +16268,12 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_539_Content",
-    "Button": ["功能菜单"],
-    "InputEnums": ["功能菜单"],
+    "Button": [
+      "功能菜单"
+    ],
+    "InputEnums": [
+      "功能菜单"
+    ],
     "LimitInputEnums": [
       "功能菜单",
       "UI左键点击",
@@ -15145,7 +16298,9 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["10001"],
+    "ExtraParam": [
+      "10001"
+    ],
     "ExtraParamDesc": "共鸣者",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -15175,7 +16330,9 @@
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_541_Content",
-    "Button": ["UI键盘T手柄Y"],
+    "Button": [
+      "UI键盘T手柄Y"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "ShowMouse": false,
@@ -15200,8 +16357,12 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_542_Content",
-    "Button": ["功能菜单"],
-    "InputEnums": ["功能菜单"],
+    "Button": [
+      "功能菜单"
+    ],
+    "InputEnums": [
+      "功能菜单"
+    ],
     "LimitInputEnums": [
       "功能菜单",
       "UI左键点击",
@@ -15226,7 +16387,9 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["10001"],
+    "ExtraParam": [
+      "10001"
+    ],
     "ExtraParamDesc": "共鸣者",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -15251,13 +16414,18 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["tab", "1"],
+    "ExtraParam": [
+      "tab",
+      "1"
+    ],
     "ExtraParamDesc": "点击角色武器",
     "ContentDirection": "R",
     "ShowArrow": true,
     "Content": "GuideFocusNew_544_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": true,
@@ -15281,7 +16449,9 @@
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_545_Content",
-    "Button": ["UI键盘T手柄Y"],
+    "Button": [
+      "UI键盘T手柄Y"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "ShowMouse": false,
@@ -15306,8 +16476,12 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_546_Content",
-    "Button": ["功能菜单"],
-    "InputEnums": ["功能菜单"],
+    "Button": [
+      "功能菜单"
+    ],
+    "InputEnums": [
+      "功能菜单"
+    ],
     "LimitInputEnums": [
       "功能菜单",
       "UI左键点击",
@@ -15332,7 +16506,9 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["10001"],
+    "ExtraParam": [
+      "10001"
+    ],
     "ExtraParamDesc": "共鸣者",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -15357,13 +16533,18 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["tab", "2"],
+    "ExtraParam": [
+      "tab",
+      "2"
+    ],
     "ExtraParamDesc": "点击角色声骸",
     "ContentDirection": "R",
     "ShowArrow": true,
     "Content": "GuideFocusNew_548_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": true,
@@ -15388,7 +16569,9 @@
     "ShowArrow": true,
     "Content": "GuideFocusNew_549_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": true,
@@ -15407,13 +16590,17 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["880000001"],
+    "ExtraParam": [
+      "880000001"
+    ],
     "ExtraParamDesc": "鸣域突破任务",
     "ContentDirection": "R",
     "ShowArrow": true,
     "Content": "GuideFocusNew_321_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": true,
@@ -15432,7 +16619,10 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["tab", "2"],
+    "ExtraParam": [
+      "tab",
+      "2"
+    ],
     "ExtraParamDesc": "声骸页签",
     "ContentDirection": "R",
     "ShowArrow": true,
@@ -15482,13 +16672,18 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["txt", "1"],
+    "ExtraParam": [
+      "txt",
+      "1"
+    ],
     "ExtraParamDesc": "声骸套装描述",
     "ContentDirection": "L",
     "ShowArrow": true,
     "Content": "GuideFocusNew_368_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": true,
@@ -15513,8 +16708,12 @@
     "ShowArrow": true,
     "Content": "GuideFocusNew_1033_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
-    "LimitInputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
+    "LimitInputEnums": [
+      "手柄引导下一步"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -15537,8 +16736,12 @@
     "ContentDirection": "L",
     "ShowArrow": true,
     "Content": "GuideFocusNew_1035_Content",
-    "Button": ["切换角色2"],
-    "InputEnums": ["切换角色2"],
+    "Button": [
+      "切换角色2"
+    ],
+    "InputEnums": [
+      "切换角色2"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -15562,8 +16765,12 @@
     "ContentDirection": "L",
     "ShowArrow": true,
     "Content": "GuideFocusNew_1037_Content",
-    "Button": ["切换角色1"],
-    "InputEnums": ["切换角色1"],
+    "Button": [
+      "切换角色1"
+    ],
+    "InputEnums": [
+      "切换角色1"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -15587,9 +16794,15 @@
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_1016_Content",
-    "Button": ["攻击"],
-    "InputEnums": ["攻击"],
-    "LimitInputEnums": ["攻击"],
+    "Button": [
+      "攻击"
+    ],
+    "InputEnums": [
+      "攻击"
+    ],
+    "LimitInputEnums": [
+      "攻击"
+    ],
     "ShowMouse": false,
     "UseMask": true,
     "UseClick": false,
@@ -15612,7 +16825,9 @@
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_557_Content",
-    "Button": ["UI键盘T手柄Y"],
+    "Button": [
+      "UI键盘T手柄Y"
+    ],
     "InputEnums": [],
     "LimitInputEnums": [],
     "ShowMouse": true,
@@ -15637,8 +16852,12 @@
     "ContentDirection": "R",
     "ShowArrow": true,
     "Content": "GuideFocusNew_10092_Content",
-    "Button": ["UI键盘G手柄特右"],
-    "InputEnums": ["UI键盘G手柄特右"],
+    "Button": [
+      "UI键盘G手柄特右"
+    ],
+    "InputEnums": [
+      "UI键盘G手柄特右"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": true,
     "UseMask": false,
@@ -15662,8 +16881,12 @@
     "ContentDirection": "D",
     "ShowArrow": true,
     "Content": "GuideFocusNew_558_Content",
-    "Button": ["功能菜单"],
-    "InputEnums": ["功能菜单"],
+    "Button": [
+      "功能菜单"
+    ],
+    "InputEnums": [
+      "功能菜单"
+    ],
     "LimitInputEnums": [
       "功能菜单",
       "UI左键点击",
@@ -15688,7 +16911,9 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["10023"],
+    "ExtraParam": [
+      "10023"
+    ],
     "ExtraParamDesc": "拾音辑录",
     "ContentDirection": "D",
     "ShowArrow": true,
@@ -15719,7 +16944,9 @@
     "ShowArrow": true,
     "Content": "GuideFocusNew_265_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": true,
@@ -15744,7 +16971,9 @@
     "ShowArrow": true,
     "Content": "GuideFocusNew_266_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": true,
@@ -15763,7 +16992,9 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1502"],
+    "ExtraParam": [
+      "1502"
+    ],
     "ExtraParamDesc": "女主Id",
     "ContentDirection": "L",
     "ShowArrow": true,
@@ -15788,7 +17019,9 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1501"],
+    "ExtraParam": [
+      "1501"
+    ],
     "ExtraParamDesc": "男主Id",
     "ContentDirection": "L",
     "ShowArrow": true,
@@ -15813,7 +17046,9 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1501"],
+    "ExtraParam": [
+      "1501"
+    ],
     "ExtraParamDesc": "男主Id",
     "ContentDirection": "L",
     "ShowArrow": true,
@@ -15838,7 +17073,9 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1501"],
+    "ExtraParam": [
+      "1501"
+    ],
     "ExtraParamDesc": "男主Id",
     "ContentDirection": "L",
     "ShowArrow": true,
@@ -15863,7 +17100,9 @@
     "Platform": "桌面端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1502"],
+    "ExtraParam": [
+      "1502"
+    ],
     "ExtraParamDesc": "女主Id",
     "ContentDirection": "L",
     "ShowArrow": true,
@@ -15888,7 +17127,9 @@
     "Platform": "手柄",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1502"],
+    "ExtraParam": [
+      "1502"
+    ],
     "ExtraParamDesc": "女主Id",
     "ContentDirection": "L",
     "ShowArrow": true,
@@ -15913,7 +17154,9 @@
     "Platform": "移动端",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["1502"],
+    "ExtraParam": [
+      "1502"
+    ],
     "ExtraParamDesc": "女主Id",
     "ContentDirection": "L",
     "ShowArrow": true,
@@ -15968,9 +17211,13 @@
     "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_570_Content",
-    "Button": ["UI键盘F手柄A"],
+    "Button": [
+      "UI键盘F手柄A"
+    ],
     "InputEnums": [],
-    "LimitInputEnums": ["UI键盘F手柄A"],
+    "LimitInputEnums": [
+      "UI键盘F手柄A"
+    ],
     "ShowMouse": false,
     "UseMask": true,
     "UseClick": true,
@@ -16018,8 +17265,12 @@
     "ContentDirection": "L",
     "ShowArrow": true,
     "Content": "GuideFocusNew_241_Content",
-    "Button": ["切换角色2"],
-    "InputEnums": ["切换角色2"],
+    "Button": [
+      "切换角色2"
+    ],
+    "InputEnums": [
+      "切换角色2"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -16043,9 +17294,17 @@
     "ContentDirection": "L",
     "ShowArrow": true,
     "Content": "GuideFocusNew_185_Content",
-    "Button": ["切换角色2"],
-    "InputEnums": ["切换角色2"],
-    "LimitInputEnums": ["切换角色2", "UI左键点击", "显示鼠标"],
+    "Button": [
+      "切换角色2"
+    ],
+    "InputEnums": [
+      "切换角色2"
+    ],
+    "LimitInputEnums": [
+      "切换角色2",
+      "UI左键点击",
+      "显示鼠标"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -16068,9 +17327,17 @@
     "ContentDirection": "L",
     "ShowArrow": true,
     "Content": "GuideFocusNew_185_Content",
-    "Button": ["切换角色1"],
-    "InputEnums": ["切换角色1"],
-    "LimitInputEnums": ["切换角色1", "UI左键点击", "显示鼠标"],
+    "Button": [
+      "切换角色1"
+    ],
+    "InputEnums": [
+      "切换角色1"
+    ],
+    "LimitInputEnums": [
+      "切换角色1",
+      "UI左键点击",
+      "显示鼠标"
+    ],
     "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
@@ -16094,7 +17361,9 @@
     "ShowArrow": true,
     "Content": "GuideFocusNew_378_Content",
     "Button": [],
-    "InputEnums": ["技能1"],
+    "InputEnums": [
+      "技能1"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": false,
@@ -16144,8 +17413,12 @@
     "ShowArrow": true,
     "Content": "GuideFocusNew_577_Content",
     "Button": [],
-    "InputEnums": ["技能1"],
-    "LimitInputEnums": ["技能1"],
+    "InputEnums": [
+      "技能1"
+    ],
+    "LimitInputEnums": [
+      "技能1"
+    ],
     "ShowMouse": false,
     "UseMask": false,
     "UseClick": true,
@@ -16194,7 +17467,9 @@
     "ShowArrow": true,
     "Content": "GuideFocusNew_20047_Content",
     "Button": [],
-    "InputEnums": ["手柄引导下一步"],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
     "LimitInputEnums": [],
     "ShowMouse": false,
     "UseMask": true,
@@ -16263,7 +17538,9 @@
     "Platform": "全平台",
     "HookName": "",
     "HookNameForShow": "",
-    "ExtraParam": ["59"],
+    "ExtraParam": [
+      "59"
+    ],
     "ExtraParamDesc": "声骸回收",
     "ContentDirection": "R",
     "ShowArrow": true,
@@ -16273,6 +17550,1515 @@
     "LimitInputEnums": [],
     "ShowMouse": true,
     "UseMask": false,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 20049,
+    "ViewName": "RoguelikeSelectRoleView",
+    "DynamicTabName": "",
+    "Platform": "桌面端",
+    "HookName": "0",
+    "HookNameForShow": "",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_20049_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "ShowMouse": true,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 20050,
+    "ViewName": "RoguelikeSelectRoleView",
+    "DynamicTabName": "",
+    "Platform": "手柄",
+    "HookName": "0",
+    "HookNameForShow": "",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_20050_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 20051,
+    "ViewName": "RoguelikeSelectRoleView",
+    "DynamicTabName": "",
+    "Platform": "移动端",
+    "HookName": "0",
+    "HookNameForShow": "",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_20051_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 20052,
+    "ViewName": "RoguelikeInstanceEntrySelectView",
+    "DynamicTabName": "",
+    "Platform": "桌面端",
+    "HookName": "0",
+    "HookNameForShow": "",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "D",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_20052_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "ShowMouse": true,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 20053,
+    "ViewName": "RoguelikeInstanceEntrySelectView",
+    "DynamicTabName": "",
+    "Platform": "手柄",
+    "HookName": "0",
+    "HookNameForShow": "",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "D",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_20053_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 20054,
+    "ViewName": "RoguelikeInstanceEntrySelectView",
+    "DynamicTabName": "",
+    "Platform": "移动端",
+    "HookName": "0",
+    "HookNameForShow": "",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "D",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_20054_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 20055,
+    "ViewName": "RoguelikeInstanceEntrySelectView",
+    "DynamicTabName": "",
+    "Platform": "桌面端",
+    "HookName": "1",
+    "HookNameForShow": "",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_20055_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "ShowMouse": true,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 20056,
+    "ViewName": "RoguelikeInstanceEntrySelectView",
+    "DynamicTabName": "",
+    "Platform": "手柄",
+    "HookName": "1",
+    "HookNameForShow": "",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_20056_Content",
+    "Button": [],
+    "InputEnums": [
+      "手柄引导下一步"
+    ],
+    "LimitInputEnums": [],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 20057,
+    "ViewName": "RoguelikeInstanceEntrySelectView",
+    "DynamicTabName": "",
+    "Platform": "移动端",
+    "HookName": "1",
+    "HookNameForShow": "",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_20057_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 20061,
+    "ViewName": "RoguelikeSelectSpecialView",
+    "DynamicTabName": "",
+    "Platform": "桌面端",
+    "HookName": "0",
+    "HookNameForShow": "",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "D",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_20061_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "ShowMouse": true,
+    "UseMask": false,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 20062,
+    "ViewName": "RoguelikeSelectSpecialView",
+    "DynamicTabName": "",
+    "Platform": "手柄",
+    "HookName": "0",
+    "HookNameForShow": "",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "D",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_20062_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "ShowMouse": false,
+    "UseMask": false,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 20063,
+    "ViewName": "RoguelikeSelectSpecialView",
+    "DynamicTabName": "",
+    "Platform": "移动端",
+    "HookName": "0",
+    "HookNameForShow": "",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "D",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_20063_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "ShowMouse": false,
+    "UseMask": false,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 579,
+    "ViewName": "AdventureGuideView",
+    "DynamicTabName": "DisposableChallengeView",
+    "Platform": "桌面端",
+    "HookName": "",
+    "HookNameForShow": "",
+    "ExtraParam": [
+      "0"
+    ],
+    "ExtraParamDesc": "基础训练",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_579_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "ShowMouse": true,
+    "UseMask": false,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 580,
+    "ViewName": "AdventureGuideView",
+    "DynamicTabName": "DisposableChallengeView",
+    "Platform": "手柄",
+    "HookName": "",
+    "HookNameForShow": "",
+    "ExtraParam": [
+      "0"
+    ],
+    "ExtraParamDesc": "基础训练",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_580_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "ShowMouse": false,
+    "UseMask": false,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 581,
+    "ViewName": "AdventureGuideView",
+    "DynamicTabName": "DisposableChallengeView",
+    "Platform": "移动端",
+    "HookName": "",
+    "HookNameForShow": "",
+    "ExtraParam": [
+      "0"
+    ],
+    "ExtraParamDesc": "基础训练",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_581_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "ShowMouse": false,
+    "UseMask": false,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 582,
+    "ViewName": "BattleView",
+    "DynamicTabName": "",
+    "Platform": "桌面端",
+    "HookName": "T-编队",
+    "HookNameForShow": "V-编队",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "D",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_582_Content",
+    "Button": [
+      "编队"
+    ],
+    "InputEnums": [
+      "编队"
+    ],
+    "LimitInputEnums": [],
+    "ShowMouse": true,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 583,
+    "ViewName": "BattleView",
+    "DynamicTabName": "",
+    "Platform": "手柄",
+    "HookName": "T-编队",
+    "HookNameForShow": "V-编队",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "D",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_583_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 20064,
+    "ViewName": "BossRushMainView",
+    "DynamicTabName": "BossRushSelectView",
+    "Platform": "桌面端",
+    "HookName": "",
+    "HookNameForShow": "",
+    "ExtraParam": [
+      "0"
+    ],
+    "ExtraParamDesc": "第一关",
+    "ContentDirection": "R",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_20064_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "ShowMouse": true,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 20065,
+    "ViewName": "BossRushMainView",
+    "DynamicTabName": "BossRushSelectView",
+    "Platform": "手柄",
+    "HookName": "",
+    "HookNameForShow": "",
+    "ExtraParam": [
+      "0"
+    ],
+    "ExtraParamDesc": "第一关",
+    "ContentDirection": "R",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_20065_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 20066,
+    "ViewName": "BossRushMainView",
+    "DynamicTabName": "BossRushSelectView",
+    "Platform": "移动端",
+    "HookName": "",
+    "HookNameForShow": "",
+    "ExtraParam": [
+      "0"
+    ],
+    "ExtraParamDesc": "第一关",
+    "ContentDirection": "R",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_20066_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 20067,
+    "ViewName": "BossRushMainView",
+    "DynamicTabName": "BossRushLevelDetailView",
+    "Platform": "桌面端",
+    "HookName": "0",
+    "HookNameForShow": "",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_20067_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "ShowMouse": true,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 20068,
+    "ViewName": "BossRushMainView",
+    "DynamicTabName": "BossRushLevelDetailView",
+    "Platform": "手柄",
+    "HookName": "0",
+    "HookNameForShow": "",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_20068_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 20069,
+    "ViewName": "BossRushMainView",
+    "DynamicTabName": "BossRushLevelDetailView",
+    "Platform": "移动端",
+    "HookName": "0",
+    "HookNameForShow": "",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_20069_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 20070,
+    "ViewName": "BossRushMainView",
+    "DynamicTabName": "BossRushLevelDetailView",
+    "Platform": "桌面端",
+    "HookName": "1",
+    "HookNameForShow": "",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "D",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_20073_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "ShowMouse": true,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 20071,
+    "ViewName": "BossRushMainView",
+    "DynamicTabName": "BossRushLevelDetailView",
+    "Platform": "手柄",
+    "HookName": "1",
+    "HookNameForShow": "",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "D",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_20074_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 20072,
+    "ViewName": "BossRushMainView",
+    "DynamicTabName": "BossRushLevelDetailView",
+    "Platform": "移动端",
+    "HookName": "1",
+    "HookNameForShow": "",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "D",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_20075_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 20073,
+    "ViewName": "BossRushMainView",
+    "DynamicTabName": "BossRushLevelDetailView",
+    "Platform": "桌面端",
+    "HookName": "2",
+    "HookNameForShow": "",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "D",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_20073_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "ShowMouse": true,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 20074,
+    "ViewName": "BossRushMainView",
+    "DynamicTabName": "BossRushLevelDetailView",
+    "Platform": "手柄",
+    "HookName": "2",
+    "HookNameForShow": "",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "D",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_20074_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 20075,
+    "ViewName": "BossRushMainView",
+    "DynamicTabName": "BossRushLevelDetailView",
+    "Platform": "移动端",
+    "HookName": "2",
+    "HookNameForShow": "",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "D",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_20075_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 584,
+    "ViewName": "RoleRootView",
+    "DynamicTabName": "",
+    "Platform": "全平台",
+    "HookName": "",
+    "HookNameForShow": "",
+    "ExtraParam": [
+      "slot",
+      "0"
+    ],
+    "ExtraParamDesc": "一号位",
+    "ContentDirection": "L",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_584_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "ShowMouse": true,
+    "UseMask": false,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 585,
+    "ViewName": "RoleRootView",
+    "DynamicTabName": "",
+    "Platform": "全平台",
+    "HookName": "",
+    "HookNameForShow": "",
+    "ExtraParam": [
+      "slot",
+      "1"
+    ],
+    "ExtraParamDesc": "二号位",
+    "ContentDirection": "L",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_585_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "ShowMouse": true,
+    "UseMask": false,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 586,
+    "ViewName": "RoleRootView",
+    "DynamicTabName": "",
+    "Platform": "全平台",
+    "HookName": "",
+    "HookNameForShow": "",
+    "ExtraParam": [
+      "slot",
+      "2"
+    ],
+    "ExtraParamDesc": "三号位",
+    "ContentDirection": "L",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_586_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "ShowMouse": true,
+    "UseMask": false,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 20058,
+    "ViewName": "BattleView",
+    "DynamicTabName": "",
+    "Platform": "桌面端",
+    "HookName": "rogue评分",
+    "HookNameForShow": "",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "D",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_20058_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "ShowMouse": false,
+    "UseMask": false,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 20059,
+    "ViewName": "BattleView",
+    "DynamicTabName": "",
+    "Platform": "手柄",
+    "HookName": "rogue评分",
+    "HookNameForShow": "",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "D",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_20059_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "ShowMouse": false,
+    "UseMask": false,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 20060,
+    "ViewName": "BattleView",
+    "DynamicTabName": "",
+    "Platform": "移动端",
+    "HookName": "rogue评分",
+    "HookNameForShow": "",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "D",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_20060_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [],
+    "ShowMouse": false,
+    "UseMask": false,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 1157,
+    "ViewName": "BattleView",
+    "DynamicTabName": "",
+    "Platform": "桌面端",
+    "HookName": "T-共鸣技能",
+    "HookNameForShow": "T-共鸣技能",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_1157_Content",
+    "Button": [
+      "UI左键点击"
+    ],
+    "InputEnums": [
+      "UI左键点击"
+    ],
+    "LimitInputEnums": [
+      "UI左键点击",
+      "显示鼠标"
+    ],
+    "ShowMouse": true,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 1158,
+    "ViewName": "BattleView",
+    "DynamicTabName": "",
+    "Platform": "移动端",
+    "HookName": "T-共鸣技能",
+    "HookNameForShow": "T-共鸣技能",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_1158_Content",
+    "Button": [],
+    "InputEnums": [
+      "UI左键点击"
+    ],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 1159,
+    "ViewName": "BattleView",
+    "DynamicTabName": "",
+    "Platform": "主机端",
+    "HookName": "T-手柄共鸣",
+    "HookNameForShow": "V-手柄共鸣",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_1159_Content",
+    "Button": [
+      "技能1"
+    ],
+    "InputEnums": [
+      "技能1"
+    ],
+    "LimitInputEnums": [
+      "技能1"
+    ],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 1160,
+    "ViewName": "BattleView",
+    "DynamicTabName": "",
+    "Platform": "桌面端",
+    "HookName": "T-共鸣技能",
+    "HookNameForShow": "T-共鸣技能",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_1160_Content",
+    "Button": [
+      "技能1"
+    ],
+    "InputEnums": [
+      "技能1"
+    ],
+    "LimitInputEnums": [
+      "技能1"
+    ],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 1161,
+    "ViewName": "BattleView",
+    "DynamicTabName": "",
+    "Platform": "移动端",
+    "HookName": "T-共鸣技能",
+    "HookNameForShow": "T-共鸣技能",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_1161_Content",
+    "Button": [],
+    "InputEnums": [
+      "技能1"
+    ],
+    "LimitInputEnums": [
+      "技能1"
+    ],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 1162,
+    "ViewName": "BattleView",
+    "DynamicTabName": "",
+    "Platform": "主机端",
+    "HookName": "T-手柄共鸣",
+    "HookNameForShow": "V-手柄共鸣",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_1162_Content",
+    "Button": [
+      "技能1"
+    ],
+    "InputEnums": [
+      "技能1"
+    ],
+    "LimitInputEnums": [
+      "技能1"
+    ],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 1163,
+    "ViewName": "BattleView",
+    "DynamicTabName": "",
+    "Platform": "桌面端",
+    "HookName": "T-共鸣技能",
+    "HookNameForShow": "T-共鸣技能",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_1163_Content",
+    "Button": [
+      "技能1"
+    ],
+    "InputEnums": [
+      "技能1"
+    ],
+    "LimitInputEnums": [
+      "技能1"
+    ],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 1164,
+    "ViewName": "BattleView",
+    "DynamicTabName": "",
+    "Platform": "移动端",
+    "HookName": "T-共鸣技能",
+    "HookNameForShow": "T-共鸣技能",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_1164_Content",
+    "Button": [],
+    "InputEnums": [
+      "技能1"
+    ],
+    "LimitInputEnums": [
+      "技能1"
+    ],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 1165,
+    "ViewName": "BattleView",
+    "DynamicTabName": "",
+    "Platform": "主机端",
+    "HookName": "T-手柄共鸣",
+    "HookNameForShow": "V-手柄共鸣",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_1165_Content",
+    "Button": [
+      "技能1"
+    ],
+    "InputEnums": [
+      "技能1"
+    ],
+    "LimitInputEnums": [
+      "技能1"
+    ],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 1167,
+    "ViewName": "BattleView",
+    "DynamicTabName": "",
+    "Platform": "移动端",
+    "HookName": "T-普攻",
+    "HookNameForShow": "T-普攻",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_1167_Content",
+    "Button": [],
+    "InputEnums": [
+      "UI左键点击"
+    ],
+    "LimitInputEnums": [
+      "UI左键点击"
+    ],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 1168,
+    "ViewName": "BattleView",
+    "DynamicTabName": "",
+    "Platform": "主机端",
+    "HookName": "T-手柄普攻",
+    "HookNameForShow": "T-手柄普攻",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_1168_Content",
+    "Button": [
+      "攻击"
+    ],
+    "InputEnums": [
+      "攻击"
+    ],
+    "LimitInputEnums": [
+      "攻击"
+    ],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 1170,
+    "ViewName": "BattleView",
+    "DynamicTabName": "",
+    "Platform": "移动端",
+    "HookName": "T-跳跃",
+    "HookNameForShow": "V-跳跃",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_1173_Content",
+    "Button": [],
+    "InputEnums": [
+      "攻击"
+    ],
+    "LimitInputEnums": [
+      "攻击"
+    ],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 1171,
+    "ViewName": "BattleView",
+    "DynamicTabName": "",
+    "Platform": "主机端",
+    "HookName": "T-手柄跳跃",
+    "HookNameForShow": "T-手柄跳跃",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_1174_Content",
+    "Button": [
+      "攻击"
+    ],
+    "InputEnums": [
+      "攻击"
+    ],
+    "LimitInputEnums": [
+      "攻击"
+    ],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 1166,
+    "ViewName": "BattleView",
+    "DynamicTabName": "",
+    "Platform": "桌面端",
+    "HookName": "机制条",
+    "HookNameForShow": "机制条",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_1166_Content",
+    "Button": [
+      "UI左键点击"
+    ],
+    "InputEnums": [
+      "UI左键点击"
+    ],
+    "LimitInputEnums": [
+      "UI左键点击",
+      "显示鼠标"
+    ],
+    "ShowMouse": true,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 1169,
+    "ViewName": "BattleView",
+    "DynamicTabName": "",
+    "Platform": "桌面端",
+    "HookName": "机制条",
+    "HookNameForShow": "机制条",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_1172_Content",
+    "Button": [
+      "攻击"
+    ],
+    "InputEnums": [
+      "攻击"
+    ],
+    "LimitInputEnums": [
+      "攻击"
+    ],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 1172,
+    "ViewName": "BattleView",
+    "DynamicTabName": "",
+    "Platform": "桌面端",
+    "HookName": "机制条",
+    "HookNameForShow": "机制条",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_1169_Content",
+    "Button": [
+      "攻击"
+    ],
+    "InputEnums": [
+      "攻击"
+    ],
+    "LimitInputEnums": [
+      "攻击"
+    ],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 1173,
+    "ViewName": "BattleView",
+    "DynamicTabName": "",
+    "Platform": "移动端",
+    "HookName": "T-普攻",
+    "HookNameForShow": "T-普攻",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_1170_Content",
+    "Button": [],
+    "InputEnums": [
+      "攻击"
+    ],
+    "LimitInputEnums": [
+      "攻击"
+    ],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 1174,
+    "ViewName": "BattleView",
+    "DynamicTabName": "",
+    "Platform": "主机端",
+    "HookName": "T-手柄普攻",
+    "HookNameForShow": "T-手柄普攻",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_1171_Content",
+    "Button": [
+      "攻击"
+    ],
+    "InputEnums": [
+      "攻击"
+    ],
+    "LimitInputEnums": [
+      "攻击"
+    ],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 587,
+    "ViewName": "BattleView",
+    "DynamicTabName": "",
+    "Platform": "桌面端",
+    "HookName": "T-探索工具技能",
+    "HookNameForShow": "T-探索工具技能",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_587_Content",
+    "Button": [
+      "幻象1"
+    ],
+    "InputEnums": [
+      "幻象1"
+    ],
+    "LimitInputEnums": [
+      "幻象1",
+      "UI左键点击"
+    ],
+    "ShowMouse": true,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 588,
+    "ViewName": "BattleView",
+    "DynamicTabName": "",
+    "Platform": "移动端",
+    "HookName": "T-探索工具技能入口移动端",
+    "HookNameForShow": "T-探索工具技能",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_588_Content",
+    "Button": [],
+    "InputEnums": [],
+    "LimitInputEnums": [
+      "幻象1"
+    ],
+    "ShowMouse": true,
+    "UseMask": true,
     "UseClick": true,
     "ClickAnywhere": false,
     "ClickAnywhereShowTime": 0,

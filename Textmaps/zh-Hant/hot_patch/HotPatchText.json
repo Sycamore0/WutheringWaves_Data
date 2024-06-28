@@ -220,6 +220,18 @@
     "Content": "資源下載"
   },
   {
+    "Id": "PatchDownload",
+    "Content": "正在下載：{0}/{1}"
+  },
+  {
+    "Id": "PatchDownID",
+    "Content": "{0}"
+  },
+  {
+    "Id": "PatchDownSpeed",
+    "Content": "速度：{0}"
+  },
+  {
     "Id": "MobileDriverOutOfVersion",
     "Content": "檢測到手機驅動版本過舊（GL驅動版本＜378），遊戲運行中有大機率閃退。 為了保證正常遊戲體驗，建議更新手機系統或GL驅動。"
   },
@@ -238,5 +250,9 @@
   {
     "Id": "PatchClearbutton",
     "Content": "修復"
+  },
+  {
+    "Id": "MobileChipOutOfVersion",
+    "Content": "檢測到設備晶片版本過舊，遊戲運行中有較大機率會出現閃退。 為了保證正常遊戲體驗，建議更換設備。"
   }
 ]

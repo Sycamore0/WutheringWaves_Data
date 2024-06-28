@@ -802,5 +802,17 @@
     },
     "ResourcePath": "/Game/Aki/Effect/EffectGroup/UI_Scenes/DA_Fx_Group_UI_Dogmark_02.DA_Fx_Group_UI_Dogmark_02",
     "Color": 5
+  },
+  {
+    "UId": 310,
+    "IconPath": "",
+    "Interval": 8,
+    "Offset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 80
+    },
+    "ResourcePath": "",
+    "Color": 0
   }
 ]

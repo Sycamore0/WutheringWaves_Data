@@ -601,7 +601,7 @@
   },
   {
     "KeyName": "default_name_prefix",
-    "BinData": "CQAAAOa8guaziuiAhQ=="
+    "BinData": "BQAAAFJvdmVy"
   },
   {
     "KeyName": "treasurebox_reward_tag",
@@ -925,7 +925,7 @@
   },
   {
     "KeyName": "MaxWaitSuccessTime",
-    "BinData": "xAkAAA=="
+    "BinData": "iBMAAA=="
   },
   {
     "KeyName": "DailyTaskViewSettingName",
@@ -1133,7 +1133,7 @@
   },
   {
     "KeyName": "monstercapture_aliveduration",
-    "BinData": "DgEAAA=="
+    "BinData": "WAIAAA=="
   },
   {
     "KeyName": "interaction_icon_os",
@@ -1937,7 +1937,7 @@
   },
   {
     "KeyName": "LivenessTaskCount",
-    "BinData": "CAAAAA=="
+    "BinData": "CQAAAA=="
   },
   {
     "KeyName": "CommunicateViewCloseTime",
@@ -2477,7 +2477,7 @@
   },
   {
     "KeyName": "TreasureBoxDetectionMaxDistance",
-    "BinData": "ECcAAA=="
+    "BinData": "IE4AAA=="
   },
   {
     "KeyName": "PayRebateMail",
@@ -2857,7 +2857,7 @@
   },
   {
     "KeyName": "PhantomLevelUpCoinCost",
-    "BinData": "kAEAAAAAAAA="
+    "BinData": "ZAAAAAAAAAA="
   },
   {
     "KeyName": "PhantomExpReturnRatio",
@@ -2969,11 +2969,11 @@
   },
   {
     "KeyName": "FullEnergyPushTitle",
-    "BinData": "DQAAAE1haWxfNF9TZW5kZXI="
+    "BinData": "EQAAAFB1c2hfRW5lcmd5X1RpdGxl"
   },
   {
     "KeyName": "FullEnergyPushContent",
-    "BinData": "DAAAAE1haWxfNF9UaXRsZQ=="
+    "BinData": "EwAAAFB1c2hfRW5lcmd5X0NvbnRlbnQ="
   },
   {
     "KeyName": "FullEnergyPushTime",
@@ -3049,7 +3049,7 @@
   },
   {
     "KeyName": "KuroBbsLateSignDay",
-    "BinData": "IAAAAA=="
+    "BinData": "XgAAAA=="
   },
   {
     "KeyName": "AdviceContentLength",
@@ -3070,6 +3070,10 @@
   {
     "KeyName": "BattleSettlementTimeDilation",
     "BinData": "kAEAAA=="
+  },
+  {
+    "KeyName": "DropBonusInvalidItems",
+    "BinData": "AgAAAAMAAAAEAAAA"
   },
   {
     "KeyName": "PhantomRefiningCount",
@@ -3132,6 +3136,14 @@
     "BinData": "sAQAAA=="
   },
   {
+    "KeyName": "GameplayStateShowDistance",
+    "BinData": "5FcAAA=="
+  },
+  {
+    "KeyName": "GameplayStateShowMaxDistance",
+    "BinData": "kOu6AA=="
+  },
+  {
     "KeyName": "VisionFilterSpriteCost1",
     "BinData": "QgAAAC9HYW1lL0FraS9VSS9VSVJlc291cmNlcy9VaUludmVudG9yeS9JbWFnZS9UX1NvcnRDb3N0MS5UX1NvcnRDb3N0MQ=="
   },
@@ -3156,6 +3168,26 @@
     "BinData": "QfZiAg=="
   },
   {
+    "KeyName": "BlockOnIosCheckServer",
+    "BinData": "AQAAAHAAAAA="
+  },
+  {
+    "KeyName": "RolePropRequestCount",
+    "BinData": "MgAAAA=="
+  },
+  {
+    "KeyName": "LivenessExploreTargetPercent",
+    "BinData": "UAAAAA=="
+  },
+  {
+    "KeyName": "LivenessExploreAreaPercent",
+    "BinData": "UAAAAA=="
+  },
+  {
+    "KeyName": "LivenessExploreAreaCountLimit",
+    "BinData": "AwAAAA=="
+  },
+  {
     "KeyName": "GachaPoolUrlLanguage",
     "BinData": "CAAAAAAAAAABAAAAAgAAAAMAAAAFAAAABgAAAAcAAAAKAAAA"
   },
@@ -3164,7 +3196,103 @@
     "BinData": "BQAAAAAAAAAFAAAACgAAABQAAAAoAAAA"
   },
   {
+    "KeyName": "AutoLockItemList",
+    "BinData": "AQAAAI+WQAE="
+  },
+  {
+    "KeyName": "TaskUnableColor",
+    "BinData": "CAAAAEMxNTc1N0ZG"
+  },
+  {
+    "KeyName": "TaskRemindColor",
+    "BinData": "CAAAAEMxOUYzNkZG"
+  },
+  {
+    "KeyName": "TaskCountDownColor",
+    "BinData": "CAAAAEMxOUYzNkZG"
+  },
+  {
     "KeyName": "ShareGap",
     "BinData": "AwAAAA=="
+  },
+  {
+    "KeyName": "TaskUnableStripColor",
+    "BinData": "CAAAADlFNDI0MkND"
+  },
+  {
+    "KeyName": "TaskRemindStripColor",
+    "BinData": "CAAAAEMxOUYzNkIz"
+  },
+  {
+    "KeyName": "TowerSettleDelayTime",
+    "BinData": "9AEAAA=="
+  },
+  {
+    "KeyName": "FragmentMemoryNotOpenTexture",
+    "BinData": "gQAAAC9HYW1lL0FraS9VSS9VSVJlc291cmNlcy9VaUFjdGl2aXR5L0F0bGFzL0FjdGl2aXR5UHJvY2Vzc01lbW9yeS9TUF9BY3Rpdml0eVByb2Nlc3NNZW1vcnlJY29uTm9yMS5TUF9BY3Rpdml0eVByb2Nlc3NNZW1vcnlJY29uTm9yMQ=="
+  },
+  {
+    "KeyName": "FragmentMemoryNotOpenLightTexture",
+    "BinData": "hQAAAC9HYW1lL0FraS9VSS9VSVJlc291cmNlcy9VaUFjdGl2aXR5L0F0bGFzL0FjdGl2aXR5UHJvY2Vzc01lbW9yeS9TUF9BY3Rpdml0eVByb2Nlc3NNZW1vcnlJY29uTGlnaHQxLlNQX0FjdGl2aXR5UHJvY2Vzc01lbW9yeUljb25MaWdodDE="
+  },
+  {
+    "KeyName": "BattleScoreDecayNotBattle",
+    "BinData": "PPb//w=="
+  },
+  {
+    "KeyName": "PlotAutoScrollDelayCharNum",
+    "BinData": "PAAAAA=="
+  },
+  {
+    "KeyName": "TwitchDropMail",
+    "BinData": "8boEAA=="
+  },
+  {
+    "KeyName": "TurntableActivitytRotateLoopTime",
+    "BinData": "9AEAAA=="
+  },
+  {
+    "KeyName": "PioneerFlag",
+    "BinData": "AA=="
+  },
+  {
+    "KeyName": "PassiveSkillCdThreshold",
+    "BinData": "3AUAAA=="
+  },
+  {
+    "KeyName": "CommonEnemyHeadStateHpColor",
+    "BinData": "BgAAAGNmNGIzYw=="
+  },
+  {
+    "KeyName": "MonthCardRedDotRefreshTime",
+    "BinData": "AQAAAA=="
+  },
+  {
+    "KeyName": "CalabashFixLevelExp",
+    "BinData": "ZAAAAA=="
+  },
+  {
+    "KeyName": "CalabashFixLevelExpItem",
+    "BinData": "AQAAAA=="
+  },
+  {
+    "KeyName": "CalabashFixLevelExpMail",
+    "BinData": "Qw0DAA=="
+  },
+  {
+    "KeyName": "WeaponLevelUpCoinCost",
+    "BinData": "kAEAAAAAAAA="
+  },
+  {
+    "KeyName": "TowerRecordTeamCount",
+    "BinData": "AwAAAA=="
+  },
+  {
+    "KeyName": "TowerRecordMinLevel",
+    "BinData": "KAAAAA=="
+  },
+  {
+    "KeyName": "TowerRecordMaxLevel",
+    "BinData": "KAAAAA=="
   }
 ]

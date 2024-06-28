@@ -8,7 +8,9 @@
     "TitleSymbolColor": "ed6a41",
     "CaptionTitle": "",
     "CaptionTitleSpritePath": "",
-    "CostItemList": [80100000],
+    "CostItemList": [
+      80100000
+    ],
     "IsHelpButtonVisible": false,
     "HelpGroupId": 0
   }

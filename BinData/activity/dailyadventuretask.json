@@ -9,7 +9,10 @@
         "Value": 10
       }
     ],
-    "TaskFunc": ["2", "5001"]
+    "TaskFunc": [
+      "2",
+      "5001"
+    ]
   },
   {
     "TaskId": 1002,
@@ -21,7 +24,9 @@
         "Value": 10
       }
     ],
-    "TaskFunc": ["1"]
+    "TaskFunc": [
+      "1"
+    ]
   },
   {
     "TaskId": 1003,
@@ -33,7 +38,9 @@
         "Value": 10
       }
     ],
-    "TaskFunc": ["1"]
+    "TaskFunc": [
+      "1"
+    ]
   },
   {
     "TaskId": 1004,
@@ -45,7 +52,10 @@
         "Value": 10
       }
     ],
-    "TaskFunc": ["2", "5021"]
+    "TaskFunc": [
+      "2",
+      "5021"
+    ]
   },
   {
     "TaskId": 1005,
@@ -57,7 +67,10 @@
         "Value": 10
       }
     ],
-    "TaskFunc": ["2", "380000"]
+    "TaskFunc": [
+      "2",
+      "380000"
+    ]
   },
   {
     "TaskId": 1006,
@@ -69,7 +82,9 @@
         "Value": 10
       }
     ],
-    "TaskFunc": ["1"]
+    "TaskFunc": [
+      "1"
+    ]
   },
   {
     "TaskId": 1007,
@@ -81,7 +96,9 @@
         "Value": 10
       }
     ],
-    "TaskFunc": ["1"]
+    "TaskFunc": [
+      "1"
+    ]
   },
   {
     "TaskId": 1008,
@@ -93,7 +110,9 @@
         "Value": 10
       }
     ],
-    "TaskFunc": ["1"]
+    "TaskFunc": [
+      "1"
+    ]
   },
   {
     "TaskId": 1009,
@@ -105,7 +124,9 @@
         "Value": 10
       }
     ],
-    "TaskFunc": ["1"]
+    "TaskFunc": [
+      "1"
+    ]
   },
   {
     "TaskId": 1010,
@@ -117,7 +138,9 @@
         "Value": 10
       }
     ],
-    "TaskFunc": ["1"]
+    "TaskFunc": [
+      "1"
+    ]
   },
   {
     "TaskId": 1011,
@@ -129,7 +152,10 @@
         "Value": 10
       }
     ],
-    "TaskFunc": ["3", "RolePhantomTabView"]
+    "TaskFunc": [
+      "3",
+      "RolePhantomTabView"
+    ]
   },
   {
     "TaskId": 1012,
@@ -141,7 +167,10 @@
         "Value": 10
       }
     ],
-    "TaskFunc": ["3", "RolePhantomTabView"]
+    "TaskFunc": [
+      "3",
+      "RolePhantomTabView"
+    ]
   },
   {
     "TaskId": 1013,
@@ -153,7 +182,10 @@
         "Value": 10
       }
     ],
-    "TaskFunc": ["3", "RoleAttributeTabView"]
+    "TaskFunc": [
+      "3",
+      "RoleAttributeTabView"
+    ]
   },
   {
     "TaskId": 1014,
@@ -165,6 +197,9 @@
         "Value": 10
       }
     ],
-    "TaskFunc": ["3", "RoleWeaponTabView"]
+    "TaskFunc": [
+      "3",
+      "RoleWeaponTabView"
+    ]
   }
 ]

@@ -93,7 +93,7 @@
   },
   {
     "Id": "SplashHealthyGamingAdvisory",
-    "Content": "Rejetez les jeux piratés. Protégez-vous contre les arnaques.\nProfitez des sessions et organisez votre temps de manière raisonnable.\nNous vous souhaitons bonheur et santé."
+    "Content": "Dites non aux contenus de jeux inappropriés ou piratés.\nGardez vos informations personnelles privées pour éviter les escroqueries.\nJouez de manière responsable pour une expérience de jeu sûre et amusante.\nOrganisez votre temps de façon raisonnable pour un mode de vie sain."
   },
   {
     "Id": "SplashCopyrightInformation",
@@ -205,7 +205,7 @@
   },
   {
     "Id": "NewVersionDetailDownloadGetReward",
-    "Content": "On a une nouvelle version. Téléchargez la dernière version du jeu s'il vous plaît. Connectez-vous après la mise à jour pour obtenir les récompenses : <color=highlight>300 Astrites + 2 Solutions cristallines</color>."
+    "Content": "On a une nouvelle version. Téléchargez la dernière version du jeu s'il vous plaît. Connectez-vous après la mise à jour pour obtenir les récompenses : <color=c49e55ff>300 Astrites + 2 Solutions cristallines</color>."
   },
   {
     "Id": "ConfirmText",
@@ -218,6 +218,18 @@
   {
     "Id": "DownloadTitle",
     "Content": "Télécharger les ressources"
+  },
+  {
+    "Id": "PatchDownload",
+    "Content": "Téléchargement en cours : {0}/{1}"
+  },
+  {
+    "Id": "PatchDownID",
+    "Content": "{0}"
+  },
+  {
+    "Id": "PatchDownSpeed",
+    "Content": "Vitesse : {0}"
   },
   {
     "Id": "MobileDriverOutOfVersion",
@@ -238,5 +250,9 @@
   {
     "Id": "PatchClearbutton",
     "Content": "Réparer"
+  },
+  {
+    "Id": "MobileChipOutOfVersion",
+    "Content": "Il est détecté que la version de la puce de l'appareil est trop ancienne et il est très possible que le jeu plante. Pour une expérience de jeu normale, nous vous recommandons à utiliser un autre appareil."
   }
 ]

@@ -265,8 +265,13 @@
     "Name": 78,
     "OccupationData": {
       "Type": "SilentArea",
-      "LevelPlayIds": [30000015],
-      "AssociatedEntities": [30000219, 30000217]
+      "LevelPlayIds": [
+        30000015
+      ],
+      "AssociatedEntities": [
+        30000219,
+        30000217
+      ]
     }
   },
   {
@@ -276,8 +281,14 @@
     "Name": 80,
     "OccupationData": {
       "Type": "SilentArea",
-      "LevelPlayIds": [30000015],
-      "AssociatedEntities": [30000219, 30000217, 30000223]
+      "LevelPlayIds": [
+        30000015
+      ],
+      "AssociatedEntities": [
+        30000219,
+        30000217,
+        30000223
+      ]
     }
   },
   {
@@ -301,8 +312,13 @@
     "Name": 86,
     "OccupationData": {
       "Type": "SilentArea",
-      "LevelPlayIds": [110000000],
-      "AssociatedEntities": [110000595, 110001071]
+      "LevelPlayIds": [
+        110000000
+      ],
+      "AssociatedEntities": [
+        110000595,
+        110001071
+      ]
     }
   },
   {
@@ -326,7 +342,9 @@
     "Name": 92,
     "OccupationData": {
       "Type": "SilentArea",
-      "LevelPlayIds": [110000001],
+      "LevelPlayIds": [
+        110000001
+      ],
       "AssociatedEntities": []
     }
   },
@@ -337,7 +355,9 @@
     "Name": 94,
     "OccupationData": {
       "Type": "SilentArea",
-      "LevelPlayIds": [110000050],
+      "LevelPlayIds": [
+        110000050
+      ],
       "AssociatedEntities": []
     }
   },
@@ -348,7 +368,9 @@
     "Name": 96,
     "OccupationData": {
       "Type": "SilentArea",
-      "LevelPlayIds": [118000128],
+      "LevelPlayIds": [
+        118000128
+      ],
       "AssociatedEntities": []
     }
   },
@@ -359,8 +381,13 @@
     "Name": 98,
     "OccupationData": {
       "Type": "SilentArea",
-      "LevelPlayIds": [110000046],
-      "AssociatedEntities": [146000109, 129000008]
+      "LevelPlayIds": [
+        110000046
+      ],
+      "AssociatedEntities": [
+        146000109,
+        129000008
+      ]
     }
   },
   {
@@ -405,8 +432,13 @@
     "Name": 110,
     "OccupationData": {
       "Type": "SilentArea",
-      "LevelPlayIds": [110000002],
-      "AssociatedEntities": [110001073, 129000002, 110000092]
+      "LevelPlayIds": [
+        110000002
+      ],
+      "AssociatedEntities": [
+        110001073,
+        110000092
+      ]
     }
   },
   {
@@ -423,8 +455,14 @@
     "Name": 114,
     "OccupationData": {
       "Type": "SilentArea",
-      "LevelPlayIds": [34000038],
-      "AssociatedEntities": [34000885, 34000883, 34000886]
+      "LevelPlayIds": [
+        34000038
+      ],
+      "AssociatedEntities": [
+        34000885,
+        34000883,
+        34000886
+      ]
     }
   },
   {
@@ -441,8 +479,13 @@
     "Name": 118,
     "OccupationData": {
       "Type": "SilentArea",
-      "LevelPlayIds": [200000023],
-      "AssociatedEntities": [200000001, 200000187]
+      "LevelPlayIds": [
+        200000023
+      ],
+      "AssociatedEntities": [
+        200000001,
+        200000187
+      ]
     }
   },
   {
@@ -452,8 +495,14 @@
     "Name": 120,
     "OccupationData": {
       "Type": "SilentArea",
-      "LevelPlayIds": [133000002],
-      "AssociatedEntities": [133000087, 133000089, 133000090]
+      "LevelPlayIds": [
+        133000002
+      ],
+      "AssociatedEntities": [
+        133000087,
+        133000089,
+        133000090
+      ]
     }
   },
   {
@@ -468,6 +517,20 @@
     "OccupationType": "Npc",
     "NameStringKey": 121,
     "Name": 122,
+    "OccupationData": ""
+  },
+  {
+    "Id": "changli",
+    "OccupationType": "Npc",
+    "NameStringKey": 123,
+    "Name": 124,
+    "OccupationData": ""
+  },
+  {
+    "Id": "xinyi",
+    "OccupationType": "Npc",
+    "NameStringKey": 125,
+    "Name": 126,
     "OccupationData": ""
   }
 ]

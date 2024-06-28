@@ -3,7 +3,10 @@
     "Type": "KillMonster",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0, 1],
+    "RegisterPlaces": [
+      0,
+      1
+    ],
     "Param1": [
       {
         "Key": "Tag",
@@ -46,7 +49,9 @@
     "Type": "QuestStepState",
     "IsClientTrigger": true,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "QuestID",
@@ -99,7 +104,9 @@
     "Type": "SceneStepState",
     "IsClientTrigger": true,
     "SubType": 1,
-    "RegisterPlaces": [1],
+    "RegisterPlaces": [
+      1
+    ],
     "Param1": [
       {
         "Key": "StepGroupId",
@@ -152,7 +159,9 @@
     "Type": "QuestState",
     "IsClientTrigger": true,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "QuestID",
@@ -200,7 +209,9 @@
     "Type": "DragonPoolState",
     "IsClientTrigger": false,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "DragonPoolId",
@@ -248,7 +259,10 @@
     "Type": "TargetTagCheck",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0, 1],
+    "RegisterPlaces": [
+      0,
+      1
+    ],
     "Param1": [
       {
         "Key": "CreatureGen",
@@ -311,7 +325,10 @@
     "Type": "SelfTagCheck",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0, 1],
+    "RegisterPlaces": [
+      0,
+      1
+    ],
     "Param1": [
       {
         "Key": "Tag",
@@ -354,7 +371,9 @@
     "Type": "ItemCheck",
     "IsClientTrigger": false,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "ItemID",
@@ -397,7 +416,10 @@
     "Type": "GetItem",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0, 1],
+    "RegisterPlaces": [
+      0,
+      1
+    ],
     "Param1": [
       {
         "Key": "ItemID",
@@ -450,7 +472,10 @@
     "Type": "CostItem",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0, 1],
+    "RegisterPlaces": [
+      0,
+      1
+    ],
     "Param1": [
       {
         "Key": "ItemID",
@@ -498,7 +523,10 @@
     "Type": "DistanceLess",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0, 1],
+    "RegisterPlaces": [
+      0,
+      1
+    ],
     "Param1": [
       {
         "Key": "Distance",
@@ -551,7 +579,10 @@
     "Type": "CheckDis",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0, 1],
+    "RegisterPlaces": [
+      0,
+      1
+    ],
     "Param1": [
       {
         "Key": "Distance",
@@ -599,7 +630,10 @@
     "Type": "CheckDirection",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0, 1],
+    "RegisterPlaces": [
+      0,
+      1
+    ],
     "Param1": [
       {
         "Key": "Dir",
@@ -647,7 +681,10 @@
     "Type": "CheckOnTrap",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0, 1],
+    "RegisterPlaces": [
+      0,
+      1
+    ],
     "Param1": [
       {
         "Key": "TrapState",
@@ -690,7 +727,10 @@
     "Type": "CheckStrikeInfo",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0, 1],
+    "RegisterPlaces": [
+      0,
+      1
+    ],
     "Param1": [
       {
         "Key": "Striker",
@@ -748,7 +788,9 @@
     "Type": "RoleLevel",
     "IsClientTrigger": false,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Level",
@@ -796,7 +838,9 @@
     "Type": "RoleBreach",
     "IsClientTrigger": false,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Breach",
@@ -844,7 +888,9 @@
     "Type": "RoleResonance",
     "IsClientTrigger": false,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "GroupIndex",
@@ -892,7 +938,9 @@
     "Type": "CheckLevel",
     "IsClientTrigger": false,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Level",
@@ -935,7 +983,9 @@
     "Type": "CheckShop",
     "IsClientTrigger": false,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "ShopId",
@@ -983,7 +1033,9 @@
     "Type": "CheckGuideStatus",
     "IsClientTrigger": true,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "GuideGroupId",
@@ -1031,7 +1083,9 @@
     "Type": "CheckTeleportStatus",
     "IsClientTrigger": false,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "TeleportId",
@@ -1079,7 +1133,10 @@
     "Type": "TriggerTeleport",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0, 1],
+    "RegisterPlaces": [
+      0,
+      1
+    ],
     "Param1": [
       {
         "Key": "TeleportId",
@@ -1122,7 +1179,10 @@
     "Type": "UseVisionSkill",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0, 1],
+    "RegisterPlaces": [
+      0,
+      1
+    ],
     "Param1": [
       {
         "Key": "PhantomSkillId",
@@ -1165,7 +1225,10 @@
     "Type": "UseSkill",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0, 1],
+    "RegisterPlaces": [
+      0,
+      1
+    ],
     "Param1": [
       {
         "Key": "SkillId",
@@ -1208,7 +1271,9 @@
     "Type": "SelfGameplayTagCheck",
     "IsClientTrigger": true,
     "SubType": 1,
-    "RegisterPlaces": [1],
+    "RegisterPlaces": [
+      1
+    ],
     "Param1": [
       {
         "Key": "GamePlayTag",
@@ -1251,7 +1316,10 @@
     "Type": "TriggerInterative",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0, 1],
+    "RegisterPlaces": [
+      0,
+      1
+    ],
     "Param1": [
       {
         "Key": "InterativeId",
@@ -1299,7 +1367,9 @@
     "Type": "CalabashLevel",
     "IsClientTrigger": false,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Level",
@@ -1342,7 +1412,9 @@
     "Type": "CheckEntityCommonTag",
     "IsClientTrigger": true,
     "SubType": 1,
-    "RegisterPlaces": [1],
+    "RegisterPlaces": [
+      1
+    ],
     "Param1": [
       {
         "Key": "CreatureGen",
@@ -1395,7 +1467,9 @@
     "Type": "CheckInTodTimeSpan",
     "IsClientTrigger": true,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "StartMinute",
@@ -1443,7 +1517,9 @@
     "Type": "CheckOriginWorldLevel",
     "IsClientTrigger": false,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Level",
@@ -1486,7 +1562,9 @@
     "Type": "CheckCurWorldLevel",
     "IsClientTrigger": false,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Level",
@@ -1529,7 +1607,9 @@
     "Type": "CheckInstanceEntranceUnlockStatus",
     "IsClientTrigger": false,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "EntranceId",
@@ -1577,7 +1657,9 @@
     "Type": "CheckGearComplete",
     "IsClientTrigger": true,
     "SubType": 1,
-    "RegisterPlaces": [1],
+    "RegisterPlaces": [
+      1
+    ],
     "Param1": [
       {
         "Key": "GroupId",
@@ -1620,7 +1702,9 @@
     "Type": "TargetGearComplete",
     "IsClientTrigger": true,
     "SubType": 1,
-    "RegisterPlaces": [1],
+    "RegisterPlaces": [
+      1
+    ],
     "Param1": [
       {
         "Key": "GroupId",
@@ -1663,7 +1747,9 @@
     "Type": "LanternCatComplete",
     "IsClientTrigger": true,
     "SubType": 1,
-    "RegisterPlaces": [1],
+    "RegisterPlaces": [
+      1
+    ],
     "Param1": [
       {
         "Key": "GroupId",
@@ -1706,7 +1792,9 @@
     "Type": "CheckSelfEntityCommonTag",
     "IsClientTrigger": true,
     "SubType": 1,
-    "RegisterPlaces": [1],
+    "RegisterPlaces": [
+      1
+    ],
     "Param1": [
       {
         "Key": "EntityCommonTag",
@@ -1749,7 +1837,9 @@
     "Type": "CheckVisionSkill",
     "IsClientTrigger": true,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "PhantomSkillId",
@@ -1792,7 +1882,9 @@
     "Type": "IsPlayer",
     "IsClientTrigger": true,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "IsPlayer",
@@ -1835,7 +1927,10 @@
     "Type": "GetInstanceScore",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0, 1],
+    "RegisterPlaces": [
+      0,
+      1
+    ],
     "Param1": [],
     "DefaultParam1": "",
     "Param2": [],
@@ -1873,7 +1968,10 @@
     "Type": "StartShootTarget",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0, 1],
+    "RegisterPlaces": [
+      0,
+      1
+    ],
     "Param1": [],
     "DefaultParam1": "",
     "Param2": [],
@@ -1911,7 +2009,9 @@
     "Type": "MoveStateCheck",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Glide",
@@ -1964,7 +2064,9 @@
     "Type": "ControlGroupComplete",
     "IsClientTrigger": true,
     "SubType": 1,
-    "RegisterPlaces": [1],
+    "RegisterPlaces": [
+      1
+    ],
     "Param1": [
       {
         "Key": "GroupId",
@@ -2007,7 +2109,9 @@
     "Type": "CheckInstanceState",
     "IsClientTrigger": false,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "InstanceId",
@@ -2055,7 +2159,9 @@
     "Type": "CheckGamePlayTimer",
     "IsClientTrigger": true,
     "SubType": 1,
-    "RegisterPlaces": [1],
+    "RegisterPlaces": [
+      1
+    ],
     "Param1": [
       {
         "Key": "TimerId",
@@ -2103,7 +2209,9 @@
     "Type": "SceneGamePlayStatus",
     "IsClientTrigger": true,
     "SubType": 1,
-    "RegisterPlaces": [1],
+    "RegisterPlaces": [
+      1
+    ],
     "Param1": [
       {
         "Key": "GamePlayId",
@@ -2151,7 +2259,10 @@
     "Type": "SceneGamePlayFinishCount",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0, 1],
+    "RegisterPlaces": [
+      0,
+      1
+    ],
     "Param1": [
       {
         "Key": "GamePlayId",
@@ -2194,7 +2305,10 @@
     "Type": "SceneGamePlayStatusPerson",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0, 1],
+    "RegisterPlaces": [
+      0,
+      1
+    ],
     "Param1": [
       {
         "Key": "GamePlayId",
@@ -2242,7 +2356,9 @@
     "Type": "LevelConditionCheckBuff",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [1],
+    "RegisterPlaces": [
+      1
+    ],
     "Param1": [
       {
         "Key": "PbDataId",
@@ -2295,7 +2411,10 @@
     "Type": "CheckCurInstanceId",
     "IsClientTrigger": true,
     "SubType": 1,
-    "RegisterPlaces": [0, 1],
+    "RegisterPlaces": [
+      0,
+      1
+    ],
     "Param1": [
       {
         "Key": "InstanceId",
@@ -2338,7 +2457,10 @@
     "Type": "CheckCreatureTag",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0, 1],
+    "RegisterPlaces": [
+      0,
+      1
+    ],
     "Param1": [
       {
         "Key": "CreatureGen",
@@ -2391,7 +2513,10 @@
     "Type": "CheckCharacterTag",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0, 1],
+    "RegisterPlaces": [
+      0,
+      1
+    ],
     "Param1": [
       {
         "Key": "Tag",
@@ -2434,7 +2559,10 @@
     "Type": "SneakFinish",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0, 1],
+    "RegisterPlaces": [
+      0,
+      1
+    ],
     "Param1": [
       {
         "Key": "SneakId",
@@ -2482,7 +2610,9 @@
     "Type": "CheckEntityDurability",
     "IsClientTrigger": true,
     "SubType": 1,
-    "RegisterPlaces": [1],
+    "RegisterPlaces": [
+      1
+    ],
     "Param1": [
       {
         "Key": "CreatureGen",
@@ -2530,7 +2660,9 @@
     "Type": "CheckUIState",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "UIName",
@@ -2578,7 +2710,9 @@
     "Type": "CheckInputAction",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Action",
@@ -2626,7 +2760,9 @@
     "Type": "CheckBattleRole",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "RoleId",
@@ -2674,7 +2810,9 @@
     "Type": "CheckClientUseSkill",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "SkillId",
@@ -2717,7 +2855,9 @@
     "Type": "CheckClientUseVisionSkill",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "PhantomSkillId",
@@ -2760,7 +2900,9 @@
     "Type": "RoleFavorLevel",
     "IsClientTrigger": false,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Level",
@@ -2808,7 +2950,9 @@
     "Type": "FunctionUnlock",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "FunctionId",
@@ -2851,7 +2995,9 @@
     "Type": "GetNewItem",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "ItemId",
@@ -2894,7 +3040,9 @@
     "Type": "HarmonyQte",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "ElementType",
@@ -2937,7 +3085,9 @@
     "Type": "GetWhichRole",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "RoleCount",
@@ -2980,7 +3130,9 @@
     "Type": "HpLowerThan",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Hp",
@@ -3023,7 +3175,9 @@
     "Type": "SlotOfCurrentRole",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Slot",
@@ -3066,7 +3220,9 @@
     "Type": "FightWithMonster",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "MonsterId",
@@ -3109,7 +3265,9 @@
     "Type": "PawnInRange",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "PawnId",
@@ -3157,7 +3315,9 @@
     "Type": "GetSelfRoleSKillPoints",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "SkillPoint",
@@ -3200,7 +3360,9 @@
     "Type": "DailyQuestCompleteTimes",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "DQId",
@@ -3248,7 +3410,9 @@
     "Type": "VarDefineInt",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "VDName",
@@ -3296,7 +3460,9 @@
     "Type": "VarDefineString",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "VDName",
@@ -3344,7 +3510,9 @@
     "Type": "NewQuestStepState",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "NewQuestId",
@@ -3397,7 +3565,9 @@
     "Type": "CheckDrop",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "DropId",
@@ -3440,7 +3610,9 @@
     "Type": "PhantomTargetLevel",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "ItemId",
@@ -3488,7 +3660,9 @@
     "Type": "CheckEnemyBuff",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "BuffId",
@@ -3531,7 +3705,9 @@
     "Type": "CheckSkillPoint",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "技能点数",
@@ -3574,7 +3750,9 @@
     "Type": "CheckEquippedPhantom",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "声骸位置",
@@ -3622,7 +3800,9 @@
     "Type": "CheckExploreSkill",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "探索技能Id",
@@ -3665,7 +3845,9 @@
     "Type": "CheckFightEnergyBar",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "机制条状态",
@@ -3708,7 +3890,9 @@
     "Type": "CheckFightEnergyBall",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "能量球状态",
@@ -3751,7 +3935,9 @@
     "Type": "CheckClientQuest",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "任务Id",
@@ -3804,7 +3990,9 @@
     "Type": "NewQuestState",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "NewQuestId",
@@ -3852,7 +4040,9 @@
     "Type": "SomeQuestComplete",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "QuestType",
@@ -3895,7 +4085,9 @@
     "Type": "SomeMonsterKill",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "MonsterType",
@@ -3943,7 +4135,9 @@
     "Type": "SomeInstanceComplete",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [],
     "DefaultParam1": "",
     "Param2": [],
@@ -3981,7 +4175,9 @@
     "Type": "TakeSceneItem",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "AreaId",
@@ -4029,7 +4225,9 @@
     "Type": "ServerCheckGuideStatus",
     "IsClientTrigger": false,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "GuideGroupId",
@@ -4077,7 +4275,9 @@
     "Type": "PhantomMaxLevel",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [],
     "DefaultParam1": "",
     "Param2": [],
@@ -4115,7 +4315,9 @@
     "Type": "RoleTargetLevel",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Level",
@@ -4158,7 +4360,9 @@
     "Type": "RoleSkillTargetLevel",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Level",
@@ -4201,7 +4405,9 @@
     "Type": "CheckEnemyTag",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Tag",
@@ -4244,7 +4450,9 @@
     "Type": "CapturePhantom",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Quality",
@@ -4297,7 +4505,9 @@
     "Type": "DailyQuestGroupCompleteTimes",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "DQGroupId",
@@ -4345,7 +4555,9 @@
     "Type": "LevelPlayComplete",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "LevelPlayId",
@@ -4388,7 +4600,9 @@
     "Type": "EntityDie",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "EntityConfigId",
@@ -4410,8 +4624,13 @@
       }
     ],
     "DefaultParam3": "-1",
-    "Param4": [],
-    "DefaultParam4": "",
+    "Param4": [
+      {
+        "Key": "Online",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam4": "0",
     "Param5": [],
     "DefaultParam5": "",
     "Param6": [],
@@ -4441,7 +4660,9 @@
     "Type": "EntityInteract",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "BpEntityType",
@@ -4470,8 +4691,13 @@
       }
     ],
     "DefaultParam4": "-1",
-    "Param5": [],
-    "DefaultParam5": "",
+    "Param5": [
+      {
+        "Key": "Online",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam5": "0",
     "Param6": [],
     "DefaultParam6": "",
     "Param7": [],
@@ -4499,7 +4725,9 @@
     "Type": "Record",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "RecordId",
@@ -4542,7 +4770,9 @@
     "Type": "StrengthenPhantomMax",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Quality",
@@ -4585,7 +4815,9 @@
     "Type": "FinishInst",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "SubType",
@@ -4633,7 +4865,9 @@
     "Type": "FirstRoleBreakthrough",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Level",
@@ -4676,7 +4910,9 @@
     "Type": "FirstGetRole",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "ElementId",
@@ -4719,7 +4955,9 @@
     "Type": "EntityStateByBpType",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "BpType",
@@ -4782,7 +5020,9 @@
     "Type": "EntityStateById",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "EntityConfigId",
@@ -4818,8 +5058,13 @@
       }
     ],
     "DefaultParam5": "-1",
-    "Param6": [],
-    "DefaultParam6": "",
+    "Param6": [
+      {
+        "Key": "Online",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam6": "0",
     "Param7": [],
     "DefaultParam7": "",
     "Param8": [],
@@ -4845,7 +5090,9 @@
     "Type": "BattleRoleIsNot",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "RoleId",
@@ -4888,7 +5135,9 @@
     "Type": "BattleRoleWeaponType",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "WeaponType",
@@ -4931,7 +5180,9 @@
     "Type": "CheckLevelOp",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Level",
@@ -4979,7 +5230,9 @@
     "Type": "CheckCurWorldLevelOp",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Level",
@@ -5027,7 +5280,9 @@
     "Type": "CheckFormationAnyRoleDead",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [],
     "DefaultParam1": "HelloWorld",
     "Param2": [],
@@ -5065,7 +5320,9 @@
     "Type": "EntityInteractById",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "EntityConfigId",
@@ -5094,8 +5351,13 @@
       }
     ],
     "DefaultParam4": "-1",
-    "Param5": [],
-    "DefaultParam5": "",
+    "Param5": [
+      {
+        "Key": "Online",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam5": "0",
     "Param6": [],
     "DefaultParam6": "",
     "Param7": [],
@@ -5123,7 +5385,9 @@
     "Type": "OnDamageCalculate",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "TargetType",
@@ -5241,7 +5505,9 @@
     "Type": "OnBulletCalculate",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "TargetType",
@@ -5324,7 +5590,9 @@
     "Type": "OnDeathCalculate",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "TargetType",
@@ -5442,7 +5710,9 @@
     "Type": "OnSkillEnable",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "TargetType",
@@ -5505,7 +5775,9 @@
     "Type": "ComboTeachingState",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [],
     "DefaultParam1": "",
     "Param2": [],
@@ -5543,7 +5815,9 @@
     "Type": "DailyQuestComplete",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [],
     "DefaultParam1": "",
     "Param2": [],
@@ -5581,7 +5855,9 @@
     "Type": "DailyEnterInstSubType",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "SubTypes",
@@ -5624,7 +5900,9 @@
     "Type": "TotalFinishInstTimes",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Type",
@@ -5667,7 +5945,9 @@
     "Type": "CookingCompleteTimes",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [],
     "DefaultParam1": "",
     "Param2": [],
@@ -5705,7 +5985,9 @@
     "Type": "SynthesisCompleteTimes",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [],
     "DefaultParam1": "",
     "Param2": [],
@@ -5743,7 +6025,9 @@
     "Type": "DrawCardCompleteTimes",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [],
     "DefaultParam1": "",
     "Param2": [],
@@ -5781,7 +6065,9 @@
     "Type": "OnViewClose",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "UIName",
@@ -5824,7 +6110,9 @@
     "Type": "OnPlayerUseSkill",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "SkillId",
@@ -5867,7 +6155,9 @@
     "Type": "CheckCharacterTagByEvent",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Tag",
@@ -5910,7 +6200,9 @@
     "Type": "GoodsBuyCount",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "ShopItemId",
@@ -5953,7 +6245,9 @@
     "Type": "FinishGuideStepByEvent",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Tag",
@@ -5996,7 +6290,9 @@
     "Type": "OpenLevelPlay",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "LevelPlayId",
@@ -6039,7 +6335,9 @@
     "Type": "CheckTeamRoleCouldLevelUp",
     "IsClientTrigger": true,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [],
     "DefaultParam1": "",
     "Param2": [],
@@ -6077,7 +6375,9 @@
     "Type": "CheckTeamWeaponCouldLevelUp",
     "IsClientTrigger": true,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [],
     "DefaultParam1": "",
     "Param2": [],
@@ -6115,7 +6415,9 @@
     "Type": "PlayerRevive",
     "IsClientTrigger": true,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [],
     "DefaultParam1": "",
     "Param2": [],
@@ -6153,7 +6455,10 @@
     "Type": "CheckCharacterTagNotByEvent",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0, 1],
+    "RegisterPlaces": [
+      0,
+      1
+    ],
     "Param1": [
       {
         "Key": "Tag",
@@ -6196,7 +6501,9 @@
     "Type": "TeamRoleLevel",
     "IsClientTrigger": true,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Position",
@@ -6249,7 +6556,9 @@
     "Type": "TeamWeaponLevel",
     "IsClientTrigger": true,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Position",
@@ -6302,7 +6611,9 @@
     "Type": "TeamCouldEquipPhantom",
     "IsClientTrigger": true,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [],
     "DefaultParam1": "",
     "Param2": [],
@@ -6340,7 +6651,9 @@
     "Type": "CheckAnyPhantomCouldUpdate",
     "IsClientTrigger": true,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [],
     "DefaultParam1": "",
     "Param2": [],
@@ -6378,7 +6691,9 @@
     "Type": "CheckAnyRoleFullPhantom",
     "IsClientTrigger": true,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "CheckValue",
@@ -6421,7 +6736,9 @@
     "Type": "CheckDailyCounter",
     "IsClientTrigger": false,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "CounterType",
@@ -6469,7 +6786,9 @@
     "Type": "FinishRogueInst",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "FinishInst",
@@ -6519,8 +6838,13 @@
       }
     ],
     "DefaultParam7": "-1",
-    "Param8": [],
-    "DefaultParam8": "",
+    "Param8": [
+      {
+        "Key": "MaxScoreCount",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam8": "-1",
     "Param9": [],
     "DefaultParam9": "",
     "Param10": [],
@@ -6542,7 +6866,9 @@
     "Type": "RogueAffixUnlock",
     "IsClientTrigger": false,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "RoleId",
@@ -6590,7 +6916,9 @@
     "Type": "LevelPlayReward",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "LevelPlayId",
@@ -6638,7 +6966,9 @@
     "Type": "EntityDieByType",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "BpType",
@@ -6667,8 +6997,13 @@
       }
     ],
     "DefaultParam4": "-1",
-    "Param5": [],
-    "DefaultParam5": "",
+    "Param5": [
+      {
+        "Key": "Online",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam5": "0",
     "Param6": [],
     "DefaultParam6": "",
     "Param7": [],
@@ -6696,7 +7031,9 @@
     "Type": "CheckRolePhantomNum",
     "IsClientTrigger": true,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "RoleId",
@@ -6749,7 +7086,9 @@
     "Type": "CheckItemCountByType",
     "IsClientTrigger": true,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "ItemType",
@@ -6802,7 +7141,9 @@
     "Type": "CheckRouletteEquipItemId",
     "IsClientTrigger": true,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "ItemId",
@@ -6845,7 +7186,9 @@
     "Type": "CheckVisionIntensifyTabOpen",
     "IsClientTrigger": true,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [],
     "DefaultParam1": "",
     "Param2": [],
@@ -6883,7 +7226,9 @@
     "Type": "CheckAccountSettingOpen",
     "IsClientTrigger": true,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Id",
@@ -6926,7 +7271,9 @@
     "Type": "CreateAdvice",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Count",
@@ -6969,7 +7316,9 @@
     "Type": "Detection",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Count",
@@ -7017,7 +7366,9 @@
     "Type": "Synthesis",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Count",
@@ -7065,7 +7416,9 @@
     "Type": "Photograph",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Count",
@@ -7108,7 +7461,9 @@
     "Type": "UnlockIllustrated",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Count",
@@ -7156,7 +7511,9 @@
     "Type": "UnlockEachIllustrated",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "IllustratedType",
@@ -7199,7 +7556,9 @@
     "Type": "CookGetItem",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Count",
@@ -7247,7 +7606,9 @@
     "Type": "FoodProcess",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Count",
@@ -7295,7 +7656,9 @@
     "Type": "TriggerAssistSkill",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Count",
@@ -7343,7 +7706,9 @@
     "Type": "ExplorationCompleted",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "InstanceId",
@@ -7396,7 +7761,9 @@
     "Type": "RoleSkillAllNodeMax",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "RoleId",
@@ -7439,7 +7806,9 @@
     "Type": "PhantomIdentify",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [],
     "DefaultParam1": "",
     "Param2": [],
@@ -7477,7 +7846,9 @@
     "Type": "CookingLevelUp",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [],
     "DefaultParam1": "",
     "Param2": [],
@@ -7515,7 +7886,9 @@
     "Type": "SynthesisLevelUp",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [],
     "DefaultParam1": "",
     "Param2": [],
@@ -7553,7 +7926,9 @@
     "Type": "OpenTreasureBox",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "ItemType",
@@ -7575,8 +7950,13 @@
       }
     ],
     "DefaultParam3": "",
-    "Param4": [],
-    "DefaultParam4": "",
+    "Param4": [
+      {
+        "Key": "EntityConfigId",
+        "Value": "IntArray"
+      }
+    ],
+    "DefaultParam4": "0",
     "Param5": [],
     "DefaultParam5": "",
     "Param6": [],
@@ -7606,7 +7986,9 @@
     "Type": "ActivatePhantomFettles",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Count",
@@ -7649,7 +8031,9 @@
     "Type": "CostItemBagType",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "BagType",
@@ -7692,7 +8076,9 @@
     "Type": "PassLordGymDifficulty",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Id",
@@ -7740,7 +8126,9 @@
     "Type": "LevelPlayTypeComplete",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Type",
@@ -7783,7 +8171,9 @@
     "Type": "CheckUIOpen",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "UIName",
@@ -7826,7 +8216,9 @@
     "Type": "CheckRoleLevel",
     "IsClientTrigger": true,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Level",
@@ -7879,7 +8271,9 @@
     "Type": "CheckExplorationLevel",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Id",
@@ -7922,7 +8316,9 @@
     "Type": "CheckOnTreasureBoxOpen",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [],
     "DefaultParam1": "",
     "Param2": [],
@@ -7960,7 +8356,9 @@
     "Type": "CheckWeaponCount",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Level",
@@ -8018,7 +8416,9 @@
     "Type": "CheckRangeByPbDataId",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "PbDataId",
@@ -8066,7 +8466,9 @@
     "Type": "CheckOnCostInsufficient",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [],
     "DefaultParam1": "",
     "Param2": [],
@@ -8104,7 +8506,9 @@
     "Type": "CheckDungeonId",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Id",
@@ -8147,7 +8551,9 @@
     "Type": "CheckRogueTerm",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [],
     "DefaultParam1": "",
     "Param2": [],
@@ -8182,10 +8588,77 @@
     "DefaultParam16": ""
   },
   {
+    "Type": "EntityInteractByType",
+    "IsClientTrigger": false,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [
+      {
+        "Key": "BpType",
+        "Value": "String"
+      }
+    ],
+    "DefaultParam1": "0",
+    "Param2": [
+      {
+        "Key": "EntityMainType",
+        "Value": "String"
+      }
+    ],
+    "DefaultParam2": "0",
+    "Param3": [
+      {
+        "Key": "AnimalType",
+        "Value": "String"
+      }
+    ],
+    "DefaultParam3": "0",
+    "Param4": [
+      {
+        "Key": "InstSubType",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam4": "-1",
+    "Param5": [
+      {
+        "Key": "Online",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam5": "0",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
     "Type": "ClientCalabashLevel",
     "IsClientTrigger": true,
     "SubType": 1,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Level",
@@ -8228,7 +8701,9 @@
     "Type": "CheckTeleportTypeUnlock",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "TeleportType",
@@ -8271,7 +8746,9 @@
     "Type": "CheckDungeonFinished",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "InstanceId",
@@ -8319,7 +8796,9 @@
     "Type": "CheckRogueCanUnlockSkill",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [],
     "DefaultParam1": "",
     "Param2": [],
@@ -8357,7 +8836,9 @@
     "Type": "CheckPositionRolePhantomSkillEquip",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "Pos",
@@ -8400,7 +8881,9 @@
     "Type": "CheckActivityOpen",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "ActivityId",
@@ -8448,7 +8931,9 @@
     "Type": "ParkourActivityComplete",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "ActivityId",
@@ -8491,7 +8976,9 @@
     "Type": "HarvestScore",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "ActivityId",
@@ -8534,7 +9021,9 @@
     "Type": "CheckWorldMapSecondaryUiOpened",
     "IsClientTrigger": true,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [],
     "DefaultParam1": "",
     "Param2": [],
@@ -8572,7 +9061,9 @@
     "Type": "EntityStateByBpTypeOnline",
     "IsClientTrigger": false,
     "SubType": 0,
-    "RegisterPlaces": [0],
+    "RegisterPlaces": [
+      0
+    ],
     "Param1": [
       {
         "Key": "BpType",
@@ -8608,6 +9099,1191 @@
       }
     ],
     "DefaultParam5": "-1",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "WeaponBreakthrough",
+    "IsClientTrigger": false,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [
+      {
+        "Key": "BreachLevel",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam1": "",
+    "Param2": [],
+    "DefaultParam2": "",
+    "Param3": [],
+    "DefaultParam3": "",
+    "Param4": [],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "BuffRevive",
+    "IsClientTrigger": false,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [
+      {
+        "Key": "Id",
+        "Value": "IntArray"
+      }
+    ],
+    "DefaultParam1": "",
+    "Param2": [],
+    "DefaultParam2": "",
+    "Param3": [],
+    "DefaultParam3": "",
+    "Param4": [],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "RoleFavorMax",
+    "IsClientTrigger": false,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [],
+    "DefaultParam1": "",
+    "Param2": [],
+    "DefaultParam2": "",
+    "Param3": [],
+    "DefaultParam3": "",
+    "Param4": [],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "FirstRoleFavorLevel",
+    "IsClientTrigger": false,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [
+      {
+        "Key": "Level",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam1": "",
+    "Param2": [],
+    "DefaultParam2": "",
+    "Param3": [],
+    "DefaultParam3": "",
+    "Param4": [],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "ReduceWorldLevel",
+    "IsClientTrigger": false,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [],
+    "DefaultParam1": "",
+    "Param2": [],
+    "DefaultParam2": "",
+    "Param3": [],
+    "DefaultParam3": "",
+    "Param4": [],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "FriendCountMax",
+    "IsClientTrigger": false,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [],
+    "DefaultParam1": "",
+    "Param2": [],
+    "DefaultParam2": "",
+    "Param3": [],
+    "DefaultParam3": "",
+    "Param4": [],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "AddFriends",
+    "IsClientTrigger": false,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [],
+    "DefaultParam1": "",
+    "Param2": [],
+    "DefaultParam2": "",
+    "Param3": [],
+    "DefaultParam3": "",
+    "Param4": [],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "OnlineWithFriend",
+    "IsClientTrigger": false,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [],
+    "DefaultParam1": "",
+    "Param2": [],
+    "DefaultParam2": "",
+    "Param3": [],
+    "DefaultParam3": "",
+    "Param4": [],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "OnlineKillBoss",
+    "IsClientTrigger": false,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [
+      {
+        "Key": "ModelId",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam1": "",
+    "Param2": [],
+    "DefaultParam2": "",
+    "Param3": [],
+    "DefaultParam3": "",
+    "Param4": [],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "InstACE",
+    "IsClientTrigger": false,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [
+      {
+        "Key": "InstSubType",
+        "Value": "IntArray"
+      }
+    ],
+    "DefaultParam1": "-1",
+    "Param2": [],
+    "DefaultParam2": "",
+    "Param3": [],
+    "DefaultParam3": "",
+    "Param4": [],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "TowerPerfectPass",
+    "IsClientTrigger": false,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [],
+    "DefaultParam1": "",
+    "Param2": [],
+    "DefaultParam2": "",
+    "Param3": [],
+    "DefaultParam3": "",
+    "Param4": [],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "TowerNoHarmPass",
+    "IsClientTrigger": false,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [
+      {
+        "Key": "Difficulty",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam1": "-1",
+    "Param2": [
+      {
+        "Key": "AreaId",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam2": "-1",
+    "Param3": [
+      {
+        "Key": "Floor",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam3": "-1",
+    "Param4": [],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "TowerLimitedPass",
+    "IsClientTrigger": false,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [
+      {
+        "Key": "Difficulty",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam1": "-1",
+    "Param2": [
+      {
+        "Key": "AreaId",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam2": "-1",
+    "Param3": [
+      {
+        "Key": "Floor",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam3": "-1",
+    "Param4": [
+      {
+        "Key": "Second",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "DragonPoolLevel",
+    "IsClientTrigger": false,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [
+      {
+        "Key": "Id",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam1": "",
+    "Param2": [],
+    "DefaultParam2": "",
+    "Param3": [],
+    "DefaultParam3": "",
+    "Param4": [],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "RoleAddBuff",
+    "IsClientTrigger": false,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [
+      {
+        "Key": "BuffId",
+        "Value": "Long"
+      }
+    ],
+    "DefaultParam1": "",
+    "Param2": [],
+    "DefaultParam2": "",
+    "Param3": [],
+    "DefaultParam3": "",
+    "Param4": [],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "MonsterCreatorComplete",
+    "IsClientTrigger": false,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [
+      {
+        "Key": "EntityConfigId",
+        "Value": "IntArray"
+      }
+    ],
+    "DefaultParam1": "",
+    "Param2": [],
+    "DefaultParam2": "",
+    "Param3": [],
+    "DefaultParam3": "",
+    "Param4": [],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "CheckIsMulti",
+    "IsClientTrigger": true,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [],
+    "DefaultParam1": "",
+    "Param2": [],
+    "DefaultParam2": "",
+    "Param3": [],
+    "DefaultParam3": "",
+    "Param4": [],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "CheckHasUnlockAffixInBossRush",
+    "IsClientTrigger": true,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [
+      {
+        "Key": "ActivityId",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam1": "",
+    "Param2": [],
+    "DefaultParam2": "",
+    "Param3": [],
+    "DefaultParam3": "",
+    "Param4": [],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "CheckHasFirstPhantomAtPosition",
+    "IsClientTrigger": true,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [
+      {
+        "Key": "Position",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam1": "",
+    "Param2": [
+      {
+        "Key": "Available",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam2": "",
+    "Param3": [
+      {
+        "Key": "IsFull",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam3": "",
+    "Param4": [],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "CheckLevelPlayNodeState",
+    "IsClientTrigger": false,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [
+      {
+        "Key": "LevelPlayId",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam1": "",
+    "Param2": [
+      {
+        "Key": "State",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam2": "",
+    "Param3": [
+      {
+        "Key": "NodeId",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam3": "",
+    "Param4": [],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "FinishRogueInstPopularEntrie",
+    "IsClientTrigger": false,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [
+      {
+        "Key": "Rate",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam1": "-1",
+    "Param2": [
+      {
+        "Key": "EntryCount",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam2": "-1",
+    "Param3": [
+      {
+        "Key": "DeBuffCount",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam3": "-1",
+    "Param4": [
+      {
+        "Key": "DeBuffs",
+        "Value": "IntArray"
+      }
+    ],
+    "DefaultParam4": "0",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "FinishRogueInstDiffRole",
+    "IsClientTrigger": false,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [],
+    "DefaultParam1": "",
+    "Param2": [],
+    "DefaultParam2": "",
+    "Param3": [],
+    "DefaultParam3": "",
+    "Param4": [],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "LongShanRwdCount",
+    "IsClientTrigger": false,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [
+      {
+        "Key": "Count",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam1": "",
+    "Param2": [],
+    "DefaultParam2": "",
+    "Param3": [],
+    "DefaultParam3": "",
+    "Param4": [],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "BossRushScore",
+    "IsClientTrigger": false,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [
+      {
+        "Key": "ActivityId",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam1": "",
+    "Param2": [],
+    "DefaultParam2": "",
+    "Param3": [],
+    "DefaultParam3": "",
+    "Param4": [],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "TurnTableBigRewardCount",
+    "IsClientTrigger": false,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [
+      {
+        "Key": "Count",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam1": "",
+    "Param2": [],
+    "DefaultParam2": "",
+    "Param3": [],
+    "DefaultParam3": "",
+    "Param4": [],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "OnTakingPhoto",
+    "IsClientTrigger": true,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [],
+    "DefaultParam1": "",
+    "Param2": [],
+    "DefaultParam2": "",
+    "Param3": [],
+    "DefaultParam3": "",
+    "Param4": [],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
     "Param6": [],
     "DefaultParam6": "",
     "Param7": [],

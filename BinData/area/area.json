@@ -7,7 +7,9 @@
     "AreaName": "AkiWorld",
     "Title": "Area_1_Title",
     "Father": 0,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
@@ -59,7 +61,9 @@
     "AreaName": "MapAreaVolume_YLG",
     "Title": "Area_2_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
@@ -78,7 +82,9 @@
     "AreaName": "MapAreaVolume_JZ",
     "Title": "Area_3_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
@@ -97,7 +103,9 @@
     "AreaName": "MapAreaVolume_ZQTD",
     "Title": "Area_4_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
@@ -116,7 +124,9 @@
     "AreaName": "MapAreaVolume_HSGD",
     "Title": "Area_5_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
@@ -135,7 +145,9 @@
     "AreaName": "MapAreaVolume_GXGS",
     "Title": "Area_6_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
@@ -154,7 +166,9 @@
     "AreaName": "MapAreaVolume_WGZS",
     "Title": "Area_7_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
@@ -173,7 +187,9 @@
     "AreaName": "MapAreaVolume_WMW",
     "Title": "Area_8_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
@@ -192,7 +208,9 @@
     "AreaName": "MapAreaVolume_BLY",
     "Title": "Area_9_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
@@ -211,7 +229,9 @@
     "AreaName": "MapAreaVolume_YNZ",
     "Title": "Area_10_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
@@ -230,7 +250,9 @@
     "AreaName": "MapAreaVolume_HKSM",
     "Title": "Area_12_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
@@ -242,6 +264,27 @@
     "SortIndex": 11
   },
   {
+    "AreaId": 14,
+    "Level": 2,
+    "CountryId": 1,
+    "DeliveryMarkId": 1014,
+    "AreaName": "MapAreaVolume_CXS",
+    "Title": "Area_14_Title",
+    "Father": 1,
+    "Tag": [
+      0
+    ],
+    "Record": 1,
+    "Tips": 0,
+    "IsInitActived": true,
+    "WorldMonsterLevelMax": [],
+    "WuYinQuID": 0,
+    "AtmosphereId": 0,
+    "EdgeWallName": "/Game/Aki/Data/PathLine/Pathline_EdgeWall/BP_BasePathLine_Edgewall.BP_BasePathLine_Edgewall",
+    "DeliveryMarkType": 1,
+    "SortIndex": 12
+  },
+  {
     "AreaId": 100,
     "Level": 4,
     "CountryId": 1,
@@ -249,7 +292,9 @@
     "AreaName": "TsTriggerVolume",
     "Title": "Area_100_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -268,7 +313,9 @@
     "AreaName": "TsTriggerVolume41",
     "Title": "Area_101_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
@@ -287,7 +334,9 @@
     "AreaName": "TsTriggerVolume42",
     "Title": "Area_102_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
@@ -306,7 +355,9 @@
     "AreaName": "TsTriggerVolume2",
     "Title": "Area_103_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
@@ -325,7 +376,9 @@
     "AreaName": "TsTriggerVolume6",
     "Title": "Area_107_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
@@ -344,7 +397,9 @@
     "AreaName": "TsTriggerVolume13",
     "Title": "Area_110_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
@@ -363,7 +418,9 @@
     "AreaName": "TsTriggerVolume_YLG_16",
     "Title": "Area_113_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
@@ -382,7 +439,9 @@
     "AreaName": "AirWall_MainQuest_01",
     "Title": "Area_124_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -401,7 +460,9 @@
     "AreaName": "TsTriggerVolume122",
     "Title": "Area_122_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -420,7 +481,9 @@
     "AreaName": "TsTriggerVolume199",
     "Title": "Area_199_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -439,7 +502,9 @@
     "AreaName": "MapAreaVolume_JZ_JZC",
     "Title": "Area_301_Title",
     "Father": 3,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -491,7 +556,9 @@
     "AreaName": "MapAreaVolume_JZ_YHQ",
     "Title": "Area_302_Title",
     "Father": 3,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -543,7 +610,9 @@
     "AreaName": "MapAreaVolume_JZ_PTS",
     "Title": "Area_303_Title",
     "Father": 3,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -595,7 +664,9 @@
     "AreaName": "MapAreaVolume_ZQTD_CSY",
     "Title": "Area_401_Title",
     "Father": 4,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -647,7 +718,9 @@
     "AreaName": "MapAreaVolume_ZQTD_DSP",
     "Title": "Area_402_Title",
     "Father": 4,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -699,7 +772,9 @@
     "AreaName": "MapAreaVolume_ZQTD_GBD",
     "Title": "Area_403_Title",
     "Father": 4,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -751,7 +826,9 @@
     "AreaName": "MapAreaVolume_ZQTD_QCC",
     "Title": "Area_404_Title",
     "Father": 4,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -803,7 +880,9 @@
     "AreaName": "MapAreaVolume_ZQTD_LWJ",
     "Title": "Area_405_Title",
     "Father": 4,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -855,7 +934,9 @@
     "AreaName": "MapAreaVolume_ZQTD_TYX",
     "Title": "Area_406_Title",
     "Father": 4,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -907,7 +988,9 @@
     "AreaName": "MapAreaVolume_ZQTD_XHZ",
     "Title": "Area_407_Title",
     "Father": 4,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -959,7 +1042,9 @@
     "AreaName": "MapAreaVolume_ZQTD_YBH",
     "Title": "Area_408_Title",
     "Father": 4,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -1011,7 +1096,9 @@
     "AreaName": "TriggerVolume_poisonaera02",
     "Title": "",
     "Father": 7,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
@@ -1030,7 +1117,9 @@
     "AreaName": "MapAreaVolume_GXGS_LDL",
     "Title": "Area_601_Title",
     "Father": 6,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -1082,7 +1171,9 @@
     "AreaName": "MapAreaVolume_GXGS_DLYJZ",
     "Title": "Area_602_Title",
     "Father": 6,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -1134,7 +1225,9 @@
     "AreaName": "MapAreaVolume_GXGS_CYHQ",
     "Title": "Area_603_Title",
     "Father": 6,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -1186,7 +1279,9 @@
     "AreaName": "MapAreaVolume_GXGS_FYH",
     "Title": "Area_606_Title",
     "Father": 6,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -1238,7 +1333,9 @@
     "AreaName": "TsTriggerVolume2",
     "Title": "Area_607_Title",
     "Father": 6,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
@@ -1257,7 +1354,9 @@
     "AreaName": "TsTriggerVolume19",
     "Title": "Area_608_Title",
     "Father": 6,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
@@ -1276,7 +1375,9 @@
     "AreaName": "TsTriggerVolume3",
     "Title": "Area_609_Title",
     "Father": 6,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
@@ -1295,7 +1396,9 @@
     "AreaName": "MapAreaVolume_YLG_MZJ",
     "Title": "Area_202_Title",
     "Father": 2,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -1347,7 +1450,9 @@
     "AreaName": "MapAreaVolume_YLG_YLT",
     "Title": "Area_203_Title",
     "Father": 2,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -1399,7 +1504,9 @@
     "AreaName": "MapAreaVolume_YLG_YMP",
     "Title": "Area_204_Title",
     "Father": 2,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -1451,7 +1558,9 @@
     "AreaName": "MapAreaVolume_HSGD_YWYD",
     "Title": "Area_501_Title",
     "Father": 5,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -1503,7 +1612,9 @@
     "AreaName": "MapAreaVolume_HSGD_DLFX",
     "Title": "Area_502_Title",
     "Father": 5,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -1555,7 +1666,9 @@
     "AreaName": "MapAreaVolume_HSGD_ZGGX",
     "Title": "Area_503_Title",
     "Father": 5,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -1607,7 +1720,9 @@
     "AreaName": "MapAreaVolume_HSGD_FBZQ",
     "Title": "Area_504_Title",
     "Father": 5,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -1659,7 +1774,9 @@
     "AreaName": "AirWall_HSGD_Airwall",
     "Title": "Area_508_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -1678,7 +1795,9 @@
     "AreaName": "MapAreaVolume_WMW_HQYH",
     "Title": "Area_802_Title",
     "Father": 8,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -1730,7 +1849,9 @@
     "AreaName": "MapAreaVolume_WMW_SSY",
     "Title": "Area_803_Title",
     "Father": 8,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -1782,7 +1903,9 @@
     "AreaName": "MapAreaVolume_WMW_XYJ",
     "Title": "Area_805_Title",
     "Father": 8,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -1834,7 +1957,9 @@
     "AreaName": "JCYZTsTriggerVolume2",
     "Title": "Area_807_Title",
     "Father": 8,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -1853,7 +1978,9 @@
     "AreaName": "MapAreaVolume_WGZS_WYT",
     "Title": "Area_702_Title",
     "Father": 7,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -1905,7 +2032,9 @@
     "AreaName": "MapAreaVolume_WGZS_ZYR",
     "Title": "Area_703_Title",
     "Father": 7,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -1957,7 +2086,9 @@
     "AreaName": "MapAreaVolume_WGZS_ZYJR",
     "Title": "Area_704_Title",
     "Father": 7,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -2009,7 +2140,9 @@
     "AreaName": "MapAreaVolume_WGZS_HSY",
     "Title": "Area_705_Title",
     "Father": 7,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -2061,7 +2194,9 @@
     "AreaName": "MapAreaVolume_WGZS_CJBD",
     "Title": "Area_706_Title",
     "Father": 7,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -2113,7 +2248,9 @@
     "AreaName": "TriggerVolume_poisonaera",
     "Title": "",
     "Father": 7,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
@@ -2132,7 +2269,9 @@
     "AreaName": "MapAreaVolume_HKSM_LCC",
     "Title": "Area_1201_Title",
     "Father": 12,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -2184,7 +2323,9 @@
     "AreaName": "MapAreaVolume_HK_HWSK",
     "Title": "Area_1202_Title",
     "Father": 12,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -2236,7 +2377,9 @@
     "AreaName": "MapAreaVolume_HKSM_HKKC",
     "Title": "Area_1203_Title",
     "Father": 12,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -2288,7 +2431,9 @@
     "AreaName": "MapAreaVolume_HKSM_JSZX",
     "Title": "Area_1204_Title",
     "Father": 12,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -2340,7 +2485,9 @@
     "AreaName": "MapAreaVolume_YNZ_WWCCZ",
     "Title": "Area_1001_Title",
     "Father": 10,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -2392,7 +2539,9 @@
     "AreaName": "MapAreaVolume_YNZ_GCG",
     "Title": "Area_1002_Title",
     "Father": 10,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -2444,7 +2593,9 @@
     "AreaName": "MapAreaVolume_YNZ_LSD",
     "Title": "Area_1003_Title",
     "Father": 10,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -2496,7 +2647,9 @@
     "AreaName": "MapAreaVolume_YNZ_JTYZ",
     "Title": "Area_1004_Title",
     "Father": 10,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -2548,7 +2701,9 @@
     "AreaName": "MapAreaVolume_YNZ_JLX",
     "Title": "Area_1005_Title",
     "Father": 10,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -2600,7 +2755,9 @@
     "AreaName": "MapAreaVolume_YNZ_YSJJ",
     "Title": "Area_1006_Title",
     "Father": 10,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -2652,7 +2809,9 @@
     "AreaName": "MapAreaVolume_YNZ_YLSD",
     "Title": "Area_1007_Title",
     "Father": 10,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -2704,7 +2863,9 @@
     "AreaName": "MapAreaVolume_YDKKZ_YDKKZ",
     "Title": "Area_1301_Title",
     "Father": 4,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -2723,7 +2884,9 @@
     "AreaName": "TsTriggerVolume141",
     "Title": "Area_119_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -2742,7 +2905,9 @@
     "AreaName": "TsTriggerVolume146",
     "Title": "Area_120_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -2761,7 +2926,9 @@
     "AreaName": "TsTriggerVolume_FB_LZJS_01",
     "Title": "Area_10001_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -2780,7 +2947,9 @@
     "AreaName": "TsTriggerVolume_FB_LZJS_02",
     "Title": "Area_10002_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -2799,7 +2968,9 @@
     "AreaName": "TsTriggerVolume_FB_LZJS_03",
     "Title": "Area_10003_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -2818,7 +2989,9 @@
     "AreaName": "TriggerVolume_pata",
     "Title": "Area_10004_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -2837,7 +3010,9 @@
     "AreaName": "TsTriggerVolume_FB_LZJS_4",
     "Title": "Area_10005_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -2856,7 +3031,9 @@
     "AreaName": "TsTriggerVolume_HK_01",
     "Title": "Area_11001_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -2875,7 +3052,9 @@
     "AreaName": "TsTriggerVolumeTowerLoo1",
     "Title": "Area_12001_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -2894,7 +3073,9 @@
     "AreaName": "TsTriggerVolumeTowerLoop2",
     "Title": "Area_12002_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -2913,7 +3094,9 @@
     "AreaName": "Lingyang_Airwall",
     "Title": "Area_12003_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
@@ -2932,7 +3115,9 @@
     "AreaName": "BattleBlock1",
     "Title": "Area_13001_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -2951,7 +3136,9 @@
     "AreaName": "BattleBlock2",
     "Title": "Area_13002_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -2970,7 +3157,9 @@
     "AreaName": "BattleBlock3",
     "Title": "Area_13003_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -2989,7 +3178,9 @@
     "AreaName": "BattleBlock4",
     "Title": "Area_13004_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -3008,7 +3199,9 @@
     "AreaName": "BattleBlock5",
     "Title": "Area_13005_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -3027,7 +3220,9 @@
     "AreaName": "PathTP01",
     "Title": "Area_13006_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -3046,7 +3241,9 @@
     "AreaName": "PathTP02",
     "Title": "Area_13007_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -3065,7 +3262,9 @@
     "AreaName": "MapAreaVolume_BLY_BLXG",
     "Title": "Area_13101_Title",
     "Father": 9,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -3117,7 +3316,9 @@
     "AreaName": "MapAreaVolume_BLY_XFFX",
     "Title": "Area_13102_Title",
     "Father": 9,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -3169,7 +3370,9 @@
     "AreaName": "BLY AirWall1",
     "Title": "Area_13105_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
@@ -3188,7 +3391,9 @@
     "AreaName": "AkiWorld_WpTest",
     "Title": "Area_1500001_Title",
     "Father": 0,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -3207,7 +3412,9 @@
     "AreaName": "TsTriggerVolume",
     "Title": "Area_1500002_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -3226,7 +3433,9 @@
     "AreaName": "TsTriggerVolume_01",
     "Title": "Area_14001_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -3245,7 +3454,9 @@
     "AreaName": "TsTriggerVolume_02",
     "Title": "Area_14002_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -3264,7 +3475,9 @@
     "AreaName": "TsTriggerVolume_03",
     "Title": "Area_14003_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -3283,7 +3496,9 @@
     "AreaName": "TsTriggerVolume_04",
     "Title": "Area_14004_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -3302,7 +3517,9 @@
     "AreaName": "TsTriggerVolume_05",
     "Title": "Area_14005_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -3321,7 +3538,9 @@
     "AreaName": "TsTriggerVolume_06",
     "Title": "Area_14006_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -3340,7 +3559,9 @@
     "AreaName": "TsTriggerVolume_01",
     "Title": "Area_14007_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -3359,7 +3580,9 @@
     "AreaName": "TsTriggerVolume_02",
     "Title": "Area_14008_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -3378,7 +3601,9 @@
     "AreaName": "TsTriggerVolume_01",
     "Title": "Area_14011_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -3397,7 +3622,9 @@
     "AreaName": "TsTriggerVolume_02",
     "Title": "Area_14012_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -3416,7 +3643,9 @@
     "AreaName": "TsTriggerVolume_03",
     "Title": "Area_14013_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -3435,7 +3664,9 @@
     "AreaName": "TsTriggerVolume_01",
     "Title": "Area_14021_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -3454,7 +3685,9 @@
     "AreaName": "TsTriggerVolume_02",
     "Title": "Area_14022_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -3473,7 +3706,9 @@
     "AreaName": "TsTriggerVolume123",
     "Title": "Area_123_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -3492,7 +3727,9 @@
     "AreaName": "TsTriggerVolume125",
     "Title": "Area_125_Title",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": false,
@@ -3511,14 +3748,16 @@
     "AreaName": "EdgeWall_World",
     "Title": "",
     "Father": 1,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 0,
     "IsInitActived": true,
     "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
-    "EdgeWallName": "/Game/Aki/Data/PathLine/Pathline_EdgeWall/BP_BasePathLine_Edgewall_1-0_BLY.BP_BasePathLine_Edgewall_1-0_BLY",
+    "EdgeWallName": "/Game/Aki/Data/PathLine/Pathline_EdgeWall/BP_BasePathLine_Edgewall_1-1.BP_BasePathLine_Edgewall_1-1",
     "DeliveryMarkType": 0,
     "SortIndex": 0
   },
@@ -3530,7 +3769,9 @@
     "AreaName": "MapAreaVolume_WMW_WCCS",
     "Title": "Area_804_Title",
     "Father": 8,
-    "Tag": [0],
+    "Tag": [
+      0
+    ],
     "Record": 1,
     "Tips": 1,
     "IsInitActived": true,
@@ -3568,6 +3809,321 @@
         "Value": 91
       }
     ],
+    "WuYinQuID": 0,
+    "AtmosphereId": 0,
+    "EdgeWallName": "",
+    "DeliveryMarkType": 0,
+    "SortIndex": 0
+  },
+  {
+    "AreaId": 1601,
+    "Level": 4,
+    "CountryId": 1,
+    "DeliveryMarkId": 0,
+    "AreaName": "MapAreaVolume_CXS_XJL_YBYJ_Top",
+    "Title": "Area_1601_Title",
+    "Father": 1612,
+    "Tag": [
+      0
+    ],
+    "Record": 1,
+    "Tips": 1,
+    "IsInitActived": true,
+    "WorldMonsterLevelMax": [],
+    "WuYinQuID": 0,
+    "AtmosphereId": 0,
+    "EdgeWallName": "",
+    "DeliveryMarkType": 0,
+    "SortIndex": 0
+  },
+  {
+    "AreaId": 1602,
+    "Level": 4,
+    "CountryId": 1,
+    "DeliveryMarkId": 0,
+    "AreaName": "MapAreaVolume_CXS_XJL_YBYJ_Middle",
+    "Title": "Area_1602_Title",
+    "Father": 1612,
+    "Tag": [
+      0
+    ],
+    "Record": 1,
+    "Tips": 1,
+    "IsInitActived": true,
+    "WorldMonsterLevelMax": [],
+    "WuYinQuID": 0,
+    "AtmosphereId": 0,
+    "EdgeWallName": "",
+    "DeliveryMarkType": 0,
+    "SortIndex": 0
+  },
+  {
+    "AreaId": 1603,
+    "Level": 4,
+    "CountryId": 1,
+    "DeliveryMarkId": 0,
+    "AreaName": "MapAreaVolume_CXS_XJL_YBYJ_Bottom",
+    "Title": "Area_1603_Title",
+    "Father": 1612,
+    "Tag": [
+      0
+    ],
+    "Record": 1,
+    "Tips": 1,
+    "IsInitActived": true,
+    "WorldMonsterLevelMax": [],
+    "WuYinQuID": 0,
+    "AtmosphereId": 0,
+    "EdgeWallName": "",
+    "DeliveryMarkType": 0,
+    "SortIndex": 0
+  },
+  {
+    "AreaId": 1611,
+    "Level": 3,
+    "CountryId": 1,
+    "DeliveryMarkId": 201101,
+    "AreaName": "MapAreaVolume_CXS_XGT",
+    "Title": "Area_1611_Title",
+    "Father": 14,
+    "Tag": [
+      0
+    ],
+    "Record": 1,
+    "Tips": 1,
+    "IsInitActived": true,
+    "WorldMonsterLevelMax": [],
+    "WuYinQuID": 0,
+    "AtmosphereId": 0,
+    "EdgeWallName": "",
+    "DeliveryMarkType": 0,
+    "SortIndex": 0
+  },
+  {
+    "AreaId": 1612,
+    "Level": 3,
+    "CountryId": 1,
+    "DeliveryMarkId": 201102,
+    "AreaName": "MapAreaVolume_CXS_XJL",
+    "Title": "Area_1612_Title",
+    "Father": 14,
+    "Tag": [
+      0
+    ],
+    "Record": 1,
+    "Tips": 1,
+    "IsInitActived": true,
+    "WorldMonsterLevelMax": [],
+    "WuYinQuID": 0,
+    "AtmosphereId": 0,
+    "EdgeWallName": "",
+    "DeliveryMarkType": 0,
+    "SortIndex": 0
+  },
+  {
+    "AreaId": 1613,
+    "Level": 3,
+    "CountryId": 1,
+    "DeliveryMarkId": 201103,
+    "AreaName": "MapAreaVolume_CXS_HZ",
+    "Title": "Area_1613_Title",
+    "Father": 14,
+    "Tag": [
+      0
+    ],
+    "Record": 1,
+    "Tips": 1,
+    "IsInitActived": true,
+    "WorldMonsterLevelMax": [],
+    "WuYinQuID": 0,
+    "AtmosphereId": 0,
+    "EdgeWallName": "",
+    "DeliveryMarkType": 0,
+    "SortIndex": 0
+  },
+  {
+    "AreaId": 1614,
+    "Level": 3,
+    "CountryId": 1,
+    "DeliveryMarkId": 201104,
+    "AreaName": "MapAreaVolume_CXS_TQM",
+    "Title": "Area_1614_Title",
+    "Father": 14,
+    "Tag": [
+      0
+    ],
+    "Record": 1,
+    "Tips": 1,
+    "IsInitActived": true,
+    "WorldMonsterLevelMax": [],
+    "WuYinQuID": 0,
+    "AtmosphereId": 0,
+    "EdgeWallName": "",
+    "DeliveryMarkType": 0,
+    "SortIndex": 0
+  },
+  {
+    "AreaId": 1615,
+    "Level": 3,
+    "CountryId": 1,
+    "DeliveryMarkId": 201105,
+    "AreaName": "MapAreaVolume_CXS_YLJ",
+    "Title": "Area_1615_Title",
+    "Father": 14,
+    "Tag": [
+      0
+    ],
+    "Record": 1,
+    "Tips": 1,
+    "IsInitActived": true,
+    "WorldMonsterLevelMax": [],
+    "WuYinQuID": 0,
+    "AtmosphereId": 0,
+    "EdgeWallName": "",
+    "DeliveryMarkType": 0,
+    "SortIndex": 0
+  },
+  {
+    "AreaId": 1616,
+    "Level": 3,
+    "CountryId": 1,
+    "DeliveryMarkId": 201106,
+    "AreaName": "MapAreaVolume_CXS_WLG",
+    "Title": "Area_1616_Title",
+    "Father": 14,
+    "Tag": [
+      0
+    ],
+    "Record": 1,
+    "Tips": 1,
+    "IsInitActived": true,
+    "WorldMonsterLevelMax": [],
+    "WuYinQuID": 0,
+    "AtmosphereId": 0,
+    "EdgeWallName": "",
+    "DeliveryMarkType": 0,
+    "SortIndex": 0
+  },
+  {
+    "AreaId": 1617,
+    "Level": 3,
+    "CountryId": 1,
+    "DeliveryMarkId": 201107,
+    "AreaName": "MapAreaVolume_CXS_PLY",
+    "Title": "Area_1617_Title",
+    "Father": 14,
+    "Tag": [
+      0
+    ],
+    "Record": 1,
+    "Tips": 1,
+    "IsInitActived": true,
+    "WorldMonsterLevelMax": [],
+    "WuYinQuID": 0,
+    "AtmosphereId": 0,
+    "EdgeWallName": "",
+    "DeliveryMarkType": 0,
+    "SortIndex": 0
+  },
+  {
+    "AreaId": 1631,
+    "Level": 4,
+    "CountryId": 1,
+    "DeliveryMarkId": 0,
+    "AreaName": "MapAreaVolume_CXS_TQM_HMQ_Top",
+    "Title": "Area_1631_Title",
+    "Father": 1614,
+    "Tag": [
+      0
+    ],
+    "Record": 1,
+    "Tips": 1,
+    "IsInitActived": true,
+    "WorldMonsterLevelMax": [],
+    "WuYinQuID": 0,
+    "AtmosphereId": 0,
+    "EdgeWallName": "",
+    "DeliveryMarkType": 0,
+    "SortIndex": 0
+  },
+  {
+    "AreaId": 1632,
+    "Level": 4,
+    "CountryId": 1,
+    "DeliveryMarkId": 0,
+    "AreaName": "MapAreaVolume_CXS_TQM_HMQ_Middle",
+    "Title": "Area_1632_Title",
+    "Father": 1614,
+    "Tag": [
+      0
+    ],
+    "Record": 1,
+    "Tips": 1,
+    "IsInitActived": true,
+    "WorldMonsterLevelMax": [],
+    "WuYinQuID": 0,
+    "AtmosphereId": 0,
+    "EdgeWallName": "",
+    "DeliveryMarkType": 0,
+    "SortIndex": 0
+  },
+  {
+    "AreaId": 1633,
+    "Level": 4,
+    "CountryId": 1,
+    "DeliveryMarkId": 0,
+    "AreaName": "MapAreaVolume_CXS_TQM_HMQ_Bottom",
+    "Title": "Area_1633_Title",
+    "Father": 1614,
+    "Tag": [
+      0
+    ],
+    "Record": 1,
+    "Tips": 1,
+    "IsInitActived": true,
+    "WorldMonsterLevelMax": [],
+    "WuYinQuID": 0,
+    "AtmosphereId": 0,
+    "EdgeWallName": "",
+    "DeliveryMarkType": 0,
+    "SortIndex": 0
+  },
+  {
+    "AreaId": 1641,
+    "Level": 4,
+    "CountryId": 1,
+    "DeliveryMarkId": 0,
+    "AreaName": "MapAreaVolume_CXS_WLG_MLT_Top",
+    "Title": "Area_1641_Title",
+    "Father": 1616,
+    "Tag": [
+      0
+    ],
+    "Record": 1,
+    "Tips": 1,
+    "IsInitActived": true,
+    "WorldMonsterLevelMax": [],
+    "WuYinQuID": 0,
+    "AtmosphereId": 0,
+    "EdgeWallName": "",
+    "DeliveryMarkType": 0,
+    "SortIndex": 0
+  },
+  {
+    "AreaId": 1642,
+    "Level": 4,
+    "CountryId": 1,
+    "DeliveryMarkId": 0,
+    "AreaName": "MapAreaVolume_CXS_WLG_MLT_Bottom",
+    "Title": "Area_1642_Title",
+    "Father": 1616,
+    "Tag": [
+      0
+    ],
+    "Record": 1,
+    "Tips": 1,
+    "IsInitActived": true,
+    "WorldMonsterLevelMax": [],
     "WuYinQuID": 0,
     "AtmosphereId": 0,
     "EdgeWallName": "",

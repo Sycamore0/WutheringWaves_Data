@@ -1116,7 +1116,9 @@
       "add_new_role_config 130110",
       "add_new_role_config 130210",
       "add_new_role_config 130310",
-      "add_new_role_config 110410"
+      "add_new_role_config 110410",
+      "add_new_role_config 120510",
+      "add_new_role_config 130410"
     ]
   },
   {
@@ -1141,7 +1143,9 @@
       "add_new_role_config 130115",
       "add_new_role_config 130215",
       "add_new_role_config 130315",
-      "add_new_role_config 110415"
+      "add_new_role_config 110415",
+      "add_new_role_config 120515",
+      "add_new_role_config 130415"
     ]
   },
   {
@@ -1166,7 +1170,9 @@
       "add_new_role_config 130120",
       "add_new_role_config 130220",
       "add_new_role_config 130320",
-      "add_new_role_config 110420"
+      "add_new_role_config 110420",
+      "add_new_role_config 120520",
+      "add_new_role_config 130420"
     ]
   },
   {
@@ -1191,7 +1197,9 @@
       "add_new_role_config 130130",
       "add_new_role_config 130230",
       "add_new_role_config 130330",
-      "add_new_role_config 110430"
+      "add_new_role_config 110430",
+      "add_new_role_config 120530",
+      "add_new_role_config 130430"
     ]
   },
   {
@@ -1216,7 +1224,9 @@
       "add_new_role_config 130140",
       "add_new_role_config 130240",
       "add_new_role_config 130340",
-      "add_new_role_config 110440"
+      "add_new_role_config 110440",
+      "add_new_role_config 120540",
+      "add_new_role_config 130440"
     ]
   },
   {
@@ -1241,7 +1251,9 @@
       "add_new_role_config 130150",
       "add_new_role_config 130250",
       "add_new_role_config 130350",
-      "add_new_role_config 110450"
+      "add_new_role_config 110450",
+      "add_new_role_config 120550",
+      "add_new_role_config 130450"
     ]
   },
   {
@@ -1266,7 +1278,9 @@
       "add_new_role_config 130160",
       "add_new_role_config 130260",
       "add_new_role_config 130360",
-      "add_new_role_config 110460"
+      "add_new_role_config 110460",
+      "add_new_role_config 120560",
+      "add_new_role_config 130460"
     ]
   },
   {
@@ -1291,7 +1305,9 @@
       "add_new_role_config 130170",
       "add_new_role_config 130270",
       "add_new_role_config 130370",
-      "add_new_role_config 110470"
+      "add_new_role_config 110470",
+      "add_new_role_config 120570",
+      "add_new_role_config 130470"
     ]
   },
   {
@@ -1316,7 +1332,9 @@
       "add_new_role_config 130180",
       "add_new_role_config 130280",
       "add_new_role_config 130380",
-      "add_new_role_config 110480"
+      "add_new_role_config 110480",
+      "add_new_role_config 120580",
+      "add_new_role_config 130480"
     ]
   },
   {
@@ -1341,103 +1359,144 @@
       "add_new_role_config 130190",
       "add_new_role_config 130290",
       "add_new_role_config 130390",
-      "add_new_role_config 110490"
+      "add_new_role_config 110490",
+      "add_new_role_config 120590",
+      "add_new_role_config 130490"
     ]
   },
   {
     "Id": 85,
     "Name": "暗主",
-    "OrderList": ["add_new_role_config 160401"]
+    "OrderList": [
+      "add_new_role_config 160401"
+    ]
   },
   {
     "Id": 105,
     "Name": "boss战斗测试",
-    "OrderList": ["OpenFbEntrance#995"]
+    "OrderList": [
+      "OpenFbEntrance#995"
+    ]
   },
   {
     "Id": 91,
     "Name": "水上漂1",
-    "OrderList": ["TeleportToEntity#122000136"]
+    "OrderList": [
+      "TeleportToEntity#122000136"
+    ]
   },
   {
     "Id": 92,
     "Name": "水上漂2",
-    "OrderList": ["TeleportToEntity#122000215"]
+    "OrderList": [
+      "TeleportToEntity#122000215"
+    ]
   },
   {
     "Id": 93,
     "Name": "悬停",
-    "OrderList": ["TeleportToEntity#122000125"]
+    "OrderList": [
+      "TeleportToEntity#122000125"
+    ]
   },
   {
     "Id": 94,
     "Name": "霸体",
-    "OrderList": ["TeleportToEntity#122000092"]
+    "OrderList": [
+      "TeleportToEntity#122000092"
+    ]
   },
   {
     "Id": 95,
     "Name": "协奏",
-    "OrderList": ["TeleportToEntity#122000191"]
+    "OrderList": [
+      "TeleportToEntity#122000191"
+    ]
   },
   {
     "Id": 96,
     "Name": "爆炸果1",
-    "OrderList": ["TeleportToEntity#122000183"]
+    "OrderList": [
+      "TeleportToEntity#122000183"
+    ]
   },
   {
     "Id": 97,
     "Name": "爆炸果2",
-    "OrderList": ["TeleportToEntity#122000167"]
+    "OrderList": [
+      "TeleportToEntity#122000167"
+    ]
   },
   {
     "Id": 98,
     "Name": "跑酷",
-    "OrderList": ["TeleportToEntity#124003687"]
+    "OrderList": [
+      "TeleportToEntity#124003687"
+    ]
   },
   {
     "Id": 99,
     "Name": "乘霄山控物拼图",
-    "OrderList": ["TeleportToEntity#130000055"]
+    "OrderList": [
+      "TeleportToEntity#130000055"
+    ]
   },
   {
     "Id": 110,
     "Name": "不落地挑战",
-    "OrderList": ["TeleportToEntity#109004199"]
+    "OrderList": [
+      "TeleportToEntity#109004199"
+    ]
   },
   {
     "Id": 111,
     "Name": "脉冲装置CE",
-    "OrderList": ["TeleportToEntity#122000245"]
+    "OrderList": [
+      "TeleportToEntity#122000245"
+    ]
   },
   {
     "Id": 112,
     "Name": "悬浮磁石CE",
-    "OrderList": ["TeleportToEntity#130000014"]
+    "OrderList": [
+      "TeleportToEntity#130000014"
+    ]
   },
   {
     "Id": 113,
     "Name": "旋转房间副本CE",
-    "OrderList": ["OpenFbEntrance#6001"]
+    "OrderList": [
+      "OpenFbEntrance#6001"
+    ]
   },
   {
     "Id": 114,
     "Name": "横版限时副本CE",
-    "OrderList": ["OpenFbEntrance#6002"]
+    "OrderList": [
+      "OpenFbEntrance#6002"
+    ]
   },
   {
     "Id": 106,
     "Name": "boss战斗测试-备用",
-    "OrderList": ["OpenFbEntrance#996"]
+    "OrderList": [
+      "OpenFbEntrance#996"
+    ]
   },
   {
     "Id": 115,
     "Name": "后山POI任务前半启动",
-    "OrderList": ["TeleportToEntity#109004362"]
+    "OrderList": [
+      "TeleportToEntity#109004362"
+    ]
   },
   {
     "Id": 116,
     "Name": "后山POI任务后半启动",
-    "OrderList": ["accept_quest 109000001", "TeleportToEntity#109004454"]
+    "OrderList": [
+      "accept_quest 109000001",
+      "TeleportToEntity#109004454"
+    ]
   },
   {
     "Id": 117,
@@ -1452,22 +1511,30 @@
   {
     "Id": 118,
     "Name": "第一玩法点",
-    "OrderList": ["TeleportToEntity#106002601"]
+    "OrderList": [
+      "TeleportToEntity#106002601"
+    ]
   },
   {
     "Id": 119,
     "Name": "第二玩法点",
-    "OrderList": ["TeleportToEntity#106002612"]
+    "OrderList": [
+      "TeleportToEntity#106002612"
+    ]
   },
   {
     "Id": 120,
     "Name": "第三玩法点",
-    "OrderList": ["TeleportToEntity#106002703"]
+    "OrderList": [
+      "TeleportToEntity#106002703"
+    ]
   },
   {
     "Id": 121,
     "Name": "反诈任务启动",
-    "OrderList": ["TeleportToEntity#109005535"]
+    "OrderList": [
+      "TeleportToEntity#109005535"
+    ]
   },
   {
     "Id": 122,
@@ -1487,7 +1554,9 @@
   {
     "Id": 123,
     "Name": "鳞人难度分层",
-    "OrderList": ["OpenFbEntrance#994"]
+    "OrderList": [
+      "OpenFbEntrance#994"
+    ]
   },
   {
     "Id": 124,
@@ -1507,32 +1576,44 @@
   {
     "Id": 125,
     "Name": "跑酷一号线",
-    "OrderList": ["TeleportToEntity#124003531"]
+    "OrderList": [
+      "TeleportToEntity#124003531"
+    ]
   },
   {
     "Id": 126,
     "Name": "跑酷二号线",
-    "OrderList": ["TeleportToEntity#124003592"]
+    "OrderList": [
+      "TeleportToEntity#124003592"
+    ]
   },
   {
     "Id": 127,
     "Name": "跑酷三号线",
-    "OrderList": ["TeleportToEntity#124003593"]
+    "OrderList": [
+      "TeleportToEntity#124003593"
+    ]
   },
   {
     "Id": 128,
     "Name": "跑酷四号线",
-    "OrderList": ["TeleportToEntity#135000502"]
+    "OrderList": [
+      "TeleportToEntity#135000502"
+    ]
   },
   {
     "Id": 129,
     "Name": "跑酷五号线",
-    "OrderList": ["TeleportToEntity#135000500"]
+    "OrderList": [
+      "TeleportToEntity#135000500"
+    ]
   },
   {
     "Id": 130,
     "Name": "跑酷六号线",
-    "OrderList": ["TeleportToEntity#135000501"]
+    "OrderList": [
+      "TeleportToEntity#135000501"
+    ]
   },
   {
     "Id": 131,
@@ -1610,7 +1691,9 @@
       "add_new_role_config 12018",
       "add_new_role_config 12019",
       "add_new_role_config 12020",
-      "add_new_role_config 12021"
+      "add_new_role_config 12021",
+      "add_new_role_config 12022",
+      "add_new_role_config 12023"
     ]
   },
   {
