@@ -205,7 +205,7 @@
   },
   {
     "Id": "NewVersionDetailDownloadGetReward",
-    "Content": "An update of the game is available.  Please proceed to download. Log in after the update is complete to obtain <color=#c49e55ff>Astrites*300 and Crystal Solvent*2</color>."
+    "Content": "A new update is now available. Please download and install it. Log in afterward to claim your rewards: <color=#c49e55ff>300 Astrites and 2 Crystal Solvents</color>."
   },
   {
     "Id": "ConfirmText",
