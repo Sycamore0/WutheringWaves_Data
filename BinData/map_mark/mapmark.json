@@ -1671,7 +1671,7 @@
     ],
     "LockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_02_UI.SP_IconMap_Activity_02_UI",
     "UnlockMarkPic": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Activity_02_UI.SP_IconMap_Activity_02_UI",
-    "ShowCondition": -1,
+    "ShowCondition": 13000011,
     "FogShow": 1,
     "MapShow": 3,
     "Scale": 0.800000011920929,

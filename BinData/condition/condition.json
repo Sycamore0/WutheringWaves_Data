@@ -48126,11 +48126,11 @@
     "LimitParams": [
       {
         "Key": "NewQuestId",
-        "Value": "125900000"
+        "Value": "125000124"
       },
       {
         "Key": "QuestNodeId",
-        "Value": "2"
+        "Value": "84"
       },
       {
         "Key": "State",
@@ -48165,20 +48165,12 @@
   },
   {
     "Id": 101300146,
-    "Type": "NewQuestStepState",
+    "Type": "LevelPlayComplete",
     "NeedNum": 1,
     "LimitParams": [
       {
-        "Key": "NewQuestId",
-        "Value": "102000000"
-      },
-      {
-        "Key": "QuestNodeId",
-        "Value": "321"
-      },
-      {
-        "Key": "State",
-        "Value": "3"
+        "Key": "LevelPlayId",
+        "Value": "103000025"
       }
     ],
     "LimitParamsOpe": [],
@@ -48196,7 +48188,7 @@
       },
       {
         "Key": "QuestNodeId",
-        "Value": "64"
+        "Value": "42"
       },
       {
         "Key": "State",
@@ -49753,8 +49745,8 @@
     "NeedNum": 3000,
     "LimitParams": [
       {
-        "Key": "ActivityId",
-        "Value": "100805001"
+        "Key": "Count",
+        "Value": "3000"
       }
     ],
     "LimitParamsOpe": [],
@@ -49813,8 +49805,8 @@
     "NeedNum": 5000,
     "LimitParams": [
       {
-        "Key": "ActivityId",
-        "Value": "100805001"
+        "Key": "Count",
+        "Value": "5000"
       }
     ],
     "LimitParamsOpe": [],

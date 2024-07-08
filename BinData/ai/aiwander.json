@@ -154,41 +154,5 @@
     "HideEffectDaPath": "",
     "ShowMaterialDaPath": "/Game/Aki/Effect/MaterialController/DA_Lord/DA_Fx_JingNiao_Born.DA_Fx_JingNiao_Born",
     "HideMaterialDaPath": "/Game/Aki/Effect/MaterialController/DA_Character/DA_Fx_Ordinary_Death.DA_Fx_Ordinary_Death"
-  },
-  {
-    "Id": 80004,
-    "TurnSpeed": 480,
-    "WanderMoveState": 2,
-    "ResetMoveState": 2,
-    "MoveStateGA": 0,
-    "CompleteDistance": 10,
-    "ShowEffectDaPath": "",
-    "HideEffectDaPath": "",
-    "ShowMaterialDaPath": "",
-    "HideMaterialDaPath": ""
-  },
-  {
-    "Id": 80008,
-    "TurnSpeed": 480,
-    "WanderMoveState": 2,
-    "ResetMoveState": 2,
-    "MoveStateGA": 0,
-    "CompleteDistance": 10,
-    "ShowEffectDaPath": "",
-    "HideEffectDaPath": "",
-    "ShowMaterialDaPath": "",
-    "HideMaterialDaPath": ""
-  },
-  {
-    "Id": 80005,
-    "TurnSpeed": 300,
-    "WanderMoveState": 2,
-    "ResetMoveState": 3,
-    "MoveStateGA": 0,
-    "CompleteDistance": 10,
-    "ShowEffectDaPath": "",
-    "HideEffectDaPath": "",
-    "ShowMaterialDaPath": "",
-    "HideMaterialDaPath": ""
   }
 ]

@@ -1578,7 +1578,7 @@
     "AreaName": "Text_TowerOne_Text",
     "Cost": 1,
     "RecommendElement": [
-      3
+      4
     ],
     "ShowMonsters": [
       310000070,
@@ -1597,13 +1597,13 @@
       }
     ],
     "ShowBuffs": [
-      "92007100",
-      "552"
+      "92007101",
+      "92008019"
     ],
     "RoleBuff": [
-      "552",
+      "92008019",
       "622100102",
-      "92007100"
+      "92007101"
     ],
     "MonsterBuff": [],
     "Target": [
@@ -1629,7 +1629,7 @@
     "AreaName": "Text_TowerOne_Text",
     "Cost": 2,
     "RecommendElement": [
-      3
+      4
     ],
     "ShowMonsters": [
       320000080,
@@ -1647,13 +1647,13 @@
       }
     ],
     "ShowBuffs": [
-      "92007100",
-      "552"
+      "92007101",
+      "92008019"
     ],
     "RoleBuff": [
-      "552",
+      "92008019",
       "622100102",
-      "92007100"
+      "92007101"
     ],
     "MonsterBuff": [],
     "Target": [
@@ -1679,7 +1679,7 @@
     "AreaName": "Text_TowerOne_Text",
     "Cost": 3,
     "RecommendElement": [
-      3
+      4
     ],
     "ShowMonsters": [
       320000060,
@@ -1699,13 +1699,13 @@
       }
     ],
     "ShowBuffs": [
-      "92007100",
-      "552"
+      "92007101",
+      "92008019"
     ],
     "RoleBuff": [
-      "552",
+      "92008019",
       "622100102",
-      "92007100"
+      "92007101"
     ],
     "MonsterBuff": [],
     "Target": [
@@ -1731,7 +1731,7 @@
     "AreaName": "Text_TowerOne_Text",
     "Cost": 4,
     "RecommendElement": [
-      3
+      4
     ],
     "ShowMonsters": [
       330000060,
@@ -1749,13 +1749,13 @@
       }
     ],
     "ShowBuffs": [
-      "92007100",
-      "552"
+      "92007101",
+      "92008019"
     ],
     "RoleBuff": [
-      "552",
+      "92008019",
       "622100102",
-      "92007100"
+      "92007101"
     ],
     "MonsterBuff": [],
     "Target": [
@@ -1800,7 +1800,6 @@
     ],
     "RoleBuff": [
       "92008022",
-      "601",
       "622100102",
       "92007100",
       "92007101",
@@ -1855,7 +1854,6 @@
     ],
     "RoleBuff": [
       "92008022",
-      "601",
       "622100102",
       "92007100",
       "92007101",
@@ -1888,7 +1886,7 @@
     "AreaName": "Text_TowerTwo_Text",
     "Cost": 1,
     "RecommendElement": [
-      5
+      3
     ],
     "ShowMonsters": [
       310000060,
@@ -1906,16 +1904,17 @@
       }
     ],
     "ShowBuffs": [
-      "92007104",
+      "92007100",
       "92008023"
     ],
     "RoleBuff": [
       "622100102",
-      "92007104",
-      "920080232",
+      "92007100",
+      "920080232"
+    ],
+    "MonsterBuff": [
       "92008023"
     ],
-    "MonsterBuff": [],
     "Target": [
       0,
       90,
@@ -1939,7 +1938,7 @@
     "AreaName": "Text_TowerTwo_Text",
     "Cost": 2,
     "RecommendElement": [
-      5
+      3
     ],
     "ShowMonsters": [
       320000100,
@@ -1956,16 +1955,17 @@
       }
     ],
     "ShowBuffs": [
-      "92007104",
+      "92007100",
       "92008023"
     ],
     "RoleBuff": [
       "622100102",
-      "92007104",
-      "920080232",
+      "92007100",
+      "920080232"
+    ],
+    "MonsterBuff": [
       "92008023"
     ],
-    "MonsterBuff": [],
     "Target": [
       0,
       90,
@@ -1989,7 +1989,7 @@
     "AreaName": "Text_TowerTwo_Text",
     "Cost": 3,
     "RecommendElement": [
-      5
+      3
     ],
     "ShowMonsters": [
       320000140,
@@ -2007,16 +2007,17 @@
       }
     ],
     "ShowBuffs": [
-      "92007104",
+      "92007100",
       "92008023"
     ],
     "RoleBuff": [
       "622100102",
-      "92007104",
-      "920080232",
+      "92007100",
+      "920080232"
+    ],
+    "MonsterBuff": [
       "92008023"
     ],
-    "MonsterBuff": [],
     "Target": [
       0,
       120,
@@ -2040,7 +2041,7 @@
     "AreaName": "Text_TowerTwo_Text",
     "Cost": 4,
     "RecommendElement": [
-      5
+      3
     ],
     "ShowMonsters": [
       330000030
@@ -2056,16 +2057,17 @@
       }
     ],
     "ShowBuffs": [
-      "92007104",
+      "92007100",
       "92008023"
     ],
     "RoleBuff": [
       "622100102",
-      "92007104",
-      "920080232",
+      "92007100",
+      "920080232"
+    ],
+    "MonsterBuff": [
       "92008023"
     ],
-    "MonsterBuff": [],
     "Target": [
       0,
       120,
@@ -2089,7 +2091,7 @@
     "AreaName": "Text_TowerOne_Text",
     "Cost": 1,
     "RecommendElement": [
-      3
+      4
     ],
     "ShowMonsters": [
       310000070,
@@ -2108,13 +2110,13 @@
       }
     ],
     "ShowBuffs": [
-      "92007100",
-      "552"
+      "92007101",
+      "92008019"
     ],
     "RoleBuff": [
-      "552",
+      "92008019",
       "622100102",
-      "92007100"
+      "92007101"
     ],
     "MonsterBuff": [],
     "Target": [
@@ -2140,7 +2142,7 @@
     "AreaName": "Text_TowerOne_Text",
     "Cost": 2,
     "RecommendElement": [
-      3
+      4
     ],
     "ShowMonsters": [
       320000080,
@@ -2158,13 +2160,13 @@
       }
     ],
     "ShowBuffs": [
-      "92007100",
-      "552"
+      "92007101",
+      "92008019"
     ],
     "RoleBuff": [
-      "552",
+      "92008019",
       "622100102",
-      "92007100"
+      "92007101"
     ],
     "MonsterBuff": [],
     "Target": [
@@ -2190,7 +2192,7 @@
     "AreaName": "Text_TowerOne_Text",
     "Cost": 3,
     "RecommendElement": [
-      3
+      4
     ],
     "ShowMonsters": [
       320000060,
@@ -2210,13 +2212,13 @@
       }
     ],
     "ShowBuffs": [
-      "92007100",
-      "552"
+      "92007101",
+      "92008019"
     ],
     "RoleBuff": [
-      "552",
+      "92008019",
       "622100102",
-      "92007100"
+      "92007101"
     ],
     "MonsterBuff": [],
     "Target": [
@@ -2242,7 +2244,7 @@
     "AreaName": "Text_TowerOne_Text",
     "Cost": 4,
     "RecommendElement": [
-      3
+      4
     ],
     "ShowMonsters": [
       330000060,
@@ -2260,13 +2262,13 @@
       }
     ],
     "ShowBuffs": [
-      "92007100",
-      "552"
+      "92007101",
+      "92008019"
     ],
     "RoleBuff": [
-      "552",
+      "92008019",
       "622100102",
-      "92007100"
+      "92007101"
     ],
     "MonsterBuff": [],
     "Target": [
@@ -2311,7 +2313,6 @@
     ],
     "RoleBuff": [
       "92008022",
-      "601",
       "622100102",
       "92007100",
       "92007101",
@@ -2366,7 +2367,6 @@
     ],
     "RoleBuff": [
       "92008022",
-      "601",
       "622100102",
       "92007100",
       "92007101",
@@ -2399,7 +2399,7 @@
     "AreaName": "Text_TowerTwo_Text",
     "Cost": 1,
     "RecommendElement": [
-      5
+      3
     ],
     "ShowMonsters": [
       310000060,
@@ -2417,16 +2417,17 @@
       }
     ],
     "ShowBuffs": [
-      "92007104",
+      "92007100",
       "92008023"
     ],
     "RoleBuff": [
       "622100102",
-      "92007104",
-      "920080232",
+      "92007100",
+      "920080232"
+    ],
+    "MonsterBuff": [
       "92008023"
     ],
-    "MonsterBuff": [],
     "Target": [
       0,
       90,
@@ -2450,7 +2451,7 @@
     "AreaName": "Text_TowerTwo_Text",
     "Cost": 2,
     "RecommendElement": [
-      5
+      3
     ],
     "ShowMonsters": [
       320000100,
@@ -2467,16 +2468,17 @@
       }
     ],
     "ShowBuffs": [
-      "92007104",
+      "92007100",
       "92008023"
     ],
     "RoleBuff": [
       "622100102",
-      "92007104",
-      "920080232",
+      "92007100",
+      "920080232"
+    ],
+    "MonsterBuff": [
       "92008023"
     ],
-    "MonsterBuff": [],
     "Target": [
       0,
       90,
@@ -2500,7 +2502,7 @@
     "AreaName": "Text_TowerTwo_Text",
     "Cost": 3,
     "RecommendElement": [
-      5
+      3
     ],
     "ShowMonsters": [
       320000140,
@@ -2518,16 +2520,17 @@
       }
     ],
     "ShowBuffs": [
-      "92007104",
+      "92007100",
       "92008023"
     ],
     "RoleBuff": [
       "622100102",
-      "92007104",
-      "920080232",
+      "92007100",
+      "920080232"
+    ],
+    "MonsterBuff": [
       "92008023"
     ],
-    "MonsterBuff": [],
     "Target": [
       0,
       120,
@@ -2551,7 +2554,7 @@
     "AreaName": "Text_TowerTwo_Text",
     "Cost": 4,
     "RecommendElement": [
-      5
+      3
     ],
     "ShowMonsters": [
       330000030
@@ -2567,16 +2570,17 @@
       }
     ],
     "ShowBuffs": [
-      "92007104",
+      "92007100",
       "92008023"
     ],
     "RoleBuff": [
       "622100102",
-      "92007104",
-      "920080232",
+      "92007100",
+      "920080232"
+    ],
+    "MonsterBuff": [
       "92008023"
     ],
-    "MonsterBuff": [],
     "Target": [
       0,
       120,

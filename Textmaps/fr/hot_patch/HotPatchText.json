@@ -253,6 +253,6 @@
   },
   {
     "Id": "MobileChipOutOfVersion",
-    "Content": "Il est détecté que la version de la puce de l'appareil est trop ancienne et il est très possible que le jeu plante. Pour une expérience de jeu normale, nous vous recommandons à utiliser un autre appareil."
+    "Content": ""
   }
 ]

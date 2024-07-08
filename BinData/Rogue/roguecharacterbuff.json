@@ -408,7 +408,7 @@
     "AffixDescParam": [
       "1",
       "2",
-      "150%"
+      "100%"
     ],
     "AffixDescSimple": "RogueBuffPool_1103430112_BuffDesc_0",
     "AffixTitle": "RogueBuffPool_1103430112_BuffDesc_1",
@@ -439,9 +439,7 @@
     ],
     "AffixDesc": "RogueBuffPool_1103430115_BuffDesc",
     "AffixDescParam": [
-      "75%",
-      "0.5",
-      "1"
+      "75%"
     ],
     "AffixDescSimple": "RogueBuffPool_1103430115_BuffDesc_0",
     "AffixTitle": "RogueBuffPool_1103430115_BuffDesc_1",
@@ -726,8 +724,8 @@
     "AffixDescParam": [
       "4",
       "40%",
-      "10",
-      "10",
+      "5",
+      "5",
       "20%"
     ],
     "AffixDescSimple": "RogueBuffPool_1404500008_BuffDesc_0",
@@ -2306,9 +2304,6 @@
     ],
     "AffixDesc": "RogueBuffPool_130405_BuffDesc",
     "AffixDescParam": [
-      "50%",
-      "6",
-      "2",
       "2",
       "250%",
       "800%"

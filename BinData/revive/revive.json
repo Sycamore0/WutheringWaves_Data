@@ -449,16 +449,5 @@
     "ReviveTitle": "Revive_3100001_ReviveTitle",
     "ReviveContent": "Revive_3100001_ReviveContent",
     "ReviveSequencePath": ""
-  },
-  {
-    "Id": 4000005,
-    "ReviveTimes": -1,
-    "UseItemId": 80040000,
-    "ReviveDelay": [],
-    "DeathBp": "",
-    "WindowBp": "",
-    "ReviveTitle": "",
-    "ReviveContent": "",
-    "ReviveSequencePath": ""
   }
 ]

@@ -195,42 +195,37 @@
     "RoomsMusicState": "stage1_elite1"
   },
   {
+    "Id": 40,
+    "RoomTipsType": 0,
+    "RoomsMusicState": "stage1_challenge"
+  },
+  {
+    "Id": 41,
+    "RoomTipsType": 0,
+    "RoomsMusicState": "stage1_challenge"
+  },
+  {
+    "Id": 42,
+    "RoomTipsType": 0,
+    "RoomsMusicState": "stage1_elite1"
+  },
+  {
+    "Id": 43,
+    "RoomTipsType": 0,
+    "RoomsMusicState": "stage1_elite2"
+  },
+  {
+    "Id": 44,
+    "RoomTipsType": 0,
+    "RoomsMusicState": "stage1_elite1"
+  },
+  {
+    "Id": 45,
+    "RoomTipsType": 0,
+    "RoomsMusicState": "stage1_elite2"
+  },
+  {
     "Id": 46,
-    "RoomTipsType": 2,
-    "RoomsMusicState": "stage1_boss2"
-  },
-  {
-    "Id": 13,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "stage1_challenge"
-  },
-  {
-    "Id": 18,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "stage1_challenge"
-  },
-  {
-    "Id": 4,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "stage1_elite1"
-  },
-  {
-    "Id": 5,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "stage1_elite2"
-  },
-  {
-    "Id": 14,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "stage1_elite1"
-  },
-  {
-    "Id": 8,
-    "RoomTipsType": 0,
-    "RoomsMusicState": "stage1_elite2"
-  },
-  {
-    "Id": 47,
     "RoomTipsType": 2,
     "RoomsMusicState": "stage1_boss2"
   }

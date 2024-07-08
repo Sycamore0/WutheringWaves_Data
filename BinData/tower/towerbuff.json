@@ -154,11 +154,5 @@
     "Name": "",
     "Desc": "TowerChallengeBuff_92007105_Desc",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyreddark_UI.T_Iconpropertyreddark_UI"
-  },
-  {
-    "Id": "552",
-    "Name": "",
-    "Desc": "TowerChallengeBuff_552_Desc",
-    "Icon": "0"
   }
 ]

@@ -11418,7 +11418,7 @@
         ]
       },
       "DistributeType": "Interact",
-      "IsHideAcceptMarkOnNpc": true,
+      "IsHideAcceptMarkOnNpc": false,
       "AddInteractOption": {
         "EntityId": 109002501,
         "Option": {
@@ -15167,7 +15167,6 @@
         "e_8_310000735",
         "e_8_310000734",
         "e_8_129000000",
-        "e_8_204900000",
         "f_310000002_50",
         "f_310000002_51",
         "f_310000002_52",
@@ -19675,11 +19674,8 @@
       "ProvideType": {
         "Conditions": [
           {
-            "Type": "PreChildQuest",
-            "PreChildQuest": {
-              "QuestId": 140800000,
-              "ChildQuestId": 330
-            }
+            "Type": "PreQuest",
+            "PreQuest": 102000000
           },
           {
             "Type": "ExploreLevel",
@@ -19692,6 +19688,7 @@
         "e_8_880900002",
         "e_8_880900000",
         "e_8_880900001",
+        "q_102000000",
         "f_880900000_1",
         "f_880900000_2",
         "f_880900000_3",
@@ -19702,21 +19699,7 @@
         "e_8_880900000",
         "e_8_880900001"
       ],
-      "ChapterId": 8,
-      "PreShowInfo": {
-        "PreShowCondition": {
-          "Conditions": [
-            {
-              "Type": "PreChildQuest",
-              "PreChildQuest": {
-                "QuestId": 140800000,
-                "ChildQuestId": 330
-              }
-            }
-          ]
-        },
-        "TidPreShowDesc": "Quest_880000013_PreShowDesc_880_1"
-      }
+      "ChapterId": 8
     }
   },
   {
@@ -20110,8 +20093,6 @@
       ],
       "Reference": [
         "e_8_125001173",
-        "e_8_141900335",
-        "e_8_141900336",
         "e_8_125900025",
         "e_8_125900132",
         "e_8_125900133",
@@ -20160,12 +20141,12 @@
         "e_8_148900022",
         "e_8_125900154",
         "e_8_904900002",
-        "e_8_125001248",
         "e_8_125900063",
         "e_8_125900104",
         "e_8_125900117",
         "e_8_125900119",
         "e_8_125900120",
+        "e_8_125001248",
         "e_8_125900064",
         "q_125000120",
         "f_125000007_1",
@@ -20408,8 +20389,7 @@
         "e_8_125900097",
         "e_8_125900098",
         "e_8_125900099",
-        "e_8_125900238",
-        "l_8_131900003"
+        "e_8_125900238"
       ]
     }
   },
@@ -20893,7 +20873,7 @@
       "ObjType": "Quest",
       "Id": 146900000,
       "DungeonId": 8,
-      "Type": 2,
+      "Type": 9,
       "RegionId": 12,
       "Key": "跃动吧，龟舞团！",
       "TidName": "Quest_146900000_QuestName_146_1",
@@ -20926,10 +20906,12 @@
         "e_8_146900067",
         "e_8_146900068",
         "e_8_146900040",
+        "e_8_146900050",
         "e_8_146900031",
         "e_8_146900032",
         "e_8_146900033",
         "e_8_146900041",
+        "e_8_146900051",
         "e_8_146900052",
         "e_8_146900034",
         "e_8_146900036",
@@ -20938,6 +20920,7 @@
         "e_8_146900042",
         "e_8_146900193",
         "e_8_146900043",
+        "e_8_146900053",
         "e_8_146900258",
         "e_8_146900259",
         "e_8_146900030",
@@ -20961,6 +20944,7 @@
         "e_8_146900035",
         "e_8_146900042",
         "e_8_146900193",
+        "e_8_146900043",
         "e_8_146900258",
         "e_8_146900259",
         "e_8_146900030"
@@ -23178,8 +23162,18 @@
       "RewardId": 0,
       "OnlineType": "SingleHangUpOnline",
       "IsAutoTrack": false,
-      "ProvideType": {},
-      "DistributeType": "Passive",
+      "ProvideType": {
+        "Conditions": [
+          {
+            "Type": "PreChildQuest",
+            "PreChildQuest": {
+              "QuestId": 880900000,
+              "ChildQuestId": 9
+            }
+          }
+        ]
+      },
+      "DistributeType": "System",
       "ActiveActions": [],
       "Children": [
         "e_8_880900018"
@@ -23904,7 +23898,6 @@
         "e_8_146001223",
         "e_8_146001224",
         "e_8_146001225",
-        "e_8_146001220",
         "e_8_146900274",
         "e_8_146900279",
         "l_8_146000061",
@@ -24068,83 +24061,6 @@
       "Reference": [
         "q_125000124"
       ]
-    }
-  },
-  {
-    "QuestId": 30900004,
-    "Data": {
-      "ObjType": "Quest",
-      "Id": 30900004,
-      "DungeonId": 100,
-      "Type": 100,
-      "RegionId": 100,
-      "Key": "清场保底 - 行为树完成和回退恢复玩法 - 任务1（有存档点）",
-      "TidName": "Quest_30900004_QuestName_30_2",
-      "TidDesc": "Quest_30900004_QuestDesc_30_2",
-      "RewardId": 0,
-      "OnlineType": "SingleHangUpOnline",
-      "ProvideType": {},
-      "DistributeType": "Interact",
-      "AddInteractOption": {
-        "EntityId": 30900083,
-        "Option": {
-          "Guid": "b047063975234831901d9a4b8a929144",
-          "Type": {
-            "Type": "Flow",
-            "Flow": {
-              "FlowListName": "剧情_测试_GBL",
-              "FlowId": 4,
-              "StateId": 1
-            }
-          },
-          "DoIntactType": "Direct",
-          "TidContent": "Quest_30900004_InteractContent_30_1"
-        }
-      },
-      "Reference": [
-        "e_100_30900083",
-        "e_100_30900091",
-        "e_100_30900092",
-        "f_31000167_4"
-      ]
-    }
-  },
-  {
-    "QuestId": 30900005,
-    "Data": {
-      "ObjType": "Quest",
-      "Id": 30900005,
-      "DungeonId": 100,
-      "Type": 100,
-      "RegionId": 100,
-      "Key": "清场保底 - 行为树完成和回退恢复玩法 - 任务2",
-      "TidName": "Quest_30900005_QuestName_30_2",
-      "TidDesc": "Quest_30900005_QuestDesc_30_2",
-      "RewardId": 0,
-      "OnlineType": "SingleHangUpOnline",
-      "ProvideType": {},
-      "DistributeType": "Interact",
-      "Reference": [
-        "e_100_30900084",
-        "e_100_30900093",
-        "f_31000167_4"
-      ],
-      "AddInteractOption": {
-        "EntityId": 30900084,
-        "Option": {
-          "Guid": "32d2f820b5fa4d8489cf72cf379e67b8",
-          "Type": {
-            "Type": "Flow",
-            "Flow": {
-              "FlowListName": "剧情_测试_GBL",
-              "FlowId": 4,
-              "StateId": 1
-            }
-          },
-          "DoIntactType": "Direct",
-          "TidContent": "Quest_30900005_InteractContent_30_4"
-        }
-      }
     }
   }
 ]

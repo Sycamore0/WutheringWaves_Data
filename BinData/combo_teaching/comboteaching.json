@@ -4534,7 +4534,9 @@
     "CommandID": [
       13020601
     ],
-    "guideID": [],
+    "guideID": [
+      2429146
+    ],
     "InputEnums": [
       "大招",
       "普攻"

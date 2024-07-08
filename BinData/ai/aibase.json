@@ -5724,35 +5724,5 @@
     ],
     "Team": true,
     "MonsterType": 3
-  },
-  {
-    "Id": 80021,
-    "StateMachine": "",
-    "AiController": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1Liufangzhewoman_Test/AIC_MO1LiufangzhewomanMd00001.AIC_MO1LiufangzhewomanMd00001",
-    "BehaviorTree": "/Game/Aki/AI/AIMonster/Ordinary/AIMO1Liufangzhewoman_Test/BT_MO1LiufangzhewomanMd00001.BT_MO1LiufangzhewomanMd00001",
-    "SubBehaviorConfigs": [
-      {
-        "Key": "AiSense",
-        "Value": "70072"
-      },
-      {
-        "Key": "AiHate",
-        "Value": "70072"
-      },
-      {
-        "Key": "AiWander",
-        "Value": "2"
-      },
-      {
-        "Key": "AiBattleWander",
-        "Value": "70072"
-      },
-      {
-        "Key": "AiBaseSkill",
-        "Value": "80021"
-      }
-    ],
-    "Team": false,
-    "MonsterType": 4
   }
 ]

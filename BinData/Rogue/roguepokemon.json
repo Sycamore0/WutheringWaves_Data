@@ -133,23 +133,5 @@
     "PokemonName": "RogueBuffPool_9126000043_BuffName",
     "PokemonSettleIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterPile/T_IconMonsterPile_12_UI.T_IconMonsterPile_12_UI",
     "PokemonSkillDesc": "RoguePokemonDesc_linren"
-  },
-  {
-    "Id": 1011,
-    "PhantomItem": 60000422,
-    "Quality": 1,
-    "PokemonIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_999_UI.T_IconMonsterHead_999_UI",
-    "PokemonName": "RoleInfo_5007_Name",
-    "PokemonSettleIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterPile/T_IconMonsterPile_8_UI.T_IconMonsterPile_8_UI",
-    "PokemonSkillDesc": "RoguePokemonDesc_wuguanzhe"
-  },
-  {
-    "Id": 1012,
-    "PhantomItem": 60000322,
-    "Quality": 1,
-    "PokemonIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_325_UI.T_IconMonsterHead_325_UI",
-    "PokemonName": "RogueBuffPool_935008000001_BuffName",
-    "PokemonSettleIcon": "/Game/Aki/UI/UIResources/Common/Image/IconMonsterPile/T_IconMonsterPile_3_UI.T_IconMonsterPile_3_UI",
-    "PokemonSkillDesc": "RoguePokemonDesc_motor"
   }
 ]

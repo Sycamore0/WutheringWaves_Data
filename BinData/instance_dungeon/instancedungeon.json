@@ -7887,7 +7887,7 @@
     "EnterConditionGroup": 0,
     "IconTagPath": "",
     "RenderSettings": [],
-    "DropVisionLimit": 0
+    "DropVisionLimit": 2
   },
   {
     "Id": 2022,
@@ -8014,7 +8014,7 @@
     "EnterConditionGroup": 0,
     "IconTagPath": "",
     "RenderSettings": [],
-    "DropVisionLimit": 0
+    "DropVisionLimit": 2
   },
   {
     "Id": 2023,
@@ -8141,7 +8141,7 @@
     "EnterConditionGroup": 0,
     "IconTagPath": "",
     "RenderSettings": [],
-    "DropVisionLimit": 0
+    "DropVisionLimit": 2
   },
   {
     "Id": 2024,
@@ -8268,7 +8268,7 @@
     "EnterConditionGroup": 0,
     "IconTagPath": "",
     "RenderSettings": [],
-    "DropVisionLimit": 0
+    "DropVisionLimit": 2
   },
   {
     "Id": 2025,
@@ -8395,7 +8395,7 @@
     "EnterConditionGroup": 0,
     "IconTagPath": "",
     "RenderSettings": [],
-    "DropVisionLimit": 0
+    "DropVisionLimit": 2
   },
   {
     "Id": 2026,
@@ -8522,7 +8522,7 @@
     "EnterConditionGroup": 0,
     "IconTagPath": "",
     "RenderSettings": [],
-    "DropVisionLimit": 0
+    "DropVisionLimit": 2
   },
   {
     "Id": 2027,
@@ -8649,7 +8649,7 @@
     "EnterConditionGroup": 0,
     "IconTagPath": "",
     "RenderSettings": [],
-    "DropVisionLimit": 0
+    "DropVisionLimit": 2
   },
   {
     "Id": 2028,
@@ -8776,7 +8776,7 @@
     "EnterConditionGroup": 0,
     "IconTagPath": "",
     "RenderSettings": [],
-    "DropVisionLimit": 0
+    "DropVisionLimit": 2
   },
   {
     "Id": 4001,
@@ -36778,31 +36778,8 @@
     "RecommendElement": [],
     "ShareAttri": 0,
     "LimitViewName": [
-      "CommonActivityView",
       "EditFormationView",
-      "RoleRootView",
-      "RoleBreachView",
-      "RoleSkillView",
-      "RoleLevelUpView",
-      "RolePhantomSkillView",
-      "ShopView",
-      "FunctionView",
-      "InventoryView",
-      "MailBoxView",
-      "WeaponRootView",
-      "WeaponReplaceView",
-      "WeaponBreachSuccessView",
-      "WeaponResonanceSuccessView",
-      "PhantomCultureView",
-      "InventoryPcView",
-      "FriendView",
-      "PayShopRootView",
-      "OnlineWorldHallView",
-      "WorldMapView",
-      "QuestView",
-      "GachaMainView",
-      "BattlePassMainView",
-      "functionView"
+      "EditBattleTeamView"
     ],
     "CanUseItem": 1,
     "GuideType": 0,
@@ -40060,261 +40037,6 @@
     "GuideType": 0,
     "GuideValue": 0,
     "SettleButtonType": 2,
-    "SubTitle": [],
-    "SubInstanceTitle": "",
-    "AutoLeaveTime": 60,
-    "LimitTime": 0,
-    "LeaveWaitTime": 0,
-    "FailTips": "",
-    "VerifyCreatureGen": false,
-    "DifficultyLevel": [],
-    "DifficultyDesc": [],
-    "Drop": [],
-    "EnterCount": 0,
-    "EnterConditionGroup": 0,
-    "IconTagPath": "",
-    "RenderSettings": [],
-    "DropVisionLimit": 0
-  },
-  {
-    "Id": 8114,
-    "MapConfigId": 8101,
-    "MapName": "InstanceDungeon_8106_MapName",
-    "InstType": 2,
-    "InstSubType": 14,
-    "OnlineType": 1,
-    "CustomTypes": [],
-    "MiniMapId": 1,
-    "SubLevels": [],
-    "FightFormationId": 0,
-    "TrialRoleInfo": [
-      0,
-      0,
-      0
-    ],
-    "TrialRoleFormation": 8106,
-    "ReviveId": 7,
-    "BornPosition": [
-      -5110,
-      260,
-      450
-    ],
-    "BornRotation": [
-      0,
-      0,
-      160
-    ],
-    "RecoverWorldLocation": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "EntranceEntities": [],
-    "ExitEntities": [],
-    "DungeonDesc": "InstanceDungeon_5001_DungeonDesc",
-    "Title": 999,
-    "BannerPath": "/Game/Aki/UI/UIResources/UiCheckpoints/Image/T_CheckpointsBg8_UI.T_CheckpointsBg8_UI",
-    "MonsterPreview": [],
-    "MonsterTips": "",
-    "FirstRewardId": 0,
-    "RewardId": 0,
-    "RepeatRewardId": 0,
-    "EnterControlId": 0,
-    "EnterCondition": [],
-    "EnterConditionText": "",
-    "DifficultyIcon": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_14_UI.T_IconFunctionOpen_14_UI",
-    "EntityLevel": 65,
-    "RecommendLevel": [
-      {
-        "Key": 1,
-        "Value": 70
-      }
-    ],
-    "RecommendRole": [],
-    "RecommendElement": [],
-    "ShareAttri": 1,
-    "LimitViewName": [
-      "EditFormationView",
-      "EditBattleTeamView"
-    ],
-    "CanUseItem": 0,
-    "GuideType": 4,
-    "GuideValue": 1601,
-    "SettleButtonType": 3,
-    "SubTitle": [],
-    "SubInstanceTitle": "",
-    "AutoLeaveTime": 60,
-    "LimitTime": 0,
-    "LeaveWaitTime": 0,
-    "FailTips": "",
-    "VerifyCreatureGen": false,
-    "DifficultyLevel": [],
-    "DifficultyDesc": [],
-    "Drop": [],
-    "EnterCount": 0,
-    "EnterConditionGroup": 0,
-    "IconTagPath": "",
-    "RenderSettings": [],
-    "DropVisionLimit": 0
-  },
-  {
-    "Id": 8115,
-    "MapConfigId": 8101,
-    "MapName": "InstanceDungeon_8103_MapName",
-    "InstType": 2,
-    "InstSubType": 14,
-    "OnlineType": 1,
-    "CustomTypes": [],
-    "MiniMapId": 1,
-    "SubLevels": [],
-    "FightFormationId": 0,
-    "TrialRoleInfo": [
-      0,
-      0,
-      0
-    ],
-    "TrialRoleFormation": 8103,
-    "ReviveId": 7,
-    "BornPosition": [
-      -5110,
-      260,
-      450
-    ],
-    "BornRotation": [
-      0,
-      0,
-      160
-    ],
-    "RecoverWorldLocation": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "EntranceEntities": [],
-    "ExitEntities": [],
-    "DungeonDesc": "InstanceDungeon_5001_DungeonDesc",
-    "Title": 999,
-    "BannerPath": "/Game/Aki/UI/UIResources/UiCheckpoints/Image/T_CheckpointsBg8_UI.T_CheckpointsBg8_UI",
-    "MonsterPreview": [],
-    "MonsterTips": "",
-    "FirstRewardId": 0,
-    "RewardId": 0,
-    "RepeatRewardId": 0,
-    "EnterControlId": 0,
-    "EnterCondition": [],
-    "EnterConditionText": "",
-    "DifficultyIcon": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_14_UI.T_IconFunctionOpen_14_UI",
-    "EntityLevel": 65,
-    "RecommendLevel": [
-      {
-        "Key": 1,
-        "Value": 70
-      }
-    ],
-    "RecommendRole": [],
-    "RecommendElement": [],
-    "ShareAttri": 1,
-    "LimitViewName": [
-      "EditFormationView",
-      "EditBattleTeamView"
-    ],
-    "CanUseItem": 0,
-    "GuideType": 4,
-    "GuideValue": 1602,
-    "SettleButtonType": 3,
-    "SubTitle": [],
-    "SubInstanceTitle": "",
-    "AutoLeaveTime": 60,
-    "LimitTime": 0,
-    "LeaveWaitTime": 0,
-    "FailTips": "",
-    "VerifyCreatureGen": false,
-    "DifficultyLevel": [],
-    "DifficultyDesc": [],
-    "Drop": [],
-    "EnterCount": 0,
-    "EnterConditionGroup": 0,
-    "IconTagPath": "",
-    "RenderSettings": [],
-    "DropVisionLimit": 0
-  },
-  {
-    "Id": 8116,
-    "MapConfigId": 8101,
-    "MapName": "InstanceDungeon_8102_MapName",
-    "InstType": 2,
-    "InstSubType": 14,
-    "OnlineType": 1,
-    "CustomTypes": [],
-    "MiniMapId": 1,
-    "SubLevels": [],
-    "FightFormationId": 0,
-    "TrialRoleInfo": [
-      0,
-      0,
-      0
-    ],
-    "TrialRoleFormation": 8102,
-    "ReviveId": 7,
-    "BornPosition": [
-      -5110,
-      260,
-      450
-    ],
-    "BornRotation": [
-      0,
-      0,
-      160
-    ],
-    "RecoverWorldLocation": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "EntranceEntities": [],
-    "ExitEntities": [],
-    "DungeonDesc": "InstanceDungeon_5001_DungeonDesc",
-    "Title": 999,
-    "BannerPath": "/Game/Aki/UI/UIResources/UiCheckpoints/Image/T_CheckpointsBg8_UI.T_CheckpointsBg8_UI",
-    "MonsterPreview": [],
-    "MonsterTips": "",
-    "FirstRewardId": 0,
-    "RewardId": 0,
-    "RepeatRewardId": 0,
-    "EnterControlId": 0,
-    "EnterCondition": [],
-    "EnterConditionText": "",
-    "DifficultyIcon": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_14_UI.T_IconFunctionOpen_14_UI",
-    "EntityLevel": 65,
-    "RecommendLevel": [
-      {
-        "Key": 1,
-        "Value": 70
-      }
-    ],
-    "RecommendRole": [],
-    "RecommendElement": [],
-    "ShareAttri": 1,
-    "LimitViewName": [
-      "EditFormationView",
-      "EditBattleTeamView"
-    ],
-    "CanUseItem": 0,
-    "GuideType": 4,
-    "GuideValue": 1204,
-    "SettleButtonType": 3,
     "SubTitle": [],
     "SubInstanceTitle": "",
     "AutoLeaveTime": 60,

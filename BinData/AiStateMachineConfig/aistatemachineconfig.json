@@ -10634,10 +10634,10 @@
   {
     "Id": "SM_ML1LinrenMd00301",
     "StateMachineJson": {
-      "Version": 463622818,
+      "Version": 1684390152,
       "StateMachines": [
         3,
-        13
+        12
       ],
       "Nodes": [
         {
@@ -10652,10 +10652,46 @@
             7,
             9,
             10,
-            11,
-            12
+            11
           ],
           "Transitions": [
+            {
+              "From": 4,
+              "To": 10,
+              "TransitionPredictionType": 0,
+              "Weight": 4,
+              "Conditions": [
+                {
+                  "Index": 0,
+                  "Name": "CondAnd",
+                  "Type": 1,
+                  "Reverse": false,
+                  "CondAnd": {
+                    "Conditions": [
+                      1,
+                      2
+                    ]
+                  }
+                },
+                {
+                  "Index": 1,
+                  "Name": "CondHate",
+                  "Type": 20,
+                  "Reverse": false
+                },
+                {
+                  "Index": 2,
+                  "Name": "CondTag",
+                  "Type": 14,
+                  "Reverse": false,
+                  "IsClient": true,
+                  "CondTag": {
+                    "TagId": -729397942,
+                    "TagName": "怪物.common.关卡.难度AI分类.BossRush"
+                  }
+                }
+              ]
+            },
             {
               "From": 4,
               "To": 6,
@@ -10836,73 +10872,6 @@
                   }
                 }
               ]
-            },
-            {
-              "From": 4,
-              "To": 12,
-              "TransitionPredictionType": 0,
-              "Weight": 0,
-              "Conditions": [
-                {
-                  "Index": 0,
-                  "Name": "CondAnd",
-                  "Type": 1,
-                  "Reverse": false,
-                  "CondAnd": {
-                    "Conditions": [
-                      1
-                    ]
-                  }
-                },
-                {
-                  "Index": 1,
-                  "Name": "CondTag",
-                  "Type": 14,
-                  "Reverse": false,
-                  "IsClient": true,
-                  "CondTag": {
-                    "TagId": -729397942,
-                    "TagName": "怪物.common.关卡.难度AI分类.BossRush"
-                  }
-                }
-              ]
-            },
-            {
-              "From": 12,
-              "To": 10,
-              "TransitionPredictionType": 0,
-              "Weight": 0,
-              "Conditions": [
-                {
-                  "Index": 0,
-                  "Name": "CondAnd",
-                  "Type": 1,
-                  "Reverse": false,
-                  "CondAnd": {
-                    "Conditions": [
-                      1,
-                      2
-                    ]
-                  }
-                },
-                {
-                  "Index": 1,
-                  "Name": "CondHate",
-                  "Type": 20,
-                  "Reverse": false
-                },
-                {
-                  "Index": 2,
-                  "Name": "CondTag",
-                  "Type": 14,
-                  "Reverse": false,
-                  "IsClient": true,
-                  "CondTag": {
-                    "TagId": -729397942,
-                    "TagName": "怪物.common.关卡.难度AI分类.BossRush"
-                  }
-                }
-              ]
             }
           ]
         },
@@ -10916,13 +10885,6 @@
               "Name": "BindDisableActor",
               "Type": 105,
               "BindDisableActor": {}
-            },
-            {
-              "Name": "BindAiHateConfig",
-              "Type": 102,
-              "BindAiHateConfig": {
-                "ConfigId": 10
-              }
             }
           ],
           "Children": [],
@@ -11083,21 +11045,6 @@
         },
         {
           "Uuid": 12,
-          "Name": "rush待机",
-          "TakeControlType": 0,
-          "TransitionRule": 0,
-          "BindStates": [
-            {
-              "Name": "BindDisableActor",
-              "Type": 105,
-              "BindDisableActor": {}
-            }
-          ],
-          "Children": [],
-          "Transitions": []
-        },
-        {
-          "Uuid": 13,
           "ReferenceUuid": 10129,
           "Name": "引用_CBoss狂暴瘫痪状态机",
           "TakeControlType": 0,
@@ -15042,7 +14989,7 @@
   {
     "Id": "SM_Common",
     "StateMachineJson": {
-      "Version": 1831505078,
+      "Version": 1958343544,
       "StateMachines": [
         10159,
         10129,
@@ -16553,7 +16500,7 @@
             {
               "From": 10030,
               "To": 10027,
-              "TransitionPredictionType": 0,
+              "TransitionPredictionType": 2,
               "Weight": 0,
               "Conditions": [
                 {
@@ -31065,7 +31012,7 @@
   {
     "Id": "SM_Common_Didi_JiyanInstance",
     "StateMachineJson": {
-      "Version": 1168063104,
+      "Version": 2020566582,
       "StateMachines": [
         2
       ],
@@ -31150,8 +31097,8 @@
                   "Reverse": true,
                   "IsClient": true,
                   "CondTag": {
-                    "TagId": 389944200,
-                    "TagName": "行为状态.动作状态.受击.倒地起身"
+                    "TagId": -1200511422,
+                    "TagName": "怪物.common.过程标识.起身中"
                   }
                 }
               ]
@@ -49977,7 +49924,7 @@
   {
     "Id": "SM_AIMB1SuiguangMd00501",
     "StateMachineJson": {
-      "Version": 1619125596,
+      "Version": 692553092,
       "StateMachines": [
         7,
         34
@@ -50341,16 +50288,7 @@
               "HideOnLoading": false,
               "BlendInTime": -1
             }
-          },
-          "BindStates": [
-            {
-              "Name": "BindTag",
-              "Type": 3,
-              "BindTag": {
-                "TagId": 14547894
-              }
-            }
-          ]
+          }
         },
         {
           "Uuid": 13,
@@ -50553,16 +50491,7 @@
               "HideOnLoading": false,
               "BlendInTime": -1
             }
-          },
-          "BindStates": [
-            {
-              "Name": "BindTag",
-              "Type": 3,
-              "BindTag": {
-                "TagId": 14547894
-              }
-            }
-          ]
+          }
         },
         {
           "Uuid": 18,
@@ -50901,16 +50830,7 @@
           "Uuid": 25,
           "Name": "剧情_一阶段战斗",
           "TakeControlType": 0,
-          "TransitionRule": 0,
-          "BindStates": [
-            {
-              "Name": "BindTag",
-              "Type": 3,
-              "BindTag": {
-                "TagId": -1576271492
-              }
-            }
-          ]
+          "TransitionRule": 0
         },
         {
           "Uuid": 26,
@@ -50940,31 +50860,13 @@
                 "BuffId": 800170171
               }
             }
-          ],
-          "BindStates": [
-            {
-              "Name": "BindTag",
-              "Type": 3,
-              "BindTag": {
-                "TagId": -1576271492
-              }
-            }
           ]
         },
         {
           "Uuid": 28,
           "Name": "复刷_战斗",
           "TakeControlType": 0,
-          "TransitionRule": 0,
-          "BindStates": [
-            {
-              "Name": "BindTag",
-              "Type": 3,
-              "BindTag": {
-                "TagId": -1576271492
-              }
-            }
-          ]
+          "TransitionRule": 0
         },
         {
           "Uuid": 29,
@@ -51055,16 +50957,7 @@
           "Uuid": 32,
           "Name": "剧情_二阶段战斗",
           "TakeControlType": 0,
-          "TransitionRule": 0,
-          "BindStates": [
-            {
-              "Name": "BindTag",
-              "Type": 3,
-              "BindTag": {
-                "TagId": -1576271492
-              }
-            }
-          ]
+          "TransitionRule": 0
         },
         {
           "Uuid": 33,
