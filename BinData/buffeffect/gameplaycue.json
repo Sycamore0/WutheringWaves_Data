@@ -31919,8 +31919,8 @@
   },
   {
     "Id": "640007015",
-    "Path": "/Game/Aki/Effect/UI/Niagaras/Common/NS_Fx_LGUI_FightHook_Wind_01.NS_Fx_LGUI_FightHook_Wind_01",
-    "CueType": 0,
+    "Path": "/Game/Aki/Effect/DataAsset/ScreenDA/SD_Fight/Bigworld/DA_Fx_Screen_SpeedUp.DA_Fx_Screen_SpeedUp",
+    "CueType": 9,
     "Comp": 1,
     "CompName": "Mesh",
     "Socket": "Bip001",

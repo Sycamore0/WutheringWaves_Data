@@ -19547,7 +19547,6 @@
         "e_8_131000239",
         "e_8_131000224",
         "e_8_131000240",
-        "e_8_133003534",
         "f_31000053_7",
         "f_31000053_6"
       ]
@@ -60552,8 +60551,8 @@
       },
       "Reference": [
         "e_8_106003328",
-        "e_8_106003321",
         "e_8_106003320",
+        "e_8_106003321",
         "e_8_106003318"
       ]
     }
@@ -69900,7 +69899,6 @@
       "ObjType": "LevelPlay",
       "Reference": [
         "e_8_146001248",
-        "e_8_146001186",
         "e_8_146900129",
         "e_8_146900118",
         "e_8_146900233",
@@ -69953,7 +69951,6 @@
       "ObjType": "LevelPlay",
       "Reference": [
         "e_8_146001252",
-        "e_8_146001186",
         "e_8_146900130",
         "e_8_146900119",
         "e_8_146900234",
@@ -73324,6 +73321,7 @@
         "e_8_131000031",
         "e_8_133900515",
         "e_8_133900178",
+        "e_8_133900721",
         "e_8_133900176",
         "e_8_133900428",
         "e_8_133900180",
@@ -74002,7 +74000,8 @@
         "e_8_141900252",
         "e_8_141900253",
         "e_8_141900254",
-        "e_8_141900255"
+        "e_8_141900255",
+        "e_8_133900720"
       ]
     }
   },
@@ -75819,21 +75818,11 @@
       "LevelAdditiveId": 0,
       "EnterRadius": 45000,
       "LeaveRadius": 50000,
-      "DelayRefresh": true,
-      "DelayDestroy": true,
-      "LevelPlayOpenCondition": {
-        "Conditions": [
-          {
-            "Type": "PreChildQuest",
-            "PreChildQuest": {
-              "QuestId": 125000124,
-              "ChildQuestId": 80
-            }
-          }
-        ]
-      },
+      "DelayRefresh": false,
+      "DelayDestroy": false,
+      "LevelPlayOpenCondition": {},
       "LevelPlayActive": {
-        "ActiveType": 0
+        "ActiveType": 1
       },
       "LevelPlayRewardConfig": {
         "Type": "None"
@@ -78926,8 +78915,8 @@
       "PackId": 0,
       "LevelPlayEntityId": 11900200,
       "LevelAdditiveId": 0,
-      "EnterRadius": 12000,
-      "LeaveRadius": 15000,
+      "EnterRadius": 5000,
+      "LeaveRadius": 6000,
       "DelayRefresh": true,
       "DelayDestroy": true,
       "LevelPlayOpenCondition": {
@@ -79190,8 +79179,8 @@
       "PackId": 0,
       "LevelPlayEntityId": 11900215,
       "LevelAdditiveId": 0,
-      "EnterRadius": 12000,
-      "LeaveRadius": 15000,
+      "EnterRadius": 5000,
+      "LeaveRadius": 6000,
       "DelayRefresh": true,
       "DelayDestroy": true,
       "LevelPlayOpenCondition": {
@@ -80549,7 +80538,6 @@
       "Reference": [
         "e_8_136904881",
         "e_8_136904880",
-        "e_8_136905848",
         "e_8_136903023",
         "e_8_136903024",
         "e_8_136903025",
@@ -80559,6 +80547,7 @@
         "e_8_141000161",
         "e_8_141000635",
         "e_8_141000637",
+        "e_8_133900099",
         "e_8_136904882",
         "e_8_136905660",
         "e_8_136905800",
@@ -83281,6 +83270,205 @@
         "e_8_131000155",
         "e_8_102001732",
         "e_8_146900194"
+      ]
+    }
+  },
+  {
+    "LevelPlayId": 146900008,
+    "Data": {
+      "ObjType": "LevelPlay",
+      "Id": 146900008,
+      "Key": "罩子+怪物+宝箱",
+      "InternalDest": "",
+      "LevelId": 8,
+      "TidName": "LevelPlay_146900008_LevelPlayName_146_1",
+      "Type": "MonsterTreasure",
+      "OnlineType": "Multiplayer",
+      "PackId": 0,
+      "LevelPlayEntityId": 146900290,
+      "LevelAdditiveId": 0,
+      "EnterRadius": 12000,
+      "LeaveRadius": 15000,
+      "DelayRefresh": true,
+      "DelayDestroy": true,
+      "LevelPlayOpenCondition": {
+        "Conditions": []
+      },
+      "LevelPlayActive": {
+        "ActiveType": 0
+      },
+      "LevelPlayRewardConfig": {
+        "Type": "None"
+      },
+      "LevelPlayRefreshConfig": {
+        "Type": "None"
+      },
+      "LevelPlayTrack": {
+        "TrackRadius": 2000,
+        "TrackPriority": -5
+      },
+      "LevelPlayMark": {
+        "MarkId": 0,
+        "MapBgPath": ""
+      },
+      "Children": [
+        "e_8_146001163"
+      ],
+      "Reference": [
+        "e_8_146900290",
+        "e_8_146900106",
+        "e_8_146900105",
+        "e_8_146001163"
+      ]
+    }
+  },
+  {
+    "LevelPlayId": 30900009,
+    "Data": {
+      "ObjType": "LevelPlay",
+      "Id": 30900009,
+      "Key": "清场保底 - 行为树完成和回退恢复玩法 - 存档点前玩法",
+      "InternalDest": "",
+      "LevelId": 100,
+      "TidName": "LevelPlay_30900009_LevelPlayName_30_2",
+      "Type": "Challenge",
+      "OnlineType": "Local",
+      "PackId": 0,
+      "LevelPlayEntityId": 30900089,
+      "LevelAdditiveId": 0,
+      "EnterRadius": 12000,
+      "LeaveRadius": 15000,
+      "DelayRefresh": true,
+      "DelayDestroy": true,
+      "LevelPlayOpenCondition": {
+        "Conditions": []
+      },
+      "LevelPlayActive": {
+        "ActiveType": 0
+      },
+      "LevelPlayRewardConfig": {
+        "Type": "None"
+      },
+      "LevelPlayRefreshConfig": {
+        "Type": "None"
+      },
+      "LevelPlayTrack": {
+        "TrackRadius": 2000,
+        "TrackPriority": -5
+      },
+      "LevelPlayMark": {
+        "MarkId": 0,
+        "MapBgPath": ""
+      },
+      "Reference": [
+        "e_100_30900089",
+        "e_100_30900085",
+        "e_100_30900087"
+      ],
+      "Children": [
+        "e_100_30900085",
+        "e_100_30900087"
+      ]
+    }
+  },
+  {
+    "LevelPlayId": 30900010,
+    "Data": {
+      "ObjType": "LevelPlay",
+      "Id": 30900010,
+      "Key": "清场保底 - 行为树完成和回退恢复玩法 - 存档点后玩法",
+      "InternalDest": "",
+      "LevelId": 100,
+      "TidName": "LevelPlay_30900010_LevelPlayName_30_2",
+      "Type": "Challenge",
+      "OnlineType": "Local",
+      "PackId": 0,
+      "LevelPlayEntityId": 30900090,
+      "LevelAdditiveId": 0,
+      "EnterRadius": 12000,
+      "LeaveRadius": 15000,
+      "DelayRefresh": true,
+      "DelayDestroy": true,
+      "LevelPlayOpenCondition": {
+        "Conditions": []
+      },
+      "LevelPlayActive": {
+        "ActiveType": 0
+      },
+      "LevelPlayRewardConfig": {
+        "Type": "None"
+      },
+      "LevelPlayRefreshConfig": {
+        "Type": "None"
+      },
+      "LevelPlayTrack": {
+        "TrackRadius": 2000,
+        "TrackPriority": -5
+      },
+      "LevelPlayMark": {
+        "MarkId": 0,
+        "MapBgPath": ""
+      },
+      "Reference": [
+        "e_100_30900090",
+        "e_100_30900086",
+        "e_100_30900088"
+      ],
+      "Children": [
+        "e_100_30900086",
+        "e_100_30900088"
+      ]
+    }
+  },
+  {
+    "LevelPlayId": 146900009,
+    "Data": {
+      "ObjType": "LevelPlay",
+      "Id": 146900009,
+      "Key": "水下罩子",
+      "InternalDest": "",
+      "LevelId": 8,
+      "TidName": "LevelPlay_146900009_LevelPlayName_146_1",
+      "Type": "Quest",
+      "OnlineType": "Local",
+      "PackId": 0,
+      "LevelPlayEntityId": 146900291,
+      "LevelAdditiveId": 0,
+      "EnterRadius": 12000,
+      "LeaveRadius": 15000,
+      "DelayRefresh": true,
+      "DelayDestroy": true,
+      "LevelPlayOpenCondition": {
+        "Conditions": []
+      },
+      "LevelPlayActive": {
+        "ActiveType": 0
+      },
+      "LevelPlayRewardConfig": {
+        "Type": "None"
+      },
+      "LevelPlayRefreshConfig": {
+        "Type": "None"
+      },
+      "LevelPlayTrack": {
+        "TrackRadius": 2000,
+        "TrackPriority": -5
+      },
+      "LevelPlayMark": {
+        "MarkId": 0,
+        "MapBgPath": ""
+      },
+      "Reference": [
+        "e_8_146900291",
+        "e_8_131000061",
+        "e_8_146900064",
+        "e_8_102001708",
+        "e_8_102001709",
+        "e_8_102001710",
+        "e_8_146900063",
+        "e_8_146001140",
+        "e_8_146001152",
+        "e_8_146001151"
       ]
     }
   }

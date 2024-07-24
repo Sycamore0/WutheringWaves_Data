@@ -5677,7 +5677,7 @@
     "EntityType": "Monster",
     "EntityLogic": "Monster",
     "ModelId": 390109,
-    "HalfHeight": 0
+    "HalfHeight": 185
   },
   {
     "Id": 711,
@@ -5685,7 +5685,7 @@
     "EntityType": "Monster",
     "EntityLogic": "Monster",
     "ModelId": 390109,
-    "HalfHeight": 0
+    "HalfHeight": 185
   },
   {
     "Id": 712,
@@ -5709,7 +5709,7 @@
     "EntityType": "Monster",
     "EntityLogic": "Monster",
     "ModelId": 390250,
-    "HalfHeight": 0
+    "HalfHeight": 185
   },
   {
     "Id": 715,
@@ -6165,7 +6165,7 @@
     "EntityType": "Monster",
     "EntityLogic": "Monster",
     "ModelId": 390109,
-    "HalfHeight": 0
+    "HalfHeight": 185
   },
   {
     "Id": 772,
@@ -6173,7 +6173,7 @@
     "EntityType": "Monster",
     "EntityLogic": "Monster",
     "ModelId": 390109,
-    "HalfHeight": 0
+    "HalfHeight": 185
   },
   {
     "Id": 773,
@@ -16293,7 +16293,7 @@
     "EntityType": "Npc",
     "EntityLogic": "Npc",
     "ModelId": 400325,
-    "HalfHeight": 80
+    "HalfHeight": 62
   },
   {
     "Id": 2038,
@@ -16317,7 +16317,7 @@
     "EntityType": "Npc",
     "EntityLogic": "Npc",
     "ModelId": 400328,
-    "HalfHeight": 80
+    "HalfHeight": 62
   },
   {
     "Id": 2041,
@@ -16437,7 +16437,7 @@
     "EntityType": "Npc",
     "EntityLogic": "Npc",
     "ModelId": 400343,
-    "HalfHeight": 80
+    "HalfHeight": 62
   },
   {
     "Id": 2056,
@@ -16461,7 +16461,7 @@
     "EntityType": "Npc",
     "EntityLogic": "Npc",
     "ModelId": 400346,
-    "HalfHeight": 80
+    "HalfHeight": 62
   },
   {
     "Id": 2059,
@@ -17253,7 +17253,7 @@
     "EntityType": "Vision",
     "EntityLogic": "Vision",
     "ModelId": 200052,
-    "HalfHeight": 0
+    "HalfHeight": 185
   },
   {
     "Id": 2158,
@@ -17285,7 +17285,7 @@
     "EntityType": "Vision",
     "EntityLogic": "Vision",
     "ModelId": 201052,
-    "HalfHeight": 0
+    "HalfHeight": 185
   },
   {
     "Id": 2162,

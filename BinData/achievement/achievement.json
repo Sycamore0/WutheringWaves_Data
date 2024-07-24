@@ -3204,18 +3204,6 @@
     "ClientTrigger": false
   },
   {
-    "Id": 300166,
-    "GroupId": 3001,
-    "Level": 1,
-    "Name": "Achievement_300166_Name",
-    "Desc": "Achievement_300166_Desc",
-    "IconPath": "",
-    "OverrideDropId": 0,
-    "Hidden": false,
-    "NextLink": -1,
-    "ClientTrigger": false
-  },
-  {
     "Id": 300167,
     "GroupId": 3001,
     "Level": 1,
@@ -3329,18 +3317,6 @@
     "Level": 1,
     "Name": "Achievement_300176_Name",
     "Desc": "Achievement_300176_Desc",
-    "IconPath": "",
-    "OverrideDropId": 0,
-    "Hidden": false,
-    "NextLink": -1,
-    "ClientTrigger": false
-  },
-  {
-    "Id": 300412,
-    "GroupId": 3004,
-    "Level": 1,
-    "Name": "Achievement_300412_Name",
-    "Desc": "Achievement_300412_Desc",
     "IconPath": "",
     "OverrideDropId": 0,
     "Hidden": false,

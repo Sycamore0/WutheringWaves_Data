@@ -12292,5 +12292,11 @@
     "DebugText": "登录繁忙，请稍候重试",
     "Text": "ErrorCode_1900094_Text",
     "IsTip": false
+  },
+  {
+    "Id": 1900071,
+    "DebugText": "声匣探索度已满",
+    "Text": "ErrorCode_1900095_Text",
+    "IsTip": false
   }
 ]

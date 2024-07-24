@@ -689,7 +689,7 @@
     "LightSequence": ""
   },
   {
-    "Id": 56,
+    "Id": 55,
     "ParentViewName": "RoguelikeAchievementView",
     "ChildViewName": "RoguelikeAchievementView",
     "TabName": "Achievement_Rogue_Name",

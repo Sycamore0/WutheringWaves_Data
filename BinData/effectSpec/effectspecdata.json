@@ -9067,7 +9067,7 @@
     "Id": 486959200,
     "Path": "/game/aki/effect/dataasset/niagara/bigworld/shengxia/da_fx_sl2_shengxia02_01.da_fx_sl2_shengxia02_01",
     "SpecType": 1,
-    "EffectRegularType": 8,
+    "EffectRegularType": 9,
     "LifeTime": -1,
     "Children": []
   },
@@ -63388,7 +63388,7 @@
     "Id": 1235772930,
     "Path": "/game/aki/effect/effectgroup/bigworld/shengxia/da_fx_group_sl2_shengxia_02.da_fx_group_sl2_shengxia_02",
     "SpecType": 0,
-    "EffectRegularType": 8,
+    "EffectRegularType": 9,
     "LifeTime": -1,
     "Children": [
       486959200
@@ -123417,8 +123417,8 @@
     "Id": 1650395391,
     "Path": "/game/aki/effect/effectgroup/bigworld/longshan/da_fx_group_sl3_cxs_lmj_loop.da_fx_group_sl3_cxs_lmj_loop",
     "SpecType": 0,
-    "EffectRegularType": 10,
-    "LifeTime": 1.5,
+    "EffectRegularType": 9,
+    "LifeTime": 3.5,
     "Children": [
       1020255121
     ]
@@ -132003,7 +132003,7 @@
     "Id": 1895261243,
     "Path": "/game/aki/effect/dataasset/niagara/scene/comnon/smoke/da_fx_sc3_smokflow01.da_fx_sc3_smokflow01",
     "SpecType": 1,
-    "EffectRegularType": 7,
+    "EffectRegularType": 0,
     "LifeTime": -1,
     "Children": []
   },
@@ -132554,5 +132554,63 @@
       699904101,
       1843855037
     ]
+  },
+  {
+    "Id": -1964555619,
+    "Path": "/game/aki/effect/dataasset/niagara/bigworld/longshan/da_fx_sl3_cxs_lmj_loop02.da_fx_sl3_cxs_lmj_loop02",
+    "SpecType": 1,
+    "EffectRegularType": 10,
+    "LifeTime": 3.5,
+    "Children": []
+  },
+  {
+    "Id": -1440191261,
+    "Path": "/game/aki/effect/dataasset/niagara/bigworld/longshan/da_fx_sl3_cxs_lmj_loop03.da_fx_sl3_cxs_lmj_loop03",
+    "SpecType": 1,
+    "EffectRegularType": 10,
+    "LifeTime": 3.5,
+    "Children": []
+  },
+  {
+    "Id": -1765428791,
+    "Path": "/game/aki/effect/dataasset/niagara/bigworld/longshan/da_fx_sl3_cxs_lmj_loop04.da_fx_sl3_cxs_lmj_loop04",
+    "SpecType": 1,
+    "EffectRegularType": 10,
+    "LifeTime": 3.5,
+    "Children": []
+  },
+  {
+    "Id": -142867125,
+    "Path": "/game/aki/effect/dataasset/niagara/bigworld/longshan/da_fx_sl3_cxs_lmj_loop05.da_fx_sl3_cxs_lmj_loop05",
+    "SpecType": 1,
+    "EffectRegularType": 10,
+    "LifeTime": 3.5,
+    "Children": []
+  },
+  {
+    "Id": -2065873639,
+    "Path": "/game/aki/effect/effectgroup/bigworld/longshan/da_fx_group_sl3_com_smoke_burst02.da_fx_group_sl3_com_smoke_burst02",
+    "SpecType": 0,
+    "EffectRegularType": 9,
+    "LifeTime": 3,
+    "Children": [
+      61177187
+    ]
+  },
+  {
+    "Id": 272561719,
+    "Path": "/game/aki/effect/dataasset/niagara/scene/cxs/da_fx_base_timefrea_men_01.da_fx_base_timefrea_men_01",
+    "SpecType": 1,
+    "EffectRegularType": 8,
+    "LifeTime": -1,
+    "Children": []
+  },
+  {
+    "Id": -2094401031,
+    "Path": "/game/aki/effect/dataasset/niagara/scene/cxs/da_fx_base_timefrea_men_2.da_fx_base_timefrea_men_2",
+    "SpecType": 1,
+    "EffectRegularType": 9,
+    "LifeTime": -1,
+    "Children": []
   }
 ]
