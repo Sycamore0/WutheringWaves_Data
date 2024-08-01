@@ -72970,25 +72970,5 @@
   {
     "Guid": "1001_131900214",
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":131000073}]"
-  },
-  {
-    "Guid": "8_146001163",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":146900008}]"
-  },
-  {
-    "Guid": "100_30900087",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":30900009}]"
-  },
-  {
-    "Guid": "100_30900088",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":30900010}]"
-  },
-  {
-    "Guid": "100_30900085",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":30900009}]"
-  },
-  {
-    "Guid": "100_30900086",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":30900010}]"
   }
 ]

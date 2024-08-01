@@ -26576,7 +26576,7 @@
     "TidContent": "",
     "Condition": "",
     "UniquenessTest": "",
-    "DoIntactType": "Direct",
+    "DoIntactType": "Auto",
     "Range": 0,
     "Duration": ""
   },
@@ -30853,7 +30853,8 @@
       "Flow": {
         "FlowListName": "剧情_测试_GBL",
         "FlowId": 4,
-        "StateId": 2
+        "StateId": 1,
+        "FlowGuid": "9d25e2a83b1a4b0289cf58ae62017f7c"
       }
     },
     "Icon": "",
@@ -30909,9 +30910,9 @@
           "Name": "CameraLookAt",
           "Params": {
             "Pos": {
-              "X": 224555.41,
-              "Y": 305148,
-              "Z": -5426.37
+              "X": 232283.95,
+              "Y": 305170.5,
+              "Z": -5142.81
             },
             "FadeInTime": 0.5,
             "StayTime": 0,
@@ -30925,9 +30926,9 @@
           "Name": "PlayerLookAt",
           "Params": {
             "Pos": {
-              "X": 224555.41,
-              "Y": 305148,
-              "Z": -5426.37
+              "X": 232283.95,
+              "Y": 305170.5,
+              "Z": -5142.81
             },
             "CameraMove": false
           },
@@ -30939,9 +30940,9 @@
           "Params": {
             "EntityId": 140900077,
             "Pos": {
-              "X": 224657.16,
-              "Y": 305507.69,
-              "Z": -5533.97
+              "X": 232522.63,
+              "Y": 305497.31,
+              "Z": -5265.92
             }
           },
           "ActionGuid": "1d6392c98ad4420bb0ee034952ee2afd",
@@ -30977,9 +30978,9 @@
           "Name": "CameraLookAt",
           "Params": {
             "Pos": {
-              "X": 224657.16,
-              "Y": 305507.69,
-              "Z": -5533.97
+              "X": 232522.63,
+              "Y": 305497.31,
+              "Z": -5265.92
             },
             "FadeInTime": 0.5,
             "StayTime": 0,
@@ -30993,9 +30994,9 @@
           "Name": "PlayerLookAt",
           "Params": {
             "Pos": {
-              "X": 224657.16,
-              "Y": 305507.69,
-              "Z": -5533.97
+              "X": 232522.63,
+              "Y": 305497.31,
+              "Z": -5265.92
             },
             "CameraMove": false
           },
@@ -31007,9 +31008,9 @@
           "Params": {
             "EntityId": 140900077,
             "Pos": {
-              "X": 224657.16,
-              "Y": 305507.69,
-              "Z": -5533.97
+              "X": 232522.63,
+              "Y": 305497.31,
+              "Z": -5265.92
             }
           },
           "ActionGuid": "4e59399e69544a8184b2bbcc65c05ab9",
@@ -31044,132 +31045,6 @@
     },
     "Icon": "",
     "TidContent": "Quest_146000002_InteractContent_146_1",
-    "Condition": "",
-    "UniquenessTest": "",
-    "DoIntactType": "Direct",
-    "Range": 0,
-    "Duration": ""
-  },
-  {
-    "Guid": "32d2f820b5fa4d8489cf72cf379e67b8",
-    "Type": {
-      "Type": "Flow",
-      "Flow": {
-        "FlowListName": "剧情_测试_GBL",
-        "FlowId": 4,
-        "StateId": 1
-      }
-    },
-    "Icon": "",
-    "TidContent": "Quest_30900005_InteractContent_30_4",
-    "Condition": "",
-    "UniquenessTest": "",
-    "DoIntactType": "Direct",
-    "Range": 0,
-    "Duration": ""
-  },
-  {
-    "Guid": "61589925acef4ca19626e223751c2ea5",
-    "Type": {
-      "Type": "Flow",
-      "Flow": {
-        "FlowListName": "剧情_测试_GBL",
-        "FlowId": 4,
-        "StateId": 2
-      }
-    },
-    "Icon": "",
-    "TidContent": "Quest_30900004_InteractContent_30_2",
-    "Condition": "",
-    "UniquenessTest": "",
-    "DoIntactType": "Direct",
-    "Range": 0,
-    "Duration": ""
-  },
-  {
-    "Guid": "663487a8dd824c8e8c0d977781116479",
-    "Type": {
-      "Type": "Flow",
-      "Flow": {
-        "FlowListName": "剧情_测试_GBL",
-        "FlowId": 4,
-        "StateId": 2
-      }
-    },
-    "Icon": "",
-    "TidContent": "Quest_30900004_InteractContent_30_3",
-    "Condition": "",
-    "UniquenessTest": "",
-    "DoIntactType": "Direct",
-    "Range": 0,
-    "Duration": ""
-  },
-  {
-    "Guid": "7868126448544978859bdb589e8e8def",
-    "Type": {
-      "Type": "Flow",
-      "Flow": {
-        "FlowListName": "剧情_测试_GBL",
-        "FlowId": 4,
-        "StateId": 2
-      }
-    },
-    "Icon": "",
-    "TidContent": "Quest_30900005_InteractContent_30_2",
-    "Condition": "",
-    "UniquenessTest": "",
-    "DoIntactType": "Direct",
-    "Range": 0,
-    "Duration": ""
-  },
-  {
-    "Guid": "aaf94decc7084b339c6583e98867934a",
-    "Type": {
-      "Type": "Flow",
-      "Flow": {
-        "FlowListName": "剧情_测试_GBL",
-        "FlowId": 4,
-        "StateId": 2
-      }
-    },
-    "Icon": "",
-    "TidContent": "Quest_30900005_InteractContent_30_3",
-    "Condition": "",
-    "UniquenessTest": "",
-    "DoIntactType": "Direct",
-    "Range": 0,
-    "Duration": ""
-  },
-  {
-    "Guid": "ac879859ada24e6e9a366bec28b36623",
-    "Type": {
-      "Type": "Flow",
-      "Flow": {
-        "FlowListName": "剧情_测试_GBL",
-        "FlowId": 4,
-        "StateId": 2
-      }
-    },
-    "Icon": "",
-    "TidContent": "Quest_30900004_InteractContent_30_4",
-    "Condition": "",
-    "UniquenessTest": "",
-    "DoIntactType": "Direct",
-    "Range": 0,
-    "Duration": ""
-  },
-  {
-    "Guid": "b047063975234831901d9a4b8a929144",
-    "Type": {
-      "Type": "Flow",
-      "Flow": {
-        "FlowListName": "剧情_测试_GBL",
-        "FlowId": 4,
-        "StateId": 1
-      }
-    },
-    "Icon": "",
-    "TidContent": "Quest_30900004_InteractContent_30_1",
     "Condition": "",
     "UniquenessTest": "",
     "DoIntactType": "Direct",

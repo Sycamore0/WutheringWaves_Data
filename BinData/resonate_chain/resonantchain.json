@@ -2727,7 +2727,7 @@
     ],
     "AttributesDescriptionParams": [
       "4",
-      "50",
+      "40",
       "4",
       "1"
     ],
@@ -2753,6 +2753,7 @@
       }
     ],
     "AttributesDescriptionParams": [
+      "12",
       "25%",
       "2",
       "20"
@@ -2829,7 +2830,7 @@
     ],
     "AttributesDescriptionParams": [
       "45%",
-      "45%"
+      "71%"
     ],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_JinxiM6_UI.T_IconDevice_JinxiM6_UI"
   },
@@ -2877,7 +2878,7 @@
       }
     ],
     "AttributesDescriptionParams": [
-      "25%",
+      "30%",
       "8"
     ],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_ChangliM2_UI.T_IconDevice_ChangliM2_UI"

@@ -3282,17 +3282,5 @@
   {
     "KeyName": "WeaponLevelUpCoinCost",
     "BinData": "kAEAAAAAAAA="
-  },
-  {
-    "KeyName": "TowerRecordTeamCount",
-    "BinData": "AwAAAA=="
-  },
-  {
-    "KeyName": "TowerRecordMinLevel",
-    "BinData": "KAAAAA=="
-  },
-  {
-    "KeyName": "TowerRecordMaxLevel",
-    "BinData": "KAAAAA=="
   }
 ]

@@ -31764,11 +31764,11 @@
     "CueType": 0,
     "Comp": 1,
     "CompName": "Mesh",
-    "Socket": "Bip001LHand",
+    "Socket": "HitCase",
     "Location": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
+      "X": 50,
+      "Y": -50,
+      "Z": 20
     },
     "Rotation": {
       "X": 0,
@@ -31790,19 +31790,19 @@
     "Max": 10000,
     "Min": 0,
     "bListenAttr": false,
-    "bSoftFollow": false,
-    "bLockRevolution": false,
+    "bSoftFollow": true,
+    "bLockRevolution": true,
     "LockRotation": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
+      "X": 1,
+      "Y": 1,
+      "Z": 1
     },
     "InterpSpeed": 5,
-    "FarthestDistance": 100,
+    "FarthestDistance": 70,
     "FaultTolerance": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
+      "X": 10,
+      "Y": 10,
+      "Z": 200
     },
     "TargetScaleUp": [
       1,
@@ -33148,6 +33148,61 @@
     "Resources": [],
     "Parameters": [
       "2"
+    ]
+  },
+  {
+    "Id": "1205104055",
+    "Path": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredspeed_UI.T_Iconpropertyredspeed_UI",
+    "CueType": 2,
+    "Comp": 0,
+    "CompName": "Mesh",
+    "Socket": "None",
+    "Location": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Rotation": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Scale": {
+      "X": 1,
+      "Y": 1,
+      "Z": 1
+    },
+    "LocRule": 0,
+    "RotaRule": 0,
+    "SclRule": 0,
+    "EndRule": 0,
+    "Magni": 0,
+    "AttrId": 0,
+    "Tag": "",
+    "Max": 10000,
+    "Min": 0,
+    "bListenAttr": false,
+    "bSoftFollow": false,
+    "bLockRevolution": false,
+    "LockRotation": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "InterpSpeed": 5,
+    "FarthestDistance": 100,
+    "FaultTolerance": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "TargetScaleUp": [
+      1,
+      1
+    ],
+    "Resources": [],
+    "Parameters": [
+      "1"
     ]
   }
 ]
