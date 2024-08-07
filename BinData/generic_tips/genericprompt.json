@@ -1710,5 +1710,13 @@
     "ExtraText": "",
     "Duration": 0,
     "Priority": 0
+  },
+  {
+    "TipsId": "Exolore_ShengXiaNoDetect",
+    "TypeId": 9,
+    "TipsText": "Exolore_ShengXiaNoDetect",
+    "ExtraText": "",
+    "Duration": 0,
+    "Priority": 0
   }
 ]

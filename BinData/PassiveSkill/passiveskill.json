@@ -2291,7 +2291,7 @@
   {
     "Id": "921205000202",
     "SkillDesc": "普攻每一刀出现额外伤害",
-    "CDTime": 0.30000001192092896,
+    "CDTime": 0.6000000238418579,
     "ShareGroupId": 0,
     "MaxCount": 1,
     "IsShareAllCdSkill": false,
@@ -2305,7 +2305,7 @@
         "Rogue.Role.Changli.普攻可触发额外伤害"
       ]
     },
-    "TriggerFormula": "SkillType==0&&MatchAnyTag(Owner,CheckOwnerTags)&&BulletID!=1205011002&&BulletID!=1205011003&&BulletID!=1205011004",
+    "TriggerFormula": "SkillType==0\n&&\nMatchAnyTag(Owner,CheckOwnerTags)\n&&\nBulletID!=1205011002\n&&\nBulletID!=1205011003\n&&\nBulletID!=1205011004\n&&BulletID!=1205005002\n&&BulletID!=1205005003\n&&BulletID!=1205005004\n&&BulletID!=1205201101\n&&BulletID!=1205004002\n&&BulletID!=1205003101\n&&BulletID!=1205003102\n&&BulletID!=1205003002\n&&BulletID!=1205003003",
     "SubSkillAction": [
       "921205000203"
     ],
@@ -2487,6 +2487,270 @@
     "SkillAction": "AddBuff",
     "SkillActionParams": [
       "921205000102"
+    ]
+  },
+  {
+    "Id": "1304701003",
+    "SkillDesc": "附近队伍中气动角色造成伤害时，今汐恢复特殊能量1点，效果CD3秒",
+    "CDTime": 3,
+    "ShareGroupId": 0,
+    "MaxCount": 1,
+    "IsShareAllCdSkill": true,
+    "IsDefaultActivated": true,
+    "TriggerType": "DamageTrigger",
+    "TriggerPreset": [
+      "2",
+      "0"
+    ],
+    "TriggerParams": {},
+    "TriggerFormula": "DamageValue>=1\nAND\n(DamageType!=5\nAND\nDamageType!=6)\nAND\nDistance(Attacker,Owner)<=2000\nAND\nElementType==4\nAND\nHasInt(0, DamageSubType)",
+    "SubSkillAction": [],
+    "InstigatorType": "Owner",
+    "SkillAction": "AddBuff",
+    "SkillActionParams": [
+      "1304700002"
+    ]
+  },
+  {
+    "Id": "1304702003",
+    "SkillDesc": "附近队伍中热熔角色造成伤害时，今汐恢复特殊能量1点，效果CD3秒",
+    "CDTime": 3,
+    "ShareGroupId": 0,
+    "MaxCount": 1,
+    "IsShareAllCdSkill": true,
+    "IsDefaultActivated": true,
+    "TriggerType": "DamageTrigger",
+    "TriggerPreset": [
+      "2",
+      "0"
+    ],
+    "TriggerParams": {},
+    "TriggerFormula": "DamageValue>=1\nAND\n(DamageType!=5\nAND\nDamageType!=6)\nAND\nDistance(Attacker,Owner)<=2000\nAND\nElementType==2\nAND\nHasInt(0, DamageSubType)",
+    "SubSkillAction": [],
+    "InstigatorType": "Owner",
+    "SkillAction": "AddBuff",
+    "SkillActionParams": [
+      "1304700002"
+    ]
+  },
+  {
+    "Id": "1304703003",
+    "SkillDesc": "附近队伍中冷凝角色造成伤害时，今汐恢复特殊能量1点，效果CD3秒",
+    "CDTime": 3,
+    "ShareGroupId": 0,
+    "MaxCount": 1,
+    "IsShareAllCdSkill": true,
+    "IsDefaultActivated": true,
+    "TriggerType": "DamageTrigger",
+    "TriggerPreset": [
+      "2",
+      "0"
+    ],
+    "TriggerParams": {},
+    "TriggerFormula": "DamageValue>=1\nAND\n(DamageType!=5\nAND\nDamageType!=6)\nAND\nDistance(Attacker,Owner)<=2000\nAND\nElementType==1\nAND\nHasInt(0, DamageSubType)",
+    "SubSkillAction": [],
+    "InstigatorType": "Owner",
+    "SkillAction": "AddBuff",
+    "SkillActionParams": [
+      "1304700002"
+    ]
+  },
+  {
+    "Id": "1304704003",
+    "SkillDesc": "附近队伍中导电角色造成伤害时，今汐恢复特殊能量1点，效果CD3秒",
+    "CDTime": 3,
+    "ShareGroupId": 0,
+    "MaxCount": 1,
+    "IsShareAllCdSkill": true,
+    "IsDefaultActivated": true,
+    "TriggerType": "DamageTrigger",
+    "TriggerPreset": [
+      "2",
+      "0"
+    ],
+    "TriggerParams": {},
+    "TriggerFormula": "DamageValue>=1\nAND\n(DamageType!=5\nAND\nDamageType!=6)\nAND\nDistance(Attacker,Owner)<=2000\nAND\nElementType==3\nAND\nHasInt(0, DamageSubType)",
+    "SubSkillAction": [],
+    "InstigatorType": "Owner",
+    "SkillAction": "AddBuff",
+    "SkillActionParams": [
+      "1304700002"
+    ]
+  },
+  {
+    "Id": "1304705003",
+    "SkillDesc": "附近队伍中衍射角色造成伤害时，今汐恢复特殊能量1点，效果CD3秒",
+    "CDTime": 3,
+    "ShareGroupId": 0,
+    "MaxCount": 1,
+    "IsShareAllCdSkill": true,
+    "IsDefaultActivated": true,
+    "TriggerType": "DamageTrigger",
+    "TriggerPreset": [
+      "2",
+      "0"
+    ],
+    "TriggerParams": {},
+    "TriggerFormula": "DamageValue>=1\nAND\n(DamageType!=5\nAND\nDamageType!=6)\nAND\nDistance(Attacker,Owner)<=2000\nAND\nElementType==5\nAND\nHasInt(0, DamageSubType)",
+    "SubSkillAction": [],
+    "InstigatorType": "Owner",
+    "SkillAction": "AddBuff",
+    "SkillActionParams": [
+      "1304700002"
+    ]
+  },
+  {
+    "Id": "1304706003",
+    "SkillDesc": "附近队伍中湮灭角色造成伤害时，今汐恢复特殊能量1点，效果CD3秒",
+    "CDTime": 3,
+    "ShareGroupId": 0,
+    "MaxCount": 1,
+    "IsShareAllCdSkill": true,
+    "IsDefaultActivated": true,
+    "TriggerType": "DamageTrigger",
+    "TriggerPreset": [
+      "2",
+      "0"
+    ],
+    "TriggerParams": {},
+    "TriggerFormula": "DamageValue>=1\nAND\n(DamageType!=5\nAND\nDamageType!=6)\nAND\nDistance(Attacker,Owner)<=2000\nAND\nElementType==6\nAND\nHasInt(0, DamageSubType)",
+    "SubSkillAction": [],
+    "InstigatorType": "Owner",
+    "SkillAction": "AddBuff",
+    "SkillActionParams": [
+      "1304700002"
+    ]
+  },
+  {
+    "Id": "1304701004",
+    "SkillDesc": "附近队伍中气动角色造成伤害时，今汐恢复特殊能量1点，效果CD1秒",
+    "CDTime": 1,
+    "ShareGroupId": 0,
+    "MaxCount": 1,
+    "IsShareAllCdSkill": true,
+    "IsDefaultActivated": true,
+    "TriggerType": "DamageTrigger",
+    "TriggerPreset": [
+      "2",
+      "0"
+    ],
+    "TriggerParams": {},
+    "TriggerFormula": "DamageValue>=1\nAND\n(DamageType!=5\nAND\nDamageType!=6)\nAND\nDistance(Attacker,Owner)<=2000\nAND\nElementType==4\nAND\nHasInt(0, DamageSubType)",
+    "SubSkillAction": [],
+    "InstigatorType": "Owner",
+    "SkillAction": "AddBuff",
+    "SkillActionParams": [
+      "1304700002"
+    ]
+  },
+  {
+    "Id": "1304702004",
+    "SkillDesc": "附近队伍中热熔角色造成伤害时，今汐恢复特殊能量1点，效果CD1秒",
+    "CDTime": 1,
+    "ShareGroupId": 0,
+    "MaxCount": 1,
+    "IsShareAllCdSkill": true,
+    "IsDefaultActivated": true,
+    "TriggerType": "DamageTrigger",
+    "TriggerPreset": [
+      "2",
+      "0"
+    ],
+    "TriggerParams": {},
+    "TriggerFormula": "DamageValue>=1\nAND\n(DamageType!=5\nAND\nDamageType!=6)\nAND\nDistance(Attacker,Owner)<=2000\nAND\nElementType==2\nAND\nHasInt(0, DamageSubType)",
+    "SubSkillAction": [],
+    "InstigatorType": "Owner",
+    "SkillAction": "AddBuff",
+    "SkillActionParams": [
+      "1304700002"
+    ]
+  },
+  {
+    "Id": "1304703004",
+    "SkillDesc": "附近队伍中冷凝角色造成伤害时，今汐恢复特殊能量1点，效果CD1秒",
+    "CDTime": 1,
+    "ShareGroupId": 0,
+    "MaxCount": 1,
+    "IsShareAllCdSkill": true,
+    "IsDefaultActivated": true,
+    "TriggerType": "DamageTrigger",
+    "TriggerPreset": [
+      "2",
+      "0"
+    ],
+    "TriggerParams": {},
+    "TriggerFormula": "DamageValue>=1\nAND\n(DamageType!=5\nAND\nDamageType!=6)\nAND\nDistance(Attacker,Owner)<=2000\nAND\nElementType==1\nAND\nHasInt(0, DamageSubType)",
+    "SubSkillAction": [],
+    "InstigatorType": "Owner",
+    "SkillAction": "AddBuff",
+    "SkillActionParams": [
+      "1304700002"
+    ]
+  },
+  {
+    "Id": "1304704004",
+    "SkillDesc": "附近队伍中导电角色造成伤害时，今汐恢复特殊能量1点，效果CD1秒",
+    "CDTime": 1,
+    "ShareGroupId": 0,
+    "MaxCount": 1,
+    "IsShareAllCdSkill": true,
+    "IsDefaultActivated": true,
+    "TriggerType": "DamageTrigger",
+    "TriggerPreset": [
+      "2",
+      "0"
+    ],
+    "TriggerParams": {},
+    "TriggerFormula": "DamageValue>=1\nAND\n(DamageType!=5\nAND\nDamageType!=6)\nAND\nDistance(Attacker,Owner)<=2000\nAND\nElementType==3\nAND\nHasInt(0, DamageSubType)",
+    "SubSkillAction": [],
+    "InstigatorType": "Owner",
+    "SkillAction": "AddBuff",
+    "SkillActionParams": [
+      "1304700002"
+    ]
+  },
+  {
+    "Id": "1304705004",
+    "SkillDesc": "附近队伍中衍射角色造成伤害时，今汐恢复特殊能量1点，效果CD1秒",
+    "CDTime": 1,
+    "ShareGroupId": 0,
+    "MaxCount": 1,
+    "IsShareAllCdSkill": true,
+    "IsDefaultActivated": true,
+    "TriggerType": "DamageTrigger",
+    "TriggerPreset": [
+      "2",
+      "0"
+    ],
+    "TriggerParams": {},
+    "TriggerFormula": "DamageValue>=1\nAND\n(DamageType!=5\nAND\nDamageType!=6)\nAND\nDistance(Attacker,Owner)<=2000\nAND\nElementType==5\nAND\nHasInt(0, DamageSubType)",
+    "SubSkillAction": [],
+    "InstigatorType": "Owner",
+    "SkillAction": "AddBuff",
+    "SkillActionParams": [
+      "1304700002"
+    ]
+  },
+  {
+    "Id": "1304706004",
+    "SkillDesc": "附近队伍中湮灭角色造成伤害时，今汐恢复特殊能量1点，效果CD1秒",
+    "CDTime": 1,
+    "ShareGroupId": 0,
+    "MaxCount": 1,
+    "IsShareAllCdSkill": true,
+    "IsDefaultActivated": true,
+    "TriggerType": "DamageTrigger",
+    "TriggerPreset": [
+      "2",
+      "0"
+    ],
+    "TriggerParams": {},
+    "TriggerFormula": "DamageValue>=1\nAND\n(DamageType!=5\nAND\nDamageType!=6)\nAND\nDistance(Attacker,Owner)<=2000\nAND\nElementType==6\nAND\nHasInt(0, DamageSubType)",
+    "SubSkillAction": [],
+    "InstigatorType": "Owner",
+    "SkillAction": "AddBuff",
+    "SkillActionParams": [
+      "1304700002"
     ]
   }
 ]

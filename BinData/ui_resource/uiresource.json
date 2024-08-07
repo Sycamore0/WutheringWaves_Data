@@ -6433,5 +6433,10 @@
     "Id": "SP_TimePointReward_Index03",
     "Path": "/Game/Aki/UI/UIResources/UiActivity/Atlas/Welfare/SP_Num03.SP_Num03",
     "PcPath": ""
+  },
+  {
+    "Id": "UiItem_SafeZoneUnitNode_Prefab",
+    "Path": "/Game/Aki/UI/Framework/LGUI/SafeZoneUnitNode.SafeZoneUnitNode",
+    "PcPath": ""
   }
 ]

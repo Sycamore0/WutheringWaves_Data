@@ -65,7 +65,7 @@
   },
   {
     "Id": "HotFixNotEnoughSpace",
-    "Content": "No hay suficiente espacio de almacenamiento para los recursos de actualización {0}. Por favor, elimina archivos para liberar espacio y pulsa en \"Continuar\" para proceder con la descarga."
+    "Content": "No hay suficiente espacio de almacenamiento para los recursos de actualización {0}. Por favor, elimina archivos para liberar espacio y pulsa \"Continuar\" para ir a la descarga."
   },
   {
     "Id": "HotFixContinue",
@@ -205,7 +205,7 @@
   },
   {
     "Id": "NewVersionDetailDownloadGetReward",
-    "Content": "Hay una actualización del juego disponible. Por favor, procede a descargar. Inicia sesión después de que la actualización esté completa para obtener <color=#c49e55ff>Astrites*300 y Solvente de Cristal*2</color>."
+    "Content": "Hay una actualización del juego disponible. Por favor, ve a descargar. Inicia sesión después de que la actualización esté completa para obtener <color=#c49e55ff>Astrita *300 y Solvente de Cristal *2</color>."
   },
   {
     "Id": "ConfirmText",
@@ -241,7 +241,7 @@
   },
   {
     "Id": "PatchClear",
-    "Content": "Los recursos del parche local se borrarán y se volverán a descargar. ¿Deseas proceder?"
+    "Content": "Los recursos del parche local se borrarán y se volverán a descargar. ¿Continuar?"
   },
   {
     "Id": "PatchClearTitle",

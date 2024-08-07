@@ -634,7 +634,7 @@
     "ScreenPercentage": 0,
     "SuperResolution": 2,
     "NpcDensity": 0,
-    "Bloom": 0,
+    "Bloom": 1,
     "OtherCommand": ""
   },
   {
@@ -722,7 +722,7 @@
     "ScreenPercentage": 0,
     "SuperResolution": 2,
     "NpcDensity": 0,
-    "Bloom": 0,
+    "Bloom": 1,
     "OtherCommand": ""
   },
   {
@@ -810,7 +810,7 @@
     "ScreenPercentage": 0,
     "SuperResolution": 2,
     "NpcDensity": 0,
-    "Bloom": 0,
+    "Bloom": 1,
     "OtherCommand": ""
   },
   {
@@ -898,7 +898,7 @@
     "ScreenPercentage": 0,
     "SuperResolution": 2,
     "NpcDensity": 0,
-    "Bloom": 0,
+    "Bloom": 1,
     "OtherCommand": ""
   },
   {

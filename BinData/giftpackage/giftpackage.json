@@ -4408,5 +4408,39 @@
     "Weight": [],
     "AvailableNum": 1,
     "ShowType": 1
+  },
+  {
+    "Id": 3006,
+    "Type": 0,
+    "Content": [
+      {
+        "Key": 50002,
+        "Value": 5
+      },
+      {
+        "Key": 3,
+        "Value": 400
+      }
+    ],
+    "Weight": [],
+    "AvailableNum": 1,
+    "ShowType": 0
+  },
+  {
+    "Id": 3007,
+    "Type": 0,
+    "Content": [
+      {
+        "Key": 50005,
+        "Value": 5
+      },
+      {
+        "Key": 3,
+        "Value": 400
+      }
+    ],
+    "Weight": [],
+    "AvailableNum": 1,
+    "ShowType": 0
   }
 ]

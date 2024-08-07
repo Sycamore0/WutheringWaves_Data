@@ -1,7 +1,7 @@
 [
   {
     "Id": "NetworkConnect",
-    "Content": "Verbinden ..."
+    "Content": "Verbindung wird hergestellt ..."
   },
   {
     "Id": "PatchDown",
@@ -253,6 +253,6 @@
   },
   {
     "Id": "MobileChipOutOfVersion",
-    "Content": ""
+    "Content": "Es wird festgestellt, dass die Chipversion des Geräts zu alt ist und die Wahrscheinlichkeit hoch ist, dass das Spiel während des Betriebs abstürzt. Um ein besseres Spielerlebnis zu gewährleisten, wird empfohlen, das Gerät auszutauschen."
   }
 ]

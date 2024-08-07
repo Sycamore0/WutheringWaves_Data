@@ -10840,14 +10840,6 @@
     "DropShowPlan": 1
   },
   {
-    "UnitId": 2470,
-    "GroupId": 80000004,
-    "MinNum": 1,
-    "MaxNum": 1,
-    "Interval": 0,
-    "DropShowPlan": 1
-  },
-  {
     "UnitId": 2471,
     "GroupId": 80050004,
     "MinNum": 1,

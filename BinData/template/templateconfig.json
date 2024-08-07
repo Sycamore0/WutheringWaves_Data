@@ -3619,7 +3619,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 1,
         "AoiLayer": 0,
-        "AoiZRadius": 0
+        "AoiZRadius": 2
       },
       "AiComponent": {
         "AiId": 21007
@@ -4138,7 +4138,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 2,
         "AoiLayer": 7,
-        "AoiZRadius": 0,
+        "AoiZRadius": 2,
         "IsOnlineStandalone": true
       },
       "RewardComponent": {
@@ -5556,7 +5556,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 1,
         "AoiLayer": 6,
-        "AoiZRadius": 0
+        "AoiZRadius": 3
       },
       "AiComponent": {
         "AiId": 21028
@@ -5728,7 +5728,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 1,
         "AoiLayer": 0,
-        "AoiZRadius": 0
+        "AoiZRadius": 2
       },
       "AiComponent": {
         "AiId": 21006
@@ -5823,7 +5823,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 1,
         "AoiLayer": 6,
-        "AoiZRadius": 0,
+        "AoiZRadius": 3,
         "IsOnlineStandalone": true
       },
       "CollectComponent": {},
@@ -5901,7 +5901,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 1,
         "AoiLayer": 6,
-        "AoiZRadius": 0,
+        "AoiZRadius": 3,
         "IsOnlineStandalone": true
       },
       "CollectComponent": {},
@@ -21638,7 +21638,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 2,
         "AoiLayer": 7,
-        "AoiZRadius": 0,
+        "AoiZRadius": 2,
         "IsOnlineStandalone": true
       },
       "RewardComponent": {
@@ -36704,7 +36704,11 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 1,
         "AoiLayer": 7,
-        "AoiZRadius": 0
+        "AoiZRadius": 2,
+        "CustomAoiZRadius": {
+          "Up": 9000,
+          "Down": 9000
+        }
       },
       "AiComponent": {
         "AiId": 21017
@@ -36764,7 +36768,11 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 1,
         "AoiLayer": 7,
-        "AoiZRadius": 0
+        "AoiZRadius": 2,
+        "CustomAoiZRadius": {
+          "Up": 9000,
+          "Down": 9000
+        }
       },
       "AiComponent": {
         "AiId": 21018
@@ -36923,7 +36931,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 1,
         "AoiLayer": 0,
-        "AoiZRadius": 0,
+        "AoiZRadius": 2,
         "IsOnlineStandalone": true
       },
       "CollectComponent": {},
@@ -37006,7 +37014,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 1,
         "AoiLayer": 0,
-        "AoiZRadius": 0,
+        "AoiZRadius": 2,
         "IsOnlineStandalone": true
       },
       "CollectComponent": {},
@@ -37089,7 +37097,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 1,
         "AoiLayer": 0,
-        "AoiZRadius": 0,
+        "AoiZRadius": 2,
         "IsOnlineStandalone": true
       },
       "CollectComponent": {},
@@ -37168,7 +37176,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 1,
         "AoiLayer": 0,
-        "AoiZRadius": 0,
+        "AoiZRadius": 2,
         "IsOnlineStandalone": true
       },
       "CollectComponent": {},
@@ -37251,7 +37259,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 1,
         "AoiLayer": 0,
-        "AoiZRadius": 0,
+        "AoiZRadius": 2,
         "IsOnlineStandalone": true
       },
       "CollectComponent": {},
@@ -37333,7 +37341,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 1,
         "AoiLayer": 6,
-        "AoiZRadius": 0,
+        "AoiZRadius": 3,
         "IsOnlineStandalone": true
       },
       "CollectComponent": {},
@@ -37410,7 +37418,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 1,
         "AoiLayer": 6,
-        "AoiZRadius": 0,
+        "AoiZRadius": 3,
         "IsOnlineStandalone": true
       },
       "CollectComponent": {},
@@ -37455,7 +37463,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 1,
         "AoiLayer": 6,
-        "AoiZRadius": 0,
+        "AoiZRadius": 3,
         "IsOnlineStandalone": true
       },
       "AiComponent": {
@@ -37534,7 +37542,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 1,
         "AoiLayer": 6,
-        "AoiZRadius": 0,
+        "AoiZRadius": 3,
         "IsOnlineStandalone": true
       },
       "AiComponent": {
@@ -37692,7 +37700,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 1,
         "AoiLayer": 6,
-        "AoiZRadius": 0,
+        "AoiZRadius": 3,
         "IsOnlineStandalone": true
       },
       "AiComponent": {
@@ -37771,7 +37779,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 1,
         "AoiLayer": 6,
-        "AoiZRadius": 0,
+        "AoiZRadius": 3,
         "IsOnlineStandalone": true
       },
       "AiComponent": {
@@ -37860,7 +37868,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 2,
         "AoiLayer": 7,
-        "AoiZRadius": 0,
+        "AoiZRadius": 2,
         "IsOnlineStandalone": true
       },
       "RewardComponent": {
@@ -38084,7 +38092,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 2,
         "AoiLayer": 7,
-        "AoiZRadius": 0,
+        "AoiZRadius": 2,
         "IsOnlineStandalone": true
       },
       "CollectComponent": {},
@@ -38684,7 +38692,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 2,
         "AoiLayer": 7,
-        "AoiZRadius": 0,
+        "AoiZRadius": 2,
         "IsOnlineStandalone": true
       },
       "CollectComponent": {},
@@ -39030,7 +39038,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 2,
         "AoiLayer": 7,
-        "AoiZRadius": 0,
+        "AoiZRadius": 2,
         "IsOnlineStandalone": true
       },
       "CollectComponent": {},
@@ -39115,7 +39123,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 2,
         "AoiLayer": 7,
-        "AoiZRadius": 0,
+        "AoiZRadius": 2,
         "IsOnlineStandalone": true
       },
       "CollectComponent": {},
@@ -39202,7 +39210,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 2,
         "AoiLayer": 7,
-        "AoiZRadius": 0,
+        "AoiZRadius": 2,
         "IsOnlineStandalone": true
       },
       "CollectComponent": {},
@@ -39374,7 +39382,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 2,
         "AoiLayer": 7,
-        "AoiZRadius": 0,
+        "AoiZRadius": 2,
         "IsOnlineStandalone": true
       },
       "CollectComponent": {},
@@ -39635,7 +39643,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 2,
         "AoiLayer": 7,
-        "AoiZRadius": 0,
+        "AoiZRadius": 2,
         "IsOnlineStandalone": true
       },
       "CollectComponent": {},
@@ -39720,7 +39728,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 2,
         "AoiLayer": 7,
-        "AoiZRadius": 0,
+        "AoiZRadius": 2,
         "IsOnlineStandalone": true
       },
       "CollectComponent": {},
@@ -39890,7 +39898,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 2,
         "AoiLayer": 7,
-        "AoiZRadius": 0,
+        "AoiZRadius": 2,
         "IsOnlineStandalone": true
       },
       "CollectComponent": {},
@@ -55544,7 +55552,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 2,
         "AoiLayer": 7,
-        "AoiZRadius": 0,
+        "AoiZRadius": 3,
         "IsOnlineStandalone": true
       },
       "RewardComponent": {
@@ -64137,7 +64145,7 @@
         "EntityPropertyId": 77021,
         "OnlineInteractType": 1,
         "AoiLayer": 0,
-        "AoiZRadius": 0
+        "AoiZRadius": 2
       },
       "InteractComponent": {
         "Range": 200,
@@ -66269,7 +66277,7 @@
         "FightConfigId": 80017001,
         "BossViewConfig": {
           "BossStateViewType": 1,
-          "TidBossSubTitle": "Entity_e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "TidBossSubTitle": "Entity_ff4d200827e19f95b6016d134d627f163c36288d5fedf32f25c3cc25332455b9",
           "ShowDistance": 35000
         },
         "InitGasTag": [
@@ -68459,7 +68467,8 @@
         "ModelType": {
           "Type": "ModelId",
           "ModelId": 390109
-        }
+        },
+        "HalfHeight": 185
       }
     }
   },
@@ -76820,7 +76829,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 2,
         "AoiLayer": 7,
-        "AoiZRadius": 0,
+        "AoiZRadius": 2,
         "IsOnlineStandalone": true
       },
       "CollectComponent": {},
@@ -117265,7 +117274,8 @@
         "ModelType": {
           "Type": "ModelId",
           "ModelId": 390109
-        }
+        },
+        "HalfHeight": 185
       }
     }
   },
@@ -125653,7 +125663,7 @@
         "TidName": "Entity_e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "EntityPropertyId": 2,
         "AoiLayer": 0,
-        "AoiZRadius": 0
+        "AoiZRadius": 2
       },
       "ModelComponent": {
         "Disabled": false,
@@ -125708,7 +125718,7 @@
         "TidName": "Entity_e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "EntityPropertyId": 2,
         "AoiLayer": 7,
-        "AoiZRadius": 0
+        "AoiZRadius": 2
       },
       "RefreshGroupComponent": {
         "EntityIds": [],
@@ -125799,7 +125809,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 2,
         "AoiLayer": 7,
-        "AoiZRadius": 0,
+        "AoiZRadius": 2,
         "IsOnlineStandalone": true
       },
       "CollectComponent": {},
@@ -125886,7 +125896,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 2,
         "AoiLayer": 7,
-        "AoiZRadius": 0,
+        "AoiZRadius": 2,
         "IsOnlineStandalone": true
       },
       "CollectComponent": {},
@@ -125973,7 +125983,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 2,
         "AoiLayer": 7,
-        "AoiZRadius": 0,
+        "AoiZRadius": 2,
         "IsOnlineStandalone": true
       },
       "CollectComponent": {},
@@ -126060,7 +126070,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 2,
         "AoiLayer": 7,
-        "AoiZRadius": 0,
+        "AoiZRadius": 2,
         "IsOnlineStandalone": true
       },
       "CollectComponent": {},
@@ -127036,7 +127046,7 @@
         "TidName": "Entity_e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "EntityPropertyId": 2,
         "AoiLayer": 0,
-        "AoiZRadius": 0
+        "AoiZRadius": 2
       },
       "ModelComponent": {
         "Disabled": false,
@@ -127085,7 +127095,7 @@
         "TidName": "Entity_e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "EntityPropertyId": 2,
         "AoiLayer": 7,
-        "AoiZRadius": 0
+        "AoiZRadius": 2
       },
       "RefreshGroupComponent": {
         "EntityIds": [],
@@ -127176,7 +127186,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 2,
         "AoiLayer": 7,
-        "AoiZRadius": 0,
+        "AoiZRadius": 2,
         "IsOnlineStandalone": true
       },
       "CollectComponent": {},
@@ -127263,7 +127273,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 2,
         "AoiLayer": 7,
-        "AoiZRadius": 0,
+        "AoiZRadius": 2,
         "IsOnlineStandalone": true
       },
       "CollectComponent": {},
@@ -127414,7 +127424,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 2,
         "AoiLayer": 7,
-        "AoiZRadius": 0,
+        "AoiZRadius": 2,
         "IsOnlineStandalone": true
       },
       "RewardComponent": {
@@ -130219,7 +130229,9 @@
     "ComponentsData": {
       "BaseInfoComponent": {
         "TidName": "Entity_811b3b716dec5c26d0869bf3eb328ca6ebeba8ea9eb2c53b51caf945b0f09c4b",
-        "Category": {},
+        "Category": {
+          "MainType": "Npc"
+        },
         "Camp": 2,
         "EntityPropertyId": 2,
         "OnlineInteractType": 1,
@@ -131403,7 +131415,7 @@
         "Vars": []
       },
       "ModelComponent": {
-        "HalfHeight": 80,
+        "HalfHeight": 62,
         "Disabled": false,
         "ModelType": {
           "Type": "ModelId",
@@ -131463,7 +131475,7 @@
         "Vars": []
       },
       "ModelComponent": {
-        "HalfHeight": 80,
+        "HalfHeight": 62,
         "Disabled": false,
         "ModelType": {
           "Type": "ModelId",
@@ -131523,7 +131535,7 @@
         "Vars": []
       },
       "ModelComponent": {
-        "HalfHeight": 80,
+        "HalfHeight": 62,
         "Disabled": false,
         "ModelType": {
           "Type": "ModelId",
@@ -131583,7 +131595,7 @@
         "Vars": []
       },
       "ModelComponent": {
-        "HalfHeight": 80,
+        "HalfHeight": 62,
         "Disabled": false,
         "ModelType": {
           "Type": "ModelId",
@@ -131823,7 +131835,8 @@
         "AoiZRadius": 0
       },
       "AiComponent": {
-        "AiId": 200051
+        "AiId": 200051,
+        "Disabled": true
       },
       "AttributeComponent": {
         "PropertyId": 2,
@@ -131980,7 +131993,8 @@
         "ModelType": {
           "Type": "ModelId",
           "ModelId": 200052
-        }
+        },
+        "HalfHeight": 185
       }
     }
   },
@@ -132218,7 +132232,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 1,
         "AoiLayer": 0,
-        "AoiZRadius": 0
+        "AoiZRadius": 2
       },
       "AiComponent": {
         "AiId": 21031
@@ -132329,7 +132343,7 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 1,
         "AoiLayer": 6,
-        "AoiZRadius": 0,
+        "AoiZRadius": 3,
         "IsOnlineStandalone": true
       },
       "CollectComponent": {},
@@ -132375,7 +132389,11 @@
         "OnlineInteractType": 1,
         "EntityPropertyId": 1,
         "AoiLayer": 7,
-        "AoiZRadius": 0
+        "AoiZRadius": 2,
+        "CustomAoiZRadius": {
+          "Up": 9000,
+          "Down": 9000
+        }
       },
       "AiComponent": {
         "AiId": 21029
@@ -133694,7 +133712,8 @@
         "ModelType": {
           "Type": "ModelId",
           "ModelId": 390109
-        }
+        },
+        "HalfHeight": 185
       }
     }
   },
@@ -134346,7 +134365,8 @@
         "ModelType": {
           "Type": "ModelId",
           "ModelId": 390250
-        }
+        },
+        "HalfHeight": 185
       }
     }
   },
@@ -142105,7 +142125,8 @@
         "ModelType": {
           "Type": "ModelId",
           "ModelId": 201052
-        }
+        },
+        "HalfHeight": 185
       }
     }
   },
@@ -143625,7 +143646,7 @@
         "FightConfigId": 80017001,
         "BossViewConfig": {
           "BossStateViewType": 1,
-          "TidBossSubTitle": "Entity_e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "TidBossSubTitle": "Entity_ff4d200827e19f95b6016d134d627f163c36288d5fedf32f25c3cc25332455b9",
           "ShowDistance": 35000,
           "OnlyShowInBattleState": true
         },
@@ -144713,7 +144734,8 @@
         "ModelType": {
           "Type": "ModelId",
           "ModelId": 390109
-        }
+        },
+        "HalfHeight": 185
       }
     }
   },
