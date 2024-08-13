@@ -254,5 +254,37 @@
   {
     "Id": "MobileChipOutOfVersion",
     "Content": "检测到设备芯片版本过旧，游戏运行中有大概率闪退。为了保证正常游戏体验，建议更换设备。"
+  },
+  {
+    "Id": "UserProtocol",
+    "Content": "/test查看用户协议"
+  },
+  {
+    "Id": "PrivacyPolicy",
+    "Content": "/test查看隐私政策"
+  },
+  {
+    "Id": "ChildProtocol",
+    "Content": "/test查看儿童隐私协议"
+  },
+  {
+    "Id": "SdkProtocolDesc",
+    "Content": "/test隐私政策描述"
+  },
+  {
+    "Id": "SdkProtocolTitle",
+    "Content": "/test隐私政策提示"
+  },
+  {
+    "Id": "SdkProtocolConfirm",
+    "Content": "/test接受"
+  },
+  {
+    "Id": "SdkProtocolRefuse",
+    "Content": "/test拒绝"
+  },
+  {
+    "Id": "EquipmentDriveOutOfVersion",
+    "Content": "检测到设备显卡驱动版本过旧，游戏运行中有概率出现效果异常。为了保证正常游戏体验，建议更新显卡驱动。"
   }
 ]

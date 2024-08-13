@@ -502,5 +502,61 @@
   {
     "Id": 126,
     "Content": "辛夷"
+  },
+  {
+    "Id": 127,
+    "Content": "OccupationConfig_shuoshuren_Name"
+  },
+  {
+    "Id": 128,
+    "Content": "说书人"
+  },
+  {
+    "Id": 129,
+    "Content": "OccupationConfig_xiangliyao_Name"
+  },
+  {
+    "Id": 130,
+    "Content": "相里要"
+  },
+  {
+    "Id": 131,
+    "Content": "OccupationConfig_gupan_Name"
+  },
+  {
+    "Id": 132,
+    "Content": "顾盼"
+  },
+  {
+    "Id": 133,
+    "Content": "OccupationConfig_huaijin_Name"
+  },
+  {
+    "Id": 134,
+    "Content": "怀瑾"
+  },
+  {
+    "Id": 135,
+    "Content": "OccupationConfig_jifeng_Name"
+  },
+  {
+    "Id": 136,
+    "Content": "季风"
+  },
+  {
+    "Id": 137,
+    "Content": "OccupationConfig_TaoyuanxiangVillage_Name"
+  },
+  {
+    "Id": 138,
+    "Content": "中曲台地-桃源乡"
+  },
+  {
+    "Id": 139,
+    "Content": "OccupationConfig_zhezhi_Name"
+  },
+  {
+    "Id": 140,
+    "Content": "折枝"
   }
 ]

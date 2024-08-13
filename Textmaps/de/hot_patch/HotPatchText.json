@@ -1,7 +1,7 @@
 [
   {
     "Id": "NetworkConnect",
-    "Content": "Verbindung wird hergestellt ..."
+    "Content": "Verbinden ..."
   },
   {
     "Id": "PatchDown",
@@ -254,5 +254,37 @@
   {
     "Id": "MobileChipOutOfVersion",
     "Content": "Es wird festgestellt, dass die Chipversion des Geräts zu alt ist und die Wahrscheinlichkeit hoch ist, dass das Spiel während des Betriebs abstürzt. Um ein besseres Spielerlebnis zu gewährleisten, wird empfohlen, das Gerät auszutauschen."
+  },
+  {
+    "Id": "UserProtocol",
+    "Content": ""
+  },
+  {
+    "Id": "PrivacyPolicy",
+    "Content": ""
+  },
+  {
+    "Id": "ChildProtocol",
+    "Content": ""
+  },
+  {
+    "Id": "SdkProtocolDesc",
+    "Content": ""
+  },
+  {
+    "Id": "SdkProtocolTitle",
+    "Content": ""
+  },
+  {
+    "Id": "SdkProtocolConfirm",
+    "Content": ""
+  },
+  {
+    "Id": "SdkProtocolRefuse",
+    "Content": ""
+  },
+  {
+    "Id": "EquipmentDriveOutOfVersion",
+    "Content": "Der Treiber deines Geräts ist veraltet, was zu häufigen Spielabstürzen führen kann. Für ein besseres Spielerlebnis solltest du in Erwägung ziehen, dein Gerät zu aktualisieren."
   }
 ]

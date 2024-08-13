@@ -254,5 +254,37 @@
   {
     "Id": "MobileChipOutOfVersion",
     "Content": "Your device is using an older version processor. You are very likely to encounter client crashing. Please consider switching to a different device for your gaming experience."
+  },
+  {
+    "Id": "UserProtocol",
+    "Content": "/test View Terms of Use."
+  },
+  {
+    "Id": "PrivacyPolicy",
+    "Content": "/test View Privacy Policy."
+  },
+  {
+    "Id": "ChildProtocol",
+    "Content": "/test View Child Privacy Policy."
+  },
+  {
+    "Id": "SdkProtocolDesc",
+    "Content": ""
+  },
+  {
+    "Id": "SdkProtocolTitle",
+    "Content": ""
+  },
+  {
+    "Id": "SdkProtocolConfirm",
+    "Content": ""
+  },
+  {
+    "Id": "SdkProtocolRefuse",
+    "Content": ""
+  },
+  {
+    "Id": "EquipmentDriveOutOfVersion",
+    "Content": "Your device's driver is outdated, which may cause frequent game crashes. For a better experience, please consider upgrading your device."
   }
 ]

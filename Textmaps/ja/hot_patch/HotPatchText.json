@@ -253,6 +253,38 @@
   },
   {
     "Id": "MobileChipOutOfVersion",
+    "Content": "デバイスチップのバージョンが古く、ゲーム中にラッシュする可能性があります。正常にゲームをプレイできるために、デバイスの変更をお勧めします。"
+  },
+  {
+    "Id": "UserProtocol",
+    "Content": ""
+  },
+  {
+    "Id": "PrivacyPolicy",
+    "Content": ""
+  },
+  {
+    "Id": "ChildProtocol",
+    "Content": ""
+  },
+  {
+    "Id": "SdkProtocolDesc",
+    "Content": ""
+  },
+  {
+    "Id": "SdkProtocolTitle",
+    "Content": ""
+  },
+  {
+    "Id": "SdkProtocolConfirm",
+    "Content": ""
+  },
+  {
+    "Id": "SdkProtocolRefuse",
+    "Content": ""
+  },
+  {
+    "Id": "EquipmentDriveOutOfVersion",
     "Content": ""
   }
 ]

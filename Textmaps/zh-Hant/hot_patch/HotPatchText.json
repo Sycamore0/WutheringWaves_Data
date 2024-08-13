@@ -254,5 +254,37 @@
   {
     "Id": "MobileChipOutOfVersion",
     "Content": "檢測到設備晶片版本過舊，遊戲運行中有較大機率會出現閃退。 為了保證正常遊戲體驗，建議更換設備。"
+  },
+  {
+    "Id": "UserProtocol",
+    "Content": ""
+  },
+  {
+    "Id": "PrivacyPolicy",
+    "Content": ""
+  },
+  {
+    "Id": "ChildProtocol",
+    "Content": ""
+  },
+  {
+    "Id": "SdkProtocolDesc",
+    "Content": ""
+  },
+  {
+    "Id": "SdkProtocolTitle",
+    "Content": ""
+  },
+  {
+    "Id": "SdkProtocolConfirm",
+    "Content": ""
+  },
+  {
+    "Id": "SdkProtocolRefuse",
+    "Content": ""
+  },
+  {
+    "Id": "EquipmentDriveOutOfVersion",
+    "Content": "檢測到設備驅動版本過舊，遊戲運行中有大機率閃退。 為了保證正常遊戲體驗，建議更換設備。"
   }
 ]
