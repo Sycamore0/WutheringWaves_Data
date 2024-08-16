@@ -1,7 +1,7 @@
 [
   {
     "Id": "NetworkConnect",
-    "Content": "Verbindung wird hergestellt ..."
+    "Content": "Verbinden ..."
   },
   {
     "Id": "PatchDown",
