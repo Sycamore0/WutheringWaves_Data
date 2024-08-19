@@ -4445,8 +4445,7 @@
     "CompleteCondition": 0,
     "CompleteParam": "[1105121,0]",
     "FailedCondition": [
-      0,
-      6
+      0
     ],
     "FailedParam": [
       "1105121"

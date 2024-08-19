@@ -257,31 +257,31 @@
   },
   {
     "Id": "UserProtocol",
-    "Content": "/test View Terms of Use."
+    "Content": "View Terms of Use"
   },
   {
     "Id": "PrivacyPolicy",
-    "Content": "/test View Privacy Policy."
+    "Content": "View Privacy Policy."
   },
   {
     "Id": "ChildProtocol",
-    "Content": "/test View Child Privacy Policy."
+    "Content": "View Child Privacy Policy."
   },
   {
     "Id": "SdkProtocolDesc",
-    "Content": ""
+    "Content": "For a better gaming experience, we'll link your account for PlayStation™Network to your Kuro account. You can unlink accounts and remove your information anytime through our official website or by contacting customer support."
   },
   {
     "Id": "SdkProtocolTitle",
-    "Content": ""
+    "Content": "User Agreement & Privacy Policy Notification"
   },
   {
     "Id": "SdkProtocolConfirm",
-    "Content": ""
+    "Content": "Accept"
   },
   {
     "Id": "SdkProtocolRefuse",
-    "Content": ""
+    "Content": "Reject"
   },
   {
     "Id": "EquipmentDriveOutOfVersion",

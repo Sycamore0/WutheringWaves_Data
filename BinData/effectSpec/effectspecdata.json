@@ -131116,7 +131116,7 @@
     "Id": -1816200048,
     "Path": "/game/aki/effect/dataasset/niagara/r2t1xiangliyaomd10011/da_fx_r1b_08.da_fx_r1b_08",
     "SpecType": 1,
-    "EffectRegularType": 0,
+    "EffectRegularType": 1,
     "LifeTime": -1,
     "Children": []
   },
@@ -136316,7 +136316,7 @@
     "Id": -833978290,
     "Path": "/game/aki/effect/dataasset/niagara/r2t1xiangliyaomd10011/da_fx_r1b_09.da_fx_r1b_09",
     "SpecType": 1,
-    "EffectRegularType": 0,
+    "EffectRegularType": 1,
     "LifeTime": 12.800000190734863,
     "Children": []
   },

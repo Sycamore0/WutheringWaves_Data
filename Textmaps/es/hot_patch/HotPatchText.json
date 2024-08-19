@@ -257,31 +257,31 @@
   },
   {
     "Id": "UserProtocol",
-    "Content": ""
+    "Content": "c"
   },
   {
     "Id": "PrivacyPolicy",
-    "Content": ""
+    "Content": "Política de Privacidad"
   },
   {
     "Id": "ChildProtocol",
-    "Content": ""
+    "Content": "Política de Privacidad para niños"
   },
   {
     "Id": "SdkProtocolDesc",
-    "Content": ""
+    "Content": "Para ofrecerte una experiencia de juego óptima, tu cuenta de \"PlayStation™Network\" se vinculará de manera segura con el Kuro Pass (Pase de Kuro). Puedes desvincular y eliminar la información de tu cuenta a través del sitio web oficial o contactando al servicio de atención al cliente."
   },
   {
     "Id": "SdkProtocolTitle",
-    "Content": ""
+    "Content": "Aviso de Términos del Servicio y Política de Privacidad"
   },
   {
     "Id": "SdkProtocolConfirm",
-    "Content": ""
+    "Content": "Aceptar"
   },
   {
     "Id": "SdkProtocolRefuse",
-    "Content": ""
+    "Content": "Rechazar"
   },
   {
     "Id": "EquipmentDriveOutOfVersion",

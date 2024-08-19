@@ -257,31 +257,31 @@
   },
   {
     "Id": "UserProtocol",
-    "Content": ""
+    "Content": "查看使用者協議"
   },
   {
     "Id": "PrivacyPolicy",
-    "Content": ""
+    "Content": "查看隱私權政策"
   },
   {
     "Id": "ChildProtocol",
-    "Content": ""
+    "Content": "查看兒童隱私權協議"
   },
   {
     "Id": "SdkProtocolDesc",
-    "Content": ""
+    "Content": "為了給您良好的遊戲體驗，會將您「PlayStation™Network」的帳號與庫洛通行證進行安全綁定。你可以透過官網或聯絡客服，來取消綁定並清除你的帳號資料。"
   },
   {
     "Id": "SdkProtocolTitle",
-    "Content": ""
+    "Content": "使用者協議和隱私權政策提示"
   },
   {
     "Id": "SdkProtocolConfirm",
-    "Content": ""
+    "Content": "同意"
   },
   {
     "Id": "SdkProtocolRefuse",
-    "Content": ""
+    "Content": "拒絕"
   },
   {
     "Id": "EquipmentDriveOutOfVersion",

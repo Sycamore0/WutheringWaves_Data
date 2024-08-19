@@ -9557,7 +9557,7 @@
     "EntityType": "Npc",
     "EntityLogic": "Npc",
     "ModelId": 410156,
-    "HalfHeight": 85
+    "HalfHeight": 80
   },
   {
     "Id": 1196,
@@ -9565,7 +9565,7 @@
     "EntityType": "Npc",
     "EntityLogic": "Npc",
     "ModelId": 410157,
-    "HalfHeight": 85
+    "HalfHeight": 80
   },
   {
     "Id": 1197,
@@ -9573,7 +9573,7 @@
     "EntityType": "Npc",
     "EntityLogic": "Npc",
     "ModelId": 410158,
-    "HalfHeight": 85
+    "HalfHeight": 80
   },
   {
     "Id": 1198,

@@ -293,7 +293,7 @@
   },
   {
     "Id": 452021006,
-    "Entities": "[{\"EntityData\":{\"BlueprintType\":\"Gameplay101\",\"Name\":\"TsEntity_特殊_刷怪器\",\"Id\":1000000,\"Transform\":{\"Pos\":{},\"Rot\":{},\"Scale\":{}},\"ComponentsData\":{\"SpawnMonsterComponent\":{\"SpawnMonsterConfigs\":[{\"Id\":0,\"DelayTime\":0,\"PreCondition\":{\"Type\":\"DependOnPreceding\",\"Ids\":[]},\"TargetsToAwake\":[1000004],\"CompleteCondition\":{\"Type\":0}}]}}}},{\"EntityData\":{\"BlueprintType\":\"Monster103\",\"Name\":\"TsEntity_BOSS_伤痕二阶段_爬塔专用\",\"Id\":1000004,\"InSleep\":true,\"Transform\":{\"Pos\":{\"X\":600},\"Rot\":{\"Z\":-180},\"Scale\":{}},\"ComponentsData\":{\"AttributeComponent\":{\"PropertyId\":700030019},\"MonsterComponent\":{\"InitGasTag\":[\"怪物.common.关卡.难度AI分类.爬塔\"],\"SpecialHateAndSenseConfig\":1}}}}]"
+    "Entities": "[{\"EntityData\":{\"BlueprintType\":\"Gameplay101\",\"Name\":\"TsEntity_特殊_刷怪器\",\"Id\":1000000,\"Transform\":{\"Pos\":{},\"Rot\":{},\"Scale\":{}},\"ComponentsData\":{\"SpawnMonsterComponent\":{\"SpawnMonsterConfigs\":[{\"Id\":0,\"DelayTime\":0,\"PreCondition\":{\"Type\":\"DependOnPreceding\",\"Ids\":[]},\"TargetsToAwake\":[1000004],\"CompleteCondition\":{\"Type\":0}}]}}}},{\"EntityData\":{\"BlueprintType\":\"Monster103\",\"Name\":\"TsEntity_BOSS_伤痕二阶段_爬塔专用\",\"Id\":1000004,\"InSleep\":true,\"Transform\":{\"Pos\":{\"X\":600},\"Rot\":{\"Z\":-180},\"Scale\":{}},\"ComponentsData\":{\"AiComponent\":{\"AiId\":800151},\"AttributeComponent\":{\"PropertyId\":700030019},\"MonsterComponent\":{\"InitGasTag\":[\"怪物.common.关卡.难度AI分类.爬塔\"],\"SpecialHateAndSenseConfig\":1}}}}]"
   },
   {
     "Id": 452021007,
@@ -329,7 +329,7 @@
   },
   {
     "Id": 313700003,
-    "Entities": "[{\"EntityData\":{\"ObjType\":\"Entity\",\"BlueprintType\":\"Gameplay_RogueDoor_Hide\",\"Name\":\"玩法__rogue副本门_隐藏门1\",\"Id\":1700001,\"Transform\":{\"Pos\":{},\"Rot\":{},\"Scale\":{}},\"ComponentsData\":{\"BaseInfoComponent\":{\"TidName\":\"Entity_3fe3a9d5ff5031b4a1a9f594cb565c8f7ef7186527690676d3e3ef2f40304c71\"},\"InteractComponent\":{\"Options\":[{\"TidContent\":\"Entity_d55c30ea65b9dddcc5887f77f4a1ed72cbad6686755350d5412b2b1f30f0172d\",\"Type\":{\"Type\":\"Actions\",\"Actions\":[{\"Name\":\"RogueGotoNextFloor\",\"Params\":{}}]},\"Condition\":{\"Type\":0,\"Conditions\":[{\"Type\":\"CompareEntitySelfState\",\"Compare\":\"Eq\",\"State\":\"关卡.Common.状态.激活\"}]}}]}}}}]"
+    "Entities": "[{\"EntityData\":{\"ObjType\":\"Entity\",\"BlueprintType\":\"Gameplay_RogueDoor_Hide\",\"Name\":\"玩法__rogue副本门_隐藏门1\",\"Id\":1700001,\"Transform\":{\"Pos\":{},\"Rot\":{},\"Scale\":{}},\"ComponentsData\":{\"BaseInfoComponent\":{\"TidName\":\"Entity_3fe3a9d5ff5031b4a1a9f594cb565c8f7ef7186527690676d3e3ef2f40304c71\"},\"InteractComponent\":{\"Disabled\":false}}}}]"
   },
   {
     "Id": 452031000,
@@ -369,6 +369,6 @@
   },
   {
     "Id": 452031011,
-    "Entities": "[{\"EntityData\":{\"BlueprintType\":\"Gameplay101\",\"Name\":\"TsEntity_特殊_刷怪器\",\"Id\":1000000,\"Transform\":{\"Pos\":{},\"Rot\":{},\"Scale\":{}},\"ComponentsData\":{\"SpawnMonsterComponent\":{\"SpawnMonsterConfigs\":[{\"Id\":0,\"DelayTime\":0,\"PreCondition\":{\"Type\":\"DependOnPreceding\",\"Ids\":[]},\"TargetsToAwake\":[1000001],\"CompleteCondition\":{\"Type\":0}}]}}}},{\"EntityData\":{\"BlueprintType\":\"Monster112\",\"Name\":\"TsEntity_BOSS_无常鹭_爬塔专用\",\"Id\":1000001,\"InSleep\":true,\"Transform\":{\"Pos\":{\"X\":850},\"Rot\":{\"Z\":-180},\"Scale\":{}},\"ComponentsData\":{\"AttributeComponent\":{\"PropertyId\":700040045}}}}]"
+    "Entities": "[{\"EntityData\":{\"BlueprintType\":\"Gameplay101\",\"Name\":\"TsEntity_特殊_刷怪器\",\"Id\":1000000,\"Transform\":{\"Pos\":{},\"Rot\":{},\"Scale\":{}},\"ComponentsData\":{\"SpawnMonsterComponent\":{\"SpawnMonsterConfigs\":[{\"Id\":0,\"DelayTime\":0,\"PreCondition\":{\"Type\":\"DependOnPreceding\",\"Ids\":[]},\"TargetsToAwake\":[1000001],\"CompleteCondition\":{\"Type\":0}}]}}}},{\"EntityData\":{\"BlueprintType\":\"Monster112\",\"Name\":\"TsEntity_BOSS_无常鹭_爬塔专用\",\"Id\":1000001,\"InSleep\":true,\"Transform\":{\"Pos\":{\"X\":850},\"Rot\":{\"Z\":-180},\"Scale\":{}},\"ComponentsData\":{\"AttributeComponent\":{\"PropertyId\":700040045},\"MonsterComponent\":{\"SpecialHateAndSenseConfig\":1}}}}]"
   }
 ]

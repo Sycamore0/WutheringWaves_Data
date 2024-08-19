@@ -25017,13 +25017,13 @@
     "ItemId": "3951688922",
     "PrefabPathHash": "882683022",
     "ItemPath": "UiView_SelectRole/UiItem_LayerUi_Prefab/PnlInfo/UiItem_CommonNoneTip_Prefab/EmptyTxt1",
-    "Text": "PrefabTextItem_3951688922_Text"
+    "Text": "PrefabTextItem_3774032555_Text"
   },
   {
     "ItemId": "3917191330",
     "PrefabPathHash": "882683022",
     "ItemPath": "UiView_SelectRole/UiItem_LayerUi_Prefab/PnlInfo/UiItem_CommonNoneTip_Prefab/PnlTxt/EmptyTxt",
-    "Text": "PrefabTextItem_3917191330_Text"
+    "Text": "PrefabTextItem_2125309381_Text"
   },
   {
     "ItemId": "2107559496",
@@ -30747,7 +30747,7 @@
     "ItemId": "771777347",
     "PrefabPathHash": "2105140130",
     "ItemPath": "UiItem_EntrustQuest/PnlInfo/PnlBottom/BtnConfirmB2/PnlPivot/PnlLayout/TxtConfirm",
-    "Text": "PrefabTextItem_Moonfiesta_EntrustStart_Text"
+    "Text": "PrefabTextItem_Default_Text"
   },
   {
     "ItemId": "308598130",
@@ -30891,7 +30891,7 @@
     "ItemId": "665805001",
     "PrefabPathHash": "4100371526",
     "ItemPath": "UiView_EntrustTipTravel/PnlSafeZone/PnlInfo/TxtName",
-    "Text": "PrefabTextItem_Moonfiesta_EntrustDoing_Text"
+    "Text": "PrefabTextItem_Default_Text"
   },
   {
     "ItemId": "1208877682",

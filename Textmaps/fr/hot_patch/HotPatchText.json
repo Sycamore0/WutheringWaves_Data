@@ -257,31 +257,31 @@
   },
   {
     "Id": "UserProtocol",
-    "Content": ""
+    "Content": "Conditions d'utilisation"
   },
   {
     "Id": "PrivacyPolicy",
-    "Content": ""
+    "Content": "Politique de confidentialité"
   },
   {
     "Id": "ChildProtocol",
-    "Content": ""
+    "Content": "Politique de confidentialité des enfants"
   },
   {
     "Id": "SdkProtocolDesc",
-    "Content": ""
+    "Content": "Pour une meilleure expérience de jeu, nous allons lier votre compte pour PlayStation™Network à votre compte Kuro. Vous pouvez dissocier les comptes et supprimer vos informations à tout moment via notre site officiel ou en contactant le support client."
   },
   {
     "Id": "SdkProtocolTitle",
-    "Content": ""
+    "Content": "Notification de l'Accord utilisateur et de la Politique de confidentialité"
   },
   {
     "Id": "SdkProtocolConfirm",
-    "Content": ""
+    "Content": "Accepter"
   },
   {
     "Id": "SdkProtocolRefuse",
-    "Content": ""
+    "Content": "Refuser"
   },
   {
     "Id": "EquipmentDriveOutOfVersion",

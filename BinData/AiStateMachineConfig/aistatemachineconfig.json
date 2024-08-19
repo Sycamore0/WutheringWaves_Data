@@ -15397,7 +15397,7 @@
   {
     "Id": "SM_MB1Wuguanzhe00601",
     "StateMachineJson": {
-      "Version": 1465127802,
+      "Version": 808931986,
       "StateMachines": [
         2
       ],
@@ -16606,64 +16606,10 @@
           "Children": [
             21,
             22,
-            23
+            23,
+            24
           ],
           "Transitions": [
-            {
-              "From": 21,
-              "To": 23,
-              "TransitionPredictionType": 0,
-              "Weight": 0,
-              "Conditions": [
-                {
-                  "Index": 0,
-                  "Name": "CondAnd",
-                  "Type": 1,
-                  "Reverse": false,
-                  "CondAnd": {
-                    "Conditions": [
-                      1,
-                      2,
-                      3
-                    ]
-                  }
-                },
-                {
-                  "Index": 1,
-                  "Name": "CondAttributeRate",
-                  "Type": 18,
-                  "Reverse": false,
-                  "CondAttributeRate": {
-                    "AttributeId": 3,
-                    "Denominator": 2,
-                    "Min": 0,
-                    "Max": 5000
-                  }
-                },
-                {
-                  "Index": 2,
-                  "Name": "CondTag",
-                  "Type": 14,
-                  "Reverse": true,
-                  "IsClient": true,
-                  "CondTag": {
-                    "TagId": -1371021686,
-                    "TagName": "行为状态.逻辑状态.技能中"
-                  }
-                },
-                {
-                  "Index": 3,
-                  "Name": "CondTag",
-                  "Type": 14,
-                  "Reverse": true,
-                  "IsClient": true,
-                  "CondTag": {
-                    "TagId": -1503953470,
-                    "TagName": "行为状态.动作状态.受击"
-                  }
-                }
-              ]
-            },
             {
               "From": 23,
               "To": 22,
@@ -16678,6 +16624,68 @@
                   "IsClient": true,
                   "CondMontageTimeRemaining": {
                     "Time": 200
+                  }
+                }
+              ]
+            },
+            {
+              "From": 21,
+              "To": 24,
+              "TransitionPredictionType": 0,
+              "Weight": 0,
+              "Conditions": [
+                {
+                  "Index": 0,
+                  "Name": "CondAttributeRate",
+                  "Type": 18,
+                  "Reverse": false,
+                  "CondAttributeRate": {
+                    "AttributeId": 3,
+                    "Denominator": 2,
+                    "Min": 0,
+                    "Max": 5000
+                  }
+                }
+              ]
+            },
+            {
+              "From": 24,
+              "To": 23,
+              "TransitionPredictionType": 0,
+              "Weight": 0,
+              "Conditions": [
+                {
+                  "Index": 0,
+                  "Name": "CondAnd",
+                  "Type": 1,
+                  "Reverse": false,
+                  "CondAnd": {
+                    "Conditions": [
+                      1,
+                      2
+                    ]
+                  }
+                },
+                {
+                  "Index": 1,
+                  "Name": "CondTag",
+                  "Type": 14,
+                  "Reverse": true,
+                  "IsClient": true,
+                  "CondTag": {
+                    "TagId": -1371021686,
+                    "TagName": "行为状态.逻辑状态.技能中"
+                  }
+                },
+                {
+                  "Index": 2,
+                  "Name": "CondTag",
+                  "Type": 14,
+                  "Reverse": true,
+                  "IsClient": true,
+                  "CondTag": {
+                    "TagId": -1503953470,
+                    "TagName": "行为状态.动作状态.受击"
                   }
                 }
               ]
@@ -16752,6 +16760,14 @@
               }
             }
           ]
+        },
+        {
+          "Uuid": 24,
+          "Name": "一转二准备",
+          "TakeControlType": 0,
+          "TransitionRule": 0,
+          "Children": [],
+          "Transitions": []
         }
       ]
     }
@@ -17266,7 +17282,7 @@
   {
     "Id": "SM_Common",
     "StateMachineJson": {
-      "Version": 2029971250,
+      "Version": 2083646862,
       "StateMachines": [
         10247,
         10159,
@@ -18366,22 +18382,6 @@
               ]
             },
             {
-              "From": 10139,
-              "To": 10140,
-              "TransitionPredictionType": 0,
-              "Weight": 0,
-              "Conditions": [
-                {
-                  "Index": 0,
-                  "Name": "CondTaskFinish",
-                  "Type": 101,
-                  "Reverse": false,
-                  "IsClient": true,
-                  "CondTaskFinish": {}
-                }
-              ]
-            },
-            {
               "From": 10150,
               "To": 10149,
               "TransitionPredictionType": 0,
@@ -18575,6 +18575,22 @@
             {
               "From": 10245,
               "To": 10149,
+              "TransitionPredictionType": 0,
+              "Weight": 0,
+              "Conditions": [
+                {
+                  "Index": 0,
+                  "Name": "CondTaskFinish",
+                  "Type": 101,
+                  "Reverse": false,
+                  "IsClient": true,
+                  "CondTaskFinish": {}
+                }
+              ]
+            },
+            {
+              "From": 10139,
+              "To": 10155,
               "TransitionPredictionType": 0,
               "Weight": 0,
               "Conditions": [
@@ -34982,7 +34998,7 @@
   {
     "Id": "SM_ML1QunnieMd00401",
     "StateMachineJson": {
-      "Version": 706122361,
+      "Version": 451169583,
       "StateMachines": [
         4,
         11,
@@ -35816,7 +35832,8 @@
             31,
             32,
             33,
-            34
+            34,
+            35
           ],
           "Transitions": [
             {
@@ -35975,7 +35992,7 @@
             },
             {
               "From": 21,
-              "To": 22,
+              "To": 35,
               "TransitionPredictionType": 0,
               "Weight": 0,
               "Conditions": [
@@ -36012,6 +36029,20 @@
                     "TagId": 1639442014,
                     "TagName": "怪物.common.关卡.难度AI分类.领主复刷"
                   }
+                }
+              ]
+            },
+            {
+              "From": 35,
+              "To": 22,
+              "TransitionPredictionType": 0,
+              "Weight": 0,
+              "Conditions": [
+                {
+                  "Index": 0,
+                  "Name": "CondHate",
+                  "Type": 20,
+                  "Reverse": false
                 }
               ]
             }
@@ -36648,6 +36679,14 @@
               }
             }
           ]
+        },
+        {
+          "Uuid": 35,
+          "Name": "待机",
+          "TakeControlType": 0,
+          "TransitionRule": 0,
+          "Children": [],
+          "Transitions": []
         }
       ]
     }

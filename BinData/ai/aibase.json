@@ -6109,5 +6109,35 @@
     ],
     "Team": false,
     "MonsterType": 4
+  },
+  {
+    "Id": 800151,
+    "StateMachine": "SM_AIMB1ShanghengMd00501",
+    "AiController": "/Game/Aki/AI/AIMonster/Boss/AIMB1ShanghengMd00501/AIC_AIMB1ShanghengMd00501_2.AIC_AIMB1ShanghengMd00501_2",
+    "BehaviorTree": "/Game/Aki/AI/AIMonster/Boss/AIMB1ShanghengMd00501/BT_AIMB1ShanghengMd00501.BT_AIMB1ShanghengMd00501",
+    "SubBehaviorConfigs": [
+      {
+        "Key": "AiSense",
+        "Value": "80015"
+      },
+      {
+        "Key": "AiHate",
+        "Value": "80015"
+      },
+      {
+        "Key": "AiWander",
+        "Value": "3"
+      },
+      {
+        "Key": "AiBattleWander",
+        "Value": "80015"
+      },
+      {
+        "Key": "AiBaseSkill",
+        "Value": "80015"
+      }
+    ],
+    "Team": false,
+    "MonsterType": 4
   }
 ]
