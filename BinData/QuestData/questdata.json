@@ -26832,22 +26832,16 @@
       "ProvideType": {
         "Conditions": [
           {
-            "Type": "PreQuest",
-            "PreQuest": 880000015
-          },
-          {
             "Type": "OpenDate",
             "DateId": 1815,
-            "OpenType": "AfterBeginTime"
+            "OpenType": "InTimeRange"
           }
-        ],
-        "Type": 0
+        ]
       },
       "DistributeType": "System",
       "ActiveActions": [],
       "Reference": [
-        "e_8_880700295",
-        "q_880000015"
+        "e_8_880700295"
       ]
     }
   },
@@ -27004,6 +26998,7 @@
       "Key": "占卜隐藏任务",
       "TidName": "Quest_6700000_QuestName_6_1",
       "TidDesc": "Quest_6700000_QuestDesc_6_1",
+      "RewardId": 1001,
       "OnlineType": "SingleHangUpOnline",
       "IsAutoTrack": false,
       "ProvideType": {

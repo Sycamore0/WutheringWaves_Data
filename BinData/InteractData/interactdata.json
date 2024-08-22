@@ -32028,6 +32028,42 @@
     "Duration": ""
   },
   {
+    "Guid": "10672efb51c54394a648c9955c9bba76",
+    "Type": {
+      "Type": "Flow",
+      "Flow": {
+        "FlowListName": "剧情_角色_忌炎线",
+        "FlowId": 2,
+        "StateId": 5
+      }
+    },
+    "Icon": "",
+    "TidContent": "",
+    "Condition": "",
+    "UniquenessTest": "",
+    "DoIntactType": "Direct",
+    "Range": 0,
+    "Duration": ""
+  },
+  {
+    "Guid": "86fd44cacfb946e684c38140e846d2f3",
+    "Type": {
+      "Type": "Flow",
+      "Flow": {
+        "FlowListName": "剧情_角色_忌炎线",
+        "FlowId": 2,
+        "StateId": 6
+      }
+    },
+    "Icon": "",
+    "TidContent": "",
+    "Condition": "",
+    "UniquenessTest": "",
+    "DoIntactType": "Direct",
+    "Range": 0,
+    "Duration": ""
+  },
+  {
     "Guid": "629d3a7036fa41058d5593e2095d1d11",
     "Type": {
       "Type": "Flow",
@@ -35353,42 +35389,6 @@
     },
     "Icon": "",
     "TidContent": "LevelPlay_139000001_InteractContent_139_14",
-    "Condition": "",
-    "UniquenessTest": "",
-    "DoIntactType": "Direct",
-    "Range": 0,
-    "Duration": ""
-  },
-  {
-    "Guid": "b2e37659b52749a991ee1b3e7ed52589",
-    "Type": {
-      "Type": "Flow",
-      "Flow": {
-        "FlowListName": "剧情_角色_忌炎线",
-        "FlowId": 2,
-        "StateId": 5
-      }
-    },
-    "Icon": "",
-    "TidContent": "",
-    "Condition": "",
-    "UniquenessTest": "",
-    "DoIntactType": "Direct",
-    "Range": 0,
-    "Duration": ""
-  },
-  {
-    "Guid": "d0f570d5a41e4d158eeb5d4e35cc9305",
-    "Type": {
-      "Type": "Flow",
-      "Flow": {
-        "FlowListName": "剧情_角色_忌炎线",
-        "FlowId": 2,
-        "StateId": 6
-      }
-    },
-    "Icon": "",
-    "TidContent": "",
     "Condition": "",
     "UniquenessTest": "",
     "DoIntactType": "Direct",

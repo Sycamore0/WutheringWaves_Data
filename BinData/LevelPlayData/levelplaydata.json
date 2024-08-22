@@ -84008,7 +84008,7 @@
       "PackId": 0,
       "LevelPlayEntityId": 313700296,
       "LevelAdditiveId": 0,
-      "EnterRadius": 140000,
+      "EnterRadius": 100000,
       "LeaveRadius": 150000,
       "DelayRefresh": true,
       "DelayDestroy": true,
@@ -90474,8 +90474,8 @@
         ]
       },
       "LevelPlayRefreshConfig": {
-        "Type": "FixedDateTime",
-        "UpdateType": "Daily"
+        "Type": "CustomRefresh",
+        "CompletedRefreshTime": 30
       },
       "LevelPlayTrack": {
         "TrackRadius": 2000,

@@ -41617,7 +41617,7 @@
         "AoiZRadius": 0
       },
       "AiComponent": {
-        "AiId": 800092,
+        "AiId": 80009,
         "InitState": {
           "Type": 0,
           "BirthTag": "怪物.common.状态标识.播放出生"
@@ -49466,7 +49466,7 @@
         "States": []
       },
       "ModelComponent": {
-        "HalfHeight": 80,
+        "HalfHeight": 85,
         "Disabled": false,
         "ModelType": {
           "Type": "ModelId",
@@ -49533,7 +49533,7 @@
         "States": []
       },
       "ModelComponent": {
-        "HalfHeight": 80,
+        "HalfHeight": 85,
         "Disabled": false,
         "ModelType": {
           "Type": "ModelId",
@@ -50203,7 +50203,7 @@
         "States": []
       },
       "ModelComponent": {
-        "HalfHeight": 80,
+        "HalfHeight": 85,
         "Disabled": false,
         "ModelType": {
           "Type": "ModelId",
@@ -61023,10 +61023,7 @@
         "BossViewConfig": {
           "BossStateViewType": 1,
           "TidBossSubTitle": "Entity_5492a54cf85d51713a71aefd58766cf3ec9d5b780258be1654f0404a3d4dce01"
-        },
-        "InitGasTag": [
-          "怪物.common.关卡.难度AI分类.爬塔"
-        ]
+        }
       },
       "CombatComponent": {},
       "RefreshComponent": {

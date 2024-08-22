@@ -257,31 +257,31 @@
   },
   {
     "Id": "UserProtocol",
-    "Content": ""
+    "Content": "ユーザー利用規約"
   },
   {
     "Id": "PrivacyPolicy",
-    "Content": ""
+    "Content": "プライバシーポリシー"
   },
   {
     "Id": "ChildProtocol",
-    "Content": ""
+    "Content": "児童プライバシーポリシー"
   },
   {
     "Id": "SdkProtocolDesc",
-    "Content": ""
+    "Content": "より良いゲーム体験をご提供するため、PlayStation™Networkのアカウントと、KURO GAMESアカウントとの連携が行われます。公式サイトやカスタマーサポートで連携を解除し、アカウント情報を削除することができます。"
   },
   {
     "Id": "SdkProtocolTitle",
-    "Content": ""
+    "Content": "ユーザー利用規約とプライバシーポリシーについて"
   },
   {
     "Id": "SdkProtocolConfirm",
-    "Content": ""
+    "Content": "同意する"
   },
   {
     "Id": "SdkProtocolRefuse",
-    "Content": ""
+    "Content": "同意しない"
   },
   {
     "Id": "EquipmentDriveOutOfVersion",

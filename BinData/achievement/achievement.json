@@ -4206,7 +4206,7 @@
     "Desc": "Achievement_200118_Desc",
     "IconPath": "",
     "OverrideDropId": 0,
-    "Hidden": true,
+    "Hidden": false,
     "NextLink": -1,
     "ClientTrigger": false,
     "ThirdPartyTrophyId": -1
@@ -4219,7 +4219,7 @@
     "Desc": "Achievement_200119_Desc",
     "IconPath": "",
     "OverrideDropId": 0,
-    "Hidden": true,
+    "Hidden": false,
     "NextLink": -1,
     "ClientTrigger": false,
     "ThirdPartyTrophyId": -1
@@ -4232,7 +4232,7 @@
     "Desc": "Achievement_200120_Desc",
     "IconPath": "",
     "OverrideDropId": 0,
-    "Hidden": true,
+    "Hidden": false,
     "NextLink": -1,
     "ClientTrigger": false,
     "ThirdPartyTrophyId": -1
@@ -4245,7 +4245,7 @@
     "Desc": "Achievement_200121_Desc",
     "IconPath": "",
     "OverrideDropId": 0,
-    "Hidden": true,
+    "Hidden": false,
     "NextLink": -1,
     "ClientTrigger": false,
     "ThirdPartyTrophyId": -1
@@ -4258,7 +4258,7 @@
     "Desc": "Achievement_200122_Desc",
     "IconPath": "",
     "OverrideDropId": 0,
-    "Hidden": true,
+    "Hidden": false,
     "NextLink": -1,
     "ClientTrigger": false,
     "ThirdPartyTrophyId": -1
@@ -4271,7 +4271,7 @@
     "Desc": "Achievement_200308_Desc",
     "IconPath": "",
     "OverrideDropId": 0,
-    "Hidden": true,
+    "Hidden": false,
     "NextLink": -1,
     "ClientTrigger": false,
     "ThirdPartyTrophyId": -1
@@ -4284,7 +4284,7 @@
     "Desc": "Achievement_200309_Desc",
     "IconPath": "",
     "OverrideDropId": 0,
-    "Hidden": true,
+    "Hidden": false,
     "NextLink": -1,
     "ClientTrigger": false,
     "ThirdPartyTrophyId": -1

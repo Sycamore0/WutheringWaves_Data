@@ -216,6 +216,21 @@
     ]
   },
   {
+    "TaskId": 1018,
+    "TaskTitle": "ActivityAdventureTask_1018_Title",
+    "TaskDescription": "ActivityAdventureTask_1018_Desc",
+    "TaskReward": [
+      {
+        "Key": 13,
+        "Value": 10
+      }
+    ],
+    "TaskFunc": [
+      "4",
+      "830004"
+    ]
+  },
+  {
     "TaskId": 1013,
     "TaskTitle": "ActivityAdventureTask_1013_Title",
     "TaskDescription": "ActivityAdventureTask_1013_Desc",

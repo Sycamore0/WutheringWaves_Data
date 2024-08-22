@@ -116,7 +116,7 @@
     "Parameters": [
       "Gameplay355"
     ],
-    "UseInMultiMode": false,
+    "UseInMultiMode": true,
     "UseInstance": false,
     "BanTags": [],
     "AllowTags": [
@@ -131,7 +131,7 @@
     "Parameters": [
       "Gameplay355"
     ],
-    "UseInMultiMode": false,
+    "UseInMultiMode": true,
     "UseInstance": false,
     "BanTags": [],
     "AllowTags": [

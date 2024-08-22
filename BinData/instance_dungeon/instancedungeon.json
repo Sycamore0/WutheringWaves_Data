@@ -38913,7 +38913,7 @@
     "ExitEntities": [],
     "DungeonDesc": "InstanceDungeon_1002_DungeonDesc",
     "Title": 999,
-    "BannerPath": "/Game/Aki/UI/UIResources/UiCheckpoints/Image/T_CheckpointsBg18_UI.T_CheckpointsBg18_UI",
+    "BannerPath": "/Game/Aki/UI/UIResources/UiCheckpoints/Image/T_CheckpointsBg6_UI.T_CheckpointsBg6_UI",
     "MonsterPreview": [],
     "MonsterTips": "",
     "FirstRewardId": 0,

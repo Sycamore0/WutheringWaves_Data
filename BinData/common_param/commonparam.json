@@ -3461,7 +3461,7 @@
   },
   {
     "KeyName": "MoonFiestaEnergyLimit",
-    "BinData": "ZAAAAA=="
+    "BinData": "MgAAAA=="
   },
   {
     "KeyName": "SuccessAdditionMin",
@@ -3590,9 +3590,5 @@
   {
     "KeyName": "MoonPhase1Task",
     "BinData": "EbxzNA=="
-  },
-  {
-    "KeyName": "RecallActivityLevel",
-    "BinData": "CAAAAA=="
   }
 ]

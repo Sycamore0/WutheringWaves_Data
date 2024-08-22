@@ -83,11 +83,8 @@
     "MaxCount": 1,
     "IsShareAllCdSkill": false,
     "IsDefaultActivated": true,
-    "TriggerType": "AttributeChangedTrigger",
-    "TriggerPreset": [
-      "0",
-      "3"
-    ],
+    "TriggerType": "",
+    "TriggerPreset": [],
     "TriggerParams": {
       "CheckAttackerTags": [
         "角色.R2T1JueyuanMd10011.BUFFID.回血buff",
@@ -272,7 +269,7 @@
     "MaxCount": 1,
     "IsShareAllCdSkill": false,
     "IsDefaultActivated": true,
-    "TriggerType": "DamageTrigger",
+    "TriggerType": "BeHitTrigger",
     "TriggerPreset": [
       "0"
     ],
@@ -293,7 +290,7 @@
     "MaxCount": 1,
     "IsShareAllCdSkill": false,
     "IsDefaultActivated": true,
-    "TriggerType": "DamageTrigger",
+    "TriggerType": "BeHitTrigger",
     "TriggerPreset": [
       "0"
     ],
@@ -3088,7 +3085,7 @@
     "TriggerType": "TagTrigger",
     "TriggerPreset": [
       "角色.Common.技能通用标识.QTE",
-      "1"
+      "0"
     ],
     "TriggerParams": {},
     "TriggerFormula": "TRUE",
@@ -3119,6 +3116,8 @@
     "InstigatorType": "Owner",
     "SkillAction": "RemoveBuff",
     "SkillActionParams": [
+      "9102910002030#-1",
+      "9102910002033#-1",
       "9102910002035#-1"
     ]
   },
@@ -3133,7 +3132,7 @@
     "TriggerType": "TagTrigger",
     "TriggerPreset": [
       "角色.Common.技能通用标识.QTE",
-      "1"
+      "0"
     ],
     "TriggerParams": {},
     "TriggerFormula": "TRUE",

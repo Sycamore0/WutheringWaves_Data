@@ -743,8 +743,7 @@
     "DamageList": [
       "1103130001",
       "1103200003",
-      "1103200001",
-      "1103200014"
+      "1103200001"
     ],
     "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconBailian/SP_IconBailianC1.SP_IconBailianC1",
     "EffectSkillPath": "/Game/Aki/Effect/Texture/Icon/IconSkill/T_IconBailianA1_UI.T_IconBailianA1_UI",
@@ -2188,9 +2187,7 @@
     "BuffList": [
       "1403080001"
     ],
-    "DamageList": [
-      "1403080020"
-    ],
+    "DamageList": [],
     "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconQiushui/SP_IconQiushuiC1.SP_IconQiushuiC1",
     "EffectSkillPath": "/Game/Aki/Effect/Texture/Icon/IconSkill/T_IconQiushuiA1_UI.T_IconQiushuiA1_UI",
     "SortIndex": 3,
@@ -6008,9 +6005,7 @@
       "1305053001",
       "1305053002",
       "1305053011",
-      "1305053021",
-      "1305053101",
-      "1305053201"
+      "1305053021"
     ],
     "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconXiangliyao/SP_IconXiangliyaoY.SP_IconXiangliyaoY",
     "EffectSkillPath": "/Game/Aki/Effect/Texture/Icon/IconSkill/T_IconYangyangQTE_UI.T_IconYangyangQTE_UI",

@@ -261,27 +261,27 @@
   },
   {
     "Id": "PrivacyPolicy",
-    "Content": "개인정보 보호정책 보기"
+    "Content": "개인정보 보호 정책 보기"
   },
   {
     "Id": "ChildProtocol",
-    "Content": "아동 개인정도 보호정책 보기"
+    "Content": "아동 개인정보 보호정책 보기"
   },
   {
     "Id": "SdkProtocolDesc",
-    "Content": ""
+    "Content": "더욱 원활한 게임 플레이를 위해 방랑자님의 PlayStation™Network 의 계정과 쿠로 통행증(KURO GAMES Account)을 연동 진행할 예정입니다. 계정 삭제 혹은 계정 연동을 취소하실 경우 공식 홈페이지 또는 고객센터로 연락하시기 바랍니다"
   },
   {
     "Id": "SdkProtocolTitle",
-    "Content": ""
+    "Content": "이용약관 및 개인정보 보호 정책 알림"
   },
   {
     "Id": "SdkProtocolConfirm",
-    "Content": ""
+    "Content": "동의"
   },
   {
     "Id": "SdkProtocolRefuse",
-    "Content": ""
+    "Content": "거절"
   },
   {
     "Id": "EquipmentDriveOutOfVersion",

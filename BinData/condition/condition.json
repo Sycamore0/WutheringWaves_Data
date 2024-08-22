@@ -51131,7 +51131,7 @@
     "LimitParams": [
       {
         "Key": "Level",
-        "Value": "4"
+        "Value": "3"
       },
       {
         "Key": "Count",
@@ -51149,7 +51149,7 @@
     "LimitParams": [
       {
         "Key": "Level",
-        "Value": "6"
+        "Value": "5"
       },
       {
         "Key": "Count",
@@ -51163,15 +51163,15 @@
   {
     "Id": 12100104,
     "Type": "CheckPeopleLikeCount",
-    "NeedNum": 8,
+    "NeedNum": 4,
     "LimitParams": [
       {
         "Key": "Level",
-        "Value": "7"
+        "Value": "6"
       },
       {
         "Key": "Count",
-        "Value": "8"
+        "Value": "4"
       }
     ],
     "LimitParamsOpe": [],
@@ -51181,15 +51181,15 @@
   {
     "Id": 12100105,
     "Type": "CheckPeopleLikeCount",
-    "NeedNum": 1,
+    "NeedNum": 2,
     "LimitParams": [
       {
         "Key": "Level",
-        "Value": "8"
+        "Value": "7"
       },
       {
         "Key": "Count",
-        "Value": "1"
+        "Value": "2"
       }
     ],
     "LimitParamsOpe": [],
@@ -51293,7 +51293,7 @@
   {
     "Id": 12100206,
     "Type": "CheckMoonRoleLikeLevel",
-    "NeedNum": 3,
+    "NeedNum": 2,
     "LimitParams": [
       {
         "Key": "Level",
@@ -51301,7 +51301,7 @@
       },
       {
         "Key": "Count",
-        "Value": "3"
+        "Value": "2"
       },
       {
         "Key": "RoleId",
@@ -53373,7 +53373,7 @@
       },
       {
         "Key": "QuestNodeId",
-        "Value": "173"
+        "Value": "131"
       },
       {
         "Key": "State",
@@ -54159,7 +54159,7 @@
   {
     "Id": 12100106,
     "Type": "CheckPeopleLikeCount",
-    "NeedNum": 12,
+    "NeedNum": 1,
     "LimitParams": [
       {
         "Key": "Level",
@@ -54167,7 +54167,7 @@
       },
       {
         "Key": "Count",
-        "Value": "12"
+        "Value": "1"
       }
     ],
     "LimitParamsOpe": [],
@@ -54247,7 +54247,7 @@
   {
     "Id": 12100207,
     "Type": "CheckMoonRoleLikeLevel",
-    "NeedNum": 6,
+    "NeedNum": 4,
     "LimitParams": [
       {
         "Key": "Level",
@@ -54255,7 +54255,7 @@
       },
       {
         "Key": "Count",
-        "Value": "6"
+        "Value": "4"
       },
       {
         "Key": "RoleId",
@@ -54269,15 +54269,15 @@
   {
     "Id": 12100208,
     "Type": "CheckMoonRoleLikeLevel",
-    "NeedNum": 1,
+    "NeedNum": 6,
     "LimitParams": [
       {
         "Key": "Level",
-        "Value": "10"
+        "Value": "8"
       },
       {
         "Key": "Count",
-        "Value": "1"
+        "Value": "6"
       },
       {
         "Key": "RoleId",
@@ -54291,7 +54291,7 @@
   {
     "Id": 12100209,
     "Type": "CheckMoonRoleLikeLevel",
-    "NeedNum": 6,
+    "NeedNum": 1,
     "LimitParams": [
       {
         "Key": "Level",
@@ -54299,7 +54299,7 @@
       },
       {
         "Key": "Count",
-        "Value": "6"
+        "Value": "1"
       },
       {
         "Key": "RoleId",
@@ -54529,11 +54529,11 @@
   {
     "Id": 12100312,
     "Type": "CheckMoonBuildingUp",
-    "NeedNum": 1,
+    "NeedNum": 3,
     "LimitParams": [
       {
         "Key": "Level",
-        "Value": "3"
+        "Value": "2"
       }
     ],
     "LimitParamsOpe": [],
@@ -54547,7 +54547,7 @@
     "LimitParams": [
       {
         "Key": "Level",
-        "Value": "4"
+        "Value": "3"
       }
     ],
     "LimitParamsOpe": [],
@@ -54557,11 +54557,11 @@
   {
     "Id": 12100314,
     "Type": "CheckMoonBuildingUp",
-    "NeedNum": 1,
+    "NeedNum": 4,
     "LimitParams": [
       {
         "Key": "Level",
-        "Value": "5"
+        "Value": "3"
       }
     ],
     "LimitParamsOpe": [],
@@ -54571,7 +54571,7 @@
   {
     "Id": 12100315,
     "Type": "CheckMoonBuildingUp",
-    "NeedNum": 5,
+    "NeedNum": 1,
     "LimitParams": [
       {
         "Key": "Level",
