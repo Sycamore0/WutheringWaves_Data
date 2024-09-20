@@ -53,7 +53,7 @@
   },
   {
     "Id": "HotFixRestartToCompleteHotFix",
-    "Content": "Aktualisierung abgeschlossen, bitte starte das Spiel neu."
+    "Content": "Uptade abgeschlossen, bitte starte das Spiel neu."
   },
   {
     "Id": "HotFixRestartToRepairFiles",
@@ -133,7 +133,7 @@
   },
   {
     "Id": "CompleteHotFix",
-    "Content": "Hotfix abgeschlossen"
+    "Content": "Uptade abgeschlossen"
   },
   {
     "Id": "DownloadIndexFileFailed",

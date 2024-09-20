@@ -133,7 +133,7 @@
   },
   {
     "Id": "CompleteHotFix",
-    "Content": "ホットアップデートが完了しました。"
+    "Content": "アップデートが完了しました。"
   },
   {
     "Id": "DownloadIndexFileFailed",
