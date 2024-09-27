@@ -4097,8 +4097,8 @@
     "DefaultParam1": "",
     "Param2": [
       {
-        "Key": "AreaId",
-        "Value": "Int"
+        "Key": "AreaIds",
+        "Value": "IntArray"
       }
     ],
     "DefaultParam2": "0",
@@ -4462,8 +4462,8 @@
     "DefaultParam1": "",
     "Param2": [
       {
-        "Key": "AreaId",
-        "Value": "Int"
+        "Key": "AreaIds",
+        "Value": "IntArray"
       }
     ],
     "DefaultParam2": "0",
@@ -12245,6 +12245,576 @@
     "DefaultParam2": "0",
     "Param3": [],
     "DefaultParam3": "",
+    "Param4": [],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "CheckGachaTypeItemQuality",
+    "IsClientTrigger": false,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [
+      {
+        "Key": "GachaType",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam1": "",
+    "Param2": [
+      {
+        "Key": "Count",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam2": "",
+    "Param3": [
+      {
+        "Key": "ExcludeItem",
+        "Value": "IntArray"
+      }
+    ],
+    "DefaultParam3": "0",
+    "Param4": [
+      {
+        "Key": "ItemType",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam4": "",
+    "Param5": [
+      {
+        "Key": "OnlyUp",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam5": "1",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "CheckGachaTypeConsecutive",
+    "IsClientTrigger": false,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [
+      {
+        "Key": "GachaType",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam1": "",
+    "Param2": [
+      {
+        "Key": "Count",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam2": "",
+    "Param3": [
+      {
+        "Key": "OnlyUp",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam3": "1",
+    "Param4": [
+      {
+        "Key": "ItemType",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "CheckGachaTenTimesItemCount",
+    "IsClientTrigger": false,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [
+      {
+        "Key": "GachaType",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam1": "",
+    "Param2": [
+      {
+        "Key": "Count",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam2": "2",
+    "Param3": [
+      {
+        "Key": "ItemType",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam3": "",
+    "Param4": [],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "CorniceMeetingFinish",
+    "IsClientTrigger": false,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [
+      {
+        "Key": "ActivityId",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam1": "",
+    "Param2": [],
+    "DefaultParam2": "",
+    "Param3": [],
+    "DefaultParam3": "",
+    "Param4": [],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "RiskHarvestScore",
+    "IsClientTrigger": false,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [
+      {
+        "Key": "ActivityId",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam1": "",
+    "Param2": [
+      {
+        "Key": "Count",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam2": "",
+    "Param3": [],
+    "DefaultParam3": "",
+    "Param4": [],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "CheckOnSelectSettingMainType",
+    "IsClientTrigger": true,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [],
+    "DefaultParam1": "",
+    "Param2": [],
+    "DefaultParam2": "",
+    "Param3": [],
+    "DefaultParam3": "",
+    "Param4": [],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "OpenTreasureBoxNew",
+    "IsClientTrigger": false,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [
+      {
+        "Key": "TreasureType",
+        "Value": "IntArray"
+      }
+    ],
+    "DefaultParam1": "",
+    "Param2": [
+      {
+        "Key": "AreaIds",
+        "Value": "IntArray"
+      }
+    ],
+    "DefaultParam2": "0",
+    "Param3": [
+      {
+        "Key": "InstanceId",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam3": "",
+    "Param4": [],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "PassInst",
+    "IsClientTrigger": false,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [
+      {
+        "Key": "InstanceId",
+        "Value": "IntArray"
+      }
+    ],
+    "DefaultParam1": "",
+    "Param2": [
+      {
+        "Key": "RoleId",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam2": "",
+    "Param3": [],
+    "DefaultParam3": "",
+    "Param4": [],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "PassLordGymDifficultyWithLevel",
+    "IsClientTrigger": false,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [
+      {
+        "Key": "Id",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam1": "-1",
+    "Param2": [
+      {
+        "Key": "Difficulty",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam2": "-1",
+    "Param3": [
+      {
+        "Key": "Level",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam3": "",
+    "Param4": [],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "WeekInstanceCount",
+    "IsClientTrigger": false,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [],
+    "DefaultParam1": "",
+    "Param2": [],
+    "DefaultParam2": "",
+    "Param3": [],
+    "DefaultParam3": "",
+    "Param4": [],
+    "DefaultParam4": "",
+    "Param5": [],
+    "DefaultParam5": "",
+    "Param6": [],
+    "DefaultParam6": "",
+    "Param7": [],
+    "DefaultParam7": "",
+    "Param8": [],
+    "DefaultParam8": "",
+    "Param9": [],
+    "DefaultParam9": "",
+    "Param10": [],
+    "DefaultParam10": "",
+    "Param11": [],
+    "DefaultParam11": "",
+    "Param12": [],
+    "DefaultParam12": "",
+    "Param13": [],
+    "DefaultParam13": "",
+    "Param14": [],
+    "DefaultParam14": "",
+    "Param15": [],
+    "DefaultParam15": "",
+    "Param16": [],
+    "DefaultParam16": ""
+  },
+  {
+    "Type": "NewCapturePhantom",
+    "IsClientTrigger": false,
+    "SubType": 0,
+    "RegisterPlaces": [
+      0
+    ],
+    "Param1": [
+      {
+        "Key": "Quality",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam1": "",
+    "Param2": [
+      {
+        "Key": "AreaIds",
+        "Value": "IntArray"
+      }
+    ],
+    "DefaultParam2": "0",
+    "Param3": [
+      {
+        "Key": "MonsterType",
+        "Value": "Int"
+      }
+    ],
+    "DefaultParam3": "0",
     "Param4": [],
     "DefaultParam4": "",
     "Param5": [],

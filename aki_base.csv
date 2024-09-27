@@ -56,6 +56,10 @@ BattleScoreConf,db_BattleScore.db,
 BattleScoreLevelConf,db_BattleScore.db,
 BattleTag,db_battletag.db,lang_battletag.db
 BeginnerGuide,db_BeginnerLogReport.db,
+BlackCoastThemeConfig,db_activity.db,
+BlackCoastThemeRewardRe,db_activity.db,
+BlackCoastThemeStageRe,db_activity.db,
+BlackCoastThemeTaskRe,db_activity.db,
 BlackboardWhiteList,db_ai.db,
 BlockSwitch,db_map.db,lang_map.db
 BlueprintConfig,db_blueprint.db,lang_blueprint.db
@@ -118,6 +122,8 @@ CookLevel,db_cook.db,lang_cook.db
 CookProcessMsg,db_cook.db,lang_cook.db
 CookProcessed,db_cook.db,lang_cook.db
 CookingSkill,db_skill.db,lang_skill.db
+CorniceChallenge,db_activity.db,
+CorniceQuest,db_activity.db,
 Country,db_influence.db,lang_country.db
 CustomMark,db_map_mark.db,lang_map_mark.db
 CustomSequence,db_custom_sequence.db,lang_custom_sequence.db
@@ -132,6 +138,7 @@ DailyTaskSeriesType,db_daily_task.db,
 Damage,db_damage.db,lang_damage.db
 DamagePayload,db_DamagePayload.db,
 DamageText,db_damage_text.db,
+DarkCoastDelivery,db_dragon_ball.db,lang_dragon_ball.db
 DataLayer,db_datalayer.db,lang_datalayer.db
 DaySelectPreset,db_time_of_day.db,lang_time_of_day.db
 DebugCommandConfig,db_debugview.db,
@@ -157,6 +164,7 @@ ElementInfo,db_element_info.db,lang_element_info.db
 ElementLevel,db_Rogue.db,lang_rogue.db
 ElementReactionMatrix,db_element_info.db,lang_element_info.db
 ElementalReaction,db_element_info.db,lang_element_info.db
+EnrichmentAreaConfig,db_enrichment.db,lang_enrichment.db
 EntityAudioConfig,db_entity_audio.db,
 EntityOwnerData,db_EntityOwnerData.db,lang_EntityOwnerData.db
 EntitySkillPreload,db_entity_skill_preload.db,lang_entity_skill_preload.db
@@ -189,6 +197,7 @@ FeedingAnimal,db_FeedingAnimal.db,
 FightFormation,db_formation.db,lang_formation.db
 Filter,db_filter_sort.db,
 FilterRule,db_filter_sort.db,
+FilterSortConfig,db_filter_sort.db,
 FilterSortGroup,db_filter_sort.db,
 Flow,db_flow.db,lang_flow.db
 FlowState,db_flowState.db,lang_flowState.db
@@ -237,6 +246,7 @@ GmOrderConfig,db_gm.db,lang_gm.db
 GmOrderList,db_gm.db,lang_gm.db
 GuideData,db_adventure_detect.db,lang_detection.db
 GuideFocusNew,db_guide_new.db,lang_guide_new.db
+GuideFromMontage,db_guide_new.db,lang_guide_new.db
 GuideGroup,db_guide_new.db,lang_guide_new.db
 GuideStep,db_guide_new.db,lang_guide_new.db
 GuideTips,db_guide_new.db,lang_guide_new.db
@@ -328,6 +338,8 @@ MultiMap,db_map.db,lang_map.db
 MultiMapAreaConfig,db_map.db,lang_map.db
 NewOccupationConfig,db_new_occupation.db,lang_new_occupation.db
 NewbieCourse,db_NewbieCourse.db,
+NounHandBook,db_handbook.db,lang_handbook.db
+NounType,db_handbook.db,lang_handbook.db
 NpcHeadInfo,db_npc_headinfo.db,lang_npc_headinfo.db
 NpcSystemBackground,db_CommonBackground.db,
 OccupationConfig,db_occupation.db,lang_occupation.db
@@ -345,7 +357,9 @@ PayShopCondition,db_payshop.db,lang_payshop.db
 PayShopDirectGoods,db_payshop.db,lang_payshop.db
 PayShopGoods,db_payshop.db,lang_payshop.db
 PayShopTab,db_payshop.db,lang_payshop.db
+PbDataPreload,db_pbdata_preload.db,lang_pbdata_preload.db
 PcKey,db_key.db,
+PerformanceCondition,db_RoleIdle.db,
 PersonalTips,db_personal.db,lang_personal.db
 PhantomCollectActivity,db_activity.db,
 PhantomCollectTaskDesc,db_activity.db,
@@ -367,6 +381,7 @@ PhantomRarity,db_phantom.db,lang_phantom.db
 PhantomSkill,db_phantom.db,lang_phantom.db
 PhantomSubProperty,db_phantom.db,lang_phantom.db
 PhantomWildItem,db_phantom.db,lang_phantom.db
+PhantomType,db_phantom.db,lang_phantom.db
 PhotoMemoryActivity,db_FragmentMemory.db,
 PhotoMemoryCollect,db_FragmentMemory.db,
 PhotoMemoryTopic,db_FragmentMemory.db,
@@ -389,6 +404,7 @@ PreviewItem,db_item.db,lang_item.db
 PropRewardConf,db_ItemAttributeReward.db,
 PropertyIndex,db_property.db,lang_property.db
 ProtocolMonitoring,db_protocol_monitor.db,
+PunishReport,db_PunishReport.db,
 QualityIconTag,db_component_config.db,
 QualityInfo,db_item.db,lang_item.db
 Quest,db_quest.db,lang_quest.db
@@ -397,6 +413,7 @@ QuestData,db_QuestData.db,lang_QuestData.db
 QuestMainType,db_questtype.db,lang_questtype.db
 QuestNodeData,db_QuestNodeData.db,lang_QuestNodeData.db
 QuestTag,db_QuestTag.db,
+QuestTrackingConfig,db_QuestTrackingConfig.db,lang_QuestTrackingConfig.db
 QuestType,db_questtype.db,lang_questtype.db
 QuickChat,db_chat.db,lang_chat.db
 RecordCondition,db_adventurerecord.db,
@@ -410,6 +427,12 @@ ResonantChain,db_resonate_chain.db,lang_resonate_chain.db
 Revive,db_revive.db,lang_revive.db
 RewardConfig,db_activity.db,
 RewardViewFromSource,db_RewardUi.db,
+RiskHarvestArtifact,db_activity.db,
+RiskHarvestBuffGroup,db_activity.db,
+RiskHarvestBuffReward,db_activity.db,
+RiskHarvestDifficulty,db_activity.db,
+RiskHarvestInst,db_activity.db,
+RiskHarvestScoreReward,db_activity.db,
 RogueActivity,db_activity.db,
 RogueAffix,db_Rogue.db,lang_rogue.db
 RogueAffixLibrary,db_Rogue.db,lang_rogue.db
@@ -454,6 +477,7 @@ RoleTag,db_role.db,lang_role.db
 RoleTrainingDegree,db_roleTrainingDegree.db,lang_role_training_degree.db
 RoleTrialActivity,db_activity.db,
 RoleTrialInfo,db_activity.db,
+RoleTrialUiConfig,db_activity.db,
 RougeMiraclecreation,db_Rogue.db,lang_rogue.db
 RougePopularEntrie,db_Rogue.db,lang_rogue.db
 ScanDefault,db_levelgameplay.db,lang_levelgameplay.db
@@ -480,6 +504,7 @@ SkillButtonText,db_skillButton.db,
 SkillCommonButton,db_skillButton.db,
 SkillCondition,db_skillTree.db,lang_skillTree.db
 SkillDescription,db_skill.db,lang_skill.db
+SkillFollowerButton,db_skillButton.db,
 SkillIcon,db_skillButton.db,
 SkillInput,db_skillTree.db,lang_skillTree.db
 SkillLevel,db_skill.db,lang_skill.db
@@ -497,6 +522,7 @@ SpecialCook,db_cook.db,lang_cook.db
 SpecialFormation,db_formation.db,lang_formation.db
 SpecialHateAndSense,db_SpecialHateAndSense.db,lang_SpecialHateAndSense.db
 SpecialItem,db_special_item.db,lang_special_item.db
+State,db_area.db,lang_area.db
 StateMachinePreload,db_state_machine_preload.db,lang_state_machine_preload.db
 SubtitleText,db_subtitle_text.db,lang_subtitle_text.db
 SummonCfg,db_Summon.db,
@@ -511,8 +537,10 @@ TaskMark,db_map_mark.db,lang_map_mark.db
 TeamConfig,db_teamconfig.db,
 Teleporter,db_teleporter.db,lang_teleporter.db
 TemplateConfig,db_template.db,lang_template.db
+TemplateDataPreload,db_templatedata_preload.db,lang_templatedata_preload.db
 TemporaryTeleportMark,db_map_mark.db,lang_map_mark.db
 Text,db_text.db,lang_text.db
+TidText,db_tid_text.db,lang_tid_text.db
 TimeOfDay,db_time_of_day.db,lang_time_of_day.db
 TimePointRewardActivity,db_activity.db,
 TimePointRewardConfig,db_activity.db,

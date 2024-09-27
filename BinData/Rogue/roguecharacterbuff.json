@@ -793,7 +793,9 @@
       "900000010038"
     ],
     "AffixDesc": "RogueBuffPool_900000010023_BuffDesc",
-    "AffixDescParam": [],
+    "AffixDescParam": [
+      "50%"
+    ],
     "AffixDescSimple": "RogueBuffPool_900000010023_BuffDesc_0",
     "AffixTitle": "RogueBuffPool_900000010023_BuffDesc_1",
     "AffixIcon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/SP_IconNorSword.SP_IconNorSword"
@@ -819,7 +821,9 @@
       "900000010040"
     ],
     "AffixDesc": "RogueBuffPool_900000010025_BuffDesc",
-    "AffixDescParam": [],
+    "AffixDescParam": [
+      "50%"
+    ],
     "AffixDescSimple": "RogueBuffPool_900000010025_BuffDesc_0",
     "AffixTitle": "RogueBuffPool_900000010025_BuffDesc_1",
     "AffixIcon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJiyan/SP_IconJiyanC1.SP_IconJiyanC1"
@@ -1280,7 +1284,9 @@
     ],
     "AffixDesc": "RogueBuffPool_1501700010_BuffDesc",
     "AffixDescParam": [
-      "50%"
+      "100%",
+      "50%",
+      "5"
     ],
     "AffixDescSimple": "RogueBuffPool_1501700010_BuffDesc_0",
     "AffixTitle": "RogueBuffPool_1501700010_BuffDesc_1",
@@ -1479,7 +1485,9 @@
     ],
     "AffixDesc": "RogueBuffPool_1502700010_BuffDesc",
     "AffixDescParam": [
-      "50%"
+      "100%",
+      "50%",
+      "5"
     ],
     "AffixDescSimple": "RogueBuffPool_1502700010_BuffDesc_0",
     "AffixTitle": "RogueBuffPool_1502700010_BuffDesc_1",
@@ -2803,7 +2811,6 @@
     "BuffId": "1102912051",
     "BuffIds": [
       "1305999009",
-      "1305999010",
       "1305999011",
       "1305999012"
     ],

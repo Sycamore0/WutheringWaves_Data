@@ -277,7 +277,7 @@
   },
   {
     "Id": "SdkProtocolConfirm",
-    "Content": ""
+    "Content": "1"
   },
   {
     "Id": "SdkProtocolRefuse",

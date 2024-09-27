@@ -1937,7 +1937,7 @@
   },
   {
     "KeyName": "LivenessTaskCount",
-    "BinData": "CQAAAA=="
+    "BinData": "CgAAAA=="
   },
   {
     "KeyName": "CommunicateViewCloseTime",
@@ -3264,10 +3264,6 @@
     "BinData": "hQAAAC9HYW1lL0FraS9VSS9VSVJlc291cmNlcy9VaUFjdGl2aXR5L0F0bGFzL0FjdGl2aXR5UHJvY2Vzc01lbW9yeS9TUF9BY3Rpdml0eVByb2Nlc3NNZW1vcnlJY29uTGlnaHQxLlNQX0FjdGl2aXR5UHJvY2Vzc01lbW9yeUljb25MaWdodDE="
   },
   {
-    "KeyName": "BattleScoreDecayNotBattle",
-    "BinData": "PPb//w=="
-  },
-  {
     "KeyName": "PlotAutoScrollDelayCharNum",
     "BinData": "PAAAAA=="
   },
@@ -3310,6 +3306,10 @@
   {
     "KeyName": "store_energy_timespan",
     "BinData": "0AIAAA=="
+  },
+  {
+    "KeyName": "hover_tag_name",
+    "BinData": "GwAAAOWFs+WNoS5Db21tb24u5bGe5oCnLuaCrOWBnA=="
   },
   {
     "KeyName": "CommonEnemyHeadStateHpColor",
@@ -3461,7 +3461,7 @@
   },
   {
     "KeyName": "MoonFiestaEnergyLimit",
-    "BinData": "MgAAAA=="
+    "BinData": "ZAAAAA=="
   },
   {
     "KeyName": "SuccessAdditionMin",
@@ -3529,7 +3529,7 @@
   },
   {
     "KeyName": "MoveCheckTime",
-    "BinData": "CgAAAAYAAABDb21tb26guw0AAAAAAAUAAABDbGltYqC7DQAAAAAAAwAAAEZseaC7DQAAAAAABQAAAEdsaWRlwNQBAAAAAAADAAAAUnVuoLsNAAAAAAAFAAAAU2tpbGwgTgAAAAAAAAYAAABTcHJpbnRAHwAAAAAAAAUAAABTdGFuZIDuNgAAAAAABAAAAFN3aW3A1AEAAAAAAAQAAABXYWxrgO42AAAAAAA="
+    "BinData": "CgAAAAYAAABDb21tb27//////////wUAAABDbGltYqC7DQAAAAAAAwAAAEZseaC7DQAAAAAABQAAAEdsaWRl4JMEAAAAAAADAAAAUnVuoLsNAAAAAAAFAAAAU2tpbGwgTgAAAAAAAAYAAABTcHJpbnTgkwQAAAAAAAUAAABTdGFuZP//////////BAAAAFN3aW3A1AEAAAAAAAQAAABXYWxr//////////8="
   },
   {
     "KeyName": "MoveCheckScore",
@@ -3556,6 +3556,14 @@
     "BinData": "AgAAAB68czRian40"
   },
   {
+    "KeyName": "LogReportTimeCheckPeriod",
+    "BinData": "LAEAAA=="
+  },
+  {
+    "KeyName": "LogReportPeriod_ExploreTool",
+    "BinData": "WAIAAA=="
+  },
+  {
     "KeyName": "MoonChasingPriorityMainQuestId",
     "BinData": "BgAAAA+8czQRvHM0FbxzNBm8czQgvHM0ZGp+NA=="
   },
@@ -3564,8 +3572,24 @@
     "BinData": "IAMAAA=="
   },
   {
+    "KeyName": "GameHealthTipTime",
+    "BinData": "AwAAAA=="
+  },
+  {
+    "KeyName": "EnrichmentAreaMinCount",
+    "BinData": "AgAAAA=="
+  },
+  {
     "KeyName": "MoonChasingMaiActivityId",
     "BinData": "odEPBg=="
+  },
+  {
+    "KeyName": "PhantomRefiningMaxCount",
+    "BinData": "ZAAAAA=="
+  },
+  {
+    "KeyName": "PSNSessionLength",
+    "BinData": "QAAAAA=="
   },
   {
     "KeyName": "LoginViewNoShowExitButtonPackageIdList",
@@ -3588,7 +3612,99 @@
     "BinData": "uAsAAA=="
   },
   {
+    "KeyName": "VisionRecoveryUnDesperate",
+    "BinData": "XgAAAC9HYW1lL0FraS9VSS9VSVJlc291cmNlcy9Db21tb24vSW1hZ2UvQ29tSW1nL1RfSWNvbkZpbHRlckFiYW5kb25tZW50MS5UX0ljb25GaWx0ZXJBYmFuZG9ubWVudDE="
+  },
+  {
+    "KeyName": "VisionRecoveryDesperate",
+    "BinData": "XgAAAC9HYW1lL0FraS9VSS9VSVJlc291cmNlcy9Db21tb24vSW1hZ2UvQ29tSW1nL1RfSWNvbkZpbHRlckFiYW5kb25tZW50Mi5UX0ljb25GaWx0ZXJBYmFuZG9ubWVudDI="
+  },
+  {
+    "KeyName": "QuickTransferRange",
+    "BinData": "yAAAAA=="
+  },
+  {
+    "KeyName": "AllowResolutionList",
+    "BinData": "CAAAABAAAAAJAAAABAAAAAMAAAAIAAAABQAAAKsCAACAAQAA"
+  },
+  {
+    "KeyName": "RichZoneExtraRadius",
+    "BinData": "QA0DAA=="
+  },
+  {
+    "KeyName": "KoShopRuleUrl",
+    "BinData": "RAAAAGh0dHBzOi8vd3V0aGVyaW5nd2F2ZXMua3Vyb2dhbWVzLmNvbS9wL2xhbmd1YWdlX2tvL3Byb2R1Y3RfaW5mby5odG1s"
+  },
+  {
     "KeyName": "MoonPhase1Task",
     "BinData": "EbxzNA=="
+  },
+  {
+    "KeyName": "DarkShoreDefaultLevel",
+    "BinData": "ZQAAAC9HYW1lL0FraS9VSS9VSVJlc291cmNlcy9VaUFjdGl2aXR5L0ltYWdlL0FjdGl2aXR5RGFya3Nob3JlL1RfQWN0aXZpdHlEYXJrTnVtTHYwLlRfQWN0aXZpdHlEYXJrTnVtTHYw"
+  },
+  {
+    "KeyName": "ReviewCd",
+    "BinData": "AKd2AA=="
+  },
+  {
+    "KeyName": "OpenReviewDelay",
+    "BinData": "AQAAAA=="
+  },
+  {
+    "KeyName": "RecallActivityLevel",
+    "BinData": "CAAAAA=="
+  },
+  {
+    "KeyName": "ServerAppGradeCd",
+    "BinData": "AKd2AA=="
+  },
+  {
+    "KeyName": "AppGradeChannel",
+    "BinData": "BAAAAAAAAACgAAAAqwAAADgAAAA="
+  },
+  {
+    "KeyName": "MaxInputButtonKeyName",
+    "BinData": "ZAAAAA=="
+  },
+  {
+    "KeyName": "MaxInputKeyListLength",
+    "BinData": "CgAAAA=="
+  },
+  {
+    "KeyName": "MaxInputCombinationKeyListLength",
+    "BinData": "BAAAAA=="
+  },
+  {
+    "KeyName": "Roulette_Gamepad_Open_DeadLimit",
+    "BinData": "6AMAAA=="
+  },
+  {
+    "KeyName": "enter_connector_tag_name",
+    "BinData": "LAAAAOi+heWKqeacui7pu5Hmtbflsrgu6L+b5YWl5rGh5p+T5Lqk5LqS6IyD5Zu0"
+  },
+  {
+    "KeyName": "MaxInputDeviceSubTypeLength",
+    "BinData": "MgAAAA=="
+  },
+  {
+    "KeyName": "CloseQuestRangeFailWarningTime",
+    "BinData": "MHUAAA=="
+  },
+  {
+    "KeyName": "PSNBlockListSize",
+    "BinData": "0AcAAA=="
+  },
+  {
+    "KeyName": "OpenFragmentNeedItem",
+    "BinData": "ZEAuBA=="
+  },
+  {
+    "KeyName": "WeekInstanceType",
+    "BinData": "BwAAAA=="
+  },
+  {
+    "KeyName": "MoveCheckReportCnt",
+    "BinData": "HgAAAA=="
   }
 ]

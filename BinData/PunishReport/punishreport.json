@@ -1,30 +1,72 @@
 [
   {
-    "Id": 134001236,
-    "BinData": "GAAAABQAJAAgABwAGAAUABAADAAIAAQAFAAAACAAAAA8AAAAVAAAAGwAAACEAAAAmAAAAKwAAABUsvwHGQAAAOiuqOS8kDHlrp3nrrHpooblj5bmlbDph48AAAAUAAAA6K6o5LyQMeaMkeaImDPlrozmiJAAAAAAFAAAAOiuqOS8kDHmjJHmiJgy5a6M5oiQAAAAABQAAADorqjkvJAx5oyR5oiYMeWujOaIkAAAAAATAAAAUmFpZF8xX0NoYW5sbGVuZ2VfMwATAAAAUmFpZF8xX0NoYW5sbGVuZ2VfMgATAAAAUmFpZF8xX0NoYW5sbGVuZ2VfMQA="
-  },
-  {
-    "Id": 134750421,
-    "BinData": "GAAAABQAJAAgABwAGAAUABAADAAIAAQAFAAAACAAAAA8AAAAVAAAAGwAAACEAAAAmAAAAKwAAADVIAgIGQAAAOiuqOS8kDLlrp3nrrHpooblj5bmlbDph48AAAAUAAAA6K6o5LyQMuaMkeaImDPlrozmiJAAAAAAFAAAAOiuqOS8kDLmjJHmiJgy5a6M5oiQAAAAABQAAADorqjkvJAy5oyR5oiYMeWujOaIkAAAAAATAAAAUmFpZF8yX0NoYW5sbGVuZ2VfMwATAAAAUmFpZF8yX0NoYW5sbGVuZ2VfMgATAAAAUmFpZF8yX0NoYW5sbGVuZ2VfMQA="
-  },
-  {
-    "Id": 134750442,
-    "BinData": "GAAAABQAJAAgABwAGAAUABAADAAIAAQAFAAAACAAAAA8AAAAVAAAAGwAAACEAAAAmAAAAKwAAADqIAgIGQAAAOiuqOS8kDPlrp3nrrHpooblj5bmlbDph48AAAAUAAAA6K6o5LyQM+aMkeaImDPlrozmiJAAAAAAFAAAAOiuqOS8kDPmjJHmiJgy5a6M5oiQAAAAABQAAADorqjkvJAz5oyR5oiYMeWujOaIkAAAAAATAAAAUmFpZF8zX0NoYW5sbGVuZ2VfMwATAAAAUmFpZF8zX0NoYW5sbGVuZ2VfMgATAAAAUmFpZF8zX0NoYW5sbGVuZ2VfMQA="
-  },
-  {
-    "Id": 134750010,
-    "BinData": "GAAAABQAJAAgABwAGAAUABAADAAIAAQAFAAAACAAAAA8AAAAVAAAAGwAAACEAAAAmAAAAKwAAAA6HwgIGQAAAOiuqOS8kDTlrp3nrrHpooblj5bmlbDph48AAAAUAAAA6K6o5LyQNOaMkeaImDPlrozmiJAAAAAAFAAAAOiuqOS8kDTmjJHmiJgy5a6M5oiQAAAAABQAAADorqjkvJA05oyR5oiYMeWujOaIkAAAAAATAAAAUmFpZF80X0NoYW5sbGVuZ2VfMwATAAAAUmFpZF80X0NoYW5sbGVuZ2VfMgATAAAAUmFpZF80X0NoYW5sbGVuZ2VfMQA="
-  },
-  {
-    "Id": 134750024,
-    "BinData": "GAAAABQAJAAgABwAGAAUABAADAAIAAQAFAAAACAAAAA8AAAAVAAAAGwAAACEAAAAmAAAAKwAAABIHwgIGQAAAOiuqOS8kDXlrp3nrrHpooblj5bmlbDph48AAAAUAAAA6K6o5LyQNeaMkeaImDPlrozmiJAAAAAAFAAAAOiuqOS8kDXmjJHmiJgy5a6M5oiQAAAAABQAAADorqjkvJA15oyR5oiYMeWujOaIkAAAAAATAAAAUmFpZF81X0NoYW5sbGVuZ2VfMwATAAAAUmFpZF81X0NoYW5sbGVuZ2VfMgATAAAAUmFpZF81X0NoYW5sbGVuZ2VfMQA="
-  },
-  {
-    "Id": 134750036,
-    "BinData": "GAAAABQAJAAgABwAGAAUABAADAAIAAQAFAAAACAAAAA8AAAAVAAAAGwAAACEAAAAmAAAAKwAAABUHwgIGQAAAOiuqOS8kDblrp3nrrHpooblj5bmlbDph48AAAAUAAAA6K6o5LyQNuaMkeaImDPlrozmiJAAAAAAFAAAAOiuqOS8kDbmjJHmiJgy5a6M5oiQAAAAABQAAADorqjkvJA25oyR5oiYMeWujOaIkAAAAAATAAAAUmFpZF82X0NoYW5sbGVuZ2VfMwATAAAAUmFpZF82X0NoYW5sbGVuZ2VfMgATAAAAUmFpZF82X0NoYW5sbGVuZ2VfMQA="
-  },
-  {
     "Id": 134750105,
-    "BinData": "GAAAABQAJAAgABwAGAAUABAADAAIAAQAFAAAACAAAAA8AAAAVAAAAGwAAACEAAAAmAAAAKwAAACZHwgIGQAAAOiuqOS8kDflrp3nrrHpooblj5bmlbDph48AAAAUAAAA6K6o5LyQN+aMkeaImDPlrozmiJAAAAAAFAAAAOiuqOS8kDfmjJHmiJgy5a6M5oiQAAAAABQAAADorqjkvJA35oyR5oiYMeWujOaIkAAAAAATAAAAUmFpZF83X0NoYW5sbGVuZ2VfMwATAAAAUmFpZF83X0NoYW5sbGVuZ2VfMgATAAAAUmFpZF83X0NoYW5sbGVuZ2VfMQA="
+    "CondDescription1": "Raid_7_Chanllenge_1",
+    "CondDescription2": "Raid_7_Chanllenge_2",
+    "CondDescription3": "Raid_7_Chanllenge_3",
+    "Cond1Key": "讨伐7挑战1完成",
+    "Cond2ey": "讨伐7挑战2完成",
+    "Cond3Key": "讨伐7挑战3完成",
+    "GetBoxKey": "讨伐7宝箱领取数量"
+  },
+  {
+    "Id": 134001234,
+    "CondDescription1": "Raid_1_Chanllenge_1",
+    "CondDescription2": "Raid_1_Chanllenge_2",
+    "CondDescription3": "Raid_1_Chanllenge_3",
+    "Cond1Key": "讨伐1挑战1完成",
+    "Cond2ey": "讨伐1挑战2完成",
+    "Cond3Key": "讨伐1挑战3完成",
+    "GetBoxKey": "讨伐1宝箱领取数量"
+  },
+  {
+    "Id": 134750092,
+    "CondDescription1": "Raid_2_Chanllenge_1",
+    "CondDescription2": "Raid_2_Chanllenge_2",
+    "CondDescription3": "Raid_2_Chanllenge_3",
+    "Cond1Key": "讨伐2挑战1完成",
+    "Cond2ey": "讨伐2挑战2完成",
+    "Cond3Key": "讨伐2挑战3完成",
+    "GetBoxKey": "讨伐2宝箱领取数量"
+  },
+  {
+    "Id": 134750096,
+    "CondDescription1": "Raid_3_Chanllenge_1",
+    "CondDescription2": "Raid_3_Chanllenge_2",
+    "CondDescription3": "Raid_3_Chanllenge_3",
+    "Cond1Key": "讨伐3挑战1完成",
+    "Cond2ey": "讨伐3挑战2完成",
+    "Cond3Key": "讨伐3挑战3完成",
+    "GetBoxKey": "讨伐3宝箱领取数量"
+  },
+  {
+    "Id": 134750003,
+    "CondDescription1": "Raid_4_Chanllenge_1",
+    "CondDescription2": "Raid_4_Chanllenge_2",
+    "CondDescription3": "Raid_4_Chanllenge_3",
+    "Cond1Key": "讨伐4挑战1完成",
+    "Cond2ey": "讨伐4挑战2完成",
+    "Cond3Key": "讨伐4挑战3完成",
+    "GetBoxKey": "讨伐4宝箱领取数量"
+  },
+  {
+    "Id": 134750115,
+    "CondDescription1": "Raid_5_Chanllenge_1",
+    "CondDescription2": "Raid_5_Chanllenge_2",
+    "CondDescription3": "Raid_5_Chanllenge_3",
+    "Cond1Key": "讨伐5挑战1完成",
+    "Cond2ey": "讨伐5挑战2完成",
+    "Cond3Key": "讨伐5挑战3完成",
+    "GetBoxKey": "讨伐5宝箱领取数量"
+  },
+  {
+    "Id": 134750114,
+    "CondDescription1": "Raid_6_Chanllenge_1",
+    "CondDescription2": "Raid_6_Chanllenge_2",
+    "CondDescription3": "Raid_6_Chanllenge_3",
+    "Cond1Key": "讨伐6挑战1完成",
+    "Cond2ey": "讨伐6挑战2完成",
+    "Cond3Key": "讨伐6挑战3完成",
+    "GetBoxKey": "讨伐6宝箱领取数量"
   }
 ]
