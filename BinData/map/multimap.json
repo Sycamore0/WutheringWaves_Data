@@ -222,8 +222,8 @@
       "T_HHASubTiles_1_-1_JZD_LAYER2_UI"
     ],
     "MiniMapTilePath": [
-      "T_HHASubTiles400_0_-1_JZD_LAYER2_UI",
-      "T_HHASubTiles400_1_-1_JZD_LAYER2_UI"
+      "T_HHASubTiles_0_-1_JZD_LAYER2_UI",
+      "T_HHASubTiles_1_-1_JZD_LAYER2_UI"
     ],
     "Area": [
       1571
@@ -245,8 +245,8 @@
       "T_HHASubTiles_1_-1_JZD_LAYER1_UI"
     ],
     "MiniMapTilePath": [
-      "T_HHASubTiles400_0_-1_JZD_LAYER1_UI",
-      "T_HHASubTiles400_1_-1_JZD_LAYER1_UI"
+      "T_HHASubTiles_0_-1_JZD_LAYER1_UI",
+      "T_HHASubTiles_1_-1_JZD_LAYER1_UI"
     ],
     "Area": [
       1572
@@ -278,7 +278,7 @@
       "T_HHASubTiles_0_0_MWSRS_LAYER2_UI"
     ],
     "MiniMapTilePath": [
-      "T_HHASubTiles400_0_0_MWSRS_LAYER2_UI"
+      "T_HHASubTiles_0_0_MWSRS_LAYER2_UI"
     ],
     "Area": [
       1561
@@ -297,7 +297,7 @@
       "T_HHASubTiles_0_0_MWSRS_LAYER1_UI"
     ],
     "MiniMapTilePath": [
-      "T_HHASubTiles400_0_0_MWSRS_LAYER1_UI"
+      "T_HHASubTiles_0_0_MWSRS_LAYER1_UI"
     ],
     "Area": [
       1562
@@ -329,7 +329,7 @@
       "T_HHASubTiles_0_0_SMFJ_LAYER1_UI"
     ],
     "MiniMapTilePath": [
-      "T_HHASubTiles400_0_0_SMFJ_LAYER1_UI"
+      "T_HHASubTiles_0_0_SMFJ_LAYER1_UI"
     ],
     "Area": [
       1511

@@ -7942,6 +7942,21 @@
   {
     "Id": "UiView_DailyTowerAreaOpenRed",
     "Path": "/Game/Aki/UI/UIResources/UiDailyTower/Prefabs/UiView_DailyTowerAreaOpen1.UiView_DailyTowerAreaOpen1",
-    "PcPath": ""
+    "PcPath": "/Game/Aki/UI/UIResources/UiDailyTower/Prefabs/PC/PC_UiView_DailyTowerAreaOpen1.PC_UiView_DailyTowerAreaOpen1"
+  },
+  {
+    "Id": "UiItem_ActivityRoleGrowing",
+    "Path": "/Game/Aki/UI/UIResources/UiActivity/Prefabs/RoleGrowing/UiItem_RoleGrowingMain.UiItem_RoleGrowingMain",
+    "PcPath": "/Game/Aki/UI/UIResources/UiActivity/Prefabs/PC/RoleGrowing/PC_UiItem_RoleGrowingMain.PC_UiItem_RoleGrowingMain"
+  },
+  {
+    "Id": "UiView_ActivityRoleGrowingMain",
+    "Path": "/Game/Aki/UI/UIResources/UiActivity/Prefabs/RoleGrowing/UiView_RoleGrowingEnter.UiView_RoleGrowingEnter",
+    "PcPath": "/Game/Aki/UI/UIResources/UiActivity/Prefabs/PC/RoleGrowing/PC_UiView_RoleGrowingEnter.PC_UiView_RoleGrowingEnter"
+  },
+  {
+    "Id": "UiView_ActivityRoleGrowingTask",
+    "Path": "/Game/Aki/UI/UIResources/UiActivity/Prefabs/RoleGrowing/UiView_RoleGrowingReward.UiView_RoleGrowingReward",
+    "PcPath": "/Game/Aki/UI/UIResources/UiActivity/Prefabs/PC/RoleGrowing/PC_UiView_RoleGrowingReward.PC_UiView_RoleGrowingReward"
   }
 ]

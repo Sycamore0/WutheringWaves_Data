@@ -12295,15 +12295,15 @@
   },
   {
     "Id": 200345,
-    "DebugText": "声骸不可再该副本中使用",
+    "DebugText": "声骸不可在该副本中使用",
     "Text": "ErrorCode_200345_Text",
-    "IsTip": false
+    "IsTip": true
   },
   {
     "Id": 200346,
     "DebugText": "声骸重复",
     "Text": "ErrorCode_200346_Text",
-    "IsTip": false
+    "IsTip": true
   },
   {
     "Id": 200347,

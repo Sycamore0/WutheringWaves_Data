@@ -70,5 +70,41 @@
     "OpenConditionId": 13000017,
     "QuestionId": 125000120,
     "Picture": "/Game/Aki/UI/UIResources/UiActivity/Image/Longshan/T_LongshanPix04.T_LongshanPix04"
+  },
+  {
+    "Id": 9,
+    "ActivityId": 101300003,
+    "Title": "LongShanStage_Title09",
+    "TitleDetail": "LongShanStage_Title09",
+    "OpenConditionId": 13000142,
+    "QuestionId": 139000025,
+    "Picture": "/Game/Aki/UI/UIResources/UiActivity/Atlas/RoleGrowing/SP_GrowingIconCharacterNor.SP_GrowingIconCharacterNor"
+  },
+  {
+    "Id": 10,
+    "ActivityId": 101300003,
+    "Title": "LongShanStage_Title10",
+    "TitleDetail": "LongShanStage_Title10",
+    "OpenConditionId": 13000142,
+    "QuestionId": 139000025,
+    "Picture": "/Game/Aki/UI/UIResources/UiActivity/Atlas/RoleGrowing/SP_GrowingIconWeaponNor.SP_GrowingIconWeaponNor"
+  },
+  {
+    "Id": 11,
+    "ActivityId": 101300003,
+    "Title": "LongShanStage_Title11",
+    "TitleDetail": "LongShanStage_Title11",
+    "OpenConditionId": 13000142,
+    "QuestionId": 139000025,
+    "Picture": "/Game/Aki/UI/UIResources/UiActivity/Atlas/RoleGrowing/SP_GrowingIconMonsterNor.SP_GrowingIconMonsterNor"
+  },
+  {
+    "Id": 12,
+    "ActivityId": 101300003,
+    "Title": "LongShanStage_Title12",
+    "TitleDetail": "LongShanStage_Title12",
+    "OpenConditionId": 13000142,
+    "QuestionId": 139000025,
+    "Picture": "/Game/Aki/UI/UIResources/UiActivity/Atlas/RoleGrowing/SP_GrowingIconSkillNor.SP_GrowingIconSkillNor"
   }
 ]

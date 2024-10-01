@@ -2220,5 +2220,53 @@
     "SortIndex": 0,
     "Description": "AccessPath_810001_Description",
     "PathValue": ""
+  },
+  {
+    "Id": 850014,
+    "Type": 2,
+    "SkipName": 18,
+    "Val1": "RoleAttributeTabView",
+    "Val2": "0",
+    "Val3": "0",
+    "FunctionOpenCheckMap": [],
+    "SortIndex": 0,
+    "Description": "AccessPath_810001_Description",
+    "PathValue": ""
+  },
+  {
+    "Id": 850015,
+    "Type": 2,
+    "SkipName": 18,
+    "Val1": "RoleWeaponTabView",
+    "Val2": "0",
+    "Val3": "0",
+    "FunctionOpenCheckMap": [],
+    "SortIndex": 0,
+    "Description": "AccessPath_810001_Description",
+    "PathValue": ""
+  },
+  {
+    "Id": 850016,
+    "Type": 2,
+    "SkipName": 18,
+    "Val1": "RolePhantomTabView",
+    "Val2": "0",
+    "Val3": "0",
+    "FunctionOpenCheckMap": [],
+    "SortIndex": 0,
+    "Description": "AccessPath_810001_Description",
+    "PathValue": ""
+  },
+  {
+    "Id": 850017,
+    "Type": 2,
+    "SkipName": 18,
+    "Val1": "RoleSkillTabView",
+    "Val2": "0",
+    "Val3": "0",
+    "FunctionOpenCheckMap": [],
+    "SortIndex": 0,
+    "Description": "AccessPath_810001_Description",
+    "PathValue": ""
   }
 ]

@@ -11127,7 +11127,7 @@
   {
     "Id": "SM_ML1FerLianMd00201",
     "StateMachineJson": {
-      "Version": 1136866499,
+      "Version": 1951101431,
       "StateMachines": [
         4,
         7,
@@ -11136,6 +11136,8 @@
       "Nodes": [
         {
           "Uuid": 4,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "柱子状态管理",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -11244,6 +11246,8 @@
         },
         {
           "Uuid": 5,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "柱子隐藏状态",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -11260,6 +11264,8 @@
         },
         {
           "Uuid": 6,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "柱子显示状态",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -11276,6 +11282,8 @@
         },
         {
           "Uuid": 7,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "瘫痪状态管理",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -11428,6 +11436,8 @@
         },
         {
           "Uuid": 8,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "等待激活战斗",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -11443,6 +11453,8 @@
         },
         {
           "Uuid": 9,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "正常战斗",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -11465,6 +11477,8 @@
         },
         {
           "Uuid": 10,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "Boss瘫痪蒙太奇",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -11574,6 +11588,8 @@
         },
         {
           "Uuid": 11,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "Boss瘫痪开始",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -11599,6 +11615,8 @@
         },
         {
           "Uuid": 12,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "Boss瘫痪循环",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -11624,6 +11642,8 @@
         },
         {
           "Uuid": 13,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "Boss瘫痪结束",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -11640,12 +11660,16 @@
         },
         {
           "Uuid": 14,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "瘫痪结束等待",
           "TakeControlType": 0,
           "TransitionRule": 0
         },
         {
           "Uuid": 15,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "主状态",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -11901,6 +11925,8 @@
         },
         {
           "Uuid": 16,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "待机",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -11916,6 +11942,8 @@
         },
         {
           "Uuid": 17,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "战斗状态",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -12145,12 +12173,16 @@
         },
         {
           "Uuid": 18,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "难度分层导管",
           "TakeControlType": 0,
           "TransitionRule": 0
         },
         {
           "Uuid": 19,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "剧情",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -12233,6 +12265,8 @@
         },
         {
           "Uuid": 20,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "一阶段主战斗逻辑",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -12259,12 +12293,16 @@
         },
         {
           "Uuid": 21,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "一阶段战斗",
           "TakeControlType": 0,
           "TransitionRule": 0
         },
         {
           "Uuid": 22,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "二阶段主战斗逻辑",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -12325,6 +12363,8 @@
         },
         {
           "Uuid": 23,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "二阶段1",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -12348,6 +12388,8 @@
         },
         {
           "Uuid": 24,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "二阶段战斗",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -12363,12 +12405,16 @@
         },
         {
           "Uuid": 25,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "瘫痪等待1",
           "TakeControlType": 0,
           "TransitionRule": 0
         },
         {
           "Uuid": 26,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "瘫痪等待2",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -12384,6 +12430,8 @@
         },
         {
           "Uuid": 27,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "爬塔复刷",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -12430,6 +12478,8 @@
         },
         {
           "Uuid": 28,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "一阶段主战斗逻辑01",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -12456,18 +12506,24 @@
         },
         {
           "Uuid": 29,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "一阶段战斗01",
           "TakeControlType": 0,
           "TransitionRule": 0
         },
         {
           "Uuid": 30,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "瘫痪等待01",
           "TakeControlType": 0,
           "TransitionRule": 0
         },
         {
           "Uuid": 31,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "道馆1",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -12591,6 +12647,8 @@
         },
         {
           "Uuid": 32,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "一阶段主战斗逻辑_1",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -12617,12 +12675,16 @@
         },
         {
           "Uuid": 33,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "一阶段战斗_2",
           "TakeControlType": 0,
           "TransitionRule": 0
         },
         {
           "Uuid": 34,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "二阶段主战斗逻辑_1",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -12683,6 +12745,8 @@
         },
         {
           "Uuid": 35,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "二阶段1_2",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -12706,6 +12770,8 @@
         },
         {
           "Uuid": 36,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "二阶段战斗_2",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -12721,12 +12787,16 @@
         },
         {
           "Uuid": 37,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "瘫痪等待1_1",
           "TakeControlType": 0,
           "TransitionRule": 0
         },
         {
           "Uuid": 38,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "瘫痪等待2_1",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -12742,6 +12812,8 @@
         },
         {
           "Uuid": 39,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "道馆56",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -12823,7 +12895,7 @@
             {
               "From": 40,
               "To": 42,
-              "TransitionPredictionType": 2,
+              "TransitionPredictionType": 0,
               "Weight": 0,
               "Conditions": [
                 {
@@ -12865,6 +12937,8 @@
         },
         {
           "Uuid": 40,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "一阶段主战斗逻辑_5",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -12891,12 +12965,16 @@
         },
         {
           "Uuid": 41,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "一阶段战斗_5",
           "TakeControlType": 0,
           "TransitionRule": 0
         },
         {
           "Uuid": 42,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "二阶段主战斗逻辑_5",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -12957,6 +13035,8 @@
         },
         {
           "Uuid": 43,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "二阶段5",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -12980,6 +13060,8 @@
         },
         {
           "Uuid": 44,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "二阶段战斗_5",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -12995,12 +13077,16 @@
         },
         {
           "Uuid": 45,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "瘫痪等待55",
           "TakeControlType": 0,
           "TransitionRule": 0
         },
         {
           "Uuid": 46,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "瘫痪等待6",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -13016,6 +13102,8 @@
         },
         {
           "Uuid": 47,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "脱战",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -13048,6 +13136,8 @@
         },
         {
           "Uuid": 48,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "阶段出生",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -13078,6 +13168,8 @@
         },
         {
           "Uuid": 49,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "道馆入战",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -13110,6 +13202,8 @@
         },
         {
           "Uuid": 50,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "BossRush入战",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -13147,6 +13241,8 @@
         },
         {
           "Uuid": 51,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "BossRush战斗状态",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -13209,6 +13305,8 @@
         },
         {
           "Uuid": 52,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "BossRush主战斗",
           "TakeControlType": 0,
           "TransitionRule": 0,
@@ -13231,6 +13329,8 @@
         },
         {
           "Uuid": 53,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
           "Name": "BossRush瘫痪",
           "TakeControlType": 0,
           "TransitionRule": 0

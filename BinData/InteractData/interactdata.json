@@ -37379,12 +37379,8 @@
   {
     "Guid": "9e4072bc2e23405ca4f5c901ea6fdbcb",
     "Type": {
-      "Type": "Flow",
-      "Flow": {
-        "FlowListName": "剧情_1_3_角色_安可线新",
-        "FlowId": 2,
-        "StateId": 11
-      }
+      "Type": "Actions",
+      "Actions": []
     },
     "Icon": "",
     "TidContent": "",
@@ -37397,12 +37393,8 @@
   {
     "Guid": "b6a277a9143a4150b7b0fdf6ad59de63",
     "Type": {
-      "Type": "Flow",
-      "Flow": {
-        "FlowListName": "剧情_1_3_角色_安可线新",
-        "FlowId": 2,
-        "StateId": 12
-      }
+      "Type": "Actions",
+      "Actions": []
     },
     "Icon": "",
     "TidContent": "",

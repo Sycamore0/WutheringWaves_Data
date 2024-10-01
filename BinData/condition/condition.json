@@ -55292,7 +55292,7 @@
   {
     "Id": 12005518,
     "Type": "ItemCheck",
-    "NeedNum": 80,
+    "NeedNum": 100,
     "LimitParams": [
       {
         "Key": "ItemID",
@@ -62406,6 +62406,296 @@
     ],
     "LimitParamsOpe": [],
     "IsClient": true,
+    "Description": "",
+    "AccessId": 0
+  },
+  {
+    "Id": 13000142,
+    "Type": "CheckLevel",
+    "NeedNum": 1,
+    "LimitParams": [
+      {
+        "Key": "Level",
+        "Value": "14"
+      }
+    ],
+    "LimitParamsOpe": [],
+    "IsClient": false,
+    "Description": "",
+    "AccessId": 0
+  },
+  {
+    "Id": 13000143,
+    "Type": "RoleLevelAdd",
+    "NeedNum": 1,
+    "LimitParams": [
+      {
+        "Key": "Level",
+        "Value": "50"
+      }
+    ],
+    "LimitParamsOpe": [],
+    "IsClient": false,
+    "Description": "",
+    "AccessId": 0
+  },
+  {
+    "Id": 13000144,
+    "Type": "RoleLevelAdd",
+    "NeedNum": 1,
+    "LimitParams": [
+      {
+        "Key": "Level",
+        "Value": "60"
+      }
+    ],
+    "LimitParamsOpe": [],
+    "IsClient": false,
+    "Description": "",
+    "AccessId": 0
+  },
+  {
+    "Id": 13000145,
+    "Type": "RoleLevelAdd",
+    "NeedNum": 1,
+    "LimitParams": [
+      {
+        "Key": "Level",
+        "Value": "70"
+      }
+    ],
+    "LimitParamsOpe": [],
+    "IsClient": false,
+    "Description": "",
+    "AccessId": 0
+  },
+  {
+    "Id": 13000146,
+    "Type": "RoleLevelAdd",
+    "NeedNum": 1,
+    "LimitParams": [
+      {
+        "Key": "Level",
+        "Value": "80"
+      }
+    ],
+    "LimitParamsOpe": [],
+    "IsClient": false,
+    "Description": "",
+    "AccessId": 0
+  },
+  {
+    "Id": 13000147,
+    "Type": "RoleLevelAdd",
+    "NeedNum": 2,
+    "LimitParams": [
+      {
+        "Key": "Level",
+        "Value": "80"
+      }
+    ],
+    "LimitParamsOpe": [],
+    "IsClient": false,
+    "Description": "",
+    "AccessId": 0
+  },
+  {
+    "Id": 13000148,
+    "Type": "WeaponLevelAdd",
+    "NeedNum": 1,
+    "LimitParams": [
+      {
+        "Key": "Level",
+        "Value": "50"
+      }
+    ],
+    "LimitParamsOpe": [],
+    "IsClient": false,
+    "Description": "",
+    "AccessId": 0
+  },
+  {
+    "Id": 13000149,
+    "Type": "WeaponLevelAdd",
+    "NeedNum": 1,
+    "LimitParams": [
+      {
+        "Key": "Level",
+        "Value": "60"
+      }
+    ],
+    "LimitParamsOpe": [],
+    "IsClient": false,
+    "Description": "",
+    "AccessId": 0
+  },
+  {
+    "Id": 13000150,
+    "Type": "WeaponLevelAdd",
+    "NeedNum": 1,
+    "LimitParams": [
+      {
+        "Key": "Level",
+        "Value": "70"
+      }
+    ],
+    "LimitParamsOpe": [],
+    "IsClient": false,
+    "Description": "",
+    "AccessId": 0
+  },
+  {
+    "Id": 13000151,
+    "Type": "WeaponLevelAdd",
+    "NeedNum": 1,
+    "LimitParams": [
+      {
+        "Key": "Level",
+        "Value": "80"
+      }
+    ],
+    "LimitParamsOpe": [],
+    "IsClient": false,
+    "Description": "",
+    "AccessId": 0
+  },
+  {
+    "Id": 13000152,
+    "Type": "WeaponLevelAdd",
+    "NeedNum": 2,
+    "LimitParams": [
+      {
+        "Key": "Level",
+        "Value": "80"
+      }
+    ],
+    "LimitParamsOpe": [],
+    "IsClient": false,
+    "Description": "",
+    "AccessId": 0
+  },
+  {
+    "Id": 13000153,
+    "Type": "PhantomIdentify",
+    "NeedNum": 20,
+    "LimitParams": [],
+    "LimitParamsOpe": [],
+    "IsClient": false,
+    "Description": "",
+    "AccessId": 0
+  },
+  {
+    "Id": 13000154,
+    "Type": "PhantomIdentify",
+    "NeedNum": 40,
+    "LimitParams": [],
+    "LimitParamsOpe": [],
+    "IsClient": false,
+    "Description": "",
+    "AccessId": 0
+  },
+  {
+    "Id": 13000155,
+    "Type": "PhantomIdentify",
+    "NeedNum": 60,
+    "LimitParams": [],
+    "LimitParamsOpe": [],
+    "IsClient": false,
+    "Description": "",
+    "AccessId": 0
+  },
+  {
+    "Id": 13000156,
+    "Type": "PhantomIdentify",
+    "NeedNum": 80,
+    "LimitParams": [],
+    "LimitParamsOpe": [],
+    "IsClient": false,
+    "Description": "",
+    "AccessId": 0
+  },
+  {
+    "Id": 13000157,
+    "Type": "PhantomIdentify",
+    "NeedNum": 100,
+    "LimitParams": [],
+    "LimitParamsOpe": [],
+    "IsClient": false,
+    "Description": "",
+    "AccessId": 0
+  },
+  {
+    "Id": 13000158,
+    "Type": "SkillLevelAdd",
+    "NeedNum": 1,
+    "LimitParams": [
+      {
+        "Key": "Level",
+        "Value": "3"
+      }
+    ],
+    "LimitParamsOpe": [],
+    "IsClient": false,
+    "Description": "",
+    "AccessId": 0
+  },
+  {
+    "Id": 13000159,
+    "Type": "SkillLevelAdd",
+    "NeedNum": 1,
+    "LimitParams": [
+      {
+        "Key": "Level",
+        "Value": "6"
+      }
+    ],
+    "LimitParamsOpe": [],
+    "IsClient": false,
+    "Description": "",
+    "AccessId": 0
+  },
+  {
+    "Id": 13000160,
+    "Type": "SkillLevelAdd",
+    "NeedNum": 1,
+    "LimitParams": [
+      {
+        "Key": "Level",
+        "Value": "8"
+      }
+    ],
+    "LimitParamsOpe": [],
+    "IsClient": false,
+    "Description": "",
+    "AccessId": 0
+  },
+  {
+    "Id": 13000161,
+    "Type": "SkillLevelAdd",
+    "NeedNum": 3,
+    "LimitParams": [
+      {
+        "Key": "Level",
+        "Value": "8"
+      }
+    ],
+    "LimitParamsOpe": [],
+    "IsClient": false,
+    "Description": "",
+    "AccessId": 0
+  },
+  {
+    "Id": 13000162,
+    "Type": "SkillLevelAdd",
+    "NeedNum": 6,
+    "LimitParams": [
+      {
+        "Key": "Level",
+        "Value": "8"
+      }
+    ],
+    "LimitParamsOpe": [],
+    "IsClient": false,
     "Description": "",
     "AccessId": 0
   }

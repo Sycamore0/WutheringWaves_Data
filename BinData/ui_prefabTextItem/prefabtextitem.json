@@ -23073,7 +23073,7 @@
     "ItemId": "2323506803",
     "PrefabPathHash": "2169964479",
     "ItemPath": "UiView_LevelVariation/UiItem_LayerUi_Prefab/BtnNormal/TxtNormal",
-    "Text": "PrefabTextItem_2323506803_Text"
+    "Text": "PrefabTextItem_LeaveHazardZone_Text"
   },
   {
     "ItemId": "1692983326",
@@ -35712,18 +35712,6 @@
     "Text": "PrefabTextItem_3420973980_Text"
   },
   {
-    "ItemId": "3079855372",
-    "PrefabPathHash": "3162240894",
-    "ItemPath": "PC_UiView_Fight_Prefab/PnlTop/ButtonL/UiItem_VisionUpgrade3/PnlGuide/PnlAnim/TxtUpgrade",
-    "Text": "riskharvest_upgrade"
-  },
-  {
-    "ItemId": "2740700398",
-    "PrefabPathHash": "3162240894",
-    "ItemPath": "PC_UiView_Fight_Prefab/PnlTop/ButtonL/UiItem_VisionUpgrade3/PnlGuide/TogCircleD/PnlPivot/TxtNum",
-    "Text": "PrefabTextItem_Default_Text"
-  },
-  {
     "ItemId": "3918951210",
     "PrefabPathHash": "3329943920",
     "ItemPath": "UiItem_ActivityCircumfluenceMain/UiItem_LayerUi_Prefab/BubbleCtrl/UiItem_BFlux_Bubble04/TxtTips",
@@ -35734,18 +35722,6 @@
     "PrefabPathHash": "1681770142",
     "ItemPath": "UiView_DarkshoreMain/UiItem_LayerUi_Prefab/UiItem_Caption/PnlTitle/TxtTitle",
     "Text": "PrefabTextItem_367130865_Text"
-  },
-  {
-    "ItemId": "1722905643",
-    "PrefabPathHash": "4084737680",
-    "ItemPath": "UiView_Fight_Prefab/PnlTop/ButtonL/UiItem_VisionUpgrade2/PnlGuide/PnlAnim/TxtUpgrade",
-    "Text": "PrefabTextItem_Default_Text"
-  },
-  {
-    "ItemId": "3458945012",
-    "PrefabPathHash": "4084737680",
-    "ItemPath": "UiView_Fight_Prefab/PnlTop/ButtonL/UiItem_VisionUpgrade2/PnlGuide/TogCircleD/PnlPivot/TxtNum",
-    "Text": "PrefabTextItem_Default_Text"
   },
   {
     "ItemId": "1028028030",
@@ -35908,5 +35884,65 @@
     "PrefabPathHash": "2680794858",
     "ItemPath": "UiView_LevelNormal/UiItem_LayerUi_Prefab/PnlTips/TxtTips",
     "Text": "PrefabTextItem_1214301131_Text"
+  },
+  {
+    "ItemId": "1106333453",
+    "PrefabPathHash": "1749716175",
+    "ItemPath": "BtnRoleGrowingEnter/PnlName/PnlNum/TxtNum",
+    "Text": "PrefabTextItem_Default_Text"
+  },
+  {
+    "ItemId": "412406081",
+    "PrefabPathHash": "1749716175",
+    "ItemPath": "BtnRoleGrowingEnter/PnlName/TxtName",
+    "Text": "PrefabTextItem_Default_Text"
+  },
+  {
+    "ItemId": "2962037945",
+    "PrefabPathHash": "1738823145",
+    "ItemPath": "UiItem_RoleGrowingMain/PnlInfo/UiItem_ComActivityInfo2/PnlBottom/UiItem_ComActivityRogueBottom/PnlVLayout/PnlAactivedB/PnlHLayout/TxtActivated",
+    "Text": "PrefabTextItem_Default_Text"
+  },
+  {
+    "ItemId": "1191794996",
+    "PrefabPathHash": "1738823145",
+    "ItemPath": "UiItem_RoleGrowingMain/PnlInfo/UiItem_ComActivityInfo2/PnlBottom/UiItem_ComActivityRogueBottom/PnlVLayout/PnlActivated/PnlKeyLayout/TxtActivated",
+    "Text": "PrefabTextItem_Default_Text"
+  },
+  {
+    "ItemId": "3261042346",
+    "PrefabPathHash": "1738823145",
+    "ItemPath": "UiItem_RoleGrowingMain/PnlInfo/UiItem_ComActivityInfo2/PnlBottom/UiItem_ComActivityRogueBottom/PnlVLayout/PnlHoriLayout/BtnConfirmB/PnlPivot/PnlLayout/TxtConfirm",
+    "Text": "PrefabTextItem_Default_Text"
+  },
+  {
+    "ItemId": "4286784194",
+    "PrefabPathHash": "1738823145",
+    "ItemPath": "UiItem_RoleGrowingMain/PnlInfo/UiItem_ComActivityInfo2/PnlBottom/UiItem_ComActivityRogueBottom/PnlVLayout/PnlHoriLayout/BtnConfirmB2/PnlPivot/PnlLayout/TxtConfirm",
+    "Text": "PrefabTextItem_Default_Text"
+  },
+  {
+    "ItemId": "468731983",
+    "PrefabPathHash": "4267240897",
+    "ItemPath": "UiView_RoleGrowingReward/PnlInfo/PnlLeft/PnlFinish/TxtFinishTitle",
+    "Text": "PrefabTextItem_Default_Text"
+  },
+  {
+    "ItemId": "1367612719",
+    "PrefabPathHash": "4267240897",
+    "ItemPath": "UiView_RoleGrowingReward/PnlInfo/PnlPix/PnlInfo/TxtName",
+    "Text": "PrefabTextItem_Default_Text"
+  },
+  {
+    "ItemId": "1310055018",
+    "PrefabPathHash": "3077561447",
+    "ItemPath": "UiItem_VisionUpgrade1/PnlGuide/PnlAnim/TxtUpgrade",
+    "Text": "PrefabTextItem_3697330316_Text"
+  },
+  {
+    "ItemId": "301376894",
+    "PrefabPathHash": "3077561447",
+    "ItemPath": "UiItem_VisionUpgrade1/PnlGuide/TogCircleD/PnlPivot/TxtNum",
+    "Text": "PrefabTextItem_Default_Text"
   }
 ]

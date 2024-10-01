@@ -23254,7 +23254,9 @@
     "OnlineType": 1,
     "CustomTypes": [],
     "MiniMapId": 1,
-    "SubLevels": [],
+    "SubLevels": [
+      "/Game/Aki/Map/Level/System/NewTower/Art/Instance_Pata_03_02"
+    ],
     "FightFormationId": 2,
     "TrialRoleInfo": [
       0,
@@ -23264,9 +23266,9 @@
     "TrialRoleFormation": 0,
     "ReviveId": 8,
     "BornPosition": [
-      4700,
-      -72,
-      -150
+      5850,
+      -45,
+      -148
     ],
     "BornRotation": [
       0,
@@ -23296,11 +23298,11 @@
     "EnterCondition": [],
     "EnterConditionText": "",
     "DifficultyIcon": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_14_UI.T_IconFunctionOpen_14_UI",
-    "EntityLevel": 85,
+    "EntityLevel": 100,
     "RecommendLevel": [
       {
         "Key": 1,
-        "Value": 85
+        "Value": 100
       }
     ],
     "RecommendRole": [],
@@ -23330,7 +23332,7 @@
       "WorldMapView",
       "QuestView"
     ],
-    "CanUseItem": 1,
+    "CanUseItem": 0,
     "GuideType": 0,
     "GuideValue": 0,
     "SettleButtonType": 1,
@@ -23365,7 +23367,9 @@
     "OnlineType": 1,
     "CustomTypes": [],
     "MiniMapId": 1,
-    "SubLevels": [],
+    "SubLevels": [
+      "/Game/Aki/Map/Level/System/NewTower/Art/Instance_Pata_04_02"
+    ],
     "FightFormationId": 2,
     "TrialRoleInfo": [
       0,
@@ -23375,9 +23379,9 @@
     "TrialRoleFormation": 0,
     "ReviveId": 8,
     "BornPosition": [
-      4700,
-      -72,
-      -150
+      5850,
+      -45,
+      -148
     ],
     "BornRotation": [
       0,
@@ -23407,11 +23411,11 @@
     "EnterCondition": [],
     "EnterConditionText": "",
     "DifficultyIcon": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_14_UI.T_IconFunctionOpen_14_UI",
-    "EntityLevel": 88,
+    "EntityLevel": 100,
     "RecommendLevel": [
       {
         "Key": 1,
-        "Value": 88
+        "Value": 100
       }
     ],
     "RecommendRole": [],
@@ -23441,7 +23445,7 @@
       "WorldMapView",
       "QuestView"
     ],
-    "CanUseItem": 1,
+    "CanUseItem": 0,
     "GuideType": 0,
     "GuideValue": 0,
     "SettleButtonType": 1,
@@ -23476,7 +23480,9 @@
     "OnlineType": 1,
     "CustomTypes": [],
     "MiniMapId": 1,
-    "SubLevels": [],
+    "SubLevels": [
+      "/Game/Aki/Map/Level/System/NewTower/Art/Instance_Pata_03_02"
+    ],
     "FightFormationId": 2,
     "TrialRoleInfo": [
       0,
@@ -23486,9 +23492,9 @@
     "TrialRoleFormation": 0,
     "ReviveId": 8,
     "BornPosition": [
-      4700,
-      -72,
-      -150
+      5850,
+      -45,
+      -148
     ],
     "BornRotation": [
       0,
@@ -23518,11 +23524,11 @@
     "EnterCondition": [],
     "EnterConditionText": "",
     "DifficultyIcon": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_14_UI.T_IconFunctionOpen_14_UI",
-    "EntityLevel": 90,
+    "EntityLevel": 100,
     "RecommendLevel": [
       {
         "Key": 1,
-        "Value": 90
+        "Value": 100
       }
     ],
     "RecommendRole": [],
@@ -23552,7 +23558,7 @@
       "WorldMapView",
       "QuestView"
     ],
-    "CanUseItem": 1,
+    "CanUseItem": 0,
     "GuideType": 0,
     "GuideValue": 0,
     "SettleButtonType": 1,
@@ -23587,7 +23593,9 @@
     "OnlineType": 1,
     "CustomTypes": [],
     "MiniMapId": 1,
-    "SubLevels": [],
+    "SubLevels": [
+      "/Game/Aki/Map/Level/System/NewTower/Art/Instance_Pata_04_02"
+    ],
     "FightFormationId": 2,
     "TrialRoleInfo": [
       0,
@@ -23629,11 +23637,11 @@
     "EnterCondition": [],
     "EnterConditionText": "",
     "DifficultyIcon": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_14_UI.T_IconFunctionOpen_14_UI",
-    "EntityLevel": 95,
+    "EntityLevel": 100,
     "RecommendLevel": [
       {
         "Key": 1,
-        "Value": 95
+        "Value": 100
       }
     ],
     "RecommendRole": [],
@@ -23663,7 +23671,7 @@
       "WorldMapView",
       "QuestView"
     ],
-    "CanUseItem": 1,
+    "CanUseItem": 0,
     "GuideType": 0,
     "GuideValue": 0,
     "SettleButtonType": 1,
@@ -23698,7 +23706,9 @@
     "OnlineType": 1,
     "CustomTypes": [],
     "MiniMapId": 1,
-    "SubLevels": [],
+    "SubLevels": [
+      "/Game/Aki/Map/Level/System/NewTower/Art/Instance_Pata_03_02"
+    ],
     "FightFormationId": 2,
     "TrialRoleInfo": [
       0,
@@ -23708,9 +23718,9 @@
     "TrialRoleFormation": 0,
     "ReviveId": 8,
     "BornPosition": [
-      4700,
-      -72,
-      -150
+      5850,
+      -45,
+      -148
     ],
     "BornRotation": [
       0,
@@ -23740,11 +23750,11 @@
     "EnterCondition": [],
     "EnterConditionText": "",
     "DifficultyIcon": "/Game/Aki/UI/UIResources/Common/Image/IconFunctionOpen/T_IconFunctionOpen_14_UI.T_IconFunctionOpen_14_UI",
-    "EntityLevel": 98,
+    "EntityLevel": 100,
     "RecommendLevel": [
       {
         "Key": 1,
-        "Value": 98
+        "Value": 100
       }
     ],
     "RecommendRole": [],
@@ -23774,7 +23784,7 @@
       "WorldMapView",
       "QuestView"
     ],
-    "CanUseItem": 1,
+    "CanUseItem": 0,
     "GuideType": 0,
     "GuideValue": 0,
     "SettleButtonType": 1,
@@ -23809,7 +23819,9 @@
     "OnlineType": 1,
     "CustomTypes": [],
     "MiniMapId": 1,
-    "SubLevels": [],
+    "SubLevels": [
+      "/Game/Aki/Map/Level/System/NewTower/Art/Instance_Pata_04_02"
+    ],
     "FightFormationId": 2,
     "TrialRoleInfo": [
       0,
@@ -23819,9 +23831,9 @@
     "TrialRoleFormation": 0,
     "ReviveId": 8,
     "BornPosition": [
-      4700,
-      -72,
-      -150
+      5850,
+      -45,
+      -148
     ],
     "BornRotation": [
       0,
@@ -23885,7 +23897,7 @@
       "WorldMapView",
       "QuestView"
     ],
-    "CanUseItem": 1,
+    "CanUseItem": 0,
     "GuideType": 0,
     "GuideValue": 0,
     "SettleButtonType": 1,
@@ -36946,7 +36958,9 @@
       "BattlePassMainView",
       "functionView",
       "AdventureGuideView",
-      "BattlePassFirstOpenView"
+      "BattlePassFirstOpenView",
+      "TutorialView",
+      "PhantomExploreSetView"
     ],
     "CanUseItem": 1,
     "GuideType": 0,
@@ -47798,33 +47812,31 @@
   },
   {
     "Id": 8216,
-    "MapConfigId": 8200,
-    "MapName": "InstanceDungeon_8104_MapName",
+    "MapConfigId": 8101,
+    "MapName": "InstanceDungeon_8106_MapName",
     "InstType": 2,
     "InstSubType": 14,
     "OnlineType": 1,
     "CustomTypes": [],
     "MiniMapId": 1,
-    "SubLevels": [
-      "/Game/Aki/Map/Level/System/Material/Art/Instance_Weapon_01"
-    ],
+    "SubLevels": [],
     "FightFormationId": 0,
     "TrialRoleInfo": [
       0,
       0,
       0
     ],
-    "TrialRoleFormation": 8203,
+    "TrialRoleFormation": 8106,
     "ReviveId": 7,
     "BornPosition": [
-      100090,
-      104660,
-      340
+      -5110,
+      260,
+      450
     ],
     "BornRotation": [
       0,
       0,
-      90
+      160
     ],
     "RecoverWorldLocation": [
       0,
@@ -47865,7 +47877,7 @@
     ],
     "CanUseItem": 0,
     "GuideType": 4,
-    "GuideValue": 1106,
+    "GuideValue": 1601,
     "SettleButtonType": 3,
     "SubTitle": [],
     "SubInstanceTitle": "",

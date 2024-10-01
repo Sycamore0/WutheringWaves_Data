@@ -5107,7 +5107,6 @@
     "CompleteParam": "[1505202,0]",
     "FailedCondition": [
       0,
-      1,
       6
     ],
     "FailedParam": [
@@ -5144,7 +5143,6 @@
     "CompleteParam": "[1505302,0]",
     "FailedCondition": [
       0,
-      1,
       6
     ],
     "FailedParam": [

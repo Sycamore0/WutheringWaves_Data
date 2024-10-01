@@ -687,7 +687,7 @@
     "Id": 154,
     "ActivityId": 102300013,
     "Buff": [
-      "672050180"
+      "672050170"
     ],
     "BuffName": "RiskHarvest_buffname_154",
     "BuffDesc": "RiskHarvest_buffDesc_154",
@@ -706,8 +706,7 @@
     "Id": 155,
     "ActivityId": 102300013,
     "Buff": [
-      "672040181",
-      "672040184"
+      "672050180"
     ],
     "BuffName": "RiskHarvest_buffname_155",
     "BuffDesc": "RiskHarvest_buffDesc_155",
@@ -727,7 +726,7 @@
     "Id": 156,
     "ActivityId": 102300013,
     "Buff": [
-      "672040191"
+      "672050190"
     ],
     "BuffName": "RiskHarvest_buffname_156",
     "BuffDesc": "RiskHarvest_buffDesc_156",
@@ -785,7 +784,7 @@
     "BuffName": "RiskHarvest_buffname_203",
     "BuffDesc": "RiskHarvest_buffDesc_203",
     "BuffFactors": [
-      "15%"
+      "10%"
     ],
     "BuffType": 1,
     "BuffProgress": 1,
@@ -802,7 +801,7 @@
     "BuffName": "RiskHarvest_buffname_204",
     "BuffDesc": "RiskHarvest_buffDesc_204",
     "BuffFactors": [
-      "30%"
+      "20%"
     ],
     "BuffType": 1,
     "BuffProgress": 1,

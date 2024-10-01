@@ -1150,5 +1150,13 @@
     "Picture": "",
     "Content": "HelpText_129_Content",
     "Type": 0
+  },
+  {
+    "Id": 145,
+    "GroupId": 145,
+    "Title": "HelpText_145_Title",
+    "Picture": "",
+    "Content": "HelpText_145_Content",
+    "Type": 0
   }
 ]
