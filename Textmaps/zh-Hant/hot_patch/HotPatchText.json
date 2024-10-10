@@ -205,7 +205,7 @@
   },
   {
     "Id": "NewVersionDetailDownloadGetReward",
-    "Content": "遊戲已有新版本，請前往下載最新版本。\n完成更新後登入遊戲，可獲得<color=highlight>星聲*300+結晶溶劑*2</color>獎勵。"
+    "Content": "遊戲已有新版本，請前往下載最新版本。\n完成更新後登入遊戲，可獲得<color=#c49e55ff>星聲*300+結晶溶劑*2</color>獎勵。"
   },
   {
     "Id": "ConfirmText",
