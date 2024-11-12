@@ -257,34 +257,38 @@
   },
   {
     "Id": "UserProtocol",
-    "Content": "View Terms of Use"
+    "Content": "Terms of Service"
   },
   {
     "Id": "PrivacyPolicy",
-    "Content": "View Privacy Policy."
+    "Content": "Privacy Policy"
   },
   {
     "Id": "ChildProtocol",
-    "Content": "View Child Privacy Policy."
+    "Content": "Children's Privacy Policy"
   },
   {
     "Id": "SdkProtocolDesc",
-    "Content": "For a better gaming experience, we'll link your account for PlayStation™Network to your Kuro account. You can unlink accounts and remove your information anytime through our official website or by contacting customer support."
+    "Content": "To ensure your gaming experience, you're about to link your account for PlayStation™Network with your Kuro Games account.\nYou may unlink your account via our official website or customer service."
   },
   {
     "Id": "SdkProtocolTitle",
-    "Content": "Terms of Use & Privacy Policy Notification"
+    "Content": "Notice on Terms of Service and Privacy Policy"
   },
   {
     "Id": "SdkProtocolConfirm",
-    "Content": "Accept"
+    "Content": "Yes"
   },
   {
     "Id": "SdkProtocolRefuse",
-    "Content": "Reject"
+    "Content": "No"
   },
   {
     "Id": "EquipmentDriveOutOfVersion",
     "Content": "Your device's driver is outdated, which may cause frequent game crashes. For a better experience, please consider upgrading your device."
+  },
+  {
+    "Id": "SdkInitializeFail",
+    "Content": "Failed to start the game. Please check the status of your PlayStation™ Network account."
   }
 ]

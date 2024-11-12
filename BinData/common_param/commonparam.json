@@ -1937,7 +1937,7 @@
   },
   {
     "KeyName": "LivenessTaskCount",
-    "BinData": "CgAAAA=="
+    "BinData": "CwAAAA=="
   },
   {
     "KeyName": "CommunicateViewCloseTime",
@@ -3349,7 +3349,7 @@
   },
   {
     "KeyName": "VerifyCodeMailCode",
-    "BinData": "AQAAAAQAAABUMTY35JMEAA=="
+    "BinData": "AwAAAAQAAABUMTY35JMEAAQAAABVMjg255MEAAQAAABIOTI16JMEAA=="
   },
   {
     "KeyName": "RecallActivityTime",
@@ -3525,7 +3525,7 @@
   },
   {
     "KeyName": "MoveCheckSpeed",
-    "BinData": "DAAAAAYAAABDb21tb27oAwAABQAAAENsaW1iyAAAAAMAAABGbHnIAAAABAAAAFBGbHn0AQAABQAAAEdsaWRlyAAAAAMAAABSdW7IAAAABQAAAFNraWxs+gAAAAYAAABTU2tpbGxYAgAABgAAAFNwcmludMgAAAAFAAAAU3RhbmRkAAAABAAAAFN3aW2WAAAABAAAAFdhbGuWAAAA"
+    "BinData": "DAAAAAYAAABDb21tb27oAwAABQAAAENsaW1iyAAAAAMAAABGbHksAQAABAAAAFBGbHn0AQAABQAAAEdsaWRlyAAAAAMAAABSdW7IAAAABQAAAFNraWxs+gAAAAYAAABTU2tpbGxYAgAABgAAAFNwcmludMgAAAAFAAAAU3RhbmRkAAAABAAAAFN3aW2WAAAABAAAAFdhbGuWAAAA"
   },
   {
     "KeyName": "MoveCheckTime",
@@ -3625,7 +3625,7 @@
   },
   {
     "KeyName": "AllowResolutionList",
-    "BinData": "CAAAABAAAAAJAAAABAAAAAMAAAAIAAAABQAAAKsCAACAAQAA"
+    "BinData": "DAAAABAAAAAJAAAABAAAAAMAAAAIAAAABQAAAKsCAACAAQAAFQAAAAkAAAAgAAAACQAAAA=="
   },
   {
     "KeyName": "RichZoneExtraRadius",
@@ -3640,12 +3640,12 @@
     "BinData": "EbxzNA=="
   },
   {
-    "KeyName": "DarkShoreDefaultLevel",
-    "BinData": "ZQAAAC9HYW1lL0FraS9VSS9VSVJlc291cmNlcy9VaUFjdGl2aXR5L0ltYWdlL0FjdGl2aXR5RGFya3Nob3JlL1RfQWN0aXZpdHlEYXJrTnVtTHYwLlRfQWN0aXZpdHlEYXJrTnVtTHYw"
-  },
-  {
     "KeyName": "ReviewCd",
     "BinData": "AKd2AA=="
+  },
+  {
+    "KeyName": "DarkShoreDefaultLevel",
+    "BinData": "ZQAAAC9HYW1lL0FraS9VSS9VSVJlc291cmNlcy9VaUFjdGl2aXR5L0ltYWdlL0FjdGl2aXR5RGFya3Nob3JlL1RfQWN0aXZpdHlEYXJrTnVtTHYwLlRfQWN0aXZpdHlEYXJrTnVtTHYw"
   },
   {
     "KeyName": "OpenReviewDelay",
@@ -3654,6 +3654,22 @@
   {
     "KeyName": "RecallActivityLevel",
     "BinData": "CAAAAA=="
+  },
+  {
+    "KeyName": "LinkBrustDuration",
+    "BinData": "ECcAAA=="
+  },
+  {
+    "KeyName": "LinkPrepareDuration",
+    "BinData": "ECcAAA=="
+  },
+  {
+    "KeyName": "LinkBrustBuffs",
+    "BinData": "EQAAAAAAAOZaY7FBAAAA6VpjsUEAAADqWmOxQQAAAOtaY7FBAAAA7FpjsUEAAADtWmOxQQAAAO5aY7FBAAAA71pjsUEAAADzWmOxQQAAAPRaY7FBAAAA9VpjsUEAAAD+WmOxQQAAAP9aY7FBAAAAAFtjsUEAAAAPW2OxQQAAABBbY7FBAAAAHltjsUE="
+  },
+  {
+    "KeyName": "LinkBrustBullets",
+    "BinData": "BQAAAAAAAGluY7FBAAAAam5jsUEAAABsbmOxQQAAAHJuY7FBAAAAc25jsUE="
   },
   {
     "KeyName": "ServerAppGradeCd",
@@ -3680,8 +3696,16 @@
     "BinData": "6AMAAA=="
   },
   {
+    "KeyName": "LinkSucBuffs",
+    "BinData": "AwAAAAAAAONaY7FBAAAAA1tjsUEAAAAVW2OxQQ=="
+  },
+  {
     "KeyName": "enter_connector_tag_name",
     "BinData": "LAAAAOi+heWKqeacui7pu5Hmtbflsrgu6L+b5YWl5rGh5p+T5Lqk5LqS6IyD5Zu0"
+  },
+  {
+    "KeyName": "LinkSkillNotifyBuff",
+    "BinData": "AAAA5VpjsUE="
   },
   {
     "KeyName": "MaxInputDeviceSubTypeLength",
@@ -3704,7 +3728,123 @@
     "BinData": "BwAAAA=="
   },
   {
+    "KeyName": "SwitchInteractTime",
+    "BinData": "7gIAAA=="
+  },
+  {
+    "KeyName": "MultiExchangeInstType",
+    "BinData": "AgAAAAoAAAALAAAA"
+  },
+  {
+    "KeyName": "MultiExchangeLevelPlayType",
+    "BinData": "AQAAAAAAAAA="
+  },
+  {
+    "KeyName": "MultiExchangeCount",
+    "BinData": "AgAAAAEAAAACAAAA"
+  },
+  {
+    "KeyName": "HealthTipTime",
+    "BinData": "MCoAAA=="
+  },
+  {
+    "KeyName": "MailBindReward",
+    "BinData": "ulxNAA=="
+  },
+  {
+    "KeyName": "MailBindRewardCloseDay",
+    "BinData": "AgAAAA=="
+  },
+  {
+    "KeyName": "OriginalWeaponSkinName",
+    "BinData": "FgAAAE9yaWdpbmFsV2VhcG9uU2tpbk5hbWU="
+  },
+  {
+    "KeyName": "OriginalWeaponSkinDescription",
+    "BinData": "HQAAAE9yaWdpbmFsV2VhcG9uU2tpbkRlc2NyaXB0aW9u"
+  },
+  {
+    "KeyName": "OriginalWeaponSkinIcon",
+    "BinData": "TQAAAC9HYW1lL0FraS9VSS9VSVJlc291cmNlcy9Db21tb24vSW1hZ2UvQ29tL1RfQ29tSXRlbU5vbmVJY29uLlRfQ29tSXRlbU5vbmVJY29u"
+  },
+  {
+    "KeyName": "PermanentActivityHelpId",
+    "BinData": "fwAAAA=="
+  },
+  {
+    "KeyName": "Mail_Activity_HelpId01",
+    "BinData": "fQAAAA=="
+  },
+  {
+    "KeyName": "Mail_Activity_HelpId02",
+    "BinData": "fgAAAA=="
+  },
+  {
     "KeyName": "MoveCheckReportCnt",
     "BinData": "HgAAAA=="
+  },
+  {
+    "KeyName": "Reward_Tag_Magnification_Text_Color",
+    "BinData": "BgAAADIzM2IxMQ=="
+  },
+  {
+    "KeyName": "Reward_Tag_Extra_Text_Color",
+    "BinData": "BgAAADQ2MzEwNQ=="
+  },
+  {
+    "KeyName": "Reward_Tag_Magnification_Bg_Color",
+    "BinData": "BgAAADdlZGI1Mw=="
+  },
+  {
+    "KeyName": "Reward_Tag_Extra_Bg_Color",
+    "BinData": "BgAAAGZlZDEyZQ=="
+  },
+  {
+    "KeyName": "VisionLevelStageList",
+    "BinData": "BQAAAAUAAAAKAAAADwAAABQAAAAZAAAA"
+  },
+  {
+    "KeyName": "PowerTipShowTime",
+    "BinData": "iBMAAA=="
+  },
+  {
+    "KeyName": "LinkInstanceIds",
+    "BinData": "BgAAANEgAADSIAAA0yAAANQgAADVIAAA1iAAAA=="
+  },
+  {
+    "KeyName": "MultiRewardLevelInstType",
+    "BinData": "AgAAAAoAAAALAAAA"
+  },
+  {
+    "KeyName": "DreamLinkModelRotateTime",
+    "BinData": "QJwAAA=="
+  },
+  {
+    "KeyName": "VideoViewLerpFullTime",
+    "BinData": "oA8AAA=="
+  },
+  {
+    "KeyName": "VideoViewLerpWaitTime",
+    "BinData": "6AMAAA=="
+  },
+  {
+    "KeyName": "BlackScreenFadeLerpFullTime",
+    "BinData": "AwAAAA=="
+  },
+  {
+    "KeyName": "PreheatSignSurveyMinCount",
+    "BinData": "ECcAAA=="
+  },
+  {
+    "KeyName": "PreheatSignSurveyMinPercentage",
+    "BinData": "KAAAAA=="
+  },
+  {
+    "KeyName": "PreheatSignSurveyMinRatio",
+    "BinData": "CgAAAA=="
+  },
+  {
+    "KeyName": "DailyRequestCounterLimit",
+    "BinData": "BQAAAAAAAAD0AQAAAQAAAPQBAAACAAAA9AEAAAMAAAD0AQAABAAAAPQBAAA="
   }
 ]

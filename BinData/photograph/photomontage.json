@@ -310,5 +310,29 @@
     "MotionType": 0,
     "UnLockConditionGroup": 0,
     "ConditionTipsId": ""
+  },
+  {
+    "Id": 160301,
+    "RoleId": 1603,
+    "Sort": 1,
+    "Name": "PhotoMontage_160301_Name",
+    "IsLoop": true,
+    "MontagePath": "/Game/Aki/Character/Role/FemaleM/Chun/CommonAnim/AM_Stand1_Action01.AM_Stand1_Action01",
+    "IconType": 0,
+    "MotionType": 0,
+    "UnLockConditionGroup": 0,
+    "ConditionTipsId": ""
+  },
+  {
+    "Id": 150401,
+    "RoleId": 1504,
+    "Sort": 1,
+    "Name": "PhotoMontage_150401_Name",
+    "IsLoop": true,
+    "MontagePath": "/Game/Aki/Character/Role/FemaleMS/Dengdeng/CommonAnim/AM_Stand1_Action01.AM_Stand1_Action01",
+    "IconType": 0,
+    "MotionType": 0,
+    "UnLockConditionGroup": 0,
+    "ConditionTipsId": ""
   }
 ]

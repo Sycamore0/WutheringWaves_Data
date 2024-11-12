@@ -774,5 +774,21 @@
     "DisplayName": "",
     "KeyboardVersion": 0,
     "GamepadVersion": 0
+  },
+  {
+    "Id": 35,
+    "AxisName": "NextGroup2",
+    "AxisType": 4,
+    "PcKeys": [],
+    "FrancePcKeys": [],
+    "GamepadKeys": [
+      {
+        "Key": "Gamepad_LeftY",
+        "Value": 1
+      }
+    ],
+    "DisplayName": "",
+    "KeyboardVersion": 0,
+    "GamepadVersion": 0
   }
 ]

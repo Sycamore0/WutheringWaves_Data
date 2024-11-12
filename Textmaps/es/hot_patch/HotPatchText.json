@@ -257,34 +257,38 @@
   },
   {
     "Id": "UserProtocol",
-    "Content": "Términos del Servicio"
+    "Content": "Términos de servicio"
   },
   {
     "Id": "PrivacyPolicy",
-    "Content": "Política de Privacidad"
+    "Content": "Política de privacidad"
   },
   {
     "Id": "ChildProtocol",
-    "Content": "Política de Privacidad para niños"
+    "Content": "Política de privacidad infantil"
   },
   {
     "Id": "SdkProtocolDesc",
-    "Content": ""
+    "Content": "Para garantizar tu experiencia de juego, estás a punto de vincular tu cuenta para PlayStation™Network a tu cuenta de Kuro Games.\nPuedes desvincular tu cuenta a través de nuestro sitio web oficial o mediante el servicio de atención al cliente."
   },
   {
     "Id": "SdkProtocolTitle",
-    "Content": "Aviso de Términos del Servicio y Política de Privacidad"
+    "Content": "Aviso sobre los «Términos de servicio» y la «Política de privacidad»"
   },
   {
     "Id": "SdkProtocolConfirm",
-    "Content": "Aceptar"
+    "Content": "Sí"
   },
   {
     "Id": "SdkProtocolRefuse",
-    "Content": "Rechazar"
+    "Content": "No"
   },
   {
     "Id": "EquipmentDriveOutOfVersion",
     "Content": "Tu controlador de dispositivo está desactualizado, lo que puede provocar fallos frecuentes en el juego. Para una mejor experiencia, considera actualizarlo."
+  },
+  {
+    "Id": "SdkInitializeFail",
+    "Content": "Error al iniciar el juego. Por favor, verifica el estado de tu cuenta para PlayStation™Network."
   }
 ]

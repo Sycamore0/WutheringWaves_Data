@@ -194,5 +194,19 @@
     "CanEdit": true,
     "IsDefaultSelected": false,
     "SourceHierarchyIndex": 0
+  },
+  {
+    "Id": 18,
+    "PanelIndex": 7,
+    "ItemIndex": -1,
+    "Name": "聊天",
+    "SourceSize": 1,
+    "SourceAlpha": 1,
+    "SourceOffsetX": 110,
+    "SourceOffsetY": 126,
+    "IsCheckOverlap": true,
+    "CanEdit": true,
+    "IsDefaultSelected": false,
+    "SourceHierarchyIndex": 10
   }
 ]

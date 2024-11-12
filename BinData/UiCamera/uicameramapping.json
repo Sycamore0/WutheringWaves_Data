@@ -35,6 +35,10 @@
         "Value": "1013_M"
       },
       {
+        "Key": "FemaleMS",
+        "Value": "1013_MSS"
+      },
+      {
         "Key": "FemaleS",
         "Value": "1013_S"
       },
@@ -98,6 +102,10 @@
       {
         "Key": "MaleM",
         "Value": "1018_M"
+      },
+      {
+        "Key": "FemaleMS",
+        "Value": "1018_MSS"
       },
       {
         "Key": "FemaleS",
@@ -297,6 +305,10 @@
         "Value": "1018_M"
       },
       {
+        "Key": "FemaleMS",
+        "Value": "1018_MSS"
+      },
+      {
         "Key": "FemaleS",
         "Value": "1018_S"
       },
@@ -368,6 +380,10 @@
       {
         "Key": "MaleM",
         "Value": "1011_M"
+      },
+      {
+        "Key": "FemaleMS",
+        "Value": "1011_MSS"
       },
       {
         "Key": "FemaleS",
@@ -982,6 +998,10 @@
         "Value": "1006_Female154"
       },
       {
+        "Key": "FemaleMS",
+        "Value": "1006_MSS"
+      },
+      {
         "Key": "FemaleS",
         "Value": "1006_Female121"
       },
@@ -1273,6 +1293,10 @@
         "Value": "1012_Female154"
       },
       {
+        "Key": "FemaleMS",
+        "Value": "1012_MSS"
+      },
+      {
         "Key": "FemaleS",
         "Value": "1012_Female121"
       },
@@ -1428,6 +1452,10 @@
         "Value": "1013_M"
       },
       {
+        "Key": "FemaleMS",
+        "Value": "1013_MSS"
+      },
+      {
         "Key": "FemaleS",
         "Value": "1013_S"
       },
@@ -1460,6 +1488,79 @@
   {
     "Id": 1069,
     "ViewName": "ReviveView",
+    "DefaultUiCameraSettingsName": "1001",
+    "IsCheckSpecialState": false,
+    "SpecialStateCameraSettingName": "1002",
+    "bPlayLoadingCameraAnimation": true,
+    "BodyTargetType": 0,
+    "BodyCameraSettingsNameMap": [],
+    "DefaultCameraBlendName": "",
+    "UiCameraBlendNameMap": [],
+    "UiCameraDelayTime": 0
+  },
+  {
+    "Id": 1070,
+    "ViewName": "SkinRootView",
+    "DefaultUiCameraSettingsName": "1010_Female154",
+    "IsCheckSpecialState": false,
+    "SpecialStateCameraSettingName": "1002",
+    "bPlayLoadingCameraAnimation": true,
+    "BodyTargetType": 3,
+    "BodyCameraSettingsNameMap": [
+      {
+        "Key": "FemaleM",
+        "Value": "1010_Female154"
+      },
+      {
+        "Key": "MaleM",
+        "Value": "1010_Female154"
+      },
+      {
+        "Key": "FemaleMS",
+        "Value": "1010_MSS"
+      },
+      {
+        "Key": "FemaleS",
+        "Value": "1010_Female121"
+      },
+      {
+        "Key": "MaleS",
+        "Value": "1010_Male130"
+      },
+      {
+        "Key": "FemaleXL",
+        "Value": "1010_Female154"
+      },
+      {
+        "Key": "MaleXL",
+        "Value": "1010_Male180"
+      }
+    ],
+    "DefaultCameraBlendName": "",
+    "UiCameraBlendNameMap": [
+      {
+        "Key": "RoleRootView",
+        "Value": "1001"
+      }
+    ],
+    "UiCameraDelayTime": 0
+  },
+  {
+    "Id": 1071,
+    "ViewName": "DreamLinkDungeonView",
+    "DefaultUiCameraSettingsName": "1001",
+    "IsCheckSpecialState": false,
+    "SpecialStateCameraSettingName": "1002",
+    "bPlayLoadingCameraAnimation": true,
+    "BodyTargetType": 0,
+    "BodyCameraSettingsNameMap": [],
+    "DefaultCameraBlendName": "",
+    "UiCameraBlendNameMap": [],
+    "UiCameraDelayTime": 0
+  },
+  {
+    "Id": 1072,
+    "ViewName": "DreamLinkRewardViewLimit",
     "DefaultUiCameraSettingsName": "1001",
     "IsCheckSpecialState": false,
     "SpecialStateCameraSettingName": "1002",

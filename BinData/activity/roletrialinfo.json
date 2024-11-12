@@ -2,13 +2,8 @@
   {
     "Id": 1302,
     "RoleId": 1302,
-    "RoleStand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleYinlin.T_ActivityRoleYinlin",
-    "RoleStand2": "",
-    "RoleIcon": "",
-    "UiConfigId": 0,
     "TrialRoleId": 13027004,
     "InstanceText": "",
-    "Introduction": "",
     "InstanceId": 8105,
     "RewardItem": [
       {
@@ -28,13 +23,8 @@
   {
     "Id": 1304,
     "RoleId": 1304,
-    "RoleStand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleJinxi.T_ActivityRoleJinxi",
-    "RoleStand2": "",
-    "RoleIcon": "",
-    "UiConfigId": 0,
     "TrialRoleId": 13047004,
     "InstanceText": "",
-    "Introduction": "",
     "InstanceId": 8109,
     "RewardItem": [
       {
@@ -54,13 +44,8 @@
   {
     "Id": 1205,
     "RoleId": 1205,
-    "RoleStand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleChangli.T_ActivityRoleChangli",
-    "RoleStand2": "",
-    "RoleIcon": "",
-    "UiConfigId": 0,
     "TrialRoleId": 12057004,
     "InstanceText": "",
-    "Introduction": "",
     "InstanceId": 8112,
     "RewardItem": [
       {
@@ -80,14 +65,9 @@
   {
     "Id": 1305,
     "RoleId": 1305,
-    "RoleStand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleXiangliyao.T_ActivityRoleXiangliyao",
-    "RoleStand2": "",
-    "RoleIcon": "",
-    "UiConfigId": 0,
     "TrialRoleId": 13057004,
     "InstanceText": "",
-    "Introduction": "",
-    "InstanceId": 8201,
+    "InstanceId": 8225,
     "RewardItem": [
       {
         "Key": 3,
@@ -106,13 +86,8 @@
   {
     "Id": 1403,
     "RoleId": 1403,
-    "RoleStand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleQiushui.T_ActivityRoleQiushui",
-    "RoleStand2": "",
-    "RoleIcon": "",
-    "UiConfigId": 0,
     "TrialRoleId": 14037004,
     "InstanceText": "",
-    "Introduction": "",
     "InstanceId": 8202,
     "RewardItem": [
       {
@@ -132,13 +107,8 @@
   {
     "Id": 1303,
     "RoleId": 1303,
-    "RoleStand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleYuanwu.T_ActivityRoleYuanwu",
-    "RoleStand2": "",
-    "RoleIcon": "",
-    "UiConfigId": 0,
     "TrialRoleId": 13037004,
     "InstanceText": "",
-    "Introduction": "",
     "InstanceId": 8203,
     "RewardItem": [
       {
@@ -158,13 +128,8 @@
   {
     "Id": 1602,
     "RoleId": 1602,
-    "RoleStand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleDanjin.T_ActivityRoleDanjin",
-    "RoleStand2": "",
-    "RoleIcon": "",
-    "UiConfigId": 0,
     "TrialRoleId": 16027004,
     "InstanceText": "",
-    "Introduction": "",
     "InstanceId": 8204,
     "RewardItem": [
       {
@@ -184,13 +149,8 @@
   {
     "Id": 1105,
     "RoleId": 1105,
-    "RoleStand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleZhezhi.T_ActivityRoleZhezhi",
-    "RoleStand2": "",
-    "RoleIcon": "",
-    "UiConfigId": 0,
     "TrialRoleId": 11057004,
     "InstanceText": "",
-    "Introduction": "",
     "InstanceId": 8200,
     "RewardItem": [
       {
@@ -210,13 +170,8 @@
   {
     "Id": 1103,
     "RoleId": 1103,
-    "RoleStand": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleBailian.T_ActivityRoleBailian",
-    "RoleStand2": "",
-    "RoleIcon": "",
-    "UiConfigId": 0,
     "TrialRoleId": 11037004,
     "InstanceText": "",
-    "Introduction": "",
     "InstanceId": 8206,
     "RewardItem": [
       {
@@ -236,13 +191,8 @@
   {
     "Id": 8208,
     "RoleId": 1505,
-    "RoleStand": "/Game/Aki/UI/UIResources/UiActivity/Image/RoleHalfBody/T_ActivityHalfBodyShouanren.T_ActivityHalfBodyShouanren",
-    "RoleStand2": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityRoleOntrial/T_ActivityRoleOntrialVagueShouanren.T_ActivityRoleOntrialVagueShouanren",
-    "RoleIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityRoleOntrial/T_ActivityRoleOntrialTabShouanren.T_ActivityRoleOntrialTabShouanren",
-    "UiConfigId": 4,
     "TrialRoleId": 15057004,
     "InstanceText": "",
-    "Introduction": "FavorRoleInfo_1505_Info",
     "InstanceId": 8208,
     "RewardItem": [
       {
@@ -262,13 +212,8 @@
   {
     "Id": 8209,
     "RoleId": 1106,
-    "RoleStand": "/Game/Aki/UI/UIResources/UiActivity/Image/RoleHalfBody/T_ActivityHalfBodyYouhu.T_ActivityHalfBodyYouhu",
-    "RoleStand2": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityRoleOntrial/T_ActivityRoleOntrialVagueYouhu.T_ActivityRoleOntrialVagueYouhu",
-    "RoleIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityRoleOntrial/T_ActivityRoleOntrialTabYouhu.T_ActivityRoleOntrialTabYouhu",
-    "UiConfigId": 4,
     "TrialRoleId": 11067004,
     "InstanceText": "",
-    "Introduction": "FavorRoleInfo_1106_Info",
     "InstanceId": 8209,
     "RewardItem": [
       {
@@ -288,13 +233,8 @@
   {
     "Id": 8210,
     "RoleId": 1402,
-    "RoleStand": "/Game/Aki/UI/UIResources/UiActivity/Image/RoleHalfBody/T_ActivityRoleOntrialHalfBodyYangyang.T_ActivityRoleOntrialHalfBodyYangyang",
-    "RoleStand2": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityRoleOntrial/T_ActivityRoleOntrialVagueYangyang.T_ActivityRoleOntrialVagueYangyang",
-    "RoleIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityRoleOntrial/T_ActivityRoleOntrialTabYangyang.T_ActivityRoleOntrialTabYangyang",
-    "UiConfigId": 4,
     "TrialRoleId": 14027004,
     "InstanceText": "",
-    "Introduction": "FavorRoleInfo_1402_Info",
     "InstanceId": 8210,
     "RewardItem": [
       {
@@ -314,13 +254,8 @@
   {
     "Id": 8211,
     "RoleId": 1202,
-    "RoleStand": "/Game/Aki/UI/UIResources/UiActivity/Image/RoleHalfBody/T_ActivityRoleOntrialHalfBodyZhixia.T_ActivityRoleOntrialHalfBodyZhixia",
-    "RoleStand2": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityRoleOntrial/T_ActivityRoleOntrialVagueZhixia.T_ActivityRoleOntrialVagueZhixia",
-    "RoleIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityRoleOntrial/T_ActivityRoleOntrialTabZhixia.T_ActivityRoleOntrialTabZhixia",
-    "UiConfigId": 2,
     "TrialRoleId": 12027004,
     "InstanceText": "",
-    "Introduction": "FavorRoleInfo_1202_Info",
     "InstanceId": 8211,
     "RewardItem": [
       {
@@ -340,13 +275,8 @@
   {
     "Id": 8212,
     "RoleId": 1404,
-    "RoleStand": "/Game/Aki/UI/UIResources/UiActivity/Image/RoleHalfBody/T_ActivityHalfBodyJiyan.T_ActivityHalfBodyJiyan",
-    "RoleStand2": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityRoleOntrial/T_ActivityRoleOntrialVagueJiyan.T_ActivityRoleOntrialVagueJiyan",
-    "RoleIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityRoleOntrial/T_ActivityRoleOntrialTabJiyan.T_ActivityRoleOntrialTabJiyan",
-    "UiConfigId": 3,
     "TrialRoleId": 14047004,
     "InstanceText": "",
-    "Introduction": "FavorRoleInfo_1404_Info",
     "InstanceId": 8212,
     "RewardItem": [
       {
@@ -366,13 +296,8 @@
   {
     "Id": 8213,
     "RoleId": 1204,
-    "RoleStand": "/Game/Aki/UI/UIResources/UiActivity/Image/RoleHalfBody/T_ActivityRoleOntrialHalfBodyMofeite.T_ActivityRoleOntrialHalfBodyMofeite",
-    "RoleStand2": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityRoleOntrial/T_ActivityRoleOntrialVagueMofeite.T_ActivityRoleOntrialVagueMofeite",
-    "RoleIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityRoleOntrial/T_ActivityRoleOntrialTabMofeite.T_ActivityRoleOntrialTabMofeite",
-    "UiConfigId": 2,
     "TrialRoleId": 12047004,
     "InstanceText": "",
-    "Introduction": "FavorRoleInfo_1204_Info",
     "InstanceId": 8213,
     "RewardItem": [
       {
@@ -392,14 +317,177 @@
   {
     "Id": 8214,
     "RoleId": 1601,
-    "RoleStand": "/Game/Aki/UI/UIResources/UiActivity/Image/RoleHalfBody/T_ActivityRoleOntrialHalfBodyTaoqi.T_ActivityRoleOntrialHalfBodyTaoqi",
-    "RoleStand2": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityRoleOntrial/T_ActivityRoleOntrialVagueTaoqi.T_ActivityRoleOntrialVagueTaoqi",
-    "RoleIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityRoleOntrial/T_ActivityRoleOntrialTabTaoqi.T_ActivityRoleOntrialTabTaoqi",
-    "UiConfigId": 0,
     "TrialRoleId": 16017004,
     "InstanceText": "",
-    "Introduction": "FavorRoleInfo_1601_Info",
     "InstanceId": 8214,
+    "RewardItem": [
+      {
+        "Key": 43010002,
+        "Value": 2
+      },
+      {
+        "Key": 43020002,
+        "Value": 2
+      },
+      {
+        "Key": 2,
+        "Value": 10000
+      }
+    ]
+  },
+  {
+    "Id": 1000,
+    "RoleId": 1603,
+    "TrialRoleId": 16037004,
+    "InstanceText": "",
+    "InstanceId": 8217,
+    "RewardItem": [
+      {
+        "Key": 3,
+        "Value": 20
+      },
+      {
+        "Key": 43010003,
+        "Value": 2
+      },
+      {
+        "Key": 43020003,
+        "Value": 2
+      }
+    ]
+  },
+  {
+    "Id": 1001,
+    "RoleId": 1602,
+    "TrialRoleId": 16027004,
+    "InstanceText": "",
+    "InstanceId": 8218,
+    "RewardItem": [
+      {
+        "Key": 43010002,
+        "Value": 2
+      },
+      {
+        "Key": 43020002,
+        "Value": 2
+      },
+      {
+        "Key": 2,
+        "Value": 10000
+      }
+    ]
+  },
+  {
+    "Id": 1002,
+    "RoleId": 1402,
+    "TrialRoleId": 14027004,
+    "InstanceText": "",
+    "InstanceId": 8219,
+    "RewardItem": [
+      {
+        "Key": 43010002,
+        "Value": 2
+      },
+      {
+        "Key": 43020002,
+        "Value": 2
+      },
+      {
+        "Key": 2,
+        "Value": 10000
+      }
+    ]
+  },
+  {
+    "Id": 1003,
+    "RoleId": 1403,
+    "TrialRoleId": 14037004,
+    "InstanceText": "",
+    "InstanceId": 8220,
+    "RewardItem": [
+      {
+        "Key": 43010002,
+        "Value": 2
+      },
+      {
+        "Key": 43020002,
+        "Value": 2
+      },
+      {
+        "Key": 2,
+        "Value": 10000
+      }
+    ]
+  },
+  {
+    "Id": 1004,
+    "RoleId": 1302,
+    "TrialRoleId": 13027004,
+    "InstanceText": "",
+    "InstanceId": 8221,
+    "RewardItem": [
+      {
+        "Key": 3,
+        "Value": 20
+      },
+      {
+        "Key": 43010003,
+        "Value": 2
+      },
+      {
+        "Key": 43020003,
+        "Value": 2
+      }
+    ]
+  },
+  {
+    "Id": 1005,
+    "RoleId": 1504,
+    "TrialRoleId": 15047004,
+    "InstanceText": "",
+    "InstanceId": 8222,
+    "RewardItem": [
+      {
+        "Key": 43010002,
+        "Value": 2
+      },
+      {
+        "Key": 43020002,
+        "Value": 2
+      },
+      {
+        "Key": 2,
+        "Value": 10000
+      }
+    ]
+  },
+  {
+    "Id": 1006,
+    "RoleId": 1103,
+    "TrialRoleId": 11037004,
+    "InstanceText": "",
+    "InstanceId": 8223,
+    "RewardItem": [
+      {
+        "Key": 43010002,
+        "Value": 2
+      },
+      {
+        "Key": 43020002,
+        "Value": 2
+      },
+      {
+        "Key": 2,
+        "Value": 10000
+      }
+    ]
+  },
+  {
+    "Id": 1007,
+    "RoleId": 1303,
+    "TrialRoleId": 13037004,
+    "InstanceText": "",
+    "InstanceId": 8224,
     "RewardItem": [
       {
         "Key": 43010002,
@@ -418,14 +506,30 @@
   {
     "Id": 8216,
     "RoleId": 1601,
-    "RoleStand": "/Game/Aki/UI/UIResources/UiActivity/Image/RoleHalfBody/T_ActivityRoleOntrialHalfBodyTaoqi.T_ActivityRoleOntrialHalfBodyTaoqi",
-    "RoleStand2": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityRoleOntrial/T_ActivityRoleOntrialVagueTaoqi.T_ActivityRoleOntrialVagueTaoqi",
-    "RoleIcon": "/Game/Aki/UI/UIResources/UiActivity/Image/ActivityRoleOntrial/T_ActivityRoleOntrialTabTaoqi.T_ActivityRoleOntrialTabTaoqi",
-    "UiConfigId": 0,
     "TrialRoleId": 16017004,
     "InstanceText": "",
-    "Introduction": "FavorRoleInfo_1601_Info",
     "InstanceId": 8216,
+    "RewardItem": [
+      {
+        "Key": 43010002,
+        "Value": 2
+      },
+      {
+        "Key": 43020002,
+        "Value": 2
+      },
+      {
+        "Key": 2,
+        "Value": 10000
+      }
+    ]
+  },
+  {
+    "Id": 8217,
+    "RoleId": 1102,
+    "TrialRoleId": 11027004,
+    "InstanceText": "",
+    "InstanceId": 8110,
     "RewardItem": [
       {
         "Key": 43010002,

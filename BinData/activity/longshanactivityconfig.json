@@ -1,14 +1,18 @@
 [
   {
     "ActivityId": 101300001,
-    "BinData": "DAAAAAAABgAIAAQABgAAACG3CQY="
+    "Type": 1
   },
   {
     "ActivityId": 101300002,
-    "BinData": "DAAAAAAABgAIAAQABgAAACK3CQY="
+    "Type": 1
   },
   {
     "ActivityId": 101300003,
-    "BinData": "DAAAAAgADAAIAAQACAAAAAIAAAAjtwkG"
+    "Type": 2
+  },
+  {
+    "ActivityId": 101300004,
+    "Type": 1
   }
 ]

@@ -257,34 +257,38 @@
   },
   {
     "Id": "UserProtocol",
-    "Content": "Nutzungsbedingungen einsehen"
+    "Content": "Nutzungsbedingungen"
   },
   {
     "Id": "PrivacyPolicy",
-    "Content": "Datenschutzrichtlinie einsehen."
+    "Content": "Datenschutzerklärung"
   },
   {
     "Id": "ChildProtocol",
-    "Content": "Kinderschutzrichtlinie einsehen."
+    "Content": "Datenschutzerklärung in Bezug auf Kinder"
   },
   {
     "Id": "SdkProtocolDesc",
-    "Content": "Für ein besseres Spielerlebnis verknüpfen wir dein Konto für PlayStation™Network mit deinem Kuro-Konto. Du kannst die Verknüpfung jederzeit über unsere offizielle Website oder durch Kontaktaufnahme mit dem Kundendienst aufheben und deine Informationen löschen."
+    "Content": "Für ein besseres Spielerlebnis verknüpfen wir Ihr Konto für PlayStation™Network mit Ihrem Kuro-Konto. \nSie können die Verknüpfung jederzeit über unsere offizielle Website oder durch Kontaktaufnahme mit dem Kundendienst aufheben und Ihre Informationen löschen."
   },
   {
     "Id": "SdkProtocolTitle",
-    "Content": "Hinweis zu Nutzungsbedingungen & Datenschutzrichtlinie"
+    "Content": "Hinweis zu Nutzungsbedingungen und Datenschutzerklärung"
   },
   {
     "Id": "SdkProtocolConfirm",
-    "Content": "Akzeptieren"
+    "Content": "Ja"
   },
   {
     "Id": "SdkProtocolRefuse",
-    "Content": "Ablehnen"
+    "Content": "Nein"
   },
   {
     "Id": "EquipmentDriveOutOfVersion",
     "Content": "Der Treiber deines Geräts ist veraltet, was zu häufigen Spielabstürzen führen kann. Für ein besseres Spielerlebnis solltest du in Erwägung ziehen, dein Gerät zu aktualisieren."
+  },
+  {
+    "Id": "SdkInitializeFail",
+    "Content": "Das Spiel konnte nicht gestartet werden. Bitte überprüfen Sie den Status Ihres Kontos für PlayStation™Network."
   }
 ]

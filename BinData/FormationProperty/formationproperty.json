@@ -46,7 +46,7 @@
     "TriggerType1": 0,
     "TriggerEffect1": 0,
     "TriggerEffectParams1": [
-      "640006011"
+      640006011
     ],
     "TriggerRange2": {
       "Min": 9999,
@@ -84,8 +84,8 @@
     "TriggerType1": 1,
     "TriggerEffect1": 0,
     "TriggerEffectParams1": [
-      "80011012",
-      "80011013"
+      80011012,
+      80011013
     ],
     "TriggerRange2": {
       "Min": 9999,
@@ -116,7 +116,7 @@
     "TriggerType1": 1,
     "TriggerEffect1": 0,
     "TriggerEffectParams1": [
-      "800100003090"
+      800100003090
     ],
     "TriggerRange2": {
       "Min": 9999,
@@ -179,7 +179,7 @@
     "TriggerType1": 1,
     "TriggerEffect1": 0,
     "TriggerEffectParams1": [
-      "631060002"
+      631060002
     ],
     "TriggerRange2": {
       "Min": 9999,
@@ -212,8 +212,8 @@
     "TriggerType1": 0,
     "TriggerEffect1": 0,
     "TriggerEffectParams1": [
-      "640007002",
-      "640007020"
+      640007002,
+      640007020
     ],
     "TriggerRange2": {
       "Min": 9999,
@@ -246,7 +246,7 @@
     "TriggerType1": 0,
     "TriggerEffect1": 0,
     "TriggerEffectParams1": [
-      "640010018"
+      640010018
     ],
     "TriggerRange2": {
       "Min": 9999,
@@ -277,7 +277,7 @@
     "TriggerType1": 0,
     "TriggerEffect1": 0,
     "TriggerEffectParams1": [
-      "672020131"
+      672020131
     ],
     "TriggerRange2": {
       "Min": 3334,
@@ -286,7 +286,7 @@
     "TriggerType2": 0,
     "TriggerEffect2": 0,
     "TriggerEffectParams2": [
-      "672020132"
+      672020132
     ],
     "TriggerRange3": {
       "Min": 6666,
@@ -295,7 +295,7 @@
     "TriggerType3": 0,
     "TriggerEffect3": 0,
     "TriggerEffectParams3": [
-      "672020133"
+      672020133
     ]
   }
 ]

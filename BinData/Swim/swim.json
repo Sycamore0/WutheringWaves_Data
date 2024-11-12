@@ -28,5 +28,10 @@
     "Id": "MaleS",
     "SprintZOffsetRate": 0.2,
     "SprintZOffsetSpeed": 100
+  },
+  {
+    "Id": "FemaleMS",
+    "SprintZOffsetRate": 0.2,
+    "SprintZOffsetSpeed": 100
   }
 ]

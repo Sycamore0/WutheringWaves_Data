@@ -257,23 +257,23 @@
   },
   {
     "Id": "UserProtocol",
-    "Content": "ユーザー利用規約"
+    "Content": "利用規約を確認する"
   },
   {
     "Id": "PrivacyPolicy",
-    "Content": "プライバシーポリシー"
+    "Content": "プライバシーポリシーを確認する"
   },
   {
     "Id": "ChildProtocol",
-    "Content": "児童プライバシーポリシー"
+    "Content": "児童プライバシーポリシーを確認する"
   },
   {
     "Id": "SdkProtocolDesc",
-    "Content": "より良いゲーム体験をご提供するため、PlayStation™Networkのアカウントと、KURO GAMESアカウントとの連携が行われます。公式サイトやカスタマーサポートで連携を解除し、アカウント情報を削除することができます。"
+    "Content": "ご利用者様により良いサービスを提供するため、PlayStation™NetworkのアカウントをKURO GAMESアカウントに連携する必要がございます。\n連携を解除するには、公式サイトもしくはカスタマーサポートに連絡してください。"
   },
   {
     "Id": "SdkProtocolTitle",
-    "Content": "ユーザー利用規約とプライバシーポリシーについて"
+    "Content": "利用規約およびプライバシーポリシーについて"
   },
   {
     "Id": "SdkProtocolConfirm",
@@ -281,10 +281,14 @@
   },
   {
     "Id": "SdkProtocolRefuse",
-    "Content": "同意しない"
+    "Content": "拒否する"
   },
   {
     "Id": "EquipmentDriveOutOfVersion",
     "Content": "グラフィックカードドライバーのバージョンが古いため、プレイ中にエフェクト異常が発生する可能性があります。正常なゲーム体験ができるよう、ドライバーのバージョンアップをお勧めします。"
+  },
+  {
+    "Id": "SdkInitializeFail",
+    "Content": "ゲームの起動に失敗しました、PlayStation™Networkのアカウントのログイン状態をご確認ください。"
   }
 ]

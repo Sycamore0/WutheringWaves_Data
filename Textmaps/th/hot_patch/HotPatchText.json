@@ -286,5 +286,9 @@
   {
     "Id": "EquipmentDriveOutOfVersion",
     "Content": ""
+  },
+  {
+    "Id": "SdkInitializeFail",
+    "Content": ""
   }
 ]
