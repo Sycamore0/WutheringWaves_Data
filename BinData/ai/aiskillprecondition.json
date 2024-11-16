@@ -10359,8 +10359,8 @@
       "Max": 3000
     },
     "AngleRange": {
-      "Min": 90,
-      "Max": -90
+      "Min": -90,
+      "Max": 90
     },
     "TargetAngleRange": {
       "Min": -180,
