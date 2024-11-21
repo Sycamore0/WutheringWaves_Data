@@ -16793,9 +16793,9 @@
     "Name": 2753,
     "TitleStringKey": -1,
     "CameraBindTag": "Empty",
-    "HeadIconAsset": "",
-    "HeadRoundIconAsset": "",
-    "RolePileIconAsset": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/Tmp_Role_Tool04.Tmp_Role_Tool04",
+    "HeadIconAsset": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_28_UI.T_IconRoleHead256_28_UI",
+    "HeadRoundIconAsset": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_28_UI.T_IconRoleHead175_28_UI",
+    "RolePileIconAsset": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_shouanren_UI.T_IconRole_Pile_Shouanren_UI",
     "Title": -1,
     "TimberId": 0
   },

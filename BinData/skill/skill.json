@@ -3262,7 +3262,8 @@
     "SkillInfoList": [],
     "BuffList": [],
     "DamageList": [
-      1603600001
+      1603600001,
+      1603600901
     ],
     "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconChun/SP_IconChunQTE.SP_IconChunQTE",
     "EffectSkillPath": "/Game/Aki/Effect/Texture/Icon/IconSkill/T_IconmicaiQTE_UI.T_IconmicaiQTE_UI",
@@ -5356,17 +5357,17 @@
       304
     ],
     "SkillDetailNum": [
-      "329%",
-      "459%"
+      "329.24%",
+      "459.02%"
     ],
     "SkillResumeNum": [
-      "329%",
-      "459%"
+      "329.24%",
+      "459.02%"
     ],
     "MultiSkillDescribe": "Skill_1001309_MultiSkillDescribe_1.4",
     "MultiSkillDetailNum": [
-      "329%",
-      "459%"
+      "329.24%",
+      "459.02%"
     ]
   },
   {

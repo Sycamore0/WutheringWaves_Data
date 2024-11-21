@@ -11375,26 +11375,14 @@
   {
     "Id": "SM_ME1SiXiaoMd00201",
     "StateMachineJson": {
-      "Version": 291797690,
+      "Version": 493915577,
       "StateMachines": [
         2,
-        3,
-        4
+        3
       ],
       "Nodes": [
         {
           "Uuid": 2,
-          "ReferenceUuid": 10264,
-          "IsAnimStateMachine": true,
-          "IsConduitNode": false,
-          "Name": "C受击状态机",
-          "TakeControlType": 0,
-          "TransitionRule": 0,
-          "Children": [],
-          "Transitions": []
-        },
-        {
-          "Uuid": 3,
           "ReferenceUuid": 10000,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
@@ -11405,7 +11393,7 @@
           "Transitions": []
         },
         {
-          "Uuid": 4,
+          "Uuid": 3,
           "ReferenceUuid": 10007,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
@@ -11455,25 +11443,13 @@
   {
     "Id": "SM_ME1SiXiaoMd00601",
     "StateMachineJson": {
-      "Version": 774463465,
+      "Version": 1702348328,
       "StateMachines": [
-        2,
-        3
+        2
       ],
       "Nodes": [
         {
           "Uuid": 2,
-          "ReferenceUuid": 10264,
-          "IsAnimStateMachine": true,
-          "IsConduitNode": false,
-          "Name": "C受击状态机",
-          "TakeControlType": 0,
-          "TransitionRule": 0,
-          "Children": [],
-          "Transitions": []
-        },
-        {
-          "Uuid": 3,
           "ReferenceUuid": 10007,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
@@ -26146,40 +26122,28 @@
   {
     "Id": "SM_MO1YeGuiManMd00001",
     "StateMachineJson": {
-      "Version": 549696245,
+      "Version": 1330160182,
       "StateMachines": [
-        2,
-        3
+        2
       ],
       "Nodes": [
         {
           "Uuid": 2,
-          "ReferenceUuid": 10264,
-          "IsAnimStateMachine": true,
-          "IsConduitNode": false,
-          "Name": "C受击状态机",
-          "TakeControlType": 0,
-          "TransitionRule": 0,
-          "Children": [],
-          "Transitions": []
-        },
-        {
-          "Uuid": 3,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "Name": "主状态机",
           "TakeControlType": 0,
           "TransitionRule": 0,
           "Children": [
-            4,
+            3,
+            7,
             8,
-            9,
-            10
+            9
           ],
           "Transitions": [
             {
-              "From": 9,
-              "To": 8,
+              "From": 8,
+              "To": 7,
               "TransitionPredictionType": 0,
               "Weight": 0,
               "Conditions": [
@@ -26192,8 +26156,8 @@
               ]
             },
             {
-              "From": 8,
-              "To": 9,
+              "From": 7,
+              "To": 8,
               "TransitionPredictionType": 0,
               "Weight": 0,
               "Conditions": [
@@ -26206,8 +26170,8 @@
               ]
             },
             {
-              "From": 4,
-              "To": 9,
+              "From": 3,
+              "To": 8,
               "TransitionPredictionType": 0,
               "Weight": 0,
               "Conditions": [
@@ -26224,7 +26188,7 @@
           ]
         },
         {
-          "Uuid": 4,
+          "Uuid": 3,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "Name": "出生",
@@ -26249,14 +26213,14 @@
             }
           ],
           "Children": [
+            4,
             5,
-            6,
-            7
+            6
           ],
           "Transitions": [
             {
-              "From": 5,
-              "To": 6,
+              "From": 4,
+              "To": 5,
               "TransitionPredictionType": 0,
               "Weight": 0,
               "Conditions": [
@@ -26274,8 +26238,8 @@
               ]
             },
             {
-              "From": 5,
-              "To": 7,
+              "From": 4,
+              "To": 6,
               "TransitionPredictionType": 0,
               "Weight": 0,
               "Conditions": [
@@ -26295,7 +26259,7 @@
           ]
         },
         {
-          "Uuid": 5,
+          "Uuid": 4,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "Name": "出生动画中介",
@@ -26310,7 +26274,7 @@
           ]
         },
         {
-          "Uuid": 6,
+          "Uuid": 5,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "Name": "单手剑出生",
@@ -26328,7 +26292,7 @@
           }
         },
         {
-          "Uuid": 7,
+          "Uuid": 6,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "Name": "单手枪出生",
@@ -26346,7 +26310,7 @@
           }
         },
         {
-          "Uuid": 8,
+          "Uuid": 7,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "Name": "战斗",
@@ -26372,7 +26336,7 @@
           "Transitions": []
         },
         {
-          "Uuid": 9,
+          "Uuid": 8,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "Name": "待机",
@@ -26391,21 +26355,21 @@
           "Transitions": []
         },
         {
-          "Uuid": 10,
+          "Uuid": 9,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "Name": "胜利表演",
           "TakeControlType": 0,
           "TransitionRule": 0,
           "Children": [
+            10,
             11,
-            12,
-            16
+            15
           ],
           "Transitions": [
             {
-              "From": 11,
-              "To": 12,
+              "From": 10,
+              "To": 11,
               "TransitionPredictionType": 0,
               "Weight": 0,
               "Conditions": [
@@ -26423,8 +26387,8 @@
               ]
             },
             {
-              "From": 11,
-              "To": 16,
+              "From": 10,
+              "To": 15,
               "TransitionPredictionType": 0,
               "Weight": 0,
               "Conditions": [
@@ -26444,7 +26408,7 @@
           ]
         },
         {
-          "Uuid": 11,
+          "Uuid": 10,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "Name": "胜利表演过渡",
@@ -26452,21 +26416,21 @@
           "TransitionRule": 0
         },
         {
-          "Uuid": 12,
+          "Uuid": 11,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "Name": "持剑欢呼",
           "TakeControlType": 0,
           "TransitionRule": 0,
           "Children": [
+            12,
             13,
-            14,
-            15
+            14
           ],
           "Transitions": [
             {
-              "From": 13,
-              "To": 14,
+              "From": 12,
+              "To": 13,
               "TransitionPredictionType": 0,
               "Weight": 0,
               "Conditions": [
@@ -26481,8 +26445,8 @@
               ]
             },
             {
-              "From": 14,
-              "To": 15,
+              "From": 13,
+              "To": 14,
               "TransitionPredictionType": 0,
               "Weight": 0,
               "Conditions": [
@@ -26499,8 +26463,8 @@
               ]
             },
             {
-              "From": 15,
-              "To": 13,
+              "From": 14,
+              "To": 12,
               "TransitionPredictionType": 0,
               "Weight": 0,
               "Conditions": [
@@ -26519,7 +26483,7 @@
           ]
         },
         {
-          "Uuid": 13,
+          "Uuid": 12,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "Name": "持剑欢呼开始",
@@ -26537,7 +26501,7 @@
           }
         },
         {
-          "Uuid": 14,
+          "Uuid": 13,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "Name": "持剑欢呼循环",
@@ -26555,7 +26519,7 @@
           }
         },
         {
-          "Uuid": 15,
+          "Uuid": 14,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "Name": "持剑欢呼结束",
@@ -26573,21 +26537,21 @@
           }
         },
         {
-          "Uuid": 16,
+          "Uuid": 15,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "Name": "持枪欢呼",
           "TakeControlType": 0,
           "TransitionRule": 0,
           "Children": [
+            16,
             17,
-            18,
-            19
+            18
           ],
           "Transitions": [
             {
-              "From": 17,
-              "To": 18,
+              "From": 16,
+              "To": 17,
               "TransitionPredictionType": 0,
               "Weight": 0,
               "Conditions": [
@@ -26602,8 +26566,8 @@
               ]
             },
             {
-              "From": 18,
-              "To": 19,
+              "From": 17,
+              "To": 18,
               "TransitionPredictionType": 0,
               "Weight": 0,
               "Conditions": [
@@ -26620,8 +26584,8 @@
               ]
             },
             {
-              "From": 19,
-              "To": 17,
+              "From": 18,
+              "To": 16,
               "TransitionPredictionType": 0,
               "Weight": 0,
               "Conditions": [
@@ -26640,7 +26604,7 @@
           ]
         },
         {
-          "Uuid": 17,
+          "Uuid": 16,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "Name": "持枪欢呼开始",
@@ -26658,7 +26622,7 @@
           }
         },
         {
-          "Uuid": 18,
+          "Uuid": 17,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "Name": "持枪欢呼循环",
@@ -26676,7 +26640,7 @@
           }
         },
         {
-          "Uuid": 19,
+          "Uuid": 18,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "Name": "持枪欢呼结束",
@@ -26699,7 +26663,7 @@
   {
     "Id": "SM_Common",
     "StateMachineJson": {
-      "Version": 2034274090,
+      "Version": 705129373,
       "StateMachines": [
         10263,
         10264,
@@ -27710,312 +27674,6 @@
           ],
           "Transitions": [
             {
-              "From": 10277,
-              "To": 10274,
-              "TransitionPredictionType": 0,
-              "Weight": 3,
-              "Conditions": [
-                {
-                  "Index": 0,
-                  "Name": "CondCheckPositionState",
-                  "Type": 30,
-                  "Reverse": false,
-                  "IsClient": true,
-                  "CondCheckPositionState": {
-                    "PositionState": 3
-                  }
-                }
-              ]
-            },
-            {
-              "From": 10276,
-              "To": 10274,
-              "TransitionPredictionType": 0,
-              "Weight": 3,
-              "Conditions": [
-                {
-                  "Index": 0,
-                  "Name": "CondCheckPositionState",
-                  "Type": 30,
-                  "Reverse": false,
-                  "IsClient": true,
-                  "CondCheckPositionState": {
-                    "PositionState": 3
-                  }
-                }
-              ]
-            },
-            {
-              "From": 10275,
-              "To": 10276,
-              "TransitionPredictionType": 2,
-              "Weight": 2,
-              "Conditions": [
-                {
-                  "Index": 0,
-                  "Name": "CondListenBeHit",
-                  "Type": 103,
-                  "Reverse": false,
-                  "IsClient": true,
-                  "CondListenBeHit": {
-                    "NoHitAnimation": false,
-                    "SoftKnock": false,
-                    "HeavyKnock": false,
-                    "KnockUp": true,
-                    "KnockDown": true,
-                    "Parry": false,
-                    "VisionCounterAttackId": 0
-                  }
-                }
-              ]
-            },
-            {
-              "From": 10276,
-              "To": 10277,
-              "TransitionPredictionType": 2,
-              "Weight": 2,
-              "Conditions": [
-                {
-                  "Index": 0,
-                  "Name": "CondListenBeHit",
-                  "Type": 103,
-                  "Reverse": false,
-                  "IsClient": true,
-                  "CondListenBeHit": {
-                    "NoHitAnimation": false,
-                    "SoftKnock": true,
-                    "HeavyKnock": true,
-                    "KnockUp": true,
-                    "KnockDown": true,
-                    "Parry": false,
-                    "VisionCounterAttackId": 0
-                  }
-                }
-              ]
-            },
-            {
-              "From": 10279,
-              "To": 10276,
-              "TransitionPredictionType": 2,
-              "Weight": 2,
-              "Conditions": [
-                {
-                  "Index": 0,
-                  "Name": "CondListenBeHit",
-                  "Type": 103,
-                  "Reverse": false,
-                  "IsClient": true,
-                  "CondListenBeHit": {
-                    "NoHitAnimation": false,
-                    "SoftKnock": false,
-                    "HeavyKnock": false,
-                    "KnockUp": true,
-                    "KnockDown": true,
-                    "Parry": false,
-                    "VisionCounterAttackId": 0
-                  }
-                }
-              ]
-            },
-            {
-              "From": 10280,
-              "To": 10276,
-              "TransitionPredictionType": 2,
-              "Weight": 2,
-              "Conditions": [
-                {
-                  "Index": 0,
-                  "Name": "CondListenBeHit",
-                  "Type": 103,
-                  "Reverse": false,
-                  "IsClient": true,
-                  "CondListenBeHit": {
-                    "NoHitAnimation": false,
-                    "SoftKnock": false,
-                    "HeavyKnock": false,
-                    "KnockUp": true,
-                    "KnockDown": true,
-                    "Parry": false,
-                    "VisionCounterAttackId": 0
-                  }
-                }
-              ]
-            },
-            {
-              "From": 10277,
-              "To": 10282,
-              "TransitionPredictionType": 2,
-              "Weight": 2,
-              "Conditions": [
-                {
-                  "Index": 0,
-                  "Name": "CondListenBeHit",
-                  "Type": 103,
-                  "Reverse": false,
-                  "IsClient": true,
-                  "CondListenBeHit": {
-                    "NoHitAnimation": false,
-                    "SoftKnock": true,
-                    "HeavyKnock": true,
-                    "KnockUp": true,
-                    "KnockDown": true,
-                    "Parry": false,
-                    "VisionCounterAttackId": 0
-                  }
-                }
-              ]
-            },
-            {
-              "From": 10278,
-              "To": 10277,
-              "TransitionPredictionType": 0,
-              "Weight": 2,
-              "Conditions": [
-                {
-                  "Index": 0,
-                  "Name": "CondListenBeHit",
-                  "Type": 103,
-                  "Reverse": false,
-                  "IsClient": true,
-                  "CondListenBeHit": {
-                    "NoHitAnimation": false,
-                    "SoftKnock": true,
-                    "HeavyKnock": true,
-                    "KnockUp": true,
-                    "KnockDown": true,
-                    "Parry": false,
-                    "VisionCounterAttackId": 0
-                  }
-                }
-              ]
-            },
-            {
-              "From": 10274,
-              "To": 10276,
-              "TransitionPredictionType": 2,
-              "Weight": 1,
-              "Conditions": [
-                {
-                  "Index": 0,
-                  "Name": "CondListenBeHit",
-                  "Type": 103,
-                  "Reverse": false,
-                  "IsClient": true,
-                  "CondListenBeHit": {
-                    "NoHitAnimation": false,
-                    "SoftKnock": false,
-                    "HeavyKnock": false,
-                    "KnockUp": true,
-                    "KnockDown": true,
-                    "Parry": false,
-                    "VisionCounterAttackId": 0
-                  }
-                }
-              ]
-            },
-            {
-              "From": 10278,
-              "To": 10274,
-              "TransitionPredictionType": 2,
-              "Weight": 1,
-              "Conditions": [
-                {
-                  "Index": 0,
-                  "Name": "CondCheckPositionState",
-                  "Type": 30,
-                  "Reverse": false,
-                  "IsClient": true,
-                  "CondCheckPositionState": {
-                    "PositionState": 3
-                  }
-                }
-              ]
-            },
-            {
-              "From": 10279,
-              "To": 10275,
-              "TransitionPredictionType": 2,
-              "Weight": 1,
-              "Conditions": [
-                {
-                  "Index": 0,
-                  "Name": "CondListenBeHit",
-                  "Type": 103,
-                  "Reverse": false,
-                  "IsClient": true,
-                  "CondListenBeHit": {
-                    "NoHitAnimation": false,
-                    "SoftKnock": true,
-                    "HeavyKnock": true,
-                    "KnockUp": false,
-                    "KnockDown": false,
-                    "Parry": true,
-                    "VisionCounterAttackId": 0
-                  }
-                }
-              ]
-            },
-            {
-              "From": 10280,
-              "To": 10275,
-              "TransitionPredictionType": 2,
-              "Weight": 1,
-              "Conditions": [
-                {
-                  "Index": 0,
-                  "Name": "CondListenBeHit",
-                  "Type": 103,
-                  "Reverse": false,
-                  "IsClient": true,
-                  "CondListenBeHit": {
-                    "NoHitAnimation": false,
-                    "SoftKnock": true,
-                    "HeavyKnock": true,
-                    "KnockUp": false,
-                    "KnockDown": false,
-                    "Parry": true,
-                    "VisionCounterAttackId": 0
-                  }
-                }
-              ]
-            },
-            {
-              "From": 10276,
-              "To": 10279,
-              "TransitionPredictionType": 0,
-              "Weight": 1,
-              "Conditions": [
-                {
-                  "Index": 0,
-                  "Name": "CondCheckPositionState",
-                  "Type": 30,
-                  "Reverse": false,
-                  "IsClient": true,
-                  "CondCheckPositionState": {
-                    "PositionState": 0
-                  }
-                }
-              ]
-            },
-            {
-              "From": 10277,
-              "To": 10279,
-              "TransitionPredictionType": 0,
-              "Weight": 1,
-              "Conditions": [
-                {
-                  "Index": 0,
-                  "Name": "CondCheckPositionState",
-                  "Type": 30,
-                  "Reverse": false,
-                  "IsClient": true,
-                  "CondCheckPositionState": {
-                    "PositionState": 0
-                  }
-                }
-              ]
-            },
-            {
               "From": 10274,
               "To": 10275,
               "TransitionPredictionType": 2,
@@ -28034,6 +27692,78 @@
                     "KnockUp": false,
                     "KnockDown": false,
                     "Parry": true,
+                    "VisionCounterAttackId": 0
+                  }
+                }
+              ]
+            },
+            {
+              "From": 10274,
+              "To": 10276,
+              "TransitionPredictionType": 2,
+              "Weight": 0,
+              "Conditions": [
+                {
+                  "Index": 0,
+                  "Name": "CondListenBeHit",
+                  "Type": 103,
+                  "Reverse": false,
+                  "IsClient": true,
+                  "CondListenBeHit": {
+                    "NoHitAnimation": false,
+                    "SoftKnock": false,
+                    "HeavyKnock": false,
+                    "KnockUp": true,
+                    "KnockDown": true,
+                    "Parry": false,
+                    "VisionCounterAttackId": 0
+                  }
+                }
+              ]
+            },
+            {
+              "From": 10275,
+              "To": 10276,
+              "TransitionPredictionType": 2,
+              "Weight": 0,
+              "Conditions": [
+                {
+                  "Index": 0,
+                  "Name": "CondListenBeHit",
+                  "Type": 103,
+                  "Reverse": false,
+                  "IsClient": true,
+                  "CondListenBeHit": {
+                    "NoHitAnimation": false,
+                    "SoftKnock": false,
+                    "HeavyKnock": false,
+                    "KnockUp": true,
+                    "KnockDown": true,
+                    "Parry": false,
+                    "VisionCounterAttackId": 0
+                  }
+                }
+              ]
+            },
+            {
+              "From": 10276,
+              "To": 10277,
+              "TransitionPredictionType": 2,
+              "Weight": 0,
+              "Conditions": [
+                {
+                  "Index": 0,
+                  "Name": "CondListenBeHit",
+                  "Type": 103,
+                  "Reverse": false,
+                  "IsClient": true,
+                  "CondListenBeHit": {
+                    "NoHitAnimation": false,
+                    "SoftKnock": true,
+                    "HeavyKnock": true,
+                    "KnockUp": true,
+                    "KnockDown": true,
+                    "Parry": false,
                     "VisionCounterAttackId": 0
                   }
                 }
@@ -28085,6 +27815,28 @@
               "Conditions": [
                 {
                   "Index": 0,
+                  "Name": "CondOr",
+                  "Type": 2,
+                  "Reverse": false,
+                  "CondOr": {
+                    "Conditions": [
+                      1,
+                      2
+                    ]
+                  }
+                },
+                {
+                  "Index": 1,
+                  "Name": "CondCheckPositionState",
+                  "Type": 30,
+                  "Reverse": true,
+                  "IsClient": true,
+                  "CondCheckPositionState": {
+                    "PositionState": 2
+                  }
+                },
+                {
+                  "Index": 2,
                   "Name": "CondTaskFinish",
                   "Type": 101,
                   "Reverse": false,
@@ -28188,6 +27940,24 @@
               ]
             },
             {
+              "From": 10278,
+              "To": 10274,
+              "TransitionPredictionType": 2,
+              "Weight": 0,
+              "Conditions": [
+                {
+                  "Index": 0,
+                  "Name": "CondCheckPositionState",
+                  "Type": 30,
+                  "Reverse": false,
+                  "IsClient": true,
+                  "CondCheckPositionState": {
+                    "PositionState": 3
+                  }
+                }
+              ]
+            },
+            {
               "From": 10275,
               "To": 10274,
               "TransitionPredictionType": 2,
@@ -28200,6 +27970,102 @@
                   "Reverse": false,
                   "IsClient": true,
                   "CondTaskFinish": {}
+                }
+              ]
+            },
+            {
+              "From": 10279,
+              "To": 10276,
+              "TransitionPredictionType": 2,
+              "Weight": 0,
+              "Conditions": [
+                {
+                  "Index": 0,
+                  "Name": "CondListenBeHit",
+                  "Type": 103,
+                  "Reverse": false,
+                  "IsClient": true,
+                  "CondListenBeHit": {
+                    "NoHitAnimation": false,
+                    "SoftKnock": false,
+                    "HeavyKnock": false,
+                    "KnockUp": true,
+                    "KnockDown": true,
+                    "Parry": false,
+                    "VisionCounterAttackId": 0
+                  }
+                }
+              ]
+            },
+            {
+              "From": 10280,
+              "To": 10276,
+              "TransitionPredictionType": 2,
+              "Weight": 0,
+              "Conditions": [
+                {
+                  "Index": 0,
+                  "Name": "CondListenBeHit",
+                  "Type": 103,
+                  "Reverse": false,
+                  "IsClient": true,
+                  "CondListenBeHit": {
+                    "NoHitAnimation": false,
+                    "SoftKnock": false,
+                    "HeavyKnock": false,
+                    "KnockUp": true,
+                    "KnockDown": true,
+                    "Parry": false,
+                    "VisionCounterAttackId": 0
+                  }
+                }
+              ]
+            },
+            {
+              "From": 10279,
+              "To": 10275,
+              "TransitionPredictionType": 2,
+              "Weight": 0,
+              "Conditions": [
+                {
+                  "Index": 0,
+                  "Name": "CondListenBeHit",
+                  "Type": 103,
+                  "Reverse": false,
+                  "IsClient": true,
+                  "CondListenBeHit": {
+                    "NoHitAnimation": false,
+                    "SoftKnock": true,
+                    "HeavyKnock": true,
+                    "KnockUp": false,
+                    "KnockDown": false,
+                    "Parry": true,
+                    "VisionCounterAttackId": 0
+                  }
+                }
+              ]
+            },
+            {
+              "From": 10280,
+              "To": 10275,
+              "TransitionPredictionType": 2,
+              "Weight": 0,
+              "Conditions": [
+                {
+                  "Index": 0,
+                  "Name": "CondListenBeHit",
+                  "Type": 103,
+                  "Reverse": false,
+                  "IsClient": true,
+                  "CondListenBeHit": {
+                    "NoHitAnimation": false,
+                    "SoftKnock": true,
+                    "HeavyKnock": true,
+                    "KnockUp": false,
+                    "KnockDown": false,
+                    "Parry": true,
+                    "VisionCounterAttackId": 0
+                  }
                 }
               ]
             },
@@ -28242,6 +28108,30 @@
               ]
             },
             {
+              "From": 10277,
+              "To": 10282,
+              "TransitionPredictionType": 2,
+              "Weight": 0,
+              "Conditions": [
+                {
+                  "Index": 0,
+                  "Name": "CondListenBeHit",
+                  "Type": 103,
+                  "Reverse": false,
+                  "IsClient": true,
+                  "CondListenBeHit": {
+                    "NoHitAnimation": false,
+                    "SoftKnock": true,
+                    "HeavyKnock": true,
+                    "KnockUp": true,
+                    "KnockDown": true,
+                    "Parry": false,
+                    "VisionCounterAttackId": 0
+                  }
+                }
+              ]
+            },
+            {
               "From": 10282,
               "To": 10277,
               "TransitionPredictionType": 1,
@@ -28252,6 +28142,30 @@
                   "Name": "CondTrue",
                   "Type": 4,
                   "Reverse": false
+                }
+              ]
+            },
+            {
+              "From": 10278,
+              "To": 10277,
+              "TransitionPredictionType": 0,
+              "Weight": 0,
+              "Conditions": [
+                {
+                  "Index": 0,
+                  "Name": "CondListenBeHit",
+                  "Type": 103,
+                  "Reverse": false,
+                  "IsClient": true,
+                  "CondListenBeHit": {
+                    "NoHitAnimation": false,
+                    "SoftKnock": true,
+                    "HeavyKnock": true,
+                    "KnockUp": true,
+                    "KnockDown": true,
+                    "Parry": false,
+                    "VisionCounterAttackId": 0
+                  }
                 }
               ]
             }
@@ -38639,25 +38553,13 @@
   {
     "Id": "SM_ME1AntankeMd00601_Guide",
     "StateMachineJson": {
-      "Version": 1143497791,
+      "Version": 1129251117,
       "StateMachines": [
-        4,
-        8
+        7
       ],
       "Nodes": [
         {
           "Uuid": 4,
-          "ReferenceUuid": 10264,
-          "IsAnimStateMachine": true,
-          "IsConduitNode": false,
-          "Name": "C受击状态机",
-          "TakeControlType": 0,
-          "TransitionRule": 0,
-          "Children": [],
-          "Transitions": []
-        },
-        {
-          "Uuid": 5,
           "OverrideCommonUuid": 10010,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
@@ -38695,7 +38597,7 @@
           "Transitions": []
         },
         {
-          "Uuid": 6,
+          "Uuid": 5,
           "OverrideCommonUuid": 10084,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
@@ -38733,7 +38635,7 @@
           "Transitions": []
         },
         {
-          "Uuid": 7,
+          "Uuid": 6,
           "OverrideCommonUuid": 10017,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
@@ -38765,7 +38667,7 @@
           "Transitions": []
         },
         {
-          "Uuid": 8,
+          "Uuid": 7,
           "ReferenceUuid": 10007,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
@@ -47499,7 +47401,7 @@
   {
     "Id": "SM_ML1QunnieMd00401",
     "StateMachineJson": {
-      "Version": 53838618,
+      "Version": 479796077,
       "StateMachines": [
         4,
         11,
@@ -48962,8 +48864,8 @@
                   "Reverse": true,
                   "IsClient": true,
                   "CondTag": {
-                    "TagId": 1922078392,
-                    "TagName": "怪物.common.状态标识.瘫痪中"
+                    "TagId": -1371021686,
+                    "TagName": "行为状态.逻辑状态.技能中"
                   }
                 }
               ]
@@ -51369,7 +51271,7 @@
   {
     "Id": "SM_ML1QunnieMd00401_Yinlin",
     "StateMachineJson": {
-      "Version": 579451286,
+      "Version": 401083363,
       "StateMachines": [
         4,
         7,
@@ -52372,8 +52274,8 @@
                   "Reverse": true,
                   "IsClient": true,
                   "CondTag": {
-                    "TagId": 1922078392,
-                    "TagName": "怪物.common.状态标识.瘫痪中"
+                    "TagId": -1371021686,
+                    "TagName": "行为状态.逻辑状态.技能中"
                   }
                 }
               ]
@@ -73906,7 +73808,7 @@
   {
     "Id": "SM_ML1QunnieMd00401_ZhuiYue",
     "StateMachineJson": {
-      "Version": 1930180150,
+      "Version": 1748752515,
       "StateMachines": [
         3,
         24
@@ -74909,8 +74811,8 @@
                   "Reverse": true,
                   "IsClient": true,
                   "CondTag": {
-                    "TagId": 1922078392,
-                    "TagName": "怪物.common.状态标识.瘫痪中"
+                    "TagId": -1371021686,
+                    "TagName": "行为状态.逻辑状态.技能中"
                   }
                 }
               ]
@@ -75290,38 +75192,26 @@
   {
     "Id": "SM_MO1JiQiangKuLuoLuoMd00001",
     "StateMachineJson": {
-      "Version": 620910998,
+      "Version": 1983567033,
       "StateMachines": [
-        2,
-        3
+        2
       ],
       "Nodes": [
         {
           "Uuid": 2,
-          "ReferenceUuid": 10264,
-          "IsAnimStateMachine": true,
-          "IsConduitNode": false,
-          "Name": "C受击状态机",
-          "TakeControlType": 0,
-          "TransitionRule": 0,
-          "Children": [],
-          "Transitions": []
-        },
-        {
-          "Uuid": 3,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "Name": "主状态机",
           "TakeControlType": 0,
           "TransitionRule": 0,
           "Children": [
-            4,
-            5
+            3,
+            4
           ],
           "Transitions": [
             {
-              "From": 4,
-              "To": 5,
+              "From": 3,
+              "To": 4,
               "TransitionPredictionType": 0,
               "Weight": 0,
               "Conditions": [
@@ -75334,8 +75224,8 @@
               ]
             },
             {
-              "From": 5,
-              "To": 4,
+              "From": 4,
+              "To": 3,
               "TransitionPredictionType": 0,
               "Weight": 0,
               "Conditions": [
@@ -75350,7 +75240,7 @@
           ]
         },
         {
-          "Uuid": 4,
+          "Uuid": 3,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "Name": "待机",
@@ -75369,7 +75259,7 @@
           "Transitions": []
         },
         {
-          "Uuid": 5,
+          "Uuid": 4,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "Name": "战斗",
@@ -75466,38 +75356,26 @@
   {
     "Id": "SM_MO1GuochankuluoluoMd00001",
     "StateMachineJson": {
-      "Version": 620910998,
+      "Version": 1983567033,
       "StateMachines": [
-        2,
-        3
+        2
       ],
       "Nodes": [
         {
           "Uuid": 2,
-          "ReferenceUuid": 10264,
-          "IsAnimStateMachine": true,
-          "IsConduitNode": false,
-          "Name": "C受击状态机",
-          "TakeControlType": 0,
-          "TransitionRule": 0,
-          "Children": [],
-          "Transitions": []
-        },
-        {
-          "Uuid": 3,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "Name": "主状态机",
           "TakeControlType": 0,
           "TransitionRule": 0,
           "Children": [
-            4,
-            5
+            3,
+            4
           ],
           "Transitions": [
             {
-              "From": 4,
-              "To": 5,
+              "From": 3,
+              "To": 4,
               "TransitionPredictionType": 0,
               "Weight": 0,
               "Conditions": [
@@ -75510,8 +75388,8 @@
               ]
             },
             {
-              "From": 5,
-              "To": 4,
+              "From": 4,
+              "To": 3,
               "TransitionPredictionType": 0,
               "Weight": 0,
               "Conditions": [
@@ -75526,7 +75404,7 @@
           ]
         },
         {
-          "Uuid": 4,
+          "Uuid": 3,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "Name": "待机",
@@ -75545,7 +75423,7 @@
           "Transitions": []
         },
         {
-          "Uuid": 5,
+          "Uuid": 4,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "Name": "战斗",

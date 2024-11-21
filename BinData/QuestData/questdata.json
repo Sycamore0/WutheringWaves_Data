@@ -110,7 +110,7 @@
     "QuestId": 1,
     "Data": {
       "Id": 1,
-      "Type": 1,
+      "Type": 100,
       "RegionId": 1,
       "Key": "InteractTest交互任务1",
       "RewardId": 0,
@@ -146,14 +146,15 @@
         "f_31000158_2",
         "f_31000158_3",
         "f_31000158_6"
-      ]
+      ],
+      "IsHideAcceptMarkOnNpc": false
     }
   },
   {
     "QuestId": 2,
     "Data": {
       "Id": 2,
-      "Type": 1,
+      "Type": 100,
       "RegionId": 1,
       "Key": "杀怪",
       "TidName": "Quest_2_QuestName_0_2",
@@ -201,7 +202,8 @@
         "e_31_21",
         "e_31_22",
         "f_31000158_8"
-      ]
+      ],
+      "IsHideAcceptMarkOnNpc": false
     }
   },
   {
@@ -848,7 +850,7 @@
     "Data": {
       "Id": 12000005,
       "DungeonId": 33,
-      "Type": 2,
+      "Type": 100,
       "RegionId": 1,
       "Key": "任务延迟解锁13天",
       "TidName": "Quest_12000005_QuestName_0_2",
@@ -1250,7 +1252,7 @@
     "Data": {
       "Id": 300000005,
       "DungeonId": 32,
-      "Type": 2,
+      "Type": 100,
       "RegionId": 1,
       "Key": "角色入队测试",
       "TidName": "Quest_300000005_QuestName_0_2",
@@ -1494,7 +1496,7 @@
     "QuestId": 2000006,
     "Data": {
       "Id": 2000006,
-      "Type": 2,
+      "Type": 100,
       "RegionId": 1,
       "Key": "使用扫描",
       "RewardId": 0,
@@ -1538,7 +1540,8 @@
       "Reference": [
         "e_32_2000020",
         "f_31000162_1"
-      ]
+      ],
+      "IsHideAcceptMarkOnNpc": false
     }
   },
   {
@@ -1984,7 +1987,7 @@
     "QuestId": 2000011,
     "Data": {
       "Id": 2000011,
-      "Type": 2,
+      "Type": 100,
       "RegionId": 100,
       "Key": "交付道具测试",
       "TidName": "Quest_2000011_QuestName_0_2",
@@ -2029,7 +2032,8 @@
       "Reference": [
         "e_32_2000047",
         "f_31000162_1"
-      ]
+      ],
+      "IsHideAcceptMarkOnNpc": false
     }
   },
   {
@@ -2097,7 +2101,7 @@
     "QuestId": 220000000,
     "Data": {
       "Id": 220000000,
-      "Type": 2,
+      "Type": 100,
       "RegionId": 100,
       "Key": "使用道具接任务",
       "TidName": "Quest_220000000_QuestName_0_2",
@@ -5589,7 +5593,7 @@
     "Data": {
       "Id": 139000000,
       "DungeonId": 102,
-      "Type": 7,
+      "Type": 100,
       "RegionId": 2,
       "Key": "声骸支线任务",
       "TidName": "Quest_139000000_QuestName_0_2",
@@ -7742,7 +7746,7 @@
     "Data": {
       "Id": 139000005,
       "DungeonId": 102,
-      "Type": 2,
+      "Type": 100,
       "RegionId": 1,
       "RoleId": "anke",
       "Key": "接取任务测试",
@@ -7765,7 +7769,7 @@
     "Data": {
       "Id": 139000006,
       "DungeonId": 102,
-      "Type": 2,
+      "Type": 100,
       "RegionId": 1,
       "Key": "第1日提交任务",
       "TidName": "Quest_139000006_QuestName_0_2",
@@ -7796,7 +7800,7 @@
     "Data": {
       "Id": 139000007,
       "DungeonId": 102,
-      "Type": 2,
+      "Type": 100,
       "RegionId": 1,
       "Key": "第2日提交任务",
       "TidName": "Quest_139000007_QuestName_0_2",
@@ -15631,7 +15635,7 @@
       "ObjType": "Quest",
       "Id": 139000035,
       "DungeonId": 102,
-      "Type": 2,
+      "Type": 100,
       "RegionId": 1,
       "RoleId": "anke",
       "Key": "测试60000023声骸",
@@ -15653,7 +15657,7 @@
       "ObjType": "Quest",
       "Id": 139000037,
       "DungeonId": 102,
-      "Type": 2,
+      "Type": 100,
       "RegionId": 1,
       "RoleId": "anke",
       "Key": "测试21020015武器",

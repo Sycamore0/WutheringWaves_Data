@@ -647,9 +647,9 @@
     "PassiveSkill": [],
     "Texture": "/Game/Aki/UI/UIResources/Common/Image/IconAttribute/T_Iconpropertyredhot_UI.T_Iconpropertyredhot_UI",
     "Name": "bossrush_27_title",
-    "Description": "bossrush_27_desc",
+    "Description": "bossrush2_101_desc",
     "DescriptionParam": [
-      "[20,20,3,2]"
+      "[20,3,20,10,10,20]"
     ]
   },
   {

@@ -54387,6 +54387,10 @@
       "/Game/Aki/Character/Monster/NPC/MO1ChunMd00001/CommonAnim/AM_Hook_Up.AM_Hook_Up"
     ],
     "Effects": [
+      "/Game/Aki/Effect/EffectGroup/R2T1ChunMd10011/DA_Fx_Group_R1a_EX_Stand_TengwanUP.DA_Fx_Group_R1a_EX_Stand_TengwanUP",
+      "/Game/Aki/Effect/EffectGroup/R2T1ChunMd10011/DA_Fx_Group_R1a_EX_Stand_Tengwan2.DA_Fx_Group_R1a_EX_Stand_Tengwan2",
+      "/Game/Aki/Effect/EffectGroup/R2T1ChunMd10011/DA_Fx_Group_R1a_EX_Stand_TengwanUP1.DA_Fx_Group_R1a_EX_Stand_TengwanUP1",
+      "/Game/Aki/Effect/EffectGroup/R2T1ChunMd10011/DA_Fx_Group_R1a_EX_Stand_Tengwan3.DA_Fx_Group_R1a_EX_Stand_Tengwan3",
       "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Hook_Chongci.DA_Fx_Group_Hook_Chongci",
       "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Hook_Particle.DA_Fx_Group_Hook_Particle",
       "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Press_Smoke.DA_Fx_Group_Press_Smoke",

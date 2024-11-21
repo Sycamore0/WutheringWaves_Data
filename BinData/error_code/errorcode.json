@@ -3765,7 +3765,7 @@
     "Id": 700046,
     "DebugText": "该场景不能使用此功能",
     "Text": "ErrorCode_700046_Text",
-    "IsTip": false
+    "IsTip": true
   },
   {
     "Id": 700047,
@@ -13856,19 +13856,19 @@
   {
     "Id": 2500051,
     "DebugText": "找不到BossRush场景数据，请退出重试",
-    "Text": "",
+    "Text": "ErrorCode_2000501_Text",
     "IsTip": false
   },
   {
     "Id": 2500052,
     "DebugText": "未处于buff选择状态，未知错误",
-    "Text": "",
+    "Text": "ErrorCode_2000502_Text",
     "IsTip": false
   },
   {
     "Id": 2500053,
     "DebugText": "现在序号不合法，未知错误",
-    "Text": "",
+    "Text": "ErrorCode_2000503_Text",
     "IsTip": false
   },
   {
@@ -14000,25 +14000,25 @@
   {
     "Id": 2500054,
     "DebugText": "存在相同的buffId，未知错误",
-    "Text": "",
+    "Text": "ErrorCode_2000504_Text",
     "IsTip": false
   },
   {
     "Id": 2500055,
     "DebugText": "有操作增益词条未选择，请选择后再开启挑战",
-    "Text": "",
+    "Text": "ErrorCode_2000505_Text",
     "IsTip": true
   },
   {
     "Id": 2500056,
     "DebugText": "选择的buff不合法，未知错误",
-    "Text": "",
+    "Text": "ErrorCode_2000506_Text",
     "IsTip": false
   },
   {
     "Id": 2500057,
     "DebugText": "选择的buff没有配置，未知错误",
-    "Text": "",
+    "Text": "ErrorCode_2000507_Text",
     "IsTip": false
   },
   {
