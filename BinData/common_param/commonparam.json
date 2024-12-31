@@ -1125,7 +1125,7 @@
   },
   {
     "KeyName": "scan_max_distance",
-    "BinData": "HgAAAA=="
+    "BinData": "MgAAAA=="
   },
   {
     "KeyName": "scan_interaction_effect_max_distance",
@@ -1937,7 +1937,7 @@
   },
   {
     "KeyName": "LivenessTaskCount",
-    "BinData": "CwAAAA=="
+    "BinData": "DAAAAA=="
   },
   {
     "KeyName": "CommunicateViewCloseTime",
@@ -2961,7 +2961,7 @@
   },
   {
     "KeyName": "AbnormalDamageRoleRatio",
-    "BinData": "TwEAAA=="
+    "BinData": "PgwAAA=="
   },
   {
     "KeyName": "MaxClientId",
@@ -3392,6 +3392,10 @@
     "BinData": "UAAAAA=="
   },
   {
+    "KeyName": "BaseConeStaticMeshForRange",
+    "BinData": "HQAAAC9FbmdpbmUvQmFzaWNTaGFwZXMvQ29uZS5Db25l"
+  },
+  {
     "KeyName": "MoonFiestaTrainRoleSuccessThreshold",
     "BinData": "AgAAAA=="
   },
@@ -3621,7 +3625,7 @@
   },
   {
     "KeyName": "QuickTransferRange",
-    "BinData": "yAAAAA=="
+    "BinData": "9AEAAA=="
   },
   {
     "KeyName": "AllowResolutionList",
@@ -3812,6 +3816,10 @@
     "BinData": "BgAAANEgAADSIAAA0yAAANQgAADVIAAA1iAAAA=="
   },
   {
+    "KeyName": "SoundBoxSfxCoolTime",
+    "BinData": "UMMAAA=="
+  },
+  {
     "KeyName": "MultiRewardLevelInstType",
     "BinData": "AgAAAAoAAAALAAAA"
   },
@@ -3832,6 +3840,86 @@
     "BinData": "AwAAAA=="
   },
   {
+    "KeyName": "RecommendRoleSkinId",
+    "BinData": "AQAAAAAAAAAFAAAARW1wdHk="
+  },
+  {
+    "KeyName": "VehiclePassengerTemplateId",
+    "BinData": "zUIPAA=="
+  },
+  {
+    "KeyName": "BuySkinDetailWeaponCameraId",
+    "BinData": "MgQAAA=="
+  },
+  {
+    "KeyName": "BuySkinDetailRoleCameraConfigId",
+    "BinData": "FQAAAOinkuiJsuWVhuWfjuWNleearuiCpA=="
+  },
+  {
+    "KeyName": "BuySkinDetailWeaponCameraConfigId",
+    "BinData": "FQAAAOinkuiJsuWVhuWfjuW4puatpuWZqA=="
+  },
+  {
+    "KeyName": "GondolaRoleAddFavor",
+    "BinData": "yAAAAA=="
+  },
+  {
+    "KeyName": "GondolaRoleFavorTipItemId",
+    "BinData": "MinFBA=="
+  },
+  {
+    "KeyName": "MaterialReplaceConsume",
+    "BinData": "AgAAAA=="
+  },
+  {
+    "KeyName": "BuySkinDetailRoleCameraId",
+    "BinData": "MgQAAA=="
+  },
+  {
+    "KeyName": "FlyMaxSingleStrengthItemCount",
+    "BinData": "CgAAAA=="
+  },
+  {
+    "KeyName": "FlySingleStrengthValue",
+    "BinData": "eAUAAA=="
+  },
+  {
+    "KeyName": "FlyTailSpeed",
+    "BinData": "vgAAAA=="
+  },
+  {
+    "KeyName": "PickInteractionViewTutorialId",
+    "BinData": "rwAAAA=="
+  },
+  {
+    "KeyName": "ScoreOffsetLevelPlayReport",
+    "BinData": "BAAAAMIAAADK////IgEAALr///8="
+  },
+  {
+    "KeyName": "LifePoint_MaxTime",
+    "BinData": "TAQAAA=="
+  },
+  {
+    "KeyName": "LifePoint_AccelerationResis",
+    "BinData": "EA4AAA=="
+  },
+  {
+    "KeyName": "LifePoint_MinInterval",
+    "BinData": "WgAAAA=="
+  },
+  {
+    "KeyName": "LifePoint_GridMinSpeed",
+    "BinData": "iBMAAA=="
+  },
+  {
+    "KeyName": "LifePoint_GridMaxSpeed",
+    "BinData": "4C4AAA=="
+  },
+  {
+    "KeyName": "LifePoint_GridDuration",
+    "BinData": "HgAAAA=="
+  },
+  {
     "KeyName": "PreheatSignSurveyMinCount",
     "BinData": "ECcAAA=="
   },
@@ -3844,7 +3932,159 @@
     "BinData": "CgAAAA=="
   },
   {
+    "KeyName": "ChangeSexCd",
+    "BinData": "gFEBAA=="
+  },
+  {
+    "KeyName": "FarmGoldEntranceHelpId",
+    "BinData": "rgAAAA=="
+  },
+  {
+    "KeyName": "FarmGoldEntranceName",
+    "BinData": "IQAAAEluc3RhbmNlRHVuZ2VvbkVudHJhbmNlXzg3MDBfTmFtZQ=="
+  },
+  {
+    "KeyName": "FarmGoldEntranceSpritePath",
+    "BinData": "XQAAAC9HYW1lL0FraS9VSS9VSVJlc291cmNlcy9Db21tb24vQXRsYXMvVGFiSWNvbi9TUF9JY29uQWN0aXZpdHlGYXJtR29sZC5TUF9JY29uQWN0aXZpdHlGYXJtR29sZA=="
+  },
+  {
+    "KeyName": "GondolaKeepDriveSpeed",
+    "BinData": "yAAAAA=="
+  },
+  {
+    "KeyName": "GondolaKeepDriveDuration",
+    "BinData": "6AMAAA=="
+  },
+  {
+    "KeyName": "GondolaStopDriveSpeed",
+    "BinData": "yAAAAA=="
+  },
+  {
+    "KeyName": "GondolaStopDriveDuration",
+    "BinData": "MHUAAA=="
+  },
+  {
+    "KeyName": "GondolaKeepDriveAudio",
+    "BinData": "JAAAAHBsYXlfZnVuY3Rpb25fbXVzaWNfdmVoaWNsZXNfZ29uZG9sYQ=="
+  },
+  {
+    "KeyName": "GondolaStopDriveAudio",
+    "BinData": "JAAAAHN0b3BfZnVuY3Rpb25fbXVzaWNfdmVoaWNsZXNfZ29uZG9sYQ=="
+  },
+  {
     "KeyName": "DailyRequestCounterLimit",
     "BinData": "BQAAAAAAAAD0AQAAAQAAAPQBAAACAAAA9AEAAAMAAAD0AQAABAAAAPQBAAA="
+  },
+  {
+    "KeyName": "SkinDetailButtonGap",
+    "BinData": "vAIAAA=="
+  },
+  {
+    "KeyName": "SkinDetailButtonSwitchGap",
+    "BinData": "vAIAAA=="
+  },
+  {
+    "KeyName": "GondolaRoleAudioKeepMove",
+    "BinData": "ECcAAA=="
+  },
+  {
+    "KeyName": "GondolaRoleAudioStopMove",
+    "BinData": "IE4AAA=="
+  },
+  {
+    "KeyName": "GondolaRoleAudioIdle",
+    "BinData": "YOoAAA=="
+  },
+  {
+    "KeyName": "GondolaSoundSpeedDivide",
+    "BinData": "TAQAAA=="
+  },
+  {
+    "KeyName": "GondolaSlowToFastSoundCoolDown",
+    "BinData": "0AcAAA=="
+  },
+  {
+    "KeyName": "GondolaGetOnAudioEvent",
+    "BinData": "HwAAAHBsYXlfaW50ZXJhY3RpdmVfZ29uZ2R1b2xhX3JpZGU="
+  },
+  {
+    "KeyName": "GondolaSlowToFastSoundEvent",
+    "BinData": "IgAAAHBsYXlfaW50ZXJhY3RpdmVfZ29uZ2R1b2xhX2Zhc3RfdWk="
+  },
+  {
+    "KeyName": "LordGymActivityJumpMarkId",
+    "BinData": "ug8AAA=="
+  },
+  {
+    "KeyName": "GroupPropertyList",
+    "BinData": "AQAAAAoAAAA="
+  },
+  {
+    "KeyName": "EntityWalkingPatternFinishTag",
+    "BinData": "GwAAAOWFs+WNoS7miZPlh7vmnLrlhbMu54q25oCBNA=="
+  },
+  {
+    "KeyName": "GondolaRideSharingAudioCoolDown",
+    "BinData": "QJwAAA=="
+  },
+  {
+    "KeyName": "GondolaRideSharingPlotCoolDown",
+    "BinData": "gDgBAA=="
+  },
+  {
+    "KeyName": "TravelExpBarDisplayTime",
+    "BinData": "3AUAAA=="
+  },
+  {
+    "KeyName": "CanUpAbsorbDangerTypeList",
+    "BinData": "AgAAAAIAAAADAAAA"
+  },
+  {
+    "KeyName": "CanUpAbsorbTypeDescription2List",
+    "BinData": "AgAAAA4AAAAQAAAA"
+  },
+  {
+    "KeyName": "FlyStrengthItemId",
+    "BinData": "gx0sBA=="
+  },
+  {
+    "KeyName": "MainRoleTagReplaceCondition",
+    "BinData": "c9LGAA=="
+  },
+  {
+    "KeyName": "MainRoleReplaceTagList",
+    "BinData": "AwAAAAMAAAAKAAAAHAAAAA=="
+  },
+  {
+    "KeyName": "LightMainRoleIdList",
+    "BinData": "AgAAAN0FAADeBQAA"
+  },
+  {
+    "KeyName": "PlayPointTrackExtraRadius",
+    "BinData": "YOMWAA=="
+  },
+  {
+    "KeyName": "BattleContextWhiteBuff2Buff",
+    "BinData": "AwAAAAAAAH6G+NFBBQAAAAAAQHmG+NFBAACAeYb40UEAAMB5hvjRQQAAAHqG+NFBAABAeob40UEAAIjJo54EQgYAAAAAAGh+lp4EQgAAcH6WngRCAAB4fpaeBEIAAIB+lp4EQgAAiH6WngRCAACQfpaeBEIAAACL5xLDQQEAAAAAAADF7E/cQQ=="
+  },
+  {
+    "KeyName": "BattleContextWhiteBuff2Bullet",
+    "BinData": "AAAAAA=="
+  },
+  {
+    "KeyName": "BattleContextWhiteBuff2Damage",
+    "BinData": "AAAAAA=="
+  },
+  {
+    "KeyName": "BattleContextWhiteBuff2PassiveSkill",
+    "BinData": "AAAAAA=="
+  },
+  {
+    "KeyName": "SoarUpwardThreshold",
+    "BinData": "FAAAAA=="
+  },
+  {
+    "KeyName": "SoarDownwardThreshold",
+    "BinData": "2P///w=="
   }
 ]

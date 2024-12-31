@@ -8,6 +8,19 @@
         "IsRatio": false
       }
     ],
-    "Tips": []
+    "Tips": [],
+    "IsFormation": false
+  },
+  {
+    "Id": 2,
+    "Props": [
+      {
+        "Id": 10,
+        "Value": 1000,
+        "IsRatio": false
+      }
+    ],
+    "Tips": [],
+    "IsFormation": true
   }
 ]

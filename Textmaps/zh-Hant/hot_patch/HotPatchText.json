@@ -290,5 +290,9 @@
   {
     "Id": "SdkInitializeFail",
     "Content": "啟動遊戲失敗，請檢查「PlayStation™Network」的帳號的上線狀態！"
+  },
+  {
+    "Id": "NewVersionDownloadTips",
+    "Content": "檢測到遊戲新版本，請退出遊戲完成更新"
   }
 ]

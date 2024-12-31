@@ -290,5 +290,9 @@
   {
     "Id": "SdkInitializeFail",
     "Content": "ゲームの起動に失敗しました、PlayStation™Networkのアカウントのログイン状態をご確認ください。"
+  },
+  {
+    "Id": "NewVersionDownloadTips",
+    "Content": "新しいバージョンが検出されました、ゲームを終了してアップデートを行ってください"
   }
 ]

@@ -290,5 +290,9 @@
   {
     "Id": "SdkInitializeFail",
     "Content": "启动游戏失败，请检查PlayStation™Network的账号在线状态！"
+  },
+  {
+    "Id": "NewVersionDownloadTips",
+    "Content": "检测到游戏新版本，请退出游戏完成更新"
   }
 ]

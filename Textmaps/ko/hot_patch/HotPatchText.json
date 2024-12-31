@@ -290,5 +290,9 @@
   {
     "Id": "SdkInitializeFail",
     "Content": "게임 실행에 실패하였습니다. PlayStation™Network 의 계정 온라인 상태를 확인하시기 바랍니다!"
+  },
+  {
+    "Id": "NewVersionDownloadTips",
+    "Content": "게임에 새로운 버전이 감지되었습니다. 게임을 종료하고 업데이트를 완료하세요"
   }
 ]

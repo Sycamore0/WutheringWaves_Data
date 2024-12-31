@@ -290,5 +290,9 @@
   {
     "Id": "SdkInitializeFail",
     "Content": "Das Spiel konnte nicht gestartet werden. Bitte überprüfen Sie den Status Ihres Kontos für PlayStation™Network."
+  },
+  {
+    "Id": "NewVersionDownloadTips",
+    "Content": "Ein neues Update für das Spiel ist verfügbar. Bitte beenden Sie das Spiel, um das Update abzuschließen."
   }
 ]

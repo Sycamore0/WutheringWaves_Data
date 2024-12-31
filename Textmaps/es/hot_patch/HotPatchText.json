@@ -290,5 +290,9 @@
   {
     "Id": "SdkInitializeFail",
     "Content": "Error al iniciar el juego. Por favor, verifica el estado de tu cuenta para PlayStation™Network."
+  },
+  {
+    "Id": "NewVersionDownloadTips",
+    "Content": "Se ha detectado una nueva versión del juego. Por favor, sal del juego para completar la actualización."
   }
 ]

@@ -290,5 +290,9 @@
   {
     "Id": "SdkInitializeFail",
     "Content": "Failed to start the game. Please check the status of your PlayStation™ Network account."
+  },
+  {
+    "Id": "NewVersionDownloadTips",
+    "Content": "A game update is available. Please exit the game to apply the update."
   }
 ]

@@ -944,5 +944,205 @@
     ],
     "Cd": 5,
     "Share": true
+  },
+  {
+    "Id": 80000041,
+    "PublicCdGroup": 0,
+    "Buffs": [
+      83012201
+    ],
+    "Cd": 5,
+    "Share": true
+  },
+  {
+    "Id": 80000042,
+    "PublicCdGroup": 0,
+    "Buffs": [
+      83012603
+    ],
+    "Cd": 5,
+    "Share": true
+  },
+  {
+    "Id": 80000043,
+    "PublicCdGroup": 0,
+    "Buffs": [
+      83012102
+    ],
+    "Cd": 15,
+    "Share": true
+  },
+  {
+    "Id": 80000044,
+    "PublicCdGroup": 0,
+    "Buffs": [
+      83010706
+    ],
+    "Cd": 15,
+    "Share": true
+  },
+  {
+    "Id": 80000045,
+    "PublicCdGroup": 0,
+    "Buffs": [
+      83012101
+    ],
+    "Cd": 15,
+    "Share": true
+  },
+  {
+    "Id": 80000046,
+    "PublicCdGroup": 0,
+    "Buffs": [
+      83012301
+    ],
+    "Cd": 5,
+    "Share": true
+  },
+  {
+    "Id": 80000047,
+    "PublicCdGroup": 0,
+    "Buffs": [
+      83012604
+    ],
+    "Cd": 5,
+    "Share": true
+  },
+  {
+    "Id": 80000048,
+    "PublicCdGroup": 0,
+    "Buffs": [
+      83012602
+    ],
+    "Cd": 5,
+    "Share": true
+  },
+  {
+    "Id": 80000049,
+    "PublicCdGroup": 0,
+    "Buffs": [
+      83011106
+    ],
+    "Cd": 5,
+    "Share": true
+  },
+  {
+    "Id": 80000050,
+    "PublicCdGroup": 0,
+    "Buffs": [
+      83010212,
+      83010411
+    ],
+    "Cd": 5,
+    "Share": true
+  },
+  {
+    "Id": 80000051,
+    "PublicCdGroup": 0,
+    "Buffs": [
+      83010507,
+      83012601
+    ],
+    "Cd": 5,
+    "Share": true
+  },
+  {
+    "Id": 80000052,
+    "PublicCdGroup": 0,
+    "Buffs": [
+      83012401
+    ],
+    "Cd": 5,
+    "Share": true
+  },
+  {
+    "Id": 80000053,
+    "PublicCdGroup": 0,
+    "Buffs": [
+      83012501
+    ],
+    "Cd": 5,
+    "Share": true
+  },
+  {
+    "Id": 80001045,
+    "PublicCdGroup": 0,
+    "Buffs": [
+      83012105
+    ],
+    "Cd": 15,
+    "Share": true
+  },
+  {
+    "Id": 80001043,
+    "PublicCdGroup": 0,
+    "Buffs": [
+      83012106
+    ],
+    "Cd": 15,
+    "Share": true
+  },
+  {
+    "Id": 42100036,
+    "PublicCdGroup": 6,
+    "Buffs": [
+      83020411
+    ],
+    "Cd": 0,
+    "Share": true
+  },
+  {
+    "Id": 42100037,
+    "PublicCdGroup": 6,
+    "Buffs": [
+      83020421
+    ],
+    "Cd": 0,
+    "Share": true
+  },
+  {
+    "Id": 42100038,
+    "PublicCdGroup": 6,
+    "Buffs": [
+      83020431
+    ],
+    "Cd": 0,
+    "Share": true
+  },
+  {
+    "Id": 42100039,
+    "PublicCdGroup": 6,
+    "Buffs": [
+      83020441
+    ],
+    "Cd": 0,
+    "Share": true
+  },
+  {
+    "Id": 42100040,
+    "PublicCdGroup": 6,
+    "Buffs": [
+      83020451
+    ],
+    "Cd": 0,
+    "Share": true
+  },
+  {
+    "Id": 42100041,
+    "PublicCdGroup": 6,
+    "Buffs": [
+      83020461
+    ],
+    "Cd": 0,
+    "Share": true
+  },
+  {
+    "Id": 70050045,
+    "PublicCdGroup": 8,
+    "Buffs": [
+      83010902
+    ],
+    "Cd": 0,
+    "Share": true
   }
 ]

@@ -290,5 +290,9 @@
   {
     "Id": "SdkInitializeFail",
     "Content": ""
+  },
+  {
+    "Id": "NewVersionDownloadTips",
+    "Content": ""
   }
 ]
