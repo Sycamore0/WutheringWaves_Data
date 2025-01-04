@@ -1411,7 +1411,7 @@
     "ItemId": 21010011,
     "ItemNum": 1,
     "CondId": 0,
-    "LimitNum": -1,
+    "LimitNum": 20,
     "OriginalPrice": [],
     "Price": [
       {
@@ -1430,7 +1430,7 @@
     "ItemId": 21020011,
     "ItemNum": 1,
     "CondId": 0,
-    "LimitNum": -1,
+    "LimitNum": 20,
     "OriginalPrice": [],
     "Price": [
       {
@@ -1449,7 +1449,7 @@
     "ItemId": 21030011,
     "ItemNum": 1,
     "CondId": 0,
-    "LimitNum": -1,
+    "LimitNum": 20,
     "OriginalPrice": [],
     "Price": [
       {
@@ -1468,7 +1468,7 @@
     "ItemId": 21040011,
     "ItemNum": 1,
     "CondId": 0,
-    "LimitNum": -1,
+    "LimitNum": 20,
     "OriginalPrice": [],
     "Price": [
       {
@@ -1487,7 +1487,7 @@
     "ItemId": 21050011,
     "ItemNum": 1,
     "CondId": 0,
-    "LimitNum": -1,
+    "LimitNum": 20,
     "OriginalPrice": [],
     "Price": [
       {
@@ -2228,7 +2228,7 @@
     "ItemId": 21010012,
     "ItemNum": 1,
     "CondId": 0,
-    "LimitNum": -1,
+    "LimitNum": 20,
     "OriginalPrice": [],
     "Price": [
       {
@@ -2247,7 +2247,7 @@
     "ItemId": 21020012,
     "ItemNum": 1,
     "CondId": 0,
-    "LimitNum": -1,
+    "LimitNum": 20,
     "OriginalPrice": [],
     "Price": [
       {
@@ -2266,7 +2266,7 @@
     "ItemId": 21030012,
     "ItemNum": 1,
     "CondId": 0,
-    "LimitNum": -1,
+    "LimitNum": 20,
     "OriginalPrice": [],
     "Price": [
       {
@@ -2285,7 +2285,7 @@
     "ItemId": 21040012,
     "ItemNum": 1,
     "CondId": 0,
-    "LimitNum": -1,
+    "LimitNum": 20,
     "OriginalPrice": [],
     "Price": [
       {
@@ -2304,7 +2304,7 @@
     "ItemId": 21050012,
     "ItemNum": 1,
     "CondId": 0,
-    "LimitNum": -1,
+    "LimitNum": 20,
     "OriginalPrice": [],
     "Price": [
       {
@@ -3707,7 +3707,7 @@
   {
     "Id": 12111,
     "ShopId": 121,
-    "ItemId": 44010044,
+    "ItemId": 44010043,
     "ItemNum": 1,
     "CondId": 12005201,
     "LimitNum": 1,
@@ -3715,7 +3715,7 @@
     "Price": [
       {
         "Key": 44010031,
-        "Value": 800
+        "Value": 400
       }
     ],
     "Show": true,
@@ -3725,6 +3725,25 @@
   },
   {
     "Id": 12112,
+    "ShopId": 121,
+    "ItemId": 44010044,
+    "ItemNum": 1,
+    "CondId": 12005201,
+    "LimitNum": 1,
+    "OriginalPrice": [],
+    "Price": [
+      {
+        "Key": 44010031,
+        "Value": 400
+      }
+    ],
+    "Show": true,
+    "Label": "",
+    "SwitchText": "",
+    "PurchaseText": ""
+  },
+  {
+    "Id": 12113,
     "ShopId": 121,
     "ItemId": 43020022,
     "ItemNum": 4,
@@ -3743,7 +3762,7 @@
     "PurchaseText": ""
   },
   {
-    "Id": 12113,
+    "Id": 12114,
     "ShopId": 121,
     "ItemId": 43020052,
     "ItemNum": 4,
@@ -3762,7 +3781,7 @@
     "PurchaseText": ""
   },
   {
-    "Id": 12114,
+    "Id": 12115,
     "ShopId": 121,
     "ItemId": 43020032,
     "ItemNum": 4,
@@ -3781,7 +3800,7 @@
     "PurchaseText": ""
   },
   {
-    "Id": 12115,
+    "Id": 12116,
     "ShopId": 121,
     "ItemId": 43020042,
     "ItemNum": 4,
@@ -3800,7 +3819,7 @@
     "PurchaseText": ""
   },
   {
-    "Id": 12116,
+    "Id": 12117,
     "ShopId": 121,
     "ItemId": 43020012,
     "ItemNum": 4,
@@ -3811,25 +3830,6 @@
       {
         "Key": 44010031,
         "Value": 180
-      }
-    ],
-    "Show": true,
-    "Label": "",
-    "SwitchText": "",
-    "PurchaseText": ""
-  },
-  {
-    "Id": 12117,
-    "ShopId": 121,
-    "ItemId": 3,
-    "ItemNum": 40,
-    "CondId": 12005202,
-    "LimitNum": 1,
-    "OriginalPrice": [],
-    "Price": [
-      {
-        "Key": 44010031,
-        "Value": 400
       }
     ],
     "Show": true,
@@ -4486,15 +4486,15 @@
   {
     "Id": 12118,
     "ShopId": 121,
-    "ItemId": 43010004,
-    "ItemNum": 1,
+    "ItemId": 3,
+    "ItemNum": 40,
     "CondId": 12005202,
-    "LimitNum": 10,
+    "LimitNum": 1,
     "OriginalPrice": [],
     "Price": [
       {
         "Key": 44010031,
-        "Value": 200
+        "Value": 400
       }
     ],
     "Show": true,
@@ -4505,7 +4505,7 @@
   {
     "Id": 12119,
     "ShopId": 121,
-    "ItemId": 43020004,
+    "ItemId": 43010004,
     "ItemNum": 1,
     "CondId": 12005202,
     "LimitNum": 10,
@@ -4524,6 +4524,25 @@
   {
     "Id": 12120,
     "ShopId": 121,
+    "ItemId": 43020004,
+    "ItemNum": 1,
+    "CondId": 12005202,
+    "LimitNum": 10,
+    "OriginalPrice": [],
+    "Price": [
+      {
+        "Key": 44010031,
+        "Value": 200
+      }
+    ],
+    "Show": true,
+    "Label": "",
+    "SwitchText": "",
+    "PurchaseText": ""
+  },
+  {
+    "Id": 12121,
+    "ShopId": 121,
     "ItemId": 36000004,
     "ItemNum": 1,
     "CondId": 12005202,
@@ -4541,7 +4560,7 @@
     "PurchaseText": ""
   },
   {
-    "Id": 12121,
+    "Id": 12122,
     "ShopId": 121,
     "ItemId": 50000308,
     "ItemNum": 1,
@@ -4552,25 +4571,6 @@
       {
         "Key": 44010031,
         "Value": 120
-      }
-    ],
-    "Show": true,
-    "Label": "",
-    "SwitchText": "",
-    "PurchaseText": ""
-  },
-  {
-    "Id": 12122,
-    "ShopId": 121,
-    "ItemId": 2,
-    "ItemNum": 10000,
-    "CondId": 12005202,
-    "LimitNum": 12,
-    "OriginalPrice": [],
-    "Price": [
-      {
-        "Key": 44010031,
-        "Value": 100
       }
     ],
     "Show": true,
@@ -4869,7 +4869,7 @@
     "ItemId": 21010011,
     "ItemNum": 1,
     "CondId": 0,
-    "LimitNum": -1,
+    "LimitNum": 20,
     "OriginalPrice": [],
     "Price": [
       {
@@ -4888,7 +4888,7 @@
     "ItemId": 21020011,
     "ItemNum": 1,
     "CondId": 0,
-    "LimitNum": -1,
+    "LimitNum": 20,
     "OriginalPrice": [],
     "Price": [
       {
@@ -4907,7 +4907,7 @@
     "ItemId": 21030011,
     "ItemNum": 1,
     "CondId": 0,
-    "LimitNum": -1,
+    "LimitNum": 20,
     "OriginalPrice": [],
     "Price": [
       {
@@ -4926,7 +4926,7 @@
     "ItemId": 21040011,
     "ItemNum": 1,
     "CondId": 0,
-    "LimitNum": -1,
+    "LimitNum": 20,
     "OriginalPrice": [],
     "Price": [
       {
@@ -4945,7 +4945,7 @@
     "ItemId": 21050011,
     "ItemNum": 1,
     "CondId": 0,
-    "LimitNum": -1,
+    "LimitNum": 20,
     "OriginalPrice": [],
     "Price": [
       {
@@ -4964,7 +4964,7 @@
     "ItemId": 21010012,
     "ItemNum": 1,
     "CondId": 0,
-    "LimitNum": -1,
+    "LimitNum": 20,
     "OriginalPrice": [],
     "Price": [
       {
@@ -4983,7 +4983,7 @@
     "ItemId": 21020012,
     "ItemNum": 1,
     "CondId": 0,
-    "LimitNum": -1,
+    "LimitNum": 20,
     "OriginalPrice": [],
     "Price": [
       {
@@ -5002,7 +5002,7 @@
     "ItemId": 21030012,
     "ItemNum": 1,
     "CondId": 0,
-    "LimitNum": -1,
+    "LimitNum": 20,
     "OriginalPrice": [],
     "Price": [
       {
@@ -5021,7 +5021,7 @@
     "ItemId": 21040012,
     "ItemNum": 1,
     "CondId": 0,
-    "LimitNum": -1,
+    "LimitNum": 20,
     "OriginalPrice": [],
     "Price": [
       {
@@ -5040,7 +5040,7 @@
     "ItemId": 21050012,
     "ItemNum": 1,
     "CondId": 0,
-    "LimitNum": -1,
+    "LimitNum": 20,
     "OriginalPrice": [],
     "Price": [
       {
@@ -5559,6 +5559,25 @@
       {
         "Key": 2,
         "Value": 15000
+      }
+    ],
+    "Show": true,
+    "Label": "",
+    "SwitchText": "",
+    "PurchaseText": ""
+  },
+  {
+    "Id": 12123,
+    "ShopId": 121,
+    "ItemId": 2,
+    "ItemNum": 10000,
+    "CondId": 12005202,
+    "LimitNum": 12,
+    "OriginalPrice": [],
+    "Price": [
+      {
+        "Key": 44010031,
+        "Value": 100
       }
     ],
     "Show": true,

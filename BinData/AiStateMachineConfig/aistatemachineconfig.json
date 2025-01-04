@@ -100248,7 +100248,7 @@
   {
     "Id": "SM_MO1BaoxiangguaiMd00501",
     "StateMachineJson": {
-      "Version": 354920842,
+      "Version": 1320095749,
       "StateMachines": [
         5,
         9,
@@ -100399,6 +100399,13 @@
               "BindTag": {
                 "TagId": -208062360
               }
+            },
+            {
+              "Name": "BindBuff",
+              "Type": 1,
+              "BindBuff": {
+                "BuffId": 70000049
+              }
             }
           ],
           "Children": [],
@@ -100440,6 +100447,13 @@
               "Type": 1,
               "BindBuff": {
                 "BuffId": 70000015
+              }
+            },
+            {
+              "Name": "BindAiHateConfig",
+              "Type": 102,
+              "BindAiHateConfig": {
+                "ConfigId": 70137
               }
             }
           ],
