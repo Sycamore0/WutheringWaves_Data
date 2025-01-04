@@ -5481,7 +5481,7 @@
   },
   {
     "Id": 900210,
-    "Montage": "/Game/Aki/Character/NPC/MaleM/Montage/NH_MaleM_011/Montage_injured_02_MaleM_011.Montage_injured_02_MaleM_011",
+    "Montage": "/Game/Aki/Character/NPC/MaleM/Montage/NH_MaleM_108/Montage_Injured_02_MaleM_108.Montage_Injured_02_MaleM_108",
     "MaleVariant": ""
   },
   {
@@ -6951,7 +6951,7 @@
   },
   {
     "Id": 900813,
-    "Montage": "/Game/Aki/Character/NPC/FemaleM/Montage/Montage_Sit_Rest_03_A_FemaleM_2.Montage_Sit_Rest_03_A_FemaleM_2",
+    "Montage": "/Game/Aki/Character/NPC/FemaleM/Montage/Montage_Sit_Rest_03_A_FemaleM.Montage_Sit_Rest_03_A_FemaleM",
     "MaleVariant": ""
   },
   {
@@ -7485,6 +7485,11 @@
     "MaleVariant": ""
   },
   {
+    "Id": 900922,
+    "Montage": "/Game/Aki/Character/NPC/AlienNPC/Level_D/SD1Tideng/CommonAnim/Montage/Hover_Start.Hover_Start",
+    "MaleVariant": ""
+  },
+  {
     "Id": 900920,
     "Montage": "/Game/Aki/Sequence/SequenceAnim/Npc/FemaleS/BaseAnim/Montage/Common_Sit_06.Common_Sit_06",
     "MaleVariant": ""
@@ -7492,101 +7497,6 @@
   {
     "Id": 900921,
     "Montage": "/Game/Aki/Sequence/SequenceAnim/Npc/FemaleS/BaseAnim/Montage/Common_Sit_06.Common_Sit_06",
-    "MaleVariant": ""
-  },
-  {
-    "Id": 900922,
-    "Montage": "/Game/Aki/Character/NPC/AlienNPC/Level_D/SD1Tideng/CommonAnim/Montage/Hover_Start.Hover_Start",
-    "MaleVariant": ""
-  },
-  {
-    "Id": 900923,
-    "Montage": "/Game/Aki/Character/NPC/Monster/ME1DabuouMd00001_NPC/CommonAnim/Montage/Montage_Alert_01.Montage_Alert_01",
-    "MaleVariant": ""
-  },
-  {
-    "Id": 900924,
-    "Montage": "/Game/Aki/Character/NPC/Monster/ME1DabuouMd00001_NPC/CommonAnim/Montage/Montage_Sit01.Montage_Sit01",
-    "MaleVariant": ""
-  },
-  {
-    "Id": 900925,
-    "Montage": "/Game/Aki/Character/NPC/Monster/ME1DabuouMd00001_NPC/CommonAnim/Montage/Montage_Sleep01.Montage_Sleep01",
-    "MaleVariant": ""
-  },
-  {
-    "Id": 900926,
-    "Montage": "/Game/Aki/Character/NPC/Monster/MOP1BuouMd00001_NPC/CommonAnim/Montage/Montage_Sleep.Montage_Sleep",
-    "MaleVariant": ""
-  },
-  {
-    "Id": 900927,
-    "Montage": "/Game/Aki/Character/NPC/Monster/MOP1BuouMd00001_NPC/CommonAnim/Montage/Montage_Sit.Montage_Sit",
-    "MaleVariant": ""
-  },
-  {
-    "Id": 900928,
-    "Montage": "/Game/Aki/Character/NPC/Monster/MOP1BuouMd00001_NPC/CommonAnim/Montage/Montage_Sleep.Montage_Sleep",
-    "MaleVariant": ""
-  },
-  {
-    "Id": 900929,
-    "Montage": "/Game/Aki/Character/NPC/Monster/MOP1BuouMd00001_NPC/CommonAnim/Montage/Montage_Working_Fail.Montage_Working_Fail",
-    "MaleVariant": ""
-  },
-  {
-    "Id": 900930,
-    "Montage": "/Game/Aki/Character/NPC/Monster/MOP1BuouMd00001_NPC/CommonAnim/Montage/Montage_Working_Success.Montage_Working_Success",
-    "MaleVariant": ""
-  },
-  {
-    "Id": 900931,
-    "Montage": "/Game/Aki/Character/NPC/Monster/MOP1BuouMd00501_NPC/CommonAnim/Montage/FanShu.FanShu",
-    "MaleVariant": ""
-  },
-  {
-    "Id": 900932,
-    "Montage": "/Game/Aki/Character/NPC/Monster/MOP1BuouMd00501_NPC/CommonAnim/Montage/JingJie.JingJie",
-    "MaleVariant": ""
-  },
-  {
-    "Id": 900933,
-    "Montage": "/Game/Aki/Character/NPC/Monster/MOP1BuouMd00501_NPC/CommonAnim/Montage/ShuiJiao.ShuiJiao",
-    "MaleVariant": ""
-  },
-  {
-    "Id": 900934,
-    "Montage": "/Game/Aki/Character/NPC/Monster/MOP1BuouMd00501_NPC/CommonAnim/Montage/ZuoXia.ZuoXia",
-    "MaleVariant": ""
-  },
-  {
-    "Id": 900935,
-    "Montage": "/Game/Aki/Character/NPC/Monster/MOP1BuouMd00601_NPC/CommonAnim/Montage/Jingjie.Jingjie",
-    "MaleVariant": ""
-  },
-  {
-    "Id": 900936,
-    "Montage": "/Game/Aki/Character/NPC/Monster/MOP1BuouMd00601_NPC/CommonAnim/Montage/Montage_Sit.Montage_Sit",
-    "MaleVariant": ""
-  },
-  {
-    "Id": 900937,
-    "Montage": "/Game/Aki/Character/NPC/Monster/MOP1BuouMd00601_NPC/CommonAnim/Montage/Montage_Sleep.Montage_Sleep",
-    "MaleVariant": ""
-  },
-  {
-    "Id": 900938,
-    "Montage": "/Game/Aki/Sequence/SequenceAnim/DialogAnim/FemaleMS/Kamola/Body/Montage/Sit01_Loop.Sit01_Loop",
-    "MaleVariant": ""
-  },
-  {
-    "Id": 900939,
-    "Montage": "/Game/Aki/Sequence/SequenceAnim/DialogAnim/FemaleMS/Kamola/Body/Montage/Sit01_Loop_Montage.Sit01_Loop_Montage",
-    "MaleVariant": ""
-  },
-  {
-    "Id": 900940,
-    "Montage": "/Game/Aki/Character/NPC/Monster/ME1DabuouMd00001_NPC/CommonAnim/Montage/Montage_Stand2_Action1.Montage_Stand2_Action1",
     "MaleVariant": ""
   }
 ]

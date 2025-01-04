@@ -27006,18 +27006,18 @@
     "ViewName": "BattleView",
     "DynamicTabName": "",
     "Platform": "桌面端",
-    "HookName": "T-编队",
-    "HookNameForShow": "V-编队",
+    "HookName": "T-声骸异能",
+    "HookNameForShow": "T-声骸异能",
     "ExtraParam": [],
     "ExtraParamDesc": "",
-    "ContentDirection": "R",
+    "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_671_Content",
     "Button": [
-      "编队"
+      "技能1"
     ],
     "InputEnums": [
-      "编队"
+      "技能1"
     ],
     "LimitInputEnums": [],
     "ShowMouse": false,
@@ -27035,11 +27035,11 @@
     "ViewName": "BattleView",
     "DynamicTabName": "",
     "Platform": "移动端",
-    "HookName": "T-编队",
-    "HookNameForShow": "V-编队",
+    "HookName": "T-共鸣技能",
+    "HookNameForShow": "V-共鸣技能",
     "ExtraParam": [],
     "ExtraParamDesc": "",
-    "ContentDirection": "R",
+    "ContentDirection": "U",
     "ShowArrow": true,
     "Content": "GuideFocusNew_673_Content",
     "Button": [],
@@ -28369,8 +28369,8 @@
     "ViewName": "BattleView",
     "DynamicTabName": "",
     "Platform": "桌面端",
-    "HookName": "血条buff",
-    "HookNameForShow": "血条buff",
+    "HookName": "机制条",
+    "HookNameForShow": "机制条",
     "ExtraParam": [],
     "ExtraParamDesc": "",
     "ContentDirection": "U",
@@ -28400,8 +28400,8 @@
     "ViewName": "BattleView",
     "DynamicTabName": "",
     "Platform": "移动端",
-    "HookName": "血条buff",
-    "HookNameForShow": "血条buff",
+    "HookName": "机制条",
+    "HookNameForShow": "机制条",
     "ExtraParam": [],
     "ExtraParamDesc": "",
     "ContentDirection": "U",
@@ -28431,8 +28431,8 @@
     "ViewName": "BattleView",
     "DynamicTabName": "",
     "Platform": "主机端",
-    "HookName": "血条buff",
-    "HookNameForShow": "血条buff",
+    "HookName": "机制条",
+    "HookNameForShow": "机制条",
     "ExtraParam": [],
     "ExtraParamDesc": "",
     "ContentDirection": "U",
@@ -29148,5 +29148,98 @@
     "OnlyText": false,
     "RoleHeadId": 0,
     "TextInScreen": false
+  },
+  {
+    "GuideId": 1253,
+    "ViewName": "BattleView",
+    "DynamicTabName": "",
+    "Platform": "桌面端",
+    "HookName": "血条buff",
+    "HookNameForShow": "血条buff",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_1233_Content",
+    "Button": [
+      "攻击"
+    ],
+    "InputEnums": [
+      "攻击"
+    ],
+    "LimitInputEnums": [
+      "攻击"
+    ],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 1254,
+    "ViewName": "BattleView",
+    "DynamicTabName": "",
+    "Platform": "移动端",
+    "HookName": "血条buff",
+    "HookNameForShow": "血条buff",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_1233_Content",
+    "Button": [
+      "攻击"
+    ],
+    "InputEnums": [
+      "攻击"
+    ],
+    "LimitInputEnums": [
+      "攻击"
+    ],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": true,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
+  },
+  {
+    "GuideId": 1255,
+    "ViewName": "BattleView",
+    "DynamicTabName": "",
+    "Platform": "主机端",
+    "HookName": "血条buff",
+    "HookNameForShow": "血条buff",
+    "ExtraParam": [],
+    "ExtraParamDesc": "",
+    "ContentDirection": "U",
+    "ShowArrow": true,
+    "Content": "GuideFocusNew_1233_Content",
+    "Button": [
+      "攻击"
+    ],
+    "InputEnums": [
+      "攻击"
+    ],
+    "LimitInputEnums": [
+      "攻击"
+    ],
+    "ShowMouse": false,
+    "UseMask": true,
+    "UseClick": true,
+    "ClickAnywhere": false,
+    "ClickAnywhereShowTime": 0,
+    "OnlyFrame": false,
+    "OnlyText": false,
+    "RoleHeadId": 0,
+    "TextInScreen": true
   }
 ]

@@ -4101,7 +4101,7 @@
   },
   {
     "Id": 311000010,
-    "ItemId": 70140034,
+    "ItemId": 0,
     "Type": 3,
     "Title": "InfoDisplay_311000010_Title",
     "Text": "InfoDisplay_311000010_Text",
@@ -4402,7 +4402,7 @@
   {
     "Id": 102802001,
     "ItemId": 72010025,
-    "Type": 3,
+    "Type": 4,
     "Title": "InfoDisplay_102802001_Title",
     "Text": "InfoDisplay_102802001_Text",
     "Picture": "",
@@ -4412,7 +4412,7 @@
   {
     "Id": 102802002,
     "ItemId": 72010026,
-    "Type": 3,
+    "Type": 5,
     "Title": "InfoDisplay_102802002_Title",
     "Text": "InfoDisplay_102802002_Text",
     "Picture": "",
@@ -4422,7 +4422,7 @@
   {
     "Id": 102802003,
     "ItemId": 72010027,
-    "Type": 3,
+    "Type": 6,
     "Title": "InfoDisplay_102802003_Title",
     "Text": "InfoDisplay_102802003_Text",
     "Picture": "",
@@ -4432,7 +4432,7 @@
   {
     "Id": 102802004,
     "ItemId": 72010028,
-    "Type": 3,
+    "Type": 7,
     "Title": "InfoDisplay_102802004_Title",
     "Text": "InfoDisplay_102802004_Text",
     "Picture": "",
@@ -4442,7 +4442,7 @@
   {
     "Id": 102802005,
     "ItemId": 72010029,
-    "Type": 3,
+    "Type": 8,
     "Title": "InfoDisplay_102802005_Title",
     "Text": "InfoDisplay_102802005_Text",
     "Picture": "",
@@ -4452,7 +4452,7 @@
   {
     "Id": 102802006,
     "ItemId": 72010030,
-    "Type": 3,
+    "Type": 9,
     "Title": "InfoDisplay_102802006_Title",
     "Text": "InfoDisplay_102802006_Text",
     "Picture": "",
@@ -4462,7 +4462,7 @@
   {
     "Id": 102802007,
     "ItemId": 72010031,
-    "Type": 3,
+    "Type": 10,
     "Title": "InfoDisplay_102802007_Title",
     "Text": "InfoDisplay_102802007_Text",
     "Picture": "",
@@ -4472,19 +4472,9 @@
   {
     "Id": 102802008,
     "ItemId": 72010032,
-    "Type": 3,
+    "Type": 11,
     "Title": "InfoDisplay_102802008_Title",
     "Text": "InfoDisplay_102802008_Text",
-    "Picture": "",
-    "Audio": "",
-    "Background": ""
-  },
-  {
-    "Id": 102000607,
-    "ItemId": 0,
-    "Type": 3,
-    "Title": "InfoDisplay_102000607_Title",
-    "Text": "InfoDisplay_102000607_Text",
     "Picture": "",
     "Audio": "",
     "Background": ""

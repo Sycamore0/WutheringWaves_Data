@@ -154231,28 +154231,6 @@
     "TailTime": -1
   },
   {
-    "Id": "Main_Linaxita_2_2_159_1",
-    "ExternalSourceSetting": "subtitle_normal",
-    "FileName": "vo_Main_Linaxita_2_2_136_1",
-    "GlobalLanguage": false,
-    "CheckGenderEn": false,
-    "CheckGenderJa": false,
-    "CheckGenderKo": false,
-    "CheckGenderZh": false,
-    "TailTime": -1
-  },
-  {
-    "Id": "Main_Linaxita_2_2_160_1",
-    "ExternalSourceSetting": "subtitle_normal",
-    "FileName": "vo_Main_Linaxita_2_2_137_1",
-    "GlobalLanguage": false,
-    "CheckGenderEn": false,
-    "CheckGenderJa": false,
-    "CheckGenderKo": false,
-    "CheckGenderZh": false,
-    "TailTime": -1
-  },
-  {
     "Id": "Main_Linaxita_2_3_221_1",
     "ExternalSourceSetting": "subtitle_normal",
     "FileName": "vo_Main_Linaxita_2_3_66_1",

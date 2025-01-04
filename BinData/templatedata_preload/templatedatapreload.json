@@ -41320,7 +41320,9 @@
       "/Game/Aki/Character/Monster/Ordinary/MO1BaoxiangguaiMd00501/CommonAnim/AM_StandUp.AM_StandUp",
       "/Game/Aki/Character/Monster/Ordinary/MO1BaoxiangguaiMd00501/CommonAnim/AM_Behit_Fly_Fall.AM_Behit_Fly_Fall",
       "/Game/Aki/Character/Monster/Ordinary/MO1BaoxiangguaiMd00501/CommonAnim/AM_Behit_Fly_Loop.AM_Behit_Fly_Loop",
+      "/Game/Aki/Character/Monster/Ordinary/MO1BaoxiangguaiMd00501/CommonAnim/AM_Behit_Push_Loop.AM_Behit_Push_Loop",
       "/Game/Aki/Character/Monster/Ordinary/MO1BaoxiangguaiMd00501/CommonAnim/AM_Behit_Hover.AM_Behit_Hover",
+      "/Game/Aki/Character/Monster/Ordinary/MO1BaoxiangguaiMd00501/CommonAnim/AM_Behit_Push_Start.AM_Behit_Push_Start",
       "/Game/Aki/Character/Monster/Ordinary/MO1BaoxiangguaiMd00501/CommonAnim/AM_Behit_Fly_Start.AM_Behit_Fly_Start",
       "/Game/Aki/Character/Monster/Ordinary/MO1BaoxiangguaiMd00501/CommonAnim/AM_Behit_Block.AM_Behit_Block",
       "/Game/Aki/Character/Monster/Ordinary/MO1BaoxiangguaiMd00501/CommonAnim/AM_Behit_S_Press.AM_Behit_S_Press",
@@ -53679,7 +53681,9 @@
       "/Game/Aki/Character/Monster/Ordinary/MO1BaoxiangguaiMd00501/CommonAnim/AM_StandUp.AM_StandUp",
       "/Game/Aki/Character/Monster/Ordinary/MO1BaoxiangguaiMd00501/CommonAnim/AM_Behit_Fly_Fall.AM_Behit_Fly_Fall",
       "/Game/Aki/Character/Monster/Ordinary/MO1BaoxiangguaiMd00501/CommonAnim/AM_Behit_Fly_Loop.AM_Behit_Fly_Loop",
+      "/Game/Aki/Character/Monster/Ordinary/MO1BaoxiangguaiMd00501/CommonAnim/AM_Behit_Push_Loop.AM_Behit_Push_Loop",
       "/Game/Aki/Character/Monster/Ordinary/MO1BaoxiangguaiMd00501/CommonAnim/AM_Behit_Hover.AM_Behit_Hover",
+      "/Game/Aki/Character/Monster/Ordinary/MO1BaoxiangguaiMd00501/CommonAnim/AM_Behit_Push_Start.AM_Behit_Push_Start",
       "/Game/Aki/Character/Monster/Ordinary/MO1BaoxiangguaiMd00501/CommonAnim/AM_Behit_Fly_Start.AM_Behit_Fly_Start",
       "/Game/Aki/Character/Monster/Ordinary/MO1BaoxiangguaiMd00501/CommonAnim/AM_Behit_Block.AM_Behit_Block",
       "/Game/Aki/Character/Monster/Ordinary/MO1BaoxiangguaiMd00501/CommonAnim/AM_Behit_S_Press.AM_Behit_S_Press",
@@ -53689,7 +53693,8 @@
       "/Game/Aki/Character/Monster/Ordinary/MO1BaoxiangguaiMd00501/CommonAnim/AM_Behit_S_L.AM_Behit_S_L",
       "/Game/Aki/Character/Monster/Ordinary/MO1BaoxiangguaiMd00501/CommonAnim/AM_Born.AM_Born",
       "/Game/Aki/Character/Monster/Ordinary/MO1BaoxiangguaiMd00501/CommonAnim/AM_SM_WanShua_P2.AM_SM_WanShua_P2",
-      "/Game/Aki/Character/Monster/Ordinary/MO1BaoxiangguaiMd00501/CommonAnim/AM_PatrolToFight.AM_PatrolToFight"
+      "/Game/Aki/Character/Monster/Ordinary/MO1BaoxiangguaiMd00501/CommonAnim/AM_PatrolToFight.AM_PatrolToFight",
+      "/Game/Aki/Character/Monster/Ordinary/MO1BaoxiangguaiMd00501/CommonAnim/AM_Death_Shoufu.AM_Death_Shoufu"
     ],
     "Effects": [
       "/Game/Aki/Effect/EffectGroup/Common/DA_Fx_Group_Breacher_Moster_Buff_Box_Big.DA_Fx_Group_Breacher_Moster_Buff_Box_Big",

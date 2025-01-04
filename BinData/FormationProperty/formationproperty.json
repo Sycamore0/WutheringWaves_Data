@@ -329,7 +329,7 @@
     ],
     "TriggerRange1": {
       "Min": 0,
-      "Max": 11
+      "Max": 0
     },
     "TriggerType1": 0,
     "TriggerEffect1": 0,

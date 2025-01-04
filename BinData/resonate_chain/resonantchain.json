@@ -3899,7 +3899,7 @@
     ],
     "AttributesDescriptionParams": [
       "3",
-      "25%",
+      "12.5%",
       "15",
       "30"
     ],
@@ -3925,7 +3925,7 @@
       }
     ],
     "AttributesDescriptionParams": [
-      "25%"
+      "126%"
     ],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_KelaitaM2_UI.T_IconDevice_KelaitaM2_UI"
   },
@@ -3950,7 +3950,7 @@
     ],
     "AttributesDescriptionParams": [
       "1032.18%",
-      "70%"
+      "93%"
     ],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_KelaitaM3_UI.T_IconDevice_KelaitaM3_UI"
   },
@@ -3999,8 +3999,7 @@
       }
     ],
     "AttributesDescriptionParams": [
-      "10%",
-      "20"
+      "47%"
     ],
     "NodeIcon": "/Game/Aki/UI/UIResources/Common/Image/IconDevice/T_IconDevice_KelaitaM5_UI.T_IconDevice_KelaitaM5_UI"
   },
@@ -4024,7 +4023,7 @@
       }
     ],
     "AttributesDescriptionParams": [
-      "145.6%",
+      "186.6%",
       "1",
       "1.5"
     ],

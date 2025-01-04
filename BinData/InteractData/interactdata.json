@@ -33096,18 +33096,6 @@
       "Type": "Actions",
       "Actions": [
         {
-          "Name": "FadeInScreen",
-          "Params": {
-            "Ease": {
-              "Type": 2,
-              "Duration": 1
-            },
-            "ScreenType": "Black"
-          },
-          "ActionGuid": "adc0e2f98660443b86a84ba3cc305cbb",
-          "ActionId": 3000081
-        },
-        {
           "Name": "PlayFlow",
           "Params": {
             "FlowListName": "剧情_2_0_世界_最后一次航行_支线任务",
@@ -49516,24 +49504,6 @@
     "Duration": ""
   },
   {
-    "Guid": "72a0c4cdb0db4238a9af46e6a550eb21",
-    "Type": {
-      "Type": "Flow",
-      "Flow": {
-        "FlowListName": "剧情_2_0_黎那汐塔_万能帮手",
-        "FlowId": 14,
-        "StateId": 1
-      }
-    },
-    "Icon": "",
-    "TidContent": "",
-    "Condition": "",
-    "UniquenessTest": "",
-    "DoIntactType": "Direct",
-    "Range": 0,
-    "Duration": ""
-  },
-  {
     "Guid": "77e85dc7ca544671a615c834004885a9",
     "Type": {
       "Type": "Flow",
@@ -49652,24 +49622,6 @@
     "Type": {
       "Type": "Actions",
       "Actions": []
-    },
-    "Icon": "",
-    "TidContent": "",
-    "Condition": "",
-    "UniquenessTest": "",
-    "DoIntactType": "Direct",
-    "Range": 0,
-    "Duration": ""
-  },
-  {
-    "Guid": "f48a4072f69f4b2fb886182f7336f1ee",
-    "Type": {
-      "Type": "Flow",
-      "Flow": {
-        "FlowListName": "剧情_2_0_黎那汐塔_万能帮手",
-        "FlowId": 16,
-        "StateId": 5
-      }
     },
     "Icon": "",
     "TidContent": "",
@@ -57319,6 +57271,42 @@
         "FlowListName": "剧情_2_0_角色_珂莱塔线",
         "FlowId": 2,
         "StateId": 2
+      }
+    },
+    "Icon": "",
+    "TidContent": "",
+    "Condition": "",
+    "UniquenessTest": "",
+    "DoIntactType": "Direct",
+    "Range": 0,
+    "Duration": ""
+  },
+  {
+    "Guid": "b54853627b7e420dbfd29cd2c7e92406",
+    "Type": {
+      "Type": "Flow",
+      "Flow": {
+        "FlowListName": "剧情_2_0_黎那汐塔_万能帮手",
+        "FlowId": 14,
+        "StateId": 1
+      }
+    },
+    "Icon": "",
+    "TidContent": "",
+    "Condition": "",
+    "UniquenessTest": "",
+    "DoIntactType": "Direct",
+    "Range": 0,
+    "Duration": ""
+  },
+  {
+    "Guid": "e4f0a28ebe2c4de787f1ed6d591f2451",
+    "Type": {
+      "Type": "Flow",
+      "Flow": {
+        "FlowListName": "剧情_2_0_黎那汐塔_万能帮手",
+        "FlowId": 16,
+        "StateId": 5
       }
     },
     "Icon": "",

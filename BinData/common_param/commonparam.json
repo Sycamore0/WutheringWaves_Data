@@ -4086,5 +4086,9 @@
   {
     "KeyName": "SoarDownwardThreshold",
     "BinData": "2P///w=="
+  },
+  {
+    "KeyName": "BattleContextWhiteBuffIds",
+    "BinData": "BgAAAAAAAFCm79RBAADATafv1EEAAABNp+/UQQAAQEun79RBAACAS6fv1EEAAMBLp+/UQQ=="
   }
 ]

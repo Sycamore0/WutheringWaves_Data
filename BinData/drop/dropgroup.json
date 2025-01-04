@@ -31486,5 +31486,13 @@
     "MaxNum": 1,
     "Interval": 0,
     "DropShowPlan": 3
+  },
+  {
+    "UnitId": 12679,
+    "GroupId": 60100805,
+    "MinNum": 1,
+    "MaxNum": 1,
+    "Interval": 0,
+    "DropShowPlan": 1
   }
 ]

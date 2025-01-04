@@ -358,14 +358,16 @@
     "Id": 105,
     "Name": "PhantomFetter_10_Name",
     "BuffIds": [
-      31000010001
+      31000010001,
+      31000010003
     ],
     "AddProp": [],
     "EffectDescription": "PhantomFetter_105_EffectDescription",
     "FetterIcon": "/Game/Aki/UI/UIResources/Common/Image/IconElement/T_IconElementIce1.T_IconElementIce1",
     "SimplyEffectDesc": "PhantomFetter_105_SimplyEffectDesc",
     "EffectDescriptionParam": [
-      "18%",
+      "22.5%",
+      "15",
       "18%",
       "5",
       "2"

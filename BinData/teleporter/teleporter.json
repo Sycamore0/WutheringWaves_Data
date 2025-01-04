@@ -2299,9 +2299,9 @@
     "FogId": 19,
     "Type": 1,
     "TeleportEntityConfigId": 147900797,
-    "Plot": "剧情_华表专用演出_2_0,1,1",
+    "Plot": "",
     "AfterNetworkAction": 9999999,
-    "ShowWorldMap": true
+    "ShowWorldMap": false
   },
   {
     "Id": 390044,
@@ -3487,30 +3487,6 @@
     "FogId": 16,
     "Type": 3,
     "TeleportEntityConfigId": 157900003,
-    "Plot": "",
-    "AfterNetworkAction": 0,
-    "ShowWorldMap": false
-  },
-  {
-    "Id": 390064,
-    "MapId": 8,
-    "ObjectId": 0,
-    "AreaId": 1,
-    "FogId": 17,
-    "Type": 3,
-    "TeleportEntityConfigId": 106901907,
-    "Plot": "",
-    "AfterNetworkAction": 0,
-    "ShowWorldMap": false
-  },
-  {
-    "Id": 390065,
-    "MapId": 8,
-    "ObjectId": 0,
-    "AreaId": 1,
-    "FogId": 17,
-    "Type": 3,
-    "TeleportEntityConfigId": 114900065,
     "Plot": "",
     "AfterNetworkAction": 0,
     "ShowWorldMap": false

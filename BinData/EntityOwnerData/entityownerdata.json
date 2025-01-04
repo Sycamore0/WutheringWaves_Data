@@ -100524,46 +100524,6 @@
     "Owner": "[{\"Type\":\"Entity\",\"EntityId\":134750273}]"
   },
   {
-    "Guid": "8_114900011",
-    "Owner": "[{\"Type\":\"Quest\",\"QuestId\":114000030}]"
-  },
-  {
-    "Guid": "8_114900013",
-    "Owner": "[{\"Type\":\"Quest\",\"QuestId\":114000030}]"
-  },
-  {
-    "Guid": "8_114900014",
-    "Owner": "[{\"Type\":\"Quest\",\"QuestId\":114000030}]"
-  },
-  {
-    "Guid": "8_114900015",
-    "Owner": "[{\"Type\":\"Quest\",\"QuestId\":114000030}]"
-  },
-  {
-    "Guid": "8_114900016",
-    "Owner": "[{\"Type\":\"Quest\",\"QuestId\":114000030}]"
-  },
-  {
-    "Guid": "8_114900017",
-    "Owner": "[{\"Type\":\"Quest\",\"QuestId\":114000030}]"
-  },
-  {
-    "Guid": "8_114900018",
-    "Owner": "[{\"Type\":\"Quest\",\"QuestId\":114000030}]"
-  },
-  {
-    "Guid": "8_114900019",
-    "Owner": "[{\"Type\":\"Quest\",\"QuestId\":114000030}]"
-  },
-  {
-    "Guid": "8_114900020",
-    "Owner": "[{\"Type\":\"Quest\",\"QuestId\":114000030}]"
-  },
-  {
-    "Guid": "8_114900021",
-    "Owner": "[{\"Type\":\"Quest\",\"QuestId\":114000030}]"
-  },
-  {
     "Guid": "2507_142000251",
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":142900008}]"
   },
@@ -112433,19 +112393,19 @@
   },
   {
     "Guid": "8_131900074",
-    "Owner": "[{\"Type\":\"Quest\",\"QuestId\":106000005}]"
+    "Owner": "[{\"Type\":\"Entity\",\"EntityId\":131900104}]"
   },
   {
     "Guid": "8_131900075",
-    "Owner": "[{\"Type\":\"Quest\",\"QuestId\":106000005}]"
+    "Owner": "[{\"Type\":\"Entity\",\"EntityId\":131900104}]"
   },
   {
     "Guid": "8_131900076",
-    "Owner": "[{\"Type\":\"Quest\",\"QuestId\":106000005}]"
+    "Owner": "[{\"Type\":\"Entity\",\"EntityId\":131900104}]"
   },
   {
     "Guid": "8_131900077",
-    "Owner": "[{\"Type\":\"Quest\",\"QuestId\":106000005}]"
+    "Owner": "[{\"Type\":\"Entity\",\"EntityId\":131900104}]"
   },
   {
     "Guid": "8_131900078",
@@ -116113,15 +116073,15 @@
   },
   {
     "Guid": "8_131900082",
-    "Owner": "[{\"Type\":\"Quest\",\"QuestId\":106000005}]"
+    "Owner": "[{\"Type\":\"Entity\",\"EntityId\":131900105}]"
   },
   {
     "Guid": "8_131900083",
-    "Owner": "[{\"Type\":\"Quest\",\"QuestId\":106000005}]"
+    "Owner": "[{\"Type\":\"Entity\",\"EntityId\":131900105}]"
   },
   {
     "Guid": "8_131900084",
-    "Owner": "[{\"Type\":\"Quest\",\"QuestId\":106000005}]"
+    "Owner": "[{\"Type\":\"Entity\",\"EntityId\":131900105}]"
   },
   {
     "Guid": "8_131900085",
@@ -119740,10 +119700,6 @@
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":200900009}]"
   },
   {
-    "Guid": "2051_200900004",
-    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":200900009}]"
-  },
-  {
     "Guid": "8_121900140",
     "Owner": "[{\"Type\":\"Quest\",\"QuestId\":121000037}]"
   },
@@ -120273,11 +120229,11 @@
   },
   {
     "Guid": "8_147901092",
-    "Owner": "[{\"Type\":\"Entity\",\"EntityId\":147900629}]"
+    "Owner": "[{\"Type\":\"Entity\",\"EntityId\":147902801}]"
   },
   {
     "Guid": "8_147901093",
-    "Owner": "[{\"Type\":\"Entity\",\"EntityId\":147900629}]"
+    "Owner": "[{\"Type\":\"Entity\",\"EntityId\":147902801}]"
   },
   {
     "Guid": "8_147901096",
@@ -140918,5 +140874,21 @@
   {
     "Guid": "2505_142000879",
     "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":142900025}]"
+  },
+  {
+    "Guid": "8_131900104",
+    "Owner": "[{\"Type\":\"Quest\",\"QuestId\":106000005}]"
+  },
+  {
+    "Guid": "8_131900105",
+    "Owner": "[{\"Type\":\"Quest\",\"QuestId\":106000005}]"
+  },
+  {
+    "Guid": "8_158900210",
+    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":158800001}]"
+  },
+  {
+    "Guid": "8_158900211",
+    "Owner": "[{\"Type\":\"LevelPlay\",\"LevelPlayId\":158900000}]"
   }
 ]

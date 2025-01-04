@@ -36,6 +36,42 @@
     ]
   },
   {
+    "Id": 16044005,
+    "WaterHeight": [
+      1000,
+      1000,
+      1000
+    ],
+    "StandingNormalZ": [
+      0,
+      0,
+      0
+    ],
+    "DisableTag": [
+      "关卡.Common.镜头.第一人称镜头",
+      "关卡.Common.镜头.第一人称镜头",
+      "关卡.Common.镜头.第一人称镜头"
+    ]
+  },
+  {
+    "Id": 16054005,
+    "WaterHeight": [
+      1000,
+      1000,
+      1000
+    ],
+    "StandingNormalZ": [
+      0,
+      0,
+      0
+    ],
+    "DisableTag": [
+      "关卡.Common.镜头.第一人称镜头",
+      "关卡.Common.镜头.第一人称镜头",
+      "关卡.Common.镜头.第一人称镜头"
+    ]
+  },
+  {
     "Id": 1107,
     "WaterHeight": [
       1000,
@@ -51,78 +87,6 @@
       "''",
       "''",
       "''"
-    ]
-  },
-  {
-    "Id": 1501,
-    "WaterHeight": [
-      1000,
-      1000,
-      1000
-    ],
-    "StandingNormalZ": [
-      0,
-      0,
-      0
-    ],
-    "DisableTag": [
-      "关卡.Common.镜头.第一人称镜头",
-      "关卡.Common.镜头.第一人称镜头",
-      "关卡.Common.镜头.第一人称镜头"
-    ]
-  },
-  {
-    "Id": 1502,
-    "WaterHeight": [
-      1000,
-      1000,
-      1000
-    ],
-    "StandingNormalZ": [
-      0,
-      0,
-      0
-    ],
-    "DisableTag": [
-      "关卡.Common.镜头.第一人称镜头",
-      "关卡.Common.镜头.第一人称镜头",
-      "关卡.Common.镜头.第一人称镜头"
-    ]
-  },
-  {
-    "Id": 1605,
-    "WaterHeight": [
-      1000,
-      1000,
-      1000
-    ],
-    "StandingNormalZ": [
-      0,
-      0,
-      0
-    ],
-    "DisableTag": [
-      "关卡.Common.镜头.第一人称镜头",
-      "关卡.Common.镜头.第一人称镜头",
-      "关卡.Common.镜头.第一人称镜头"
-    ]
-  },
-  {
-    "Id": 1604,
-    "WaterHeight": [
-      1000,
-      1000,
-      1000
-    ],
-    "StandingNormalZ": [
-      0,
-      0,
-      0
-    ],
-    "DisableTag": [
-      "关卡.Common.镜头.第一人称镜头",
-      "关卡.Common.镜头.第一人称镜头",
-      "关卡.Common.镜头.第一人称镜头"
     ]
   }
 ]

@@ -10364,7 +10364,7 @@
       670
     ],
     "OpenLimitCondition": 0,
-    "AutoOpenCondition": 131200299,
+    "AutoOpenCondition": 0,
     "LimitRepeat": [
       -1
     ],
@@ -11042,6 +11042,24 @@
       8
     ],
     "ResetInDungeon": false,
+    "OnlineMode": 1
+  },
+  {
+    "Id": 2429202,
+    "Step": [
+      1253,
+      1254,
+      1255
+    ],
+    "OpenLimitCondition": 242917011,
+    "AutoOpenCondition": 242917011,
+    "LimitRepeat": [
+      -1
+    ],
+    "DungeonId": [
+      5031
+    ],
+    "ResetInDungeon": true,
     "OnlineMode": 1
   }
 ]

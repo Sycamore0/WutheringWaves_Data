@@ -141,7 +141,7 @@
     "Sort": 1,
     "Name": "PayShopTab_6_1_Name",
     "Logic": 1,
-    "Enable": true
+    "Enable": false
   },
   {
     "ShopId": 5,

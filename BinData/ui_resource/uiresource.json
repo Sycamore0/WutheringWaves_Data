@@ -9062,7 +9062,7 @@
   {
     "Id": "UiView_TasktipsA_Prefab",
     "Path": "/Game/Aki/UI/UIResources/UiHint/Prefabs/UiView_TasktipsA_Prefab.UiView_TasktipsA_Prefab",
-    "PcPath": "/Game/Aki/UI/UIResources/UiHint/Prefabs/PC/PC_UiView_TasktipsA_Prefab.PC_UiView_TasktipsA_Prefab"
+    "PcPath": ""
   },
   {
     "Id": "UiView_HiddenBossTips",
@@ -9457,51 +9457,6 @@
   {
     "Id": "UiItem_CG_M2_3_09_p1_Male",
     "Path": "/Game/Aki/UI/UIResources/UiCG/Prefabs/CG2_0/UiItem_CG_M2_3_09_p1_Male.UiItem_CG_M2_3_09_p1_Male",
-    "PcPath": ""
-  },
-  {
-    "Id": "UiItem_CG2_0Kelaita2",
-    "Path": "/Game/Aki/UI/UIResources/UiCG/Prefabs/CG2_0/UiItem_CG2_0Kelaita2.UiItem_CG2_0Kelaita2",
-    "PcPath": ""
-  },
-  {
-    "Id": "UiItem_CG_Luokeke_R01009_Seq_P1_Female",
-    "Path": "/Game/Aki/UI/UIResources/UiCG/Prefabs/CG2_0/UiItem_CG_Luokeke_R01009_Seq_P1_Female.UiItem_CG_Luokeke_R01009_Seq_P1_Female",
-    "PcPath": ""
-  },
-  {
-    "Id": "UiItem_CG_Luokeke_R01009_Seq_P1_Male",
-    "Path": "/Game/Aki/UI/UIResources/UiCG/Prefabs/CG2_0/UiItem_CG_Luokeke_R01009_Seq_P1_Male.UiItem_CG_Luokeke_R01009_Seq_P1_Male",
-    "PcPath": ""
-  },
-  {
-    "Id": "UiItem_CG2_0Luokeke",
-    "Path": "/Game/Aki/UI/UIResources/UiCG/Prefabs/CG2_0/UiItem_CG2_0Luokeke.UiItem_CG2_0Luokeke",
-    "PcPath": ""
-  },
-  {
-    "Id": "UiItem_CG2_0haibao",
-    "Path": "/Game/Aki/UI/UIResources/UiCG/Prefabs/CG2_0/UiItem_CG2_0haibao.UiItem_CG2_0haibao",
-    "PcPath": ""
-  },
-  {
-    "Id": "UiItem_CG2_0xinfeng",
-    "Path": "/Game/Aki/UI/UIResources/UiCG/Prefabs/CG2_0/UiItem_CG2_0xinfeng.UiItem_CG2_0xinfeng",
-    "PcPath": ""
-  },
-  {
-    "Id": "UiItem_CG_M2_3_26_p1_Female",
-    "Path": "/Game/Aki/UI/UIResources/UiCG/Prefabs/CG2_0/UiItem_CG_M2_3_26_p1_Female.UiItem_CG_M2_3_26_p1_Female",
-    "PcPath": ""
-  },
-  {
-    "Id": "UiItem_CG_M2_3_26_p1_Male",
-    "Path": "/Game/Aki/UI/UIResources/UiCG/Prefabs/CG2_0/UiItem_CG_M2_3_26_p1_Male.UiItem_CG_M2_3_26_p1_Male",
-    "PcPath": ""
-  },
-  {
-    "Id": "ActivitySignIn_2_0",
-    "Path": "/Game/Aki/UI/UIResources/UiActivity/Prefabs/ActivitySignIn/UiItem_SignInB.UiItem_SignInB",
     "PcPath": ""
   }
 ]

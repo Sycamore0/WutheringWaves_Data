@@ -8033,5 +8033,31 @@
     "AddBuffID": [
       674020103
     ]
+  },
+  {
+    "Id": 11070010,
+    "NextRoleGuideID": 0,
+    "KeyID": [
+      "攻击;1107061"
+    ],
+    "IconText": [
+      "ComboTeaching_99990003_IconText_0"
+    ],
+    "IconTagText": [],
+    "DescriptionTitle": "ComboTeaching_11070006_DescriptionTitle",
+    "DescriptionContent": "ComboTeaching_11070006_DescriptionContent",
+    "CommandID": [
+      11070401
+    ],
+    "guideID": [
+      2429202
+    ],
+    "InputEnums": [
+      "普攻"
+    ],
+    "AddBuffID": [
+      621310211,
+      11070110002
+    ]
   }
 ]

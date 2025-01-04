@@ -5121,7 +5121,7 @@
     "LongPressTime": 0,
     "ReleaseFailureTime": 0,
     "BindButtonTag": "tag2",
-    "ApplicableType": 0
+    "ApplicableType": 1
   },
   {
     "Id": 2220,

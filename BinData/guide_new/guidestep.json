@@ -18838,7 +18838,7 @@
     "TimeScale": 1,
     "ContentType": 3,
     "ReportId": 0,
-    "Duration": 8000,
+    "Duration": 12000,
     "MinDuration": -1,
     "ShowDelay": 0,
     "IsDangerous": false
@@ -19896,7 +19896,7 @@
   {
     "Id": 671,
     "Controller": "TFF",
-    "SuccessCondition": 0,
+    "SuccessCondition": 131200395,
     "FailureCondition": 0,
     "TickCondition": 0,
     "TimeScale": 1,
@@ -19910,7 +19910,7 @@
   {
     "Id": 672,
     "Controller": "FTF",
-    "SuccessCondition": 0,
+    "SuccessCondition": 131200395,
     "FailureCondition": 0,
     "TickCondition": 0,
     "TimeScale": 1,
@@ -19924,7 +19924,7 @@
   {
     "Id": 673,
     "Controller": "FFT",
-    "SuccessCondition": 0,
+    "SuccessCondition": 131200395,
     "FailureCondition": 0,
     "TickCondition": 0,
     "TimeScale": 1,
@@ -21487,6 +21487,48 @@
     "Duration": 12000,
     "MinDuration": -1,
     "ShowDelay": 0,
+    "IsDangerous": false
+  },
+  {
+    "Id": 1253,
+    "Controller": "TFF",
+    "SuccessCondition": 0,
+    "FailureCondition": 0,
+    "TickCondition": 0,
+    "TimeScale": 0.00009999999747378752,
+    "ContentType": 4,
+    "ReportId": 0,
+    "Duration": 7000,
+    "MinDuration": 1000,
+    "ShowDelay": 100,
+    "IsDangerous": false
+  },
+  {
+    "Id": 1254,
+    "Controller": "FFT",
+    "SuccessCondition": 0,
+    "FailureCondition": 0,
+    "TickCondition": 0,
+    "TimeScale": 0.00009999999747378752,
+    "ContentType": 4,
+    "ReportId": 0,
+    "Duration": 7000,
+    "MinDuration": 1000,
+    "ShowDelay": 100,
+    "IsDangerous": false
+  },
+  {
+    "Id": 1255,
+    "Controller": "FTF",
+    "SuccessCondition": 0,
+    "FailureCondition": 0,
+    "TickCondition": 0,
+    "TimeScale": 0.00009999999747378752,
+    "ContentType": 4,
+    "ReportId": 0,
+    "Duration": 7000,
+    "MinDuration": 1000,
+    "ShowDelay": 100,
     "IsDangerous": false
   }
 ]

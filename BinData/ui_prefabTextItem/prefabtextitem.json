@@ -39604,11 +39604,5 @@
     "PrefabPathHash": "1354032873",
     "ItemPath": "UiView_SynthesisCaption/UiItem_LayerUi_Prefab/PnlRight/BtnConfirmB1/PnlLayout/TxtConfirm",
     "Text": "PrefabTextItem_24053136_Text"
-  },
-  {
-    "ItemId": "1919686903",
-    "PrefabPathHash": "896032793",
-    "ItemPath": "UiItem_FarmGoldMain/PnlLayout/BtnActivityCircle/PnlTip/TxtDescript",
-    "Text": "PrefabTextItem_1919686903_Text"
   }
 ]

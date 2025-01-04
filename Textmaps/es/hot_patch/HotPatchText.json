@@ -293,6 +293,6 @@
   },
   {
     "Id": "NewVersionDownloadTips",
-    "Content": "Se ha detectado una nueva versión del juego. Por favor, sal del juego para completar la actualización."
+    "Content": ""
   }
 ]

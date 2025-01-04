@@ -72075,6 +72075,10 @@
       {
         "Key": "AreaIds",
         "Value": "20"
+      },
+      {
+        "Key": "Online",
+        "Value": "1"
       }
     ],
     "LimitParamsOpe": [],
@@ -73726,11 +73730,11 @@
     "LimitParams": [
       {
         "Key": "PawnId",
-        "Value": "branch2.0_branch2.0_Gameplay046"
+        "Value": "branch2.0_Gameplay129_1_4"
       },
       {
         "Key": "Distance",
-        "Value": "650"
+        "Value": "1000"
       }
     ],
     "LimitParamsOpe": [],
@@ -75303,6 +75307,40 @@
       {
         "Key": "MonsterId",
         "Value": "Monster153"
+      }
+    ],
+    "LimitParamsOpe": [],
+    "IsClient": true,
+    "Description": "",
+    "AccessId": 0
+  },
+  {
+    "Id": 242917011,
+    "Type": "LevelConditionCheckBuff",
+    "NeedNum": 1,
+    "LimitParams": [
+      {
+        "Key": "IsPlayer",
+        "Value": "1"
+      },
+      {
+        "Key": "BuffId",
+        "Value": "11070620010"
+      }
+    ],
+    "LimitParamsOpe": [],
+    "IsClient": true,
+    "Description": "",
+    "AccessId": 0
+  },
+  {
+    "Id": 131200560,
+    "Type": "CheckUIOpenDone",
+    "NeedNum": 1,
+    "LimitParams": [
+      {
+        "Key": "UIName",
+        "Value": "ShipTogetherView"
       }
     ],
     "LimitParamsOpe": [],

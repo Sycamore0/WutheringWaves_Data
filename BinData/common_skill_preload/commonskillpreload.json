@@ -1145,9 +1145,7 @@
     "Meshes": [],
     "Materials": [],
     "AnimationBlueprints": [],
-    "Others": [
-      "/Game/Aki/Character/Role/Common/Abilities/GA/GA_Common_Paralysis_Camera.GA_Common_Paralysis_Camera_C"
-    ]
+    "Others": []
   },
   {
     "Id": 70000002,

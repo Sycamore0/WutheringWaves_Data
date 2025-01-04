@@ -674,5 +674,21 @@
     "BeginTime": 0,
     "EndTime": 0,
     "ActivityId": 0
+  },
+  {
+    "Id": 6026,
+    "LevelRange": [
+      1,
+      999
+    ],
+    "AreaId": [],
+    "MapId": [
+      1004
+    ],
+    "ConditionGroup": 0,
+    "IsLimitShow": false,
+    "BeginTime": 0,
+    "EndTime": 0,
+    "ActivityId": 0
   }
 ]

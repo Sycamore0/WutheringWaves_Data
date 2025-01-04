@@ -1238,5 +1238,13 @@
     "Weight": 10,
     "Title": "LoadingTipsText_151201_Title",
     "TipsText": "LoadingTipsText_151201_TipsText"
+  },
+  {
+    "Id": 602601,
+    "LevelAreaId": 6026,
+    "ImageId": 200010,
+    "Weight": 10,
+    "Title": "LoadingTipsText_200010_Title",
+    "TipsText": "LoadingTipsText_200010_TipsText"
   }
 ]

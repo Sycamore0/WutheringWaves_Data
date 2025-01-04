@@ -2062,9 +2062,9 @@
   },
   {
     "GuideId": 672,
-    "Content": "GuideTips_672_Content",
+    "Content": "GuideFocusNew_671_Content",
     "Button": [
-      "幻象探索选择界面"
+      "技能1"
     ],
     "InputEnums": [],
     "LimitInputEnums": [],

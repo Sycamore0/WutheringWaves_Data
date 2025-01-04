@@ -515,14 +515,14 @@
     "Name": "WalkingPattern.MinDist",
     "Desc": "寂寞小姐走线玩法100分距离",
     "Type": "Int",
-    "Value": "20"
+    "Value": "13"
   },
   {
     "Id": 50002,
     "Name": "WalkingPattern.MaxDist",
     "Desc": "寂寞小姐走线玩法0分距离",
     "Type": "Int",
-    "Value": "140"
+    "Value": "100"
   },
   {
     "Id": 50004,
@@ -536,7 +536,7 @@
     "Name": "StatueInteract.CheckAngle",
     "Desc": "寂寞小姐拉取雕像玩法检测角度",
     "Type": "Float",
-    "Value": "20"
+    "Value": "50"
   },
   {
     "Id": 900005,
@@ -578,7 +578,7 @@
     "Name": "WalkingPattern.StepNum",
     "Desc": "寂寞小姐走线玩法记录位置最多个数",
     "Type": "Int",
-    "Value": "100"
+    "Value": "50"
   },
   {
     "Id": 900011,
@@ -589,23 +589,16 @@
   },
   {
     "Id": 900012,
-    "Name": "EInteractIcon.LifePointShop",
+    "Name": "EInteractIcon.Lifeshop",
     "Desc": "交互选项图标2.0静风杂货生命点商店",
     "Type": "String",
     "Value": "/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Shop_13_UI.T_IconMap_Shop_13_UI"
   },
   {
     "Id": 900013,
-    "Name": "EInteractIcon.PlushVillage",
+    "Name": "EInteractIcon.PupuVillage",
     "Desc": "交互选项图标2.0声匣",
     "Type": "String",
     "Value": "/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Play_24_UI.T_IconMap_Play_24_UI"
-  },
-  {
-    "Id": 900014,
-    "Name": "FloatStatue.BoundSize",
-    "Desc": "悬浮雕像碰撞检测盒体长宽高",
-    "Type": "String",
-    "Value": "0.5,0.5,3"
   }
 ]

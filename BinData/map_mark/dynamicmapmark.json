@@ -4460,7 +4460,7 @@
     "EntityConfigId": 0,
     "ObjectType": 7,
     "MarkTitle": "MonsterInfo_320000250_Name",
-    "MarkDesc": "MonsterInfo_320000240_DiscoveredDes",
+    "MarkDesc": "MonsterInfo_320000250_DiscoveredDes",
     "ToBeDiscovered": 0,
     "IsMonster": 1,
     "ShowPriority": 7,

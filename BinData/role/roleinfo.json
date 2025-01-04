@@ -5690,7 +5690,7 @@
     "RoleGuide": 0,
     "RedDotDisableRule": 0,
     "SkinDamage": [],
-    "HideHuLu": false
+    "HideHuLu": true
   },
   {
     "Id": 5018,
@@ -5773,6 +5773,6 @@
     "RoleGuide": 0,
     "RedDotDisableRule": 0,
     "SkinDamage": [],
-    "HideHuLu": false
+    "HideHuLu": true
   }
 ]

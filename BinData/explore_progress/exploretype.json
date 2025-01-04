@@ -114,7 +114,7 @@
     "Name": "ExploreProgress_14_TypeName",
     "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/WorldMapIcon/SP_IconMap_Play_19_UI.SP_IconMap_Play_19_UI",
     "DescBg": "/Game/Aki/UI/UIResources/Common/Image/MapMethod/T_MapMethod03.T_MapMethod03",
-    "LockDescId": "ExploreLockName",
+    "LockDescId": "",
     "DescId": "ExploreProgress_14_Desc_Text",
     "CountMode": 1,
     "SortIndex": 202

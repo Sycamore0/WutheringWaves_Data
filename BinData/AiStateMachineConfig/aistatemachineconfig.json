@@ -3102,7 +3102,7 @@
   {
     "Id": "SM_MO1LiufangzhemanMd00001",
     "StateMachineJson": {
-      "Version": 2125045928,
+      "Version": 1628991767,
       "StateMachines": [
         115,
         116,
@@ -3482,18 +3482,6 @@
                 },
                 {
                   "Index": 4,
-                  "Name": "CondAnd",
-                  "Type": 1,
-                  "Reverse": false,
-                  "CondAnd": {
-                    "Conditions": [
-                      5,
-                      6
-                    ]
-                  }
-                },
-                {
-                  "Index": 5,
                   "Name": "CondTag",
                   "Type": 14,
                   "Reverse": false,
@@ -3501,17 +3489,6 @@
                   "CondTag": {
                     "TagId": 3847289,
                     "TagName": "怪物.common.关卡.生态.特殊.流放者.操作台工作"
-                  }
-                },
-                {
-                  "Index": 6,
-                  "Name": "CondTag",
-                  "Type": 14,
-                  "Reverse": false,
-                  "IsClient": true,
-                  "CondTag": {
-                    "TagId": -363809969,
-                    "TagName": "怪物.MO1LiufangzheMd00001.狙击枪"
                   }
                 }
               ]
@@ -3570,8 +3547,8 @@
                   "Reverse": false,
                   "IsClient": true,
                   "CondTag": {
-                    "TagId": 2059526085,
-                    "TagName": "怪物.common.关卡.生态.特殊.流放者.打瞌睡"
+                    "TagId": -1694017499,
+                    "TagName": "怪物.common.关卡.生态.特殊.流放者.欢呼右手"
                   }
                 }
               ]
@@ -3878,18 +3855,6 @@
               "Conditions": [
                 {
                   "Index": 0,
-                  "Name": "CondAnd",
-                  "Type": 1,
-                  "Reverse": false,
-                  "CondAnd": {
-                    "Conditions": [
-                      1,
-                      2
-                    ]
-                  }
-                },
-                {
-                  "Index": 1,
                   "Name": "CondTag",
                   "Type": 14,
                   "Reverse": false,
@@ -3897,17 +3862,6 @@
                   "CondTag": {
                     "TagId": 3847289,
                     "TagName": "怪物.common.关卡.生态.特殊.流放者.操作台工作"
-                  }
-                },
-                {
-                  "Index": 2,
-                  "Name": "CondTag",
-                  "Type": 14,
-                  "Reverse": false,
-                  "IsClient": true,
-                  "CondTag": {
-                    "TagId": -363809969,
-                    "TagName": "怪物.MO1LiufangzheMd00001.狙击枪"
                   }
                 }
               ]
@@ -3920,18 +3874,6 @@
               "Conditions": [
                 {
                   "Index": 0,
-                  "Name": "CondOr",
-                  "Type": 2,
-                  "Reverse": false,
-                  "CondOr": {
-                    "Conditions": [
-                      1,
-                      2
-                    ]
-                  }
-                },
-                {
-                  "Index": 1,
                   "Name": "CondTag",
                   "Type": 14,
                   "Reverse": true,
@@ -3939,17 +3881,6 @@
                   "CondTag": {
                     "TagId": 3847289,
                     "TagName": "怪物.common.关卡.生态.特殊.流放者.操作台工作"
-                  }
-                },
-                {
-                  "Index": 2,
-                  "Name": "CondTag",
-                  "Type": 14,
-                  "Reverse": true,
-                  "IsClient": true,
-                  "CondTag": {
-                    "TagId": -363809969,
-                    "TagName": "怪物.MO1LiufangzheMd00001.狙击枪"
                   }
                 }
               ]
@@ -100317,17 +100248,48 @@
   {
     "Id": "SM_MO1BaoxiangguaiMd00501",
     "StateMachineJson": {
-      "Version": 312506477,
+      "Version": 354920842,
       "StateMachines": [
-        4,
-        8,
+        5,
         9,
         10,
-        13
+        11,
+        14
       ],
       "Nodes": [
         {
           "Uuid": 4,
+          "OverrideCommonUuid": 10010,
+          "IsAnimStateMachine": false,
+          "IsConduitNode": false,
+          "IsAnyState": false,
+          "Name": "C出生",
+          "TakeControlType": 0,
+          "TransitionRule": 0,
+          "Task": {
+            "Name": "TaskMontage",
+            "Type": 102,
+            "CanBeInterrupt": true,
+            "TaskMontage": {
+              "MontageName": "AM_Death_Shoufu",
+              "HideOnLoading": true,
+              "BlendInTime": -1
+            }
+          },
+          "OnEnterActions": [
+            {
+              "Name": "ActionAddBuff",
+              "Type": 1,
+              "ActionAddBuff": {
+                "BuffId": 70000081
+              }
+            }
+          ],
+          "Children": [],
+          "Transitions": []
+        },
+        {
+          "Uuid": 5,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "IsAnyState": false,
@@ -100344,14 +100306,14 @@
             }
           ],
           "Children": [
-            5,
             6,
-            7
+            7,
+            8
           ],
           "Transitions": [
             {
-              "From": 5,
-              "To": 6,
+              "From": 6,
+              "To": 7,
               "TransitionPredictionType": 0,
               "Weight": 0,
               "Conditions": [
@@ -100369,8 +100331,8 @@
               ]
             },
             {
-              "From": 6,
-              "To": 7,
+              "From": 7,
+              "To": 8,
               "TransitionPredictionType": 0,
               "Weight": 0,
               "Conditions": [
@@ -100387,7 +100349,7 @@
           ]
         },
         {
-          "Uuid": 5,
+          "Uuid": 6,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "IsAnyState": false,
@@ -100428,28 +100390,14 @@
               "Name": "BindBuff",
               "Type": 1,
               "BindBuff": {
-                "BuffId": 70135001
-              }
-            },
-            {
-              "Name": "BindTag",
-              "Type": 3,
-              "BindTag": {
-                "TagId": -893996770
-              }
-            },
-            {
-              "Name": "BindTag",
-              "Type": 3,
-              "BindTag": {
-                "TagId": -1566015933
-              }
-            },
-            {
-              "Name": "BindBuff",
-              "Type": 1,
-              "BindBuff": {
                 "BuffId": 640012032
+              }
+            },
+            {
+              "Name": "BindTag",
+              "Type": 3,
+              "BindTag": {
+                "TagId": -208062360
               }
             }
           ],
@@ -100457,7 +100405,7 @@
           "Transitions": []
         },
         {
-          "Uuid": 6,
+          "Uuid": 7,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "IsAnyState": false,
@@ -100499,7 +100447,7 @@
           "Transitions": []
         },
         {
-          "Uuid": 7,
+          "Uuid": 8,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "IsAnyState": false,
@@ -100519,7 +100467,7 @@
           "Transitions": []
         },
         {
-          "Uuid": 8,
+          "Uuid": 9,
           "ReferenceUuid": 10007,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
@@ -100531,7 +100479,7 @@
           "Transitions": []
         },
         {
-          "Uuid": 9,
+          "Uuid": 10,
           "ReferenceUuid": 10264,
           "IsAnimStateMachine": true,
           "IsConduitNode": false,
@@ -100543,7 +100491,7 @@
           "Transitions": []
         },
         {
-          "Uuid": 10,
+          "Uuid": 11,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "IsAnyState": false,
@@ -100551,13 +100499,13 @@
           "TakeControlType": 0,
           "TransitionRule": 0,
           "Children": [
-            11,
-            12
+            12,
+            13
           ],
           "Transitions": [
             {
-              "From": 11,
-              "To": 12,
+              "From": 12,
+              "To": 13,
               "TransitionPredictionType": 0,
               "Weight": 0,
               "Conditions": [
@@ -100582,7 +100530,7 @@
           ]
         },
         {
-          "Uuid": 11,
+          "Uuid": 12,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "IsAnyState": false,
@@ -100593,7 +100541,7 @@
           "Transitions": []
         },
         {
-          "Uuid": 12,
+          "Uuid": 13,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "IsAnyState": false,
@@ -100622,7 +100570,7 @@
           "Transitions": []
         },
         {
-          "Uuid": 13,
+          "Uuid": 14,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "IsAnyState": false,
@@ -100630,14 +100578,14 @@
           "TakeControlType": 0,
           "TransitionRule": 0,
           "Children": [
-            14,
             15,
-            16
+            16,
+            17
           ],
           "Transitions": [
             {
-              "From": 14,
-              "To": 16,
+              "From": 15,
+              "To": 17,
               "TransitionPredictionType": 0,
               "Weight": 0,
               "Conditions": [
@@ -100679,8 +100627,8 @@
               ]
             },
             {
-              "From": 16,
-              "To": 15,
+              "From": 17,
+              "To": 16,
               "TransitionPredictionType": 0,
               "Weight": 0,
               "Conditions": [
@@ -100723,7 +100671,7 @@
           ]
         },
         {
-          "Uuid": 14,
+          "Uuid": 15,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "IsAnyState": false,
@@ -100734,7 +100682,7 @@
           "Transitions": []
         },
         {
-          "Uuid": 15,
+          "Uuid": 16,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "IsAnyState": false,
@@ -100769,7 +100717,7 @@
           "Transitions": []
         },
         {
-          "Uuid": 16,
+          "Uuid": 17,
           "IsAnimStateMachine": false,
           "IsConduitNode": false,
           "IsAnyState": false,

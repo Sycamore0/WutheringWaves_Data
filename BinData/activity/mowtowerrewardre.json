@@ -352,28 +352,28 @@
   {
     "Id": 51,
     "MowTowerLevelsId": 15,
-    "Score": 4000,
+    "Score": 3000,
     "RewardId": 5070715,
     "LevelRewardDesc": "BossRushRewardText"
   },
   {
     "Id": 52,
     "MowTowerLevelsId": 15,
-    "Score": 6000,
+    "Score": 4000,
     "RewardId": 5070716,
     "LevelRewardDesc": "BossRushRewardText"
   },
   {
     "Id": 53,
     "MowTowerLevelsId": 15,
-    "Score": 6500,
+    "Score": 5500,
     "RewardId": 5070717,
     "LevelRewardDesc": "BossRushRewardText"
   },
   {
     "Id": 54,
     "MowTowerLevelsId": 15,
-    "Score": 7000,
+    "Score": 6000,
     "RewardId": 5070718,
     "LevelRewardDesc": "BossRushRewardText"
   },
@@ -478,28 +478,28 @@
   {
     "Id": 69,
     "MowTowerLevelsId": 20,
-    "Score": 4000,
+    "Score": 3000,
     "RewardId": 5070915,
     "LevelRewardDesc": "BossRushRewardText"
   },
   {
     "Id": 70,
     "MowTowerLevelsId": 20,
-    "Score": 6000,
+    "Score": 4000,
     "RewardId": 5070916,
     "LevelRewardDesc": "BossRushRewardText"
   },
   {
     "Id": 71,
     "MowTowerLevelsId": 20,
-    "Score": 6500,
+    "Score": 5500,
     "RewardId": 5070917,
     "LevelRewardDesc": "BossRushRewardText"
   },
   {
     "Id": 72,
     "MowTowerLevelsId": 20,
-    "Score": 7000,
+    "Score": 6000,
     "RewardId": 5070918,
     "LevelRewardDesc": "BossRushRewardText"
   }

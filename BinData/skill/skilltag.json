@@ -1,187 +1,150 @@
 [
   {
     "Id": 1,
-    "TagName": "SkillTag_1_TagName",
-    "TagColor": "6d25a0"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAAEAAAAGAAAANmQyNWEwAAASAAAAU2tpbGxUYWdfMV9UYWdOYW1lAAA="
   },
   {
     "Id": 2,
-    "TagName": "SkillTag_2_TagName",
-    "TagColor": "6d25a0"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAAIAAAAGAAAANmQyNWEwAAASAAAAU2tpbGxUYWdfMl9UYWdOYW1lAAA="
   },
   {
     "Id": 3,
-    "TagName": "SkillTag_3_TagName",
-    "TagColor": "6d25a0"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAAMAAAAGAAAANmQyNWEwAAASAAAAU2tpbGxUYWdfM19UYWdOYW1lAAA="
   },
   {
     "Id": 4,
-    "TagName": "SkillTag_4_TagName",
-    "TagColor": "6d25a0"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAAQAAAAGAAAANmQyNWEwAAASAAAAU2tpbGxUYWdfNF9UYWdOYW1lAAA="
   },
   {
     "Id": 5,
-    "TagName": "SkillTag_5_TagName",
-    "TagColor": "6d25a0"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAAUAAAAGAAAANmQyNWEwAAASAAAAU2tpbGxUYWdfNV9UYWdOYW1lAAA="
   },
   {
     "Id": 6,
-    "TagName": "SkillTag_6_TagName",
-    "TagColor": "6d25a0"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAAYAAAAGAAAANmQyNWEwAAASAAAAU2tpbGxUYWdfNl9UYWdOYW1lAAA="
   },
   {
     "Id": 7,
-    "TagName": "SkillTag_7_TagName",
-    "TagColor": "2596a0"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAAcAAAAGAAAAMjU5NmEwAAASAAAAU2tpbGxUYWdfN19UYWdOYW1lAAA="
   },
   {
     "Id": 8,
-    "TagName": "SkillTag_8_TagName",
-    "TagColor": "6d25a0"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAAgAAAAGAAAANmQyNWEwAAASAAAAU2tpbGxUYWdfOF9UYWdOYW1lAAA="
   },
   {
     "Id": 11,
-    "TagName": "SkillTag_9_TagName",
-    "TagColor": "6d25a0"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAAsAAAAGAAAANmQyNWEwAAASAAAAU2tpbGxUYWdfOV9UYWdOYW1lAAA="
   },
   {
     "Id": 12,
-    "TagName": "SkillTag_10_TagName",
-    "TagColor": "6d25a0"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAAwAAAAGAAAANmQyNWEwAAATAAAAU2tpbGxUYWdfMTBfVGFnTmFtZQA="
   },
   {
     "Id": 13,
-    "TagName": "SkillTag_11_TagName",
-    "TagColor": "6d25a0"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAA0AAAAGAAAANmQyNWEwAAATAAAAU2tpbGxUYWdfMTFfVGFnTmFtZQA="
   },
   {
     "Id": 14,
-    "TagName": "SkillTag_12_TagName",
-    "TagColor": "6d25a0"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAA4AAAAGAAAANmQyNWEwAAATAAAAU2tpbGxUYWdfMTJfVGFnTmFtZQA="
   },
   {
     "Id": 15,
-    "TagName": "SkillTag_13_TagName",
-    "TagColor": "6d25a0"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAA8AAAAGAAAANmQyNWEwAAATAAAAU2tpbGxUYWdfMTNfVGFnTmFtZQA="
   },
   {
     "Id": 16,
-    "TagName": "SkillTag_14_TagName",
-    "TagColor": "6d25a0"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAABAAAAAGAAAANmQyNWEwAAATAAAAU2tpbGxUYWdfMTRfVGFnTmFtZQA="
   },
   {
     "Id": 101,
-    "TagName": "SkillTag_15_TagName",
-    "TagColor": "2596a0"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAGUAAAAGAAAAMjU5NmEwAAATAAAAU2tpbGxUYWdfMTVfVGFnTmFtZQA="
   },
   {
     "Id": 102,
-    "TagName": "SkillTag_16_TagName",
-    "TagColor": "2596a0"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAGYAAAAGAAAAMjU5NmEwAAATAAAAU2tpbGxUYWdfMTZfVGFnTmFtZQA="
   },
   {
     "Id": 103,
-    "TagName": "SkillTag_17_TagName",
-    "TagColor": "2596a0"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAGcAAAAGAAAAMjU5NmEwAAATAAAAU2tpbGxUYWdfMTdfVGFnTmFtZQA="
   },
   {
     "Id": 104,
-    "TagName": "SkillTag_18_TagName",
-    "TagColor": "2596a0"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAGgAAAAGAAAAMjU5NmEwAAATAAAAU2tpbGxUYWdfMThfVGFnTmFtZQA="
   },
   {
     "Id": 105,
-    "TagName": "SkillTag_19_TagName",
-    "TagColor": "2596a0"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAGkAAAAGAAAAMjU5NmEwAAATAAAAU2tpbGxUYWdfMTlfVGFnTmFtZQA="
   },
   {
     "Id": 106,
-    "TagName": "SkillTag_20_TagName",
-    "TagColor": "2596a0"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAGoAAAAGAAAAMjU5NmEwAAATAAAAU2tpbGxUYWdfMjBfVGFnTmFtZQA="
   },
   {
     "Id": 111,
-    "TagName": "SkillTag_21_TagName",
-    "TagColor": "be8b1d"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAG8AAAAGAAAAYmU4YjFkAAATAAAAU2tpbGxUYWdfMjFfVGFnTmFtZQA="
   },
   {
     "Id": 112,
-    "TagName": "SkillTag_22_TagName",
-    "TagColor": "be8b1d"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAHAAAAAGAAAAYmU4YjFkAAATAAAAU2tpbGxUYWdfMjJfVGFnTmFtZQA="
   },
   {
     "Id": 113,
-    "TagName": "SkillTag_23_TagName",
-    "TagColor": "be8b1d"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAHEAAAAGAAAAYmU4YjFkAAATAAAAU2tpbGxUYWdfMjNfVGFnTmFtZQA="
   },
   {
     "Id": 114,
-    "TagName": "SkillTag_24_TagName",
-    "TagColor": "be8b1d"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAHIAAAAGAAAAYmU4YjFkAAATAAAAU2tpbGxUYWdfMjRfVGFnTmFtZQA="
   },
   {
     "Id": 115,
-    "TagName": "SkillTag_25_TagName",
-    "TagColor": "be8b1d"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAHMAAAAGAAAAYmU4YjFkAAATAAAAU2tpbGxUYWdfMjVfVGFnTmFtZQA="
   },
   {
     "Id": 116,
-    "TagName": "SkillTag_26_TagName",
-    "TagColor": "be8b1d"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAHQAAAAGAAAAYmU4YjFkAAATAAAAU2tpbGxUYWdfMjZfVGFnTmFtZQA="
   },
   {
     "Id": 201,
-    "TagName": "SkillTag_27_TagName",
-    "TagColor": "2596a0"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAMkAAAAGAAAAMjU5NmEwAAATAAAAU2tpbGxUYWdfMjdfVGFnTmFtZQA="
   },
   {
     "Id": 202,
-    "TagName": "SkillTag_28_TagName",
-    "TagColor": "2596a0"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAMoAAAAGAAAAMjU5NmEwAAATAAAAU2tpbGxUYWdfMjhfVGFnTmFtZQA="
   },
   {
     "Id": 203,
-    "TagName": "SkillTag_29_TagName",
-    "TagColor": "2596a0"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAMsAAAAGAAAAMjU5NmEwAAATAAAAU2tpbGxUYWdfMjlfVGFnTmFtZQA="
   },
   {
     "Id": 204,
-    "TagName": "SkillTag_30_TagName",
-    "TagColor": "2596a0"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAMwAAAAGAAAAMjU5NmEwAAATAAAAU2tpbGxUYWdfMzBfVGFnTmFtZQA="
   },
   {
     "Id": 205,
-    "TagName": "SkillTag_31_TagName",
-    "TagColor": "2596a0"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAM0AAAAGAAAAMjU5NmEwAAATAAAAU2tpbGxUYWdfMzFfVGFnTmFtZQA="
   },
   {
     "Id": 301,
-    "TagName": "SkillTag_32_TagName",
-    "TagColor": "2596a0"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAC0BAAAGAAAAMjU5NmEwAAATAAAAU2tpbGxUYWdfMzJfVGFnTmFtZQA="
   },
   {
     "Id": 302,
-    "TagName": "SkillTag_33_TagName",
-    "TagColor": "2596a0"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAC4BAAAGAAAAMjU5NmEwAAATAAAAU2tpbGxUYWdfMzNfVGFnTmFtZQA="
   },
   {
     "Id": 303,
-    "TagName": "SkillTag_34_TagName",
-    "TagColor": "2596a0"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAC8BAAAGAAAAMjU5NmEwAAATAAAAU2tpbGxUYWdfMzRfVGFnTmFtZQA="
   },
   {
     "Id": 304,
-    "TagName": "SkillTag_35_TagName",
-    "TagColor": "2596a0"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAADABAAAGAAAAMjU5NmEwAAATAAAAU2tpbGxUYWdfMzVfVGFnTmFtZQA="
   },
   {
     "Id": 305,
-    "TagName": "SkillTag_36_TagName",
-    "TagColor": "2596a0"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAADEBAAAGAAAAMjU5NmEwAAATAAAAU2tpbGxUYWdfMzZfVGFnTmFtZQA="
   },
   {
     "Id": 9,
-    "TagName": "SkillTag_37_TagName",
-    "TagColor": "6d25a0"
+    "BinData": "EAAAAAAACgAQAAwACAAEAAoAAAAMAAAAFAAAAAkAAAAGAAAANmQyNWEwAAATAAAAU2tpbGxUYWdfMzdfVGFnTmFtZQA="
   }
 ]

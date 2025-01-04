@@ -1714,5 +1714,27 @@
     "NpcDensity": 2,
     "Bloom": 1,
     "OtherCommand": ""
+  },
+  {
+    "Id": 501,
+    "DeviceId": 51,
+    "QualityType": 3,
+    "DefaultQuality": 1,
+    "FPS": 60,
+    "ShadowQuality": 3,
+    "FxQuality": 2,
+    "ImageDetail": 2,
+    "AntiAliasing": 1,
+    "AO": 1,
+    "VolumeFog": 0,
+    "VolumeLight": 1,
+    "MotionBlur": 0,
+    "StreamLevel": 2,
+    "VSync": 0,
+    "ScreenPercentage": 3,
+    "SuperResolution": 2,
+    "NpcDensity": 2,
+    "Bloom": 1,
+    "OtherCommand": ""
   }
 ]

@@ -161261,7 +161261,7 @@
   {
     "Id": -4827780,
     "SpecType": 1,
-    "EffectRegularType": 6,
+    "EffectRegularType": 7,
     "LifeTime": -1,
     "Children": []
   },
@@ -165640,7 +165640,7 @@
     "Id": 2145053025,
     "SpecType": 1,
     "EffectRegularType": 2,
-    "LifeTime": 20000,
+    "LifeTime": 35000,
     "Children": []
   },
   {
@@ -165661,7 +165661,7 @@
     "Id": -1609671589,
     "SpecType": 0,
     "EffectRegularType": 2,
-    "LifeTime": 20000,
+    "LifeTime": 35000,
     "Children": [
       2145053025
     ]
@@ -167801,6 +167801,20 @@
   },
   {
     "Id": 1718878043,
+    "SpecType": 2,
+    "EffectRegularType": -1,
+    "LifeTime": -1,
+    "Children": []
+  },
+  {
+    "Id": -1764047715,
+    "SpecType": 2,
+    "EffectRegularType": -1,
+    "LifeTime": -1,
+    "Children": []
+  },
+  {
+    "Id": 814287623,
     "SpecType": 2,
     "EffectRegularType": -1,
     "LifeTime": -1,

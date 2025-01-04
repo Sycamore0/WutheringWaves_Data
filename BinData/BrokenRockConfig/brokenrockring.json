@@ -382,7 +382,8 @@
     "ColdTime": 200,
     "MultiBoxGroup": 1,
     "Offset": [
-      -180
+      -180,
+      0
     ],
     "IsAnticlockwise": false
   },

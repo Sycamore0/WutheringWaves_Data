@@ -5218,9 +5218,5 @@
   {
     "Id": "PhonographSwitchBtnSelect",
     "Text": "PhonographSwitchBtnSelect"
-  },
-  {
-    "Id": "PhonographSwitchMusicCancel",
-    "Text": "PhonographSwitchMusicCancel"
   }
 ]
