@@ -3,4 +3,4 @@
 > Client region: Global</br>
 > Status: Release</br>
 > Game Version: 2.0.0</br>
-> Resource Version: 2.0.12</br>
+> Resource Version: 2.0.13</br>

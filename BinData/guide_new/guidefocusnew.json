@@ -28756,9 +28756,10 @@
     ],
     "LimitInputEnums": [
       "切换角色2",
-      "UI左键点击"
+      "UI左键点击",
+      "显示鼠标"
     ],
-    "ShowMouse": false,
+    "ShowMouse": true,
     "UseMask": true,
     "UseClick": false,
     "ClickAnywhere": false,
@@ -28783,10 +28784,11 @@
     "Button": [],
     "InputEnums": [],
     "LimitInputEnums": [
-      "切换角色2",
-      "UI左键点击"
+      "切换角色1",
+      "UI左键点击",
+      "显示鼠标"
     ],
-    "ShowMouse": false,
+    "ShowMouse": true,
     "UseMask": true,
     "UseClick": true,
     "ClickAnywhere": false,
@@ -28816,9 +28818,10 @@
     ],
     "LimitInputEnums": [
       "切换角色2",
-      "UI左键点击"
+      "UI左键点击",
+      "显示鼠标"
     ],
-    "ShowMouse": false,
+    "ShowMouse": true,
     "UseMask": true,
     "UseClick": false,
     "ClickAnywhere": false,
