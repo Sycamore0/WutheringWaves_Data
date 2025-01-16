@@ -316,7 +316,7 @@
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAchv256/T_IconAchv256_010.T_IconAchv256_010",
     "BackgroundIcon": "/Game/Aki/UI/UIResources/UiAchievement/Image/T_AchievementBg3.T_AchievementBg3",
     "DropId": 0,
-    "Enable": false
+    "Enable": true
   },
   {
     "Id": 2005,
@@ -327,7 +327,7 @@
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAchv256/T_IconAchv256_007.T_IconAchv256_007",
     "BackgroundIcon": "/Game/Aki/UI/UIResources/UiAchievement/Image/T_AchievementBg3.T_AchievementBg3",
     "DropId": 0,
-    "Enable": false
+    "Enable": true
   },
   {
     "Id": 1007,
@@ -338,7 +338,7 @@
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAchv256/T_IconAchv256_017.T_IconAchv256_017",
     "BackgroundIcon": "/Game/Aki/UI/UIResources/UiAchievement/Image/T_AchievementBg1.T_AchievementBg1",
     "DropId": 0,
-    "Enable": false
+    "Enable": true
   },
   {
     "Id": 1008,
@@ -347,9 +347,9 @@
     "Name": "AchievementGroup_1008_Name",
     "SmallIcon": "/Game/Aki/UI/UIResources/Common/Image/IconAchv/T_IconAchv_017.T_IconAchv_017",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAchv256/T_IconAchv256_017.T_IconAchv256_017",
-    "BackgroundIcon": "/Game/Aki/UI/UIResources/UiAchievement/Image/T_AchievementBg1.T_AchievementBg1",
+    "BackgroundIcon": "/Game/Aki/UI/UIResources/UiAchievement/Image/T_AchievementBg9.T_AchievementBg9",
     "DropId": 100308,
-    "Enable": false
+    "Enable": true
   },
   {
     "Id": 1009,
@@ -358,9 +358,9 @@
     "Name": "AchievementGroup_1009_Name",
     "SmallIcon": "/Game/Aki/UI/UIResources/Common/Image/IconAchv/T_IconAchv_017.T_IconAchv_017",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAchv256/T_IconAchv256_017.T_IconAchv256_017",
-    "BackgroundIcon": "/Game/Aki/UI/UIResources/UiAchievement/Image/T_AchievementBg1.T_AchievementBg1",
+    "BackgroundIcon": "/Game/Aki/UI/UIResources/UiAchievement/Image/T_AchievementBg10.T_AchievementBg10",
     "DropId": 100309,
-    "Enable": false
+    "Enable": true
   },
   {
     "Id": 3007,
@@ -369,7 +369,7 @@
     "Name": "AchievementGroup_3007_Name",
     "SmallIcon": "/Game/Aki/UI/UIResources/Common/Image/IconAchv/T_IconAchv_015.T_IconAchv_015",
     "Icon": "/Game/Aki/UI/UIResources/Common/Image/IconAchv256/T_IconAchv256_015.T_IconAchv256_015",
-    "BackgroundIcon": "/Game/Aki/UI/UIResources/UiAchievement/Image/T_AchievementBg3.T_AchievementBg3",
+    "BackgroundIcon": "/Game/Aki/UI/UIResources/UiAchievement/Image/T_AchievementBg811.T_AchievementBg811",
     "DropId": 100310,
     "Enable": true
   },

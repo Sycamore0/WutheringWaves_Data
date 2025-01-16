@@ -243,5 +243,10 @@
     "Id": 52,
     "SecondName": "NpcHeadInfo_52_SecondName",
     "FunctionPath": "/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Play_01_UI.T_IconMap_Play_01_UI"
+  },
+  {
+    "Id": 59,
+    "SecondName": "NpcHeadInfo_59_SecondName",
+    "FunctionPath": "/Game/Aki/UI/UIResources/Common/Image/IconWorldMap/T_IconMap_Shop_06_UI.T_IconMap_Shop_06_UI"
   }
 ]

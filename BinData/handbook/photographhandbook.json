@@ -675,5 +675,279 @@
     "RoleName": "",
     "QuestId": 0,
     "ShowQuestList": []
+  },
+  {
+    "Id": 100014,
+    "Type": 10500,
+    "Name": "QuestHandBook_100014_Name",
+    "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/ArchiveView/T_ArchiveView_10.T_ArchiveView_10",
+    "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/ArchiveView/T_ArchiveView_10.T_ArchiveView_10",
+    "Descrtption": "QuestHandBook_100014_Descrtption",
+    "AreaIcon": "/Game/Aki/UI/UIResources/UiArchive/Atlas/SP_ArchiveAreaLinaxita.SP_ArchiveAreaLinaxita",
+    "AreaNumber": "/Game/Aki/UI/UIResources/Common/Image/ComImg/T_ComRomeText_00.T_ComRomeText_00",
+    "RoleName": "",
+    "QuestId": 114000026,
+    "ShowQuestList": [
+      114000026
+    ]
+  },
+  {
+    "Id": 100015,
+    "Type": 10500,
+    "Name": "QuestHandBook_100015_Name",
+    "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/ArchiveView/T_ArchiveView_11.T_ArchiveView_11",
+    "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/ArchiveView/T_ArchiveView_11.T_ArchiveView_11",
+    "Descrtption": "QuestHandBook_100015_Descrtption",
+    "AreaIcon": "/Game/Aki/UI/UIResources/UiArchive/Atlas/SP_ArchiveAreaLinaxita.SP_ArchiveAreaLinaxita",
+    "AreaNumber": "/Game/Aki/UI/UIResources/Common/Image/ComImg/T_ComRomeText_01.T_ComRomeText_01",
+    "RoleName": "",
+    "QuestId": 114000027,
+    "ShowQuestList": [
+      114000027
+    ]
+  },
+  {
+    "Id": 100016,
+    "Type": 10500,
+    "Name": "QuestHandBook_100016_Name",
+    "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/ArchiveView/T_ArchiveView_12.T_ArchiveView_12",
+    "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/ArchiveView/T_ArchiveView_12.T_ArchiveView_12",
+    "Descrtption": "QuestHandBook_100016_Descrtption",
+    "AreaIcon": "/Game/Aki/UI/UIResources/UiArchive/Atlas/SP_ArchiveAreaLinaxita.SP_ArchiveAreaLinaxita",
+    "AreaNumber": "/Game/Aki/UI/UIResources/Common/Image/ComImg/T_ComRomeText_02.T_ComRomeText_02",
+    "RoleName": "",
+    "QuestId": 114000030,
+    "ShowQuestList": [
+      114000028,
+      114000030
+    ]
+  },
+  {
+    "Id": 100017,
+    "Type": 10500,
+    "Name": "QuestHandBook_100017_Name",
+    "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/ArchiveView/T_ArchiveView_13.T_ArchiveView_13",
+    "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/ArchiveView/T_ArchiveView_13.T_ArchiveView_13",
+    "Descrtption": "QuestHandBook_100017_Descrtption",
+    "AreaIcon": "/Game/Aki/UI/UIResources/UiArchive/Atlas/SP_ArchiveAreaLinaxita.SP_ArchiveAreaLinaxita",
+    "AreaNumber": "/Game/Aki/UI/UIResources/Common/Image/ComImg/T_ComRomeText_03.T_ComRomeText_03",
+    "RoleName": "",
+    "QuestId": 114000029,
+    "ShowQuestList": [
+      140000011,
+      114000029
+    ]
+  },
+  {
+    "Id": 101008,
+    "Type": 10600,
+    "Name": "QuestHandBook_101008_Name",
+    "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/ArchiveRole/T_ArchiveRole_20.T_ArchiveRole_20",
+    "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/ArchiveRole/T_ArchiveRole_20.T_ArchiveRole_20",
+    "Descrtption": "QuestHandBook_101008_Descrtption",
+    "AreaIcon": "",
+    "AreaNumber": "",
+    "RoleName": "",
+    "QuestId": 121000037,
+    "ShowQuestList": [
+      121000037
+    ]
+  },
+  {
+    "Id": 101009,
+    "Type": 10600,
+    "Name": "QuestHandBook_101009_Name",
+    "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/ArchiveRole/T_ArchiveRole_21.T_ArchiveRole_21",
+    "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/ArchiveRole/T_ArchiveRole_21.T_ArchiveRole_21",
+    "Descrtption": "QuestHandBook_101009_Descrtption",
+    "AreaIcon": "",
+    "AreaNumber": "",
+    "RoleName": "",
+    "QuestId": 154000000,
+    "ShowQuestList": [
+      154000000
+    ]
+  },
+  {
+    "Id": 50,
+    "Type": 111,
+    "Name": "PhotographHandBook_60_Name",
+    "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_2_0_CG04.T_StoryPhoto_2_0_CG04",
+    "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_2_0_CG04.T_StoryPhoto_2_0_CG04",
+    "Descrtption": "PhotographHandBook_60_Descrtption",
+    "AreaIcon": "",
+    "AreaNumber": "",
+    "RoleName": "",
+    "QuestId": 0,
+    "ShowQuestList": []
+  },
+  {
+    "Id": 51,
+    "Type": 111,
+    "Name": "PhotographHandBook_50_Name",
+    "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0250.T_StoryPhoto_M0250",
+    "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0250.T_StoryPhoto_M0250",
+    "Descrtption": "PhotographHandBook_50_Descrtption",
+    "AreaIcon": "",
+    "AreaNumber": "",
+    "RoleName": "",
+    "QuestId": 0,
+    "ShowQuestList": []
+  },
+  {
+    "Id": 52,
+    "Type": 113,
+    "Name": "PhotographHandBook_59_Name",
+    "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_2_0_CG03_a.T_StoryPhoto_2_0_CG03_a",
+    "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_2_0_CG03_b.T_StoryPhoto_2_0_CG03_b",
+    "Descrtption": "PhotographHandBook_59_Descrtption",
+    "AreaIcon": "",
+    "AreaNumber": "",
+    "RoleName": "",
+    "QuestId": 0,
+    "ShowQuestList": []
+  },
+  {
+    "Id": 53,
+    "Type": 113,
+    "Name": "PhotographHandBook_51_Name",
+    "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0253.T_StoryPhoto_M0253",
+    "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0253.T_StoryPhoto_M0253",
+    "Descrtption": "PhotographHandBook_51_Descrtption",
+    "AreaIcon": "",
+    "AreaNumber": "",
+    "RoleName": "",
+    "QuestId": 0,
+    "ShowQuestList": []
+  },
+  {
+    "Id": 54,
+    "Type": 114,
+    "Name": "PhotographHandBook_52_Name",
+    "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0254.T_StoryPhoto_M0254",
+    "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0254.T_StoryPhoto_M0254",
+    "Descrtption": "PhotographHandBook_52_Descrtption",
+    "AreaIcon": "",
+    "AreaNumber": "",
+    "RoleName": "",
+    "QuestId": 0,
+    "ShowQuestList": []
+  },
+  {
+    "Id": 55,
+    "Type": 114,
+    "Name": "PhotographHandBook_58_Name",
+    "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_2_0_CG02_a.T_StoryPhoto_2_0_CG02_a",
+    "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_2_0_CG02_b.T_StoryPhoto_2_0_CG02_b",
+    "Descrtption": "PhotographHandBook_58_Descrtption",
+    "AreaIcon": "",
+    "AreaNumber": "",
+    "RoleName": "",
+    "QuestId": 0,
+    "ShowQuestList": []
+  },
+  {
+    "Id": 56,
+    "Type": 114,
+    "Name": "PhotographHandBook_57_Name",
+    "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_2_0_CG01_a.T_StoryPhoto_2_0_CG01_a",
+    "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_2_0_CG01_b.T_StoryPhoto_2_0_CG01_b",
+    "Descrtption": "PhotographHandBook_57_Descrtption",
+    "AreaIcon": "",
+    "AreaNumber": "",
+    "RoleName": "",
+    "QuestId": 0,
+    "ShowQuestList": []
+  },
+  {
+    "Id": 57,
+    "Type": 114,
+    "Name": "PhotographHandBook_53_Name",
+    "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0255.T_StoryPhoto_M0255",
+    "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0255.T_StoryPhoto_M0255",
+    "Descrtption": "PhotographHandBook_53_Descrtption",
+    "AreaIcon": "",
+    "AreaNumber": "",
+    "RoleName": "",
+    "QuestId": 0,
+    "ShowQuestList": []
+  },
+  {
+    "Id": 58,
+    "Type": 114,
+    "Name": "PhotographHandBook_54_Name",
+    "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0256.T_StoryPhoto_M0256",
+    "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0256.T_StoryPhoto_M0256",
+    "Descrtption": "PhotographHandBook_54_Descrtption",
+    "AreaIcon": "",
+    "AreaNumber": "",
+    "RoleName": "",
+    "QuestId": 0,
+    "ShowQuestList": []
+  },
+  {
+    "Id": 59,
+    "Type": 114,
+    "Name": "PhotographHandBook_55_Name",
+    "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0257.T_StoryPhoto_M0257",
+    "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0257.T_StoryPhoto_M0257",
+    "Descrtption": "PhotographHandBook_55_Descrtption",
+    "AreaIcon": "",
+    "AreaNumber": "",
+    "RoleName": "",
+    "QuestId": 0,
+    "ShowQuestList": []
+  },
+  {
+    "Id": 60,
+    "Type": 114,
+    "Name": "PhotographHandBook_56_Name",
+    "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0259_a.T_StoryPhoto_M0259_a",
+    "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_M0259_b.T_StoryPhoto_M0259_b",
+    "Descrtption": "PhotographHandBook_56_Descrtption",
+    "AreaIcon": "",
+    "AreaNumber": "",
+    "RoleName": "",
+    "QuestId": 0,
+    "ShowQuestList": []
+  },
+  {
+    "Id": 1010,
+    "Type": 1010,
+    "Name": "PhotographHandBook_1010_Name",
+    "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_R0024_a.T_StoryPhoto_R0024_a",
+    "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_R0024_b.T_StoryPhoto_R0024_b",
+    "Descrtption": "PhotographHandBook_1010_Descrtption",
+    "AreaIcon": "",
+    "AreaNumber": "",
+    "RoleName": "",
+    "QuestId": 0,
+    "ShowQuestList": []
+  },
+  {
+    "Id": 1011,
+    "Type": 1010,
+    "Name": "PhotographHandBook_1011_Name",
+    "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_R0026_a.T_StoryPhoto_R0026_a",
+    "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_R0026_b.T_StoryPhoto_R0026_b",
+    "Descrtption": "PhotographHandBook_1011_Descrtption",
+    "AreaIcon": "",
+    "AreaNumber": "",
+    "RoleName": "",
+    "QuestId": 0,
+    "ShowQuestList": []
+  },
+  {
+    "Id": 1012,
+    "Type": 1011,
+    "Name": "PhotographHandBook_1012_Name",
+    "MaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_2_0_R0023.T_StoryPhoto_2_0_R0023",
+    "FemaleTexture": "/Game/Aki/UI/UIResources/Common/Image/Archive/T_StoryPhoto_2_0_R0023.T_StoryPhoto_2_0_R0023",
+    "Descrtption": "PhotographHandBook_1012_Descrtption",
+    "AreaIcon": "",
+    "AreaNumber": "",
+    "RoleName": "",
+    "QuestId": 0,
+    "ShowQuestList": []
   }
 ]

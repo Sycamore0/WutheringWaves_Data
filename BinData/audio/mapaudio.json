@@ -445,7 +445,7 @@
     "Name": "InstanceTree_Jinku_Main01",
     "Event": "map_main_jinku",
     "EnterEvent": "",
-    "ExitEvent": "",
+    "ExitEvent": "stop_interact_level_jinku_alarm",
     "ResetEvent": "",
     "MusicResetEvent": ""
   },
@@ -472,7 +472,7 @@
     "Name": "InstanceTree_Luokeke",
     "Event": "map_role_luokeke",
     "EnterEvent": "",
-    "ExitEvent": "",
+    "ExitEvent": "stop_interact_level_luokeke_kid_laugh_all",
     "ResetEvent": "",
     "MusicResetEvent": ""
   },

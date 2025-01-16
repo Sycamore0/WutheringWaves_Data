@@ -5397,7 +5397,7 @@
   {
     "Id": 100721,
     "GroupId": 1007,
-    "Level": 1,
+    "Level": 2,
     "Name": "Achievement_100721_Name",
     "Desc": "Achievement_100721_Desc",
     "IconPath": "",
@@ -5878,7 +5878,7 @@
   {
     "Id": 200509,
     "GroupId": 2005,
-    "Level": 1,
+    "Level": 2,
     "Name": "Achievement_200509_Name",
     "Desc": "Achievement_200509_Desc",
     "IconPath": "",
@@ -5917,7 +5917,7 @@
   {
     "Id": 200512,
     "GroupId": 2005,
-    "Level": 1,
+    "Level": 2,
     "Name": "Achievement_200512_Name",
     "Desc": "Achievement_200512_Desc",
     "IconPath": "",
@@ -6073,7 +6073,7 @@
   {
     "Id": 100257,
     "GroupId": 1009,
-    "Level": 1,
+    "Level": 2,
     "Name": "Achievement_100257_Name",
     "Desc": "Achievement_100257_Desc",
     "IconPath": "",
@@ -6086,7 +6086,7 @@
   {
     "Id": 100258,
     "GroupId": 1009,
-    "Level": 1,
+    "Level": 2,
     "Name": "Achievement_100258_Name",
     "Desc": "Achievement_100258_Desc",
     "IconPath": "",
@@ -6099,7 +6099,7 @@
   {
     "Id": 100259,
     "GroupId": 1009,
-    "Level": 1,
+    "Level": 2,
     "Name": "Achievement_100259_Name",
     "Desc": "Achievement_100259_Desc",
     "IconPath": "",
@@ -6112,7 +6112,7 @@
   {
     "Id": 100260,
     "GroupId": 1009,
-    "Level": 1,
+    "Level": 2,
     "Name": "Achievement_100260_Name",
     "Desc": "Achievement_100260_Desc",
     "IconPath": "",
@@ -6125,7 +6125,7 @@
   {
     "Id": 100261,
     "GroupId": 1009,
-    "Level": 1,
+    "Level": 2,
     "Name": "Achievement_100261_Name",
     "Desc": "Achievement_100261_Desc",
     "IconPath": "",
@@ -6138,7 +6138,7 @@
   {
     "Id": 100262,
     "GroupId": 1009,
-    "Level": 1,
+    "Level": 2,
     "Name": "Achievement_100262_Name",
     "Desc": "Achievement_100262_Desc",
     "IconPath": "",
@@ -6151,7 +6151,7 @@
   {
     "Id": 100263,
     "GroupId": 1009,
-    "Level": 1,
+    "Level": 2,
     "Name": "Achievement_100263_Name",
     "Desc": "Achievement_100263_Desc",
     "IconPath": "",
@@ -6487,19 +6487,6 @@
     "ThirdPartyTrophyId": -1
   },
   {
-    "Id": 100290,
-    "GroupId": 1007,
-    "Level": 1,
-    "Name": "Achievement_100290_Name",
-    "Desc": "Achievement_100290_Desc",
-    "IconPath": "",
-    "OverrideDropId": 0,
-    "Hidden": false,
-    "NextLink": -1,
-    "ClientTrigger": false,
-    "ThirdPartyTrophyId": -1
-  },
-  {
     "Id": 100291,
     "GroupId": 1007,
     "Level": 1,
@@ -6752,19 +6739,6 @@
     "Level": 2,
     "Name": "Achievement_100311_Name",
     "Desc": "Achievement_100311_Desc",
-    "IconPath": "",
-    "OverrideDropId": 0,
-    "Hidden": false,
-    "NextLink": -1,
-    "ClientTrigger": false,
-    "ThirdPartyTrophyId": -1
-  },
-  {
-    "Id": 100311,
-    "GroupId": 1007,
-    "Level": 2,
-    "Name": "Achievement_100312_Name",
-    "Desc": "Achievement_100312_Desc",
     "IconPath": "",
     "OverrideDropId": 0,
     "Hidden": false,

@@ -579,7 +579,7 @@
     "CgId": 197,
     "CgName": "C0009",
     "GirlOrBoy": 1,
-    "CgFile": "/Game/Aki/Sequence/LevelA_Seq/Roles/02/LuoKeKe01/C0009/C0009_Nanzhu.C0009_Nanzhu",
+    "CgFile": "/Game/Aki/Sequence/LevelA_Seq/Roles/02/LuoKeKe01/C0009/C0009.C0009",
     "CanSkip": false,
     "Aspect": 2.38
   },
@@ -587,7 +587,7 @@
     "CgId": 198,
     "CgName": "C0009",
     "GirlOrBoy": 0,
-    "CgFile": "/Game/Aki/Sequence/LevelA_Seq/Roles/02/LuoKeKe01/C0009/C0009_Nvzhu.C0009_Nvzhu",
+    "CgFile": "/Game/Aki/Sequence/LevelA_Seq/Roles/02/LuoKeKe01/C0009/C0009.C0009",
     "CanSkip": false,
     "Aspect": 2.38
   },

@@ -887,7 +887,7 @@
   {
     "Id": 1042,
     "ViewName": "ForgingRootView",
-    "DefaultUiCameraSettingsName": "1061",
+    "DefaultUiCameraSettingsName": "800031",
     "IsCheckSpecialState": false,
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,
@@ -1699,7 +1699,7 @@
   {
     "Id": 1077,
     "ViewName": "ComposeCarryOnView",
-    "DefaultUiCameraSettingsName": "1061",
+    "DefaultUiCameraSettingsName": "800031",
     "IsCheckSpecialState": false,
     "SpecialStateCameraSettingName": "1002",
     "bPlayLoadingCameraAnimation": true,

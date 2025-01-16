@@ -110,6 +110,16 @@
     "Type": 7
   },
   {
+    "Id": 10500,
+    "TypeDescription": "PlotType_10015_TypeDescription",
+    "Type": 9
+  },
+  {
+    "Id": 10600,
+    "TypeDescription": "PlotType_10016_TypeDescription",
+    "Type": 8
+  },
+  {
     "Id": 111,
     "TypeDescription": "PlotType_111_TypeDescription",
     "Type": 7
@@ -127,6 +137,16 @@
   {
     "Id": 114,
     "TypeDescription": "PlotType_114_TypeDescription",
+    "Type": 7
+  },
+  {
+    "Id": 1010,
+    "TypeDescription": "PlotType_1010_TypeDescription",
+    "Type": 7
+  },
+  {
+    "Id": 1011,
+    "TypeDescription": "PlotType_1011_TypeDescription",
     "Type": 7
   }
 ]

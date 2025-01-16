@@ -1135,5 +1135,14 @@
     ],
     "Cd": 0,
     "Share": true
+  },
+  {
+    "Id": 70050045,
+    "PublicCdGroup": 8,
+    "Buffs": [
+      83010902
+    ],
+    "Cd": 0,
+    "Share": true
   }
 ]

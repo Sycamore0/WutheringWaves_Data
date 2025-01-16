@@ -80,14 +80,6 @@
     "JumpId": 855024
   },
   {
-    "TaskId": 11,
-    "ActivityId": 103200001,
-    "Name": "MapTravelTaskName_11",
-    "TaskReward": 5080230,
-    "AreaId": 18,
-    "JumpId": 855026
-  },
-  {
     "TaskId": 12,
     "ActivityId": 103200001,
     "Name": "MapTravelTaskName_10",

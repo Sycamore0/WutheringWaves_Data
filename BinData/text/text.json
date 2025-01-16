@@ -5218,5 +5218,13 @@
   {
     "Id": "PhonographSwitchBtnSelect",
     "Text": "PhonographSwitchBtnSelect"
+  },
+  {
+    "Id": "PhonographSwitchMusicCancel",
+    "Text": "PhonographSwitchMusicCancel"
+  },
+  {
+    "Id": "DropShowPlanLevelTitle",
+    "Text": "DropShowPlanLevelTitle"
   }
 ]

@@ -14,9 +14,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -36,7 +36,7 @@
     "PhantomSkillId": 1011,
     "UnlockTextId": "ExploreTips2",
     "LockTextId": "ExploreTips1",
-    "UnlockConditionId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -80,7 +80,7 @@
     "PhantomSkillId": 1012,
     "UnlockTextId": "ExploreTips4",
     "LockTextId": "ExploreTips3",
-    "UnlockConditionId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -100,7 +100,7 @@
     "PhantomSkillId": 1011,
     "UnlockTextId": "ExploreTips2",
     "LockTextId": "ExploreTips1",
-    "UnlockConditionId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -144,7 +144,7 @@
     "PhantomSkillId": 1012,
     "UnlockTextId": "ExploreTips4",
     "LockTextId": "ExploreTips3",
-    "UnlockConditionId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -162,9 +162,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -184,7 +184,7 @@
     "PhantomSkillId": 1011,
     "UnlockTextId": "ExploreTips2",
     "LockTextId": "ExploreTips1",
-    "UnlockConditionId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -228,7 +228,7 @@
     "PhantomSkillId": 1012,
     "UnlockTextId": "ExploreTips4",
     "LockTextId": "ExploreTips3",
-    "UnlockConditionId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -246,9 +246,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -266,9 +266,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -288,7 +288,7 @@
     "PhantomSkillId": 1011,
     "UnlockTextId": "ExploreTips2",
     "LockTextId": "ExploreTips1",
-    "UnlockConditionId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -332,7 +332,7 @@
     "PhantomSkillId": 1012,
     "UnlockTextId": "ExploreTips4",
     "LockTextId": "ExploreTips3",
-    "UnlockConditionId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -350,9 +350,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -370,9 +370,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -392,7 +392,7 @@
     "PhantomSkillId": 1011,
     "UnlockTextId": "ExploreTips2",
     "LockTextId": "ExploreTips1",
-    "UnlockConditionId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -436,7 +436,7 @@
     "PhantomSkillId": 1012,
     "UnlockTextId": "ExploreTips4",
     "LockTextId": "ExploreTips3",
-    "UnlockConditionId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -454,9 +454,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -474,9 +474,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -496,7 +496,7 @@
     "PhantomSkillId": 1011,
     "UnlockTextId": "ExploreTips2",
     "LockTextId": "ExploreTips1",
-    "UnlockConditionId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -540,7 +540,7 @@
     "PhantomSkillId": 1012,
     "UnlockTextId": "ExploreTips4",
     "LockTextId": "ExploreTips3",
-    "UnlockConditionId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -558,9 +558,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -578,9 +578,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -602,9 +602,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -624,7 +624,7 @@
     "PhantomSkillId": 1011,
     "UnlockTextId": "ExploreTips2",
     "LockTextId": "ExploreTips1",
-    "UnlockConditionId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -668,7 +668,7 @@
     "PhantomSkillId": 1012,
     "UnlockTextId": "ExploreTips4",
     "LockTextId": "ExploreTips3",
-    "UnlockConditionId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -686,9 +686,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -706,9 +706,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -730,9 +730,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -752,7 +752,7 @@
     "PhantomSkillId": 1011,
     "UnlockTextId": "ExploreTips2",
     "LockTextId": "ExploreTips1",
-    "UnlockConditionId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -796,7 +796,7 @@
     "PhantomSkillId": 1012,
     "UnlockTextId": "ExploreTips4",
     "LockTextId": "ExploreTips3",
-    "UnlockConditionId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -814,9 +814,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -834,9 +834,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -858,9 +858,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -880,7 +880,7 @@
     "PhantomSkillId": 1011,
     "UnlockTextId": "ExploreTips2",
     "LockTextId": "ExploreTips1",
-    "UnlockConditionId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -924,7 +924,7 @@
     "PhantomSkillId": 1012,
     "UnlockTextId": "ExploreTips4",
     "LockTextId": "ExploreTips3",
-    "UnlockConditionId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -942,9 +942,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -962,9 +962,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -986,9 +986,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -1006,9 +1006,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -1026,9 +1026,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -1050,9 +1050,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -1074,9 +1074,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -1098,9 +1098,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -1120,7 +1120,7 @@
     "PhantomSkillId": 1011,
     "UnlockTextId": "ExploreTips2",
     "LockTextId": "ExploreTips1",
-    "UnlockConditionId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -1164,7 +1164,7 @@
     "PhantomSkillId": 1012,
     "UnlockTextId": "ExploreTips4",
     "LockTextId": "ExploreTips3",
-    "UnlockConditionId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -1182,9 +1182,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -1202,9 +1202,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -1226,9 +1226,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -1248,7 +1248,7 @@
     "PhantomSkillId": 1011,
     "UnlockTextId": "ExploreTips2",
     "LockTextId": "ExploreTips1",
-    "UnlockConditionId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -1292,7 +1292,7 @@
     "PhantomSkillId": 1012,
     "UnlockTextId": "ExploreTips4",
     "LockTextId": "ExploreTips3",
-    "UnlockConditionId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -1310,9 +1310,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -1334,9 +1334,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -1358,9 +1358,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -1378,9 +1378,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -1398,9 +1398,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -1418,9 +1418,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -1438,9 +1438,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -1458,9 +1458,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -1478,9 +1478,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -1498,9 +1498,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -1518,9 +1518,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -1538,9 +1538,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -1562,9 +1562,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -1608,7 +1608,7 @@
     "PhantomSkillId": 1012,
     "UnlockTextId": "ExploreTips4",
     "LockTextId": "ExploreTips3",
-    "UnlockConditionId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -1626,9 +1626,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -1646,9 +1646,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -1670,9 +1670,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -1716,7 +1716,7 @@
     "PhantomSkillId": 1012,
     "UnlockTextId": "ExploreTips4",
     "LockTextId": "ExploreTips3",
-    "UnlockConditionId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -1734,9 +1734,9 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
@@ -1754,13 +1754,1426 @@
       }
     ],
     "PhantomSkillId": 0,
-    "UnlockTextId": "ExploreLevelDefaultUnlockText",
-    "LockTextId": "ExploreLevelDefaultLockText",
-    "UnlockConditionId": "",
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
     "SpecialPlayerMap": [],
     "IsRecommend": false,
     "IsShowProgress": false,
     "IsShowTrack": false,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1101,
+    "Area": 16,
+    "ExploreType": 2,
+    "SubTypeScore": [
+      {
+        "Key": 5,
+        "Value": 5
+      },
+      {
+        "Key": 6,
+        "Value": 10
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": false,
+    "IsShowProgress": false,
+    "IsShowTrack": false,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1108,
+    "Area": 16,
+    "ExploreType": 23,
+    "SubTypeScore": [
+      {
+        "Key": 34,
+        "Value": 2
+      }
+    ],
+    "PhantomSkillId": 1011,
+    "UnlockTextId": "ExploreTips2",
+    "LockTextId": "ExploreTips1",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": false,
+    "IsShowProgress": false,
+    "IsShowTrack": false,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1201,
+    "Area": 17,
+    "ExploreType": 2,
+    "SubTypeScore": [
+      {
+        "Key": 5,
+        "Value": 5
+      },
+      {
+        "Key": 6,
+        "Value": 10
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": false,
+    "IsShowProgress": false,
+    "IsShowTrack": false,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1202,
+    "Area": 17,
+    "ExploreType": 12,
+    "SubTypeScore": [
+      {
+        "Key": 20,
+        "Value": 15
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1203,
+    "Area": 17,
+    "ExploreType": 13,
+    "SubTypeScore": [
+      {
+        "Key": 21,
+        "Value": 10
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1204,
+    "Area": 17,
+    "ExploreType": 14,
+    "SubTypeScore": [
+      {
+        "Key": 22,
+        "Value": 15
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1205,
+    "Area": 17,
+    "ExploreType": 15,
+    "SubTypeScore": [
+      {
+        "Key": 23,
+        "Value": 10
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1206,
+    "Area": 17,
+    "ExploreType": 16,
+    "SubTypeScore": [
+      {
+        "Key": 24,
+        "Value": 15
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1207,
+    "Area": 17,
+    "ExploreType": 17,
+    "SubTypeScore": [
+      {
+        "Key": 25,
+        "Value": 5
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1208,
+    "Area": 17,
+    "ExploreType": 18,
+    "SubTypeScore": [
+      {
+        "Key": 26,
+        "Value": 25
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 12400001,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1301,
+    "Area": 18,
+    "ExploreType": 2,
+    "SubTypeScore": [
+      {
+        "Key": 5,
+        "Value": 5
+      },
+      {
+        "Key": 6,
+        "Value": 10
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": false,
+    "IsShowProgress": false,
+    "IsShowTrack": false,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1302,
+    "Area": 18,
+    "ExploreType": 12,
+    "SubTypeScore": [
+      {
+        "Key": 20,
+        "Value": 15
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1303,
+    "Area": 18,
+    "ExploreType": 13,
+    "SubTypeScore": [
+      {
+        "Key": 21,
+        "Value": 10
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1304,
+    "Area": 18,
+    "ExploreType": 14,
+    "SubTypeScore": [
+      {
+        "Key": 22,
+        "Value": 15
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 12400008,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1305,
+    "Area": 18,
+    "ExploreType": 15,
+    "SubTypeScore": [
+      {
+        "Key": 23,
+        "Value": 10
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1306,
+    "Area": 18,
+    "ExploreType": 16,
+    "SubTypeScore": [
+      {
+        "Key": 24,
+        "Value": 15
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1307,
+    "Area": 18,
+    "ExploreType": 17,
+    "SubTypeScore": [
+      {
+        "Key": 25,
+        "Value": 5
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1308,
+    "Area": 18,
+    "ExploreType": 19,
+    "SubTypeScore": [
+      {
+        "Key": 27,
+        "Value": 10
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [
+      {
+        "Key": 3,
+        "Value": 1
+      }
+    ],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": "ExploreSpecialDesc_Text8"
+  },
+  {
+    "Id": 1401,
+    "Area": 19,
+    "ExploreType": 2,
+    "SubTypeScore": [
+      {
+        "Key": 5,
+        "Value": 5
+      },
+      {
+        "Key": 6,
+        "Value": 10
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": false,
+    "IsShowProgress": false,
+    "IsShowTrack": false,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1402,
+    "Area": 19,
+    "ExploreType": 12,
+    "SubTypeScore": [
+      {
+        "Key": 20,
+        "Value": 15
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1403,
+    "Area": 19,
+    "ExploreType": 13,
+    "SubTypeScore": [
+      {
+        "Key": 21,
+        "Value": 10
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1404,
+    "Area": 19,
+    "ExploreType": 14,
+    "SubTypeScore": [
+      {
+        "Key": 22,
+        "Value": 15
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1405,
+    "Area": 19,
+    "ExploreType": 15,
+    "SubTypeScore": [
+      {
+        "Key": 23,
+        "Value": 10
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1406,
+    "Area": 19,
+    "ExploreType": 16,
+    "SubTypeScore": [
+      {
+        "Key": 24,
+        "Value": 15
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1407,
+    "Area": 19,
+    "ExploreType": 17,
+    "SubTypeScore": [
+      {
+        "Key": 25,
+        "Value": 5
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1408,
+    "Area": 19,
+    "ExploreType": 23,
+    "SubTypeScore": [
+      {
+        "Key": 34,
+        "Value": 2
+      }
+    ],
+    "PhantomSkillId": 1011,
+    "UnlockTextId": "ExploreTips2",
+    "LockTextId": "ExploreTips1",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": false,
+    "IsShowProgress": false,
+    "IsShowTrack": false,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1501,
+    "Area": 20,
+    "ExploreType": 2,
+    "SubTypeScore": [
+      {
+        "Key": 5,
+        "Value": 5
+      },
+      {
+        "Key": 6,
+        "Value": 10
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": false,
+    "IsShowProgress": false,
+    "IsShowTrack": false,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1502,
+    "Area": 20,
+    "ExploreType": 12,
+    "SubTypeScore": [
+      {
+        "Key": 20,
+        "Value": 15
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1503,
+    "Area": 20,
+    "ExploreType": 13,
+    "SubTypeScore": [
+      {
+        "Key": 21,
+        "Value": 10
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1504,
+    "Area": 20,
+    "ExploreType": 14,
+    "SubTypeScore": [
+      {
+        "Key": 22,
+        "Value": 15
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1505,
+    "Area": 20,
+    "ExploreType": 15,
+    "SubTypeScore": [
+      {
+        "Key": 23,
+        "Value": 10
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1506,
+    "Area": 20,
+    "ExploreType": 16,
+    "SubTypeScore": [
+      {
+        "Key": 24,
+        "Value": 15
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1507,
+    "Area": 20,
+    "ExploreType": 17,
+    "SubTypeScore": [
+      {
+        "Key": 25,
+        "Value": 5
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1508,
+    "Area": 20,
+    "ExploreType": 23,
+    "SubTypeScore": [
+      {
+        "Key": 34,
+        "Value": 2
+      }
+    ],
+    "PhantomSkillId": 1011,
+    "UnlockTextId": "ExploreTips2",
+    "LockTextId": "ExploreTips1",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": false,
+    "IsShowProgress": false,
+    "IsShowTrack": false,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1601,
+    "Area": 21,
+    "ExploreType": 2,
+    "SubTypeScore": [
+      {
+        "Key": 6,
+        "Value": 10
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": false,
+    "IsShowProgress": false,
+    "IsShowTrack": false,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1602,
+    "Area": 21,
+    "ExploreType": 12,
+    "SubTypeScore": [
+      {
+        "Key": 20,
+        "Value": 15
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1603,
+    "Area": 21,
+    "ExploreType": 13,
+    "SubTypeScore": [
+      {
+        "Key": 21,
+        "Value": 10
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1604,
+    "Area": 21,
+    "ExploreType": 14,
+    "SubTypeScore": [
+      {
+        "Key": 22,
+        "Value": 15
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1605,
+    "Area": 21,
+    "ExploreType": 15,
+    "SubTypeScore": [
+      {
+        "Key": 23,
+        "Value": 10
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1606,
+    "Area": 21,
+    "ExploreType": 23,
+    "SubTypeScore": [
+      {
+        "Key": 34,
+        "Value": 2
+      }
+    ],
+    "PhantomSkillId": 1011,
+    "UnlockTextId": "ExploreTips2",
+    "LockTextId": "ExploreTips1",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": false,
+    "IsShowProgress": false,
+    "IsShowTrack": false,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1607,
+    "Area": 21,
+    "ExploreType": 17,
+    "SubTypeScore": [
+      {
+        "Key": 25,
+        "Value": 5
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1608,
+    "Area": 21,
+    "ExploreType": 18,
+    "SubTypeScore": [
+      {
+        "Key": 26,
+        "Value": 25
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 12400005,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1701,
+    "Area": 22,
+    "ExploreType": 2,
+    "SubTypeScore": [
+      {
+        "Key": 5,
+        "Value": 5
+      },
+      {
+        "Key": 6,
+        "Value": 10
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": false,
+    "IsShowProgress": false,
+    "IsShowTrack": false,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1702,
+    "Area": 22,
+    "ExploreType": 12,
+    "SubTypeScore": [
+      {
+        "Key": 20,
+        "Value": 15
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1703,
+    "Area": 22,
+    "ExploreType": 13,
+    "SubTypeScore": [
+      {
+        "Key": 21,
+        "Value": 10
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1704,
+    "Area": 22,
+    "ExploreType": 14,
+    "SubTypeScore": [
+      {
+        "Key": 22,
+        "Value": 15
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1705,
+    "Area": 22,
+    "ExploreType": 15,
+    "SubTypeScore": [
+      {
+        "Key": 23,
+        "Value": 10
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1706,
+    "Area": 22,
+    "ExploreType": 16,
+    "SubTypeScore": [
+      {
+        "Key": 24,
+        "Value": 15
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1707,
+    "Area": 22,
+    "ExploreType": 17,
+    "SubTypeScore": [
+      {
+        "Key": 25,
+        "Value": 5
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1708,
+    "Area": 22,
+    "ExploreType": 23,
+    "SubTypeScore": [
+      {
+        "Key": 34,
+        "Value": 2
+      }
+    ],
+    "PhantomSkillId": 1011,
+    "UnlockTextId": "ExploreTips2",
+    "LockTextId": "ExploreTips1",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": false,
+    "IsShowProgress": false,
+    "IsShowTrack": false,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1801,
+    "Area": 23,
+    "ExploreType": 2,
+    "SubTypeScore": [
+      {
+        "Key": 5,
+        "Value": 5
+      },
+      {
+        "Key": 6,
+        "Value": 10
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": false,
+    "IsShowProgress": false,
+    "IsShowTrack": false,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1802,
+    "Area": 23,
+    "ExploreType": 12,
+    "SubTypeScore": [
+      {
+        "Key": 20,
+        "Value": 15
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1803,
+    "Area": 23,
+    "ExploreType": 13,
+    "SubTypeScore": [
+      {
+        "Key": 21,
+        "Value": 10
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1804,
+    "Area": 23,
+    "ExploreType": 14,
+    "SubTypeScore": [
+      {
+        "Key": 22,
+        "Value": 15
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1805,
+    "Area": 23,
+    "ExploreType": 15,
+    "SubTypeScore": [
+      {
+        "Key": 23,
+        "Value": 10
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1806,
+    "Area": 23,
+    "ExploreType": 23,
+    "SubTypeScore": [
+      {
+        "Key": 34,
+        "Value": 2
+      }
+    ],
+    "PhantomSkillId": 1011,
+    "UnlockTextId": "ExploreTips2",
+    "LockTextId": "ExploreTips1",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": false,
+    "IsShowProgress": false,
+    "IsShowTrack": false,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1807,
+    "Area": 23,
+    "ExploreType": 17,
+    "SubTypeScore": [
+      {
+        "Key": 25,
+        "Value": 5
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1808,
+    "Area": 23,
+    "ExploreType": 18,
+    "SubTypeScore": [
+      {
+        "Key": 26,
+        "Value": 25
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 12400007,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1209,
+    "Area": 17,
+    "ExploreType": 23,
+    "SubTypeScore": [
+      {
+        "Key": 34,
+        "Value": 2
+      }
+    ],
+    "PhantomSkillId": 1011,
+    "UnlockTextId": "ExploreTips2",
+    "LockTextId": "ExploreTips1",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": false,
+    "IsShowProgress": false,
+    "IsShowTrack": false,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1309,
+    "Area": 18,
+    "ExploreType": 23,
+    "SubTypeScore": [
+      {
+        "Key": 34,
+        "Value": 2
+      }
+    ],
+    "PhantomSkillId": 1011,
+    "UnlockTextId": "ExploreTips2",
+    "LockTextId": "ExploreTips1",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": false,
+    "IsShowProgress": false,
+    "IsShowTrack": false,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1310,
+    "Area": 18,
+    "ExploreType": 18,
+    "SubTypeScore": [
+      {
+        "Key": 26,
+        "Value": 25
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 12400002,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1409,
+    "Area": 19,
+    "ExploreType": 18,
+    "SubTypeScore": [
+      {
+        "Key": 26,
+        "Value": 25
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 12400003,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1509,
+    "Area": 20,
+    "ExploreType": 20,
+    "SubTypeScore": [
+      {
+        "Key": 28,
+        "Value": 5
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1510,
+    "Area": 20,
+    "ExploreType": 18,
+    "SubTypeScore": [
+      {
+        "Key": 26,
+        "Value": 25
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 12400004,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1709,
+    "Area": 22,
+    "ExploreType": 18,
+    "SubTypeScore": [
+      {
+        "Key": 26,
+        "Value": 25
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 12400006,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1809,
+    "Area": 23,
+    "ExploreType": 21,
+    "SubTypeScore": [
+      {
+        "Key": 29,
+        "Value": 10
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1710,
+    "Area": 22,
+    "ExploreType": 25,
+    "SubTypeScore": [
+      {
+        "Key": 33,
+        "Value": 20
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1711,
+    "Area": 22,
+    "ExploreType": 24,
+    "SubTypeScore": [
+      {
+        "Key": 32,
+        "Value": 5
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
+    "SpecialPlayerDesc": ""
+  },
+  {
+    "Id": 1810,
+    "Area": 23,
+    "ExploreType": 22,
+    "SubTypeScore": [
+      {
+        "Key": 30,
+        "Value": 10
+      }
+    ],
+    "PhantomSkillId": 0,
+    "UnlockTextId": "",
+    "LockTextId": "",
+    "UnlockCondition": 0,
+    "SpecialPlayerMap": [],
+    "IsRecommend": true,
+    "IsShowProgress": true,
+    "IsShowTrack": true,
     "SpecialPlayerDesc": ""
   }
 ]

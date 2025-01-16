@@ -7349,7 +7349,7 @@
     "IsFullScreen": false,
     "CommonPopBg": -1,
     "CommonPopBgKey": "",
-    "ScenePath": "/Game/Aki/Map/UISceneLevel/UI_Scene/UL_UIMap_Character",
+    "ScenePath": "/Game/Aki/Map/UISceneLevel/UI_Scene/UL_UIMap_Monster",
     "IsPermanent": false,
     "StartBlackScreen": {
       "ShowAnimName": "",
@@ -19366,7 +19366,7 @@
     "EffectDelayTime": 0,
     "SetMaskActive": true,
     "TimeDilation": 1,
-    "IsAllowFightInput": true,
+    "IsAllowFightInput": false,
     "CanOpenViewByShortcutKey": false,
     "IsShortKeysExitView": false,
     "ScenePointTag": "",
@@ -20721,7 +20721,7 @@
   },
   {
     "ViewName": "LordGymChallengeFailView",
-    "Type": "Float",
+    "Type": "Pop",
     "LoadAsync": true,
     "ShowCursorType": 1,
     "ObstructUi": [],

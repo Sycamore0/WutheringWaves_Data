@@ -189,7 +189,7 @@
     "Id": 15,
     "WeatherType": 0,
     "Type": 1,
-    "DAPath": "/Game/Aki/Render/DefaultGI/LevelGIData/Leve_TOD_Linaxita/Weather/DA_Weather_LNXT_FFSP_Afternoon.DA_Weather_LNXT_FFSP_Afternoon"
+    "DAPath": "/Game/Aki/Render/DefaultGI/LevelGIData/Leve_TOD_Linaxita/Weather/DA_Weather_FFSP_Afternoon.DA_Weather_FFSP_Afternoon"
   },
   {
     "Id": 16,

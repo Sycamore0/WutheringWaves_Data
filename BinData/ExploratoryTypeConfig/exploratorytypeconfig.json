@@ -201,5 +201,12 @@
     "Name": "钩索声匣",
     "BelongType": 0,
     "Desc": ""
+  },
+  {
+    "Id": 900035,
+    "Key": 100,
+    "Name": "区域任务占位",
+    "BelongType": 0,
+    "Desc": ""
   }
 ]

@@ -362,5 +362,229 @@
     "StepId": 4,
     "DropReward": 47232,
     "NeedExploreProgress": 100
+  },
+  {
+    "Id": 53,
+    "Area": 16,
+    "StepId": 1,
+    "DropReward": 47201,
+    "NeedExploreProgress": 25
+  },
+  {
+    "Id": 54,
+    "Area": 16,
+    "StepId": 2,
+    "DropReward": 47202,
+    "NeedExploreProgress": 50
+  },
+  {
+    "Id": 55,
+    "Area": 16,
+    "StepId": 3,
+    "DropReward": 47203,
+    "NeedExploreProgress": 75
+  },
+  {
+    "Id": 56,
+    "Area": 16,
+    "StepId": 4,
+    "DropReward": 47204,
+    "NeedExploreProgress": 100
+  },
+  {
+    "Id": 57,
+    "Area": 17,
+    "StepId": 1,
+    "DropReward": 47201,
+    "NeedExploreProgress": 25
+  },
+  {
+    "Id": 58,
+    "Area": 17,
+    "StepId": 2,
+    "DropReward": 47202,
+    "NeedExploreProgress": 50
+  },
+  {
+    "Id": 59,
+    "Area": 17,
+    "StepId": 3,
+    "DropReward": 47203,
+    "NeedExploreProgress": 75
+  },
+  {
+    "Id": 60,
+    "Area": 17,
+    "StepId": 4,
+    "DropReward": 47204,
+    "NeedExploreProgress": 100
+  },
+  {
+    "Id": 61,
+    "Area": 18,
+    "StepId": 1,
+    "DropReward": 47205,
+    "NeedExploreProgress": 25
+  },
+  {
+    "Id": 62,
+    "Area": 18,
+    "StepId": 2,
+    "DropReward": 47206,
+    "NeedExploreProgress": 50
+  },
+  {
+    "Id": 63,
+    "Area": 18,
+    "StepId": 3,
+    "DropReward": 47207,
+    "NeedExploreProgress": 75
+  },
+  {
+    "Id": 64,
+    "Area": 18,
+    "StepId": 4,
+    "DropReward": 47208,
+    "NeedExploreProgress": 100
+  },
+  {
+    "Id": 65,
+    "Area": 19,
+    "StepId": 1,
+    "DropReward": 47209,
+    "NeedExploreProgress": 25
+  },
+  {
+    "Id": 66,
+    "Area": 19,
+    "StepId": 2,
+    "DropReward": 47210,
+    "NeedExploreProgress": 50
+  },
+  {
+    "Id": 67,
+    "Area": 19,
+    "StepId": 3,
+    "DropReward": 47211,
+    "NeedExploreProgress": 75
+  },
+  {
+    "Id": 68,
+    "Area": 19,
+    "StepId": 4,
+    "DropReward": 47212,
+    "NeedExploreProgress": 100
+  },
+  {
+    "Id": 69,
+    "Area": 20,
+    "StepId": 1,
+    "DropReward": 47201,
+    "NeedExploreProgress": 25
+  },
+  {
+    "Id": 70,
+    "Area": 20,
+    "StepId": 2,
+    "DropReward": 47202,
+    "NeedExploreProgress": 50
+  },
+  {
+    "Id": 71,
+    "Area": 20,
+    "StepId": 3,
+    "DropReward": 47203,
+    "NeedExploreProgress": 75
+  },
+  {
+    "Id": 72,
+    "Area": 20,
+    "StepId": 4,
+    "DropReward": 47204,
+    "NeedExploreProgress": 100
+  },
+  {
+    "Id": 73,
+    "Area": 21,
+    "StepId": 1,
+    "DropReward": 47205,
+    "NeedExploreProgress": 25
+  },
+  {
+    "Id": 74,
+    "Area": 21,
+    "StepId": 2,
+    "DropReward": 47206,
+    "NeedExploreProgress": 50
+  },
+  {
+    "Id": 75,
+    "Area": 21,
+    "StepId": 3,
+    "DropReward": 47207,
+    "NeedExploreProgress": 75
+  },
+  {
+    "Id": 76,
+    "Area": 21,
+    "StepId": 4,
+    "DropReward": 47208,
+    "NeedExploreProgress": 100
+  },
+  {
+    "Id": 77,
+    "Area": 22,
+    "StepId": 1,
+    "DropReward": 47209,
+    "NeedExploreProgress": 25
+  },
+  {
+    "Id": 78,
+    "Area": 22,
+    "StepId": 2,
+    "DropReward": 47210,
+    "NeedExploreProgress": 50
+  },
+  {
+    "Id": 79,
+    "Area": 22,
+    "StepId": 3,
+    "DropReward": 47211,
+    "NeedExploreProgress": 75
+  },
+  {
+    "Id": 80,
+    "Area": 22,
+    "StepId": 4,
+    "DropReward": 47212,
+    "NeedExploreProgress": 100
+  },
+  {
+    "Id": 81,
+    "Area": 23,
+    "StepId": 1,
+    "DropReward": 47201,
+    "NeedExploreProgress": 25
+  },
+  {
+    "Id": 82,
+    "Area": 23,
+    "StepId": 2,
+    "DropReward": 47202,
+    "NeedExploreProgress": 50
+  },
+  {
+    "Id": 83,
+    "Area": 23,
+    "StepId": 3,
+    "DropReward": 47203,
+    "NeedExploreProgress": 75
+  },
+  {
+    "Id": 84,
+    "Area": 23,
+    "StepId": 4,
+    "DropReward": 47204,
+    "NeedExploreProgress": 100
   }
 ]

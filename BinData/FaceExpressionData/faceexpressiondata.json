@@ -4034,32 +4034,32 @@
   {
     "Id": 900252,
     "FaceExpression": {
-      "Type": "Texture",
-      "FaceIndex": 1
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/DefaultFace/Angry.Angry"
     },
     "MaleVariant": ""
   },
   {
     "Id": 900253,
     "FaceExpression": {
-      "Type": "Texture",
-      "FaceIndex": 2
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/DefaultFace/Close_Eyes.Close_Eyes"
     },
     "MaleVariant": ""
   },
   {
     "Id": 900254,
     "FaceExpression": {
-      "Type": "Texture",
-      "FaceIndex": 3
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/Npc/FemaleMS/Kelaita/RoleLifeKeLaiTa_ClosedEyeSmile.RoleLifeKeLaiTa_ClosedEyeSmile"
     },
     "MaleVariant": ""
   },
   {
     "Id": 900255,
     "FaceExpression": {
-      "Type": "Texture",
-      "FaceIndex": 4
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/DefaultFace/Happy.Happy"
     },
     "MaleVariant": ""
   },
@@ -4132,6 +4132,374 @@
     "FaceExpression": {
       "Type": "Texture",
       "FaceIndex": 9
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900265,
+    "FaceExpression": {
+      "Type": "Texture",
+      "FaceIndex": 5
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900266,
+    "FaceExpression": {
+      "Type": "Texture",
+      "FaceIndex": 5
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900267,
+    "FaceExpression": {
+      "Type": "Texture",
+      "FaceIndex": 5
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900268,
+    "FaceExpression": {
+      "Type": "Texture",
+      "FaceIndex": 5
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900269,
+    "FaceExpression": {
+      "Type": "Texture",
+      "FaceIndex": 5
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900270,
+    "FaceExpression": {
+      "Type": "Texture",
+      "FaceIndex": 5
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900271,
+    "FaceExpression": {
+      "Type": "Texture",
+      "FaceIndex": 5
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900272,
+    "FaceExpression": {
+      "Type": "Texture",
+      "FaceIndex": 5
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900273,
+    "FaceExpression": {
+      "Type": "Texture",
+      "FaceIndex": 5
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900274,
+    "FaceExpression": {
+      "Type": "Texture",
+      "FaceIndex": 9
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900275,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/Npc/FemaleMS/Kelaita/RoleLifeKeLaiTa_ClosedEyeSmile.RoleLifeKeLaiTa_ClosedEyeSmile"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900276,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/Npc/FemaleMS/Kelaita/RoleLifeKeLaiTa_Empty.RoleLifeKeLaiTa_Empty"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900277,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/Npc/FemaleMS/Kelaita/RoleLifeKeLaiTa_Happy.RoleLifeKeLaiTa_Happy"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900278,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/Npc/FemaleMS/Kelaita/RoleLifeKeLaiTa_Upset.RoleLifeKeLaiTa_Upset"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900279,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/Npc/FemaleMS/Kelaita/RoleLifeKeLaiTa_PupilRight.RoleLifeKeLaiTa_PupilRight"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900280,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/Npc/FemaleMS/Kelaita/RoleLifeKeLaiTa_Strict.RoleLifeKeLaiTa_Strict"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900281,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/Npc/FemaleMS/Kelaita/RoleLifeKeLaiTa_ThinkPupilRight.RoleLifeKeLaiTa_ThinkPupilRight"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900282,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/DefaultFace/Happy.Happy"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900283,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/DefaultFace/Angry.Angry"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900284,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/DefaultFace/Sad.Sad"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900285,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/DefaultFace/Close_Eyes.Close_Eyes"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900286,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/DefaultFace/Faces_Default.Faces_Default"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900287,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/Npc/FemaleMS/Kelaita/RoleLifeKeLaiTa_ShockEi.RoleLifeKeLaiTa_ShockEi"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900288,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/Npc/FemaleMS/Kelaita/RoleLifeKeLaiTa_HappyHope.RoleLifeKeLaiTa_HappyHope"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900289,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/Npc/FemaleMS/Kelaita/RoleLifeKeLaiTa_HappyQuiet.RoleLifeKeLaiTa_HappyQuiet"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900290,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/Npc/FemaleMS/Kelaita/RoleLifeKeLaiTa_ClosedEyeElegent.RoleLifeKeLaiTa_ClosedEyeElegent"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900291,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/DefaultFace/Happy.Happy"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900292,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/DefaultFace/Angry.Angry"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900293,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/DefaultFace/Sad.Sad"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900294,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/DefaultFace/Close_Eyes.Close_Eyes"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900295,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/DefaultFace/Faces_Default.Faces_Default"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900296,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/DefaultFace/Happy.Happy"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900297,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/DefaultFace/Angry.Angry"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900298,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/DefaultFace/Sad.Sad"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900299,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/DefaultFace/Close_Eyes.Close_Eyes"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900300,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/DefaultFace/Faces_Default.Faces_Default"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900301,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/DefaultFace/Happy.Happy"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900302,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/DefaultFace/Angry.Angry"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900303,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/DefaultFace/Sad.Sad"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900304,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/DefaultFace/Close_Eyes.Close_Eyes"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900305,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/DefaultFace/Faces_Default.Faces_Default"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900309,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/Npc/FemaleMS/Kelaita/RoleLifeKeLaiTa_ClosedEyeSmile.RoleLifeKeLaiTa_ClosedEyeSmile"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900308,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/Npc/FemaleMS/Kelaita/RoleLifeKeLaiTa_ClosedEyeSmile.RoleLifeKeLaiTa_ClosedEyeSmile"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900306,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/Npc/FemaleMS/Kelaita/RoleLifeKeLaiTa_ClosedEyeSmile.RoleLifeKeLaiTa_ClosedEyeSmile"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900307,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/Npc/FemaleMS/Kelaita/RoleLifeKeLaiTa_ClosedEyeSmile.RoleLifeKeLaiTa_ClosedEyeSmile"
+    },
+    "MaleVariant": ""
+  },
+  {
+    "Id": 900310,
+    "FaceExpression": {
+      "Type": "AnimSequence",
+      "Path": "/Game/Aki/Sequence/SequenceAnim/DefaultFace/Sad.Sad"
     },
     "MaleVariant": ""
   }

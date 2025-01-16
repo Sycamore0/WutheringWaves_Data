@@ -1,5 +1,14 @@
 [
   {
+    "Id": 2,
+    "RecommendType": 2,
+    "RecommendId": 106100001,
+    "RecommendTexture": "/Game/Aki/UI/UIResources/UiShop/Image/Skin/T_ShopRoleBannerJinxi.T_ShopRoleBannerJinxi",
+    "TabName": "PrefabTextItem_JinXiSkinRecommend_Text",
+    "PrefabPath": "UiItem_ShopSkinJinxi",
+    "Sort": 1
+  },
+  {
     "Id": 1,
     "RecommendType": 1,
     "RecommendId": 0,

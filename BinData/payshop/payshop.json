@@ -167,7 +167,7 @@
       4
     ],
     "Notice": "",
-    "Enable": false,
+    "Enable": true,
     "Icon": "/Game/Aki/UI/UIResources/Common/Atlas/TabIcon/SP_IconShopSkin.SP_IconShopSkin",
     "SortRule": 0
   }

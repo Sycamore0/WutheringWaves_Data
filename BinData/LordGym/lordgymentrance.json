@@ -220,7 +220,7 @@
       0,
       0
     ],
-    "StandAnim": "/Game/Aki/Character/Monster/Lord/ML1MiuwuMd00501/CommonAnim/Stand3.Stand3",
+    "StandAnim": "/Game/Aki/Character/Monster/Lord/ML1MiuwuMd00501/CommonAnim/Stand3_1.Stand3_1",
     "IsDebug": false
   },
   {
@@ -252,7 +252,7 @@
       0,
       0
     ],
-    "StandAnim": "/Game/Aki/Character/Monster/Lord/ML1ShiXiangGuiMd00201/CommonAnim/Stand3.Stand3",
+    "StandAnim": "/Game/Aki/Character/Monster/Lord/ML1ShiXiangGuiMd00201/CommonAnim/Stand3_2.Stand3_2",
     "IsDebug": false
   }
 ]
